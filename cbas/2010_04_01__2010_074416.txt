@@ -1,0 +1,61 @@
+<STARTofTITLE>
+Mediador - Extrato Acordo Coletivo
+<ENDofTITLE>
+
+<STARTofVALIDITY>
+semvalorlegal
+<ENDofVALIDITY>
+
+<STARTofHEADERS>
+NÚMERO DA SOLICITAÇÃO|MR074416/2010
+DATA E HORÁRIO DA TRANSMISSÃO|20/12/2010ÀS13:37
+<ENDofHEADERS>
+
+<STARTofCOUNTERPART1>
+SINDICATO DOS TRAB.EM EMPR.DE RADIODIFUSAO E TV NO EMG.|17.450.305/0001-06|Membro de Diretoria Colegiada|LAURO BATISTA DA SILVA
+<ENDofCOUNTERPART1>
+<STARTofCOUNTERPART2>
+TELEVISAO SOCIEDADE LIMITADA|25.288.333/0001-99|Diretor|FABIANO ROGERIO DE FREITAS
+<ENDofCOUNTERPART2>
+
+<STARTofSTARTDATE>
+1/04/2010
+<ENDofSTARTDATE>
+<STARTofEXPRIRATIONDATE>
+31/03/2011
+<ENDofEXPIRATIONDATE>
+
+<STARTofRENEGOTIATION>
+1/04
+<ENDofRENEGOTIATION>
+
+<STARTofCATEGORY>
+Dos trabalhadores em Empresas de Radiodifusão do plano da CNTCP
+<ENDofCATEGORY>
+<STARTofGEOGRAPHY>
+Belo Horizonte/MG
+<ENDofGEOGRAPHY>
+
+<STARTofCLAUSES>
+Compensação de Jornada|JORNADA DE TRABALHO
+Intervalos para Descanso|INTERVALO PARA REFEIÇÃO E DESCANSO
+Aplicação do Instrumento Coletivo|NORMAS DE APLICAÇÃO
+Renovação/Rescisão do Instrumento Coletivo|RENOVAÇÃO DO ACORDO
+<ENDofCLAUSES>
+
+<STARTofAPPENDICES>
+
+<ENDofAPPENDICES>
+
+<STARTofAPPTEXT>
+
+<ENDofAPPTEXT>
+
+<STARTofTEXT>
+Fica acordada uma carga horária semanal de 36 (trinta e seis) horas, em regime de revezamento, de 12 (doze) horas de trabalho corrídos por 36 (trinta e seis) horas de descanço, ficando expressamente esclarecido que as horas compreendidas entre a 6ª (sexta) e a 12ª (décima segunda) diárias, não serão consideradas como extras. As horas excedentes a 36ª (trigésima sexta) semanal, serão acumuladas e revertidas em 02 folgas mensais e que deverão ser utilizadas dentro do mês.
+|
+Diante da jornada ora pactuada, os trabalhadores gozarão de 01 (uma) hora de intervalo para refeição e descanso, nos termos do artigo 71 da CLT.
+|
+Aos operadores de transmissor, empregados da TELEVISAO SOCIEDADE - TV RECORD - MINAS, representados pelo SINTERT-MG poderá se aplicar no que se refere a jornada de trabalho as normas do presente acordo coletivo.
+|
+O presente acordo vigorará por 12 meses, iniciando-se a partir da data da assinatura desse acordo, com renovação automática a menos que haja manifestação em contrário, por uma das partes, por escrito e com 30 (trinta) dias de antecedência.

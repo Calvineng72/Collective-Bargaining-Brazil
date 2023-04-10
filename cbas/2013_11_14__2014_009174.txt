@@ -1,0 +1,94 @@
+<STARTofTITLE>
+Mediador - Extrato Acordo Coletivo
+<ENDofTITLE>
+
+<STARTofVALIDITY>
+carimbo
+<ENDofVALIDITY>
+
+<STARTofHEADERS>
+NÚMERO DE REGISTRO NO MTE|RJ000652/2014
+DATA DE REGISTRO NO MTE|28/04/2014
+NÚMERO DA SOLICITAÇÃO|MR009174/2014
+NÚMERO DO PROCESSO|46666.001056/2014-62
+DATA DO PROTOCOLO|22/04/2014
+<ENDofHEADERS>
+
+<STARTofCOUNTERPART1>
+SINDICATO DOS EMPREGADOS NO COMERCIO DE TERESOPOLIS|32.191.108/0001-03|Presidente|MARCIO BERNARDO QUINTANILHA
+<ENDofCOUNTERPART1>
+<STARTofCOUNTERPART2>
+CORPO E ACAO DE TERESOPOLIS COMERCIO E CONFECCOES LTDA - ME|01.507.728/0001-77|Sócio|MARILENE DE FATIMA PONTE MARTINS
+<ENDofCOUNTERPART2>
+
+<STARTofSTARTDATE>
+14/11/2013
+<ENDofSTARTDATE>
+<STARTofEXPRIRATIONDATE>
+31/10/2014
+<ENDofEXPIRATIONDATE>
+
+<STARTofRENEGOTIATION>
+01/11
+<ENDofRENEGOTIATION>
+
+<STARTofCATEGORY>
+dos empregados no comércio
+<ENDofCATEGORY>
+<STARTofGEOGRAPHY>
+Teresópolis/RJ
+<ENDofGEOGRAPHY>
+
+<STARTofCLAUSES>
+Outras Gratificações|BONIFICAÇÃO PELOS FERIADOS TRABALHADOS
+Duração e Horário|HORARIO DE FUNCIONAMENTO
+Compensação de Jornada|FOLGA COMPENSATORIA
+Compensação de Jornada|HORARIO DE FUNCIONAMENTO AOS FERIADOS
+Acesso do Sindicato ao Local de Trabalho|ACESSO DO SINDICATO AO LOCAL DE TRABALHO
+Regras para a Negociação|TERMO ADITIVO
+Mecanismos de Solução de Conflitos|JUSTIÇA DO TRABALHO
+Aplicação do Instrumento Coletivo|MULTA
+Outras Disposições|PARTES
+<ENDofCLAUSES>
+
+<STARTofAPPENDICES>
+
+<ENDofAPPENDICES>
+
+<STARTofAPPTEXT>
+
+<ENDofAPPTEXT>
+
+<STARTofTEXT>
+Convencionam as partes que para o  feriado trabalhado, sem prejuizo das demais vantangens prevista no presente acordo, fará jus o trabalhador uma ajuda de custo no valor de R$ 42,00 (quarenta e dois reais) , para alimentação e transporte, a ser pago no dia, bem como intervalo de 02 (duas) horas para repouso e alimentação.
+|
+Fica estabelecido o seguinte horario de funcionamento da empresa:
+
+
+Segunda-feira: descanso semanal
+
+
+Terça-feira à Sábado: abertura às 10:00 horas e fechamento às 20:00 horas;
+
+
+Domingos: abertura às 10:00 horas e fechamento às 19:00 horas;
+
+
+Paragrafo primeiro: para o funcionamento citado acima, a empresa trabalhará com turmas de funcionários, de forma a respeitar a jornada legal de 44 horas semanais.
+ 
+ 
+|
+Convencionam-se as partes, que para o trabalho realizado nos dias de feriados, sem prejuizo das demais vantagens previstas no presente termo aditivo e na Convenção da Categoria, fará jus o trabalhador a uma folga compensatoria na semana seguinte ao feriado trabalhado, não podendo coinscidir com a folga dominical.|
+Fica autorizado o funcionamento da loja aos feriados que recaiam de segunda a domingo das 10:00 às 19:00 horas;
+Quando o feriado recair em dia de Terça-feira, fica autorizado o funcionamento da empresa na Segunda-feira que antecipa o feriado, dando como folga compensatoria o primeiro dia util seguinte ao feriado trabalhado.
+Fica vedado o trabalho nos seguintes feriados: 25 de dezembro (Natal), 1º de Janeiro (Ano Novo),  1º de Maio (Dia do Trabalho) e Dia do Comerciario que neste acordo será comemorado no dia 19 de Agosto de 2014.
+|
+A empresa se compromete a disponibilizar espaço e horario ao Sindicato Profissional para que  o mesmo promova campanhas de sindicalização para os funcionarios que desejarem, desde que sejam feitas de forma discreta, sem comprometer ou atrapalhar o funcionamento das lojas.
+|
+O presente Termo Aditivo à Convenção Coletiva da Categoria registrada no Ministerio do Trabalho e Emprego em Petropolis, sob o nº RJ002188/2013,  passa a integrar a Convenção Coletiva e tem por escolpo autorizar o trabalho dos empregados da Empresa Corpo e Ação de Teresópolis Comércio e Confecções Ltda., aos feriados, a partir de 14 de Novembro de 2013 à 31 de Outubro de 2014, salientando-se que seus efeitos juridicos e legais estão estendidos a todos os empregados.
+PARAGRAFO UNICO: Os empregados da empresa foram ouvidos em reunião, concordando com a assinatura do presente termo aditivo, conforme lista de participação.
+|
+Consoante Art. 625 da Lei Consolidada as partes convencionam que as controversias resultantes da aplicação deste Acordo Coletivo de Trabalho serão dirimidas pela Justiça do Trabalho.
+|
+Fica estipulada a multa no valor igual àquela constante na Convenção Coletiva  a ser paga pela empresa se houver descumprimento de obrigações prevista nesse Acordo, revertendo em favor do empregado prejudicado.|
+E por estarem justos e acertados o presente termo aditivo, que passa a integrar a Convenção Coletiva da Categoria registrada no Ministerio do Trabalho e Emprego em Petropolis, sob o nº RJ0002188/2013, processo 46666.002715/2013-05, ficando como parte integrante da Convenção Coletiva da Categoria.

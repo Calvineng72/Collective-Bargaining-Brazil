@@ -1,0 +1,198 @@
+<STARTofTITLE>
+Mediador - Extrato Acordo Coletivo
+<ENDofTITLE>
+
+<STARTofVALIDITY>
+semvalorlegal
+<ENDofVALIDITY>
+
+<STARTofHEADERS>
+NÚMERO DA SOLICITAÇÃO|MR032551/2012
+DATA E HORÁRIO DA TRANSMISSÃO|15/06/2012ÀS08:47
+<ENDofHEADERS>
+
+<STARTofCOUNTERPART1>
+SINDICATO DOS TRABAL EM TRANSP RODOV DE JAU E REGIAO|51.496.669/0001-57|Presidente|MARIO EZIQUIEL PEROBELLI
+<ENDofCOUNTERPART1>
+<STARTofCOUNTERPART2>
+IRMANDADE DE MISERICORDIA DO JAHU|50.753.631/0001-50|Administrador|ALCIDES BERNARDI JUNIOR
+<ENDofCOUNTERPART2>
+
+<STARTofSTARTDATE>
+1/05/2012
+<ENDofSTARTDATE>
+<STARTofEXPRIRATIONDATE>
+30/04/2013
+<ENDofEXPIRATIONDATE>
+
+<STARTofRENEGOTIATION>
+1/05
+<ENDofRENEGOTIATION>
+
+<STARTofCATEGORY>
+Motorista	R$    1.335,40
+<ENDofCATEGORY>
+<STARTofGEOGRAPHY>
+Arealva/SP|Bariri/SP|Bocaina/SP|Boracéia/SP|Brotas/SP|Dois Córregos/SP|Itaju/SP|Itapuí/SP|Jaú/SP|Mineiros do Tietê/SP|Torrinha/SP
+<ENDofGEOGRAPHY>
+
+<STARTofCLAUSES>
+Piso Salarial|PISOS SALARIAIS
+Pagamento de Salário – Formas e Prazos|PAGAMENTO DE SALÁRIOS
+Pagamento de Salário – Formas e Prazos|COMPROVANTE DE PAGAMENTO DE SALÁRIOS
+Pagamento de Salário – Formas e Prazos|INTERVALO PARA O PAGAMENTO
+Descontos Salariais|DESCONTO DO DSR E/OU FERIADO
+Outras normas referentes a salários, reajustes, pagamentos e critérios para cálculo|SALÁRIO ADMISSÃO
+Adicional de Hora-Extra|HORAS EXTRAS
+Adicional Noturno|ADICIONAL NOTURNO
+Prêmios|PRÊMIO POR TEMPO DE SERVIÇO
+Participação nos Lucros e/ou Resultados|PARTICIPAÇÃO NOS LUCROS E RESULTADOS
+Auxílio Alimentação|REFEIÇÕES E PERNOITES
+Auxílio Morte/Funeral|AUXÍLIO FUNERAL
+Aposentadoria|ABONO APOSENTADORIA
+Desligamento/Demissão|AVISO DE DISPENSA
+Desligamento/Demissão|JUSTA CAUSA
+Contrato a Tempo Parcial|CONTRATO DE EXPERIÊNCIA
+Outros grupos específicos|ADVERTÊNCIA
+Outros grupos específicos|PREENCHIMENTO DE FORMULÁRIO DE PREVIDÊNCIA SOCIAL
+Outras normas referentes a admissão, demissão e modalidades de contratação|CARTA DE REFERÊNCIA
+Outras normas referentes a admissão, demissão e modalidades de contratação|CARTEIRAS PROFISSIONAIS
+Estabilidade Serviço Militar|GARANTIA AO EMPREGADO EM IDADE DE PRESTAÇÃO DE SERVIÇO MILITAR
+Estabilidade Portadores Doença Não Profissional|GARANTIA AO TRABALHADOR AFASTADO PELO INSS
+Estabilidade Aposentadoria|GARANTIA AO TRABALHADOR EM VIAS DE APOSENTADORIA
+Jornadas Especiais (mulheres, menores, estudantes)|TRABALHADOR ESTUDANTE
+Duração e Concessão de Férias|FÉRIAS
+Equipamentos de Proteção Individual|EQUIPAMENTOS DE SEGURANÇA E MEDICINA DO TRABALHO
+Equipamentos de Proteção Individual|ARMÁRIOS INDIVIDUAIS
+Uniforme|UNIFORMES
+CIPA – composição, eleição, atribuições, garantias aos cipeiros|CIPA
+Aceitação de Atestados Médicos|ATESTADOS MÉDICOS E ODONTOLÓGICOS
+Contribuições Sindicais|CONTRIBUIÇÃO CONFEDERATIVA
+Contribuições Sindicais|MENSALIDADES SINDICAIS
+Contribuições Sindicais|TAXA NEGOCIAL
+Outras disposições sobre relação entre sindicato e empresa|QUADRO DE AVISO E CAIXA DE DISTRIBUIÇÃO
+Regras para a Negociação|JUÍZO COMPETENTE
+Aplicação do Instrumento Coletivo|APLICAÇÃO DO INSTRUMENTO COLETIVO
+Descumprimento do Instrumento Coletivo|MULTA
+<ENDofCLAUSES>
+
+<STARTofAPPENDICES>
+
+<ENDofAPPENDICES>
+
+<STARTofAPPTEXT>
+
+<ENDofAPPTEXT>
+
+<STARTofTEXT>
+Fica assegurado aos trabalhadores da categoria profissional, um reajuste de 8% sobre os pisos salariais a partir de 1º de Maio de 2012, ficando os mesmos na seguinte conformidade:
+ 
+Motorista Carreteiro                                   R$    1.486,41            
+Motorista                                                      R$    1.335,40            
+Operador de Empilhadeira                           R$    1.335,40
+Ajudante de Motorista                                 R$       943,52
+Arrumador                                                    R$    1.123,24
+Conferente                                                    R$    1.201,86
+Auxiliar de Escritório                                   R$       828,69
+ 
+PARÁGRAFO ÚNICO
+ 
+Se ocorrerem alterações substanciais na política econômica governamental de tal modo que se torne impossível a sua prática, esta circunstância ensejará de imediato novas conversações e, havendo modificação na política salarial, os pisos ora estabelecidos serão majorados na mesma forma.
+|
+O pagamento dos salários deverá ser efetuado até o 5º (quinto) dia útil do mês seguinte, sendo certo, entretanto, que se o mesmo ocorrer no sábado ou feriado deverá ser antecipado para o dia útil imediatamente antecedente.
+ 
+PARÁGRAFO ÚNICO
+ 
+Até 15 (quinze) dias após o vencimento do salário mensal será fornecido um vale de adiantamento de até 40% (quarenta por cento) do salário nominal contratual, cuja compensação se dará na forma da lei. O funcionário poderá deixar de receber este adiantamento, caso lhe convenha, todavia deverá solicitar por escrito à empresa a suspensão do mesmo.
+|
+A(s) empresa(s) fornecerá (ão) aos seus empregados comprovantes de pagamento, que deverá constar a identificação da mesma, a discriminação de todas as verbas pagas e os descontos por ela efetuados.
+|
+Sempre que os salários forem pagos através de bancos, será assegurado ao trabalhador, um intervalo remunerado, a critério da empresa, de tal modo que não prejudique o andamento do serviço, para que o mesmo receba seu ganho, sendo que esse intervalo não corresponderá àquele destinado a descanso e refeição.
+|
+Salvo condições mais favoráveis existentes, a ocorrência de atraso ao trabalho, nos termos do artigo 58, parágrafo primeiro da CLT, não acarretará em desconto do DSR e ou feriado correspondente.
+|
+Aos empregados admitidos para exercer a mesma função de outro, cujo contrato de trabalho tenha sido rescindido, será garantido, ressalvadas as vantagens pessoais, o salário por ela existente.
+|
+A(s) empresa(s) remunerará (ão) as horas extraordinárias com o acréscimo de 75% (setenta e cinco por cento), sobre o valor da hora normal.
+ 
+PARÁGRAFO ÚNICO
+ 
+As horas extraordinárias prestadas em domingos e feriados serão remuneradas com o acréscimo de 100% (cem por cento) conforme determina a legislação vigente.
+|
+O trabalho noturno será pago, com o adicional de 30% (trinta por cento), a incidir sobre o salário da hora normal.
+|
+O PTS (Prêmio Por Tempo de Serviço), a que faz jus todo empregado com 02 (dois) anos ou mais anos de serviços prestados à mesma empresa, será de 5% (cinco por cento) calculado sobre o salário normativo dos mesmos.
+ 
+PARÁGRAFO ÚNICO
+ 
+O PTS (Prêmio Por Tempo de Serviço), não tem natureza salarial, para fins de equiparação, sendo devido a partir do mês seguinte àquele em que o empregado completar 02 (dois) anos de serviços na mesma empresa, não sendo devido cumulativamente.
+|
+A empresa pagará a todos os seus empregados representados por esta entidade, a título de PLR, a importância de R$ 300,00 (Trezentos Reais) em 02 (duas) parcelas de R$ 150,00 (Cento e Cinqüenta Reais), devendo a primeira ser paga competência Setembro/2012 e a segunda em Março/2013.
+ 
+PARÁGRAFO ÚNICO
+ 
+O benefício acima deverá considerar para o seu pagamento a proporcionalidade quanto a data de admissão e demissão.
+|
+ALMOÇO - R$ 17,00 - Será pago aos empregados, quando em serviços externos, em dinheiro.
+JANTAR - R$ 17,00 - Será pago aos empregados, quando em serviços externos, em dinheiro.
+PERNOITE- R$ 12,00 - Este valor que já inclui o café da manhã, será pago aos empregados, quando em viagens a serviço da empresa, que em razão de sua natureza e da limitação de sua jornada de trabalho, implique em retorno em dia(s) posterior(s), em dinheiro.
+|
+Em caso de morte natural ou acidente do trabalho de empregado, a(s) empresa(s) fica(m) obrigada(s) a pagar a seus dependentes, habilitados perante a Previdência Social, 01 (um) salário normativo correspondente à época do fato, limitado a um teto de 10 (dez) salários mínimos vigentes na ocasião, mediante comprovante.
+|
+A(s) empresa(s) pagará (ão) ao empregado que se aposentar, um abono de 01 (um) salário normativo correspondente na época, nos casos de aposentadoria por invalidez permanente, por tempo de serviço ou por idade.
+|
+As comunicações de dispensa serão feitas por escrito e contra-recibo.
+|
+Aos empregados demitidos por justa causa, dar-se-á por escrito e ciência de sua dispensa, mencionando-se os motivos determinantes da rescisão contratual.
+|
+O contrato de experiência terá o prazo máximo de 90 (noventa) dias, incluída a eventual prorrogação.
+|
+Todas as advertências aos empregados deverão ser por escrito e discriminada detalhadamente.
+|
+A(s) empresa(s) deverá (ão) preencher os formulários exigidos pelo INSS, quando solicitado para fins de benefícios previdenciários dos trabalhadores no prazo máximo de 05 (cinco) dias, sendo que a inobservância de tal prazo acarretará multa de 10% (dez por cento) do valor do salário mínimo em favor do empregado.
+|
+Ocorrendo rescisão do contrato de trabalho sem justa causa, a empresa fornecerá ao empregado Carta de Referência.
+|
+A(s) empresa(s) cuidará (ão) para que nas CTPS sejam anotados os cargos efetivos dos funcionários, respeitadas as estruturas de cargos e salários existentes nas mesmas.
+|
+A(s) empresa(s) concederá (ão) estabilidade ao empregado em idade de prestação do serviço militar, inclusive do Tiro de Guerra, desde a data do alistamento até 60 (sessenta) dias após o desengajamento previsto na Lei n. 4.375/64.
+|
+Ao empregado que não esteja em cumprimento do Contrato de Experiência e conte com até 01 (um) ano na mesma empresa, estando em gozo de auxílio-doença, ser-lhe-á assegurado emprego e salário, até 30 (trinta) dias após a alta médica, desde que o afastamento não tenha sido inferior a 60 (sessenta) dias.
+ 
+PARÁGRAFO ÚNICO
+ 
+Ao trabalhador que tiver mais de 01 (um) ano de serviços prestados à mesma empresa, a estabilidade de que trata o "caput" será de 60 (sessenta) dias, nas mesmas condições.
+|
+Aos empregados que estiver, comprovadamente, a até 02 (dois) anos da aquisição do direito à aposentadoria e que tenha prestado 03 (três) anos de serviços à mesma empresa, será garantido o emprego ou o salário durante o período que faltar para se aposentar, excetuando-se os casos de demissão por justa causa, de extinção do estabelecimento ou motivo de força maior comprovado, desde que por elas avisadas.
+|
+O trabalhador estudante terá abonada a falta para prestação de exames escolares, desde que avise a seu empregado no mínimo 72 (setenta e duas) horas antes, sujeitando-se à comprovação posterior.
+|
+As férias observado o disposto no art. 135 da CLT só poderão ter início em dias úteis, que não antecedam sábados, domingos e feriados.
+|
+A(s) empresa(s) fornecerá (ão) a todos os seus empregados, gratuitamente, os equipamentos necessários à segurança e proteção individual, procurando eliminar os fatores de riscos e agressão à saúde do trabalhador.
+|
+A(s) empresa(s) manterá (ão) armários individuais para guarda de roupa e pertences dos empregados, desde que a troca de roupas decorra da exigência da atividade desenvolvida pelo empregado.
+|
+A(s) empresa(s) que exigir (em) o uso de uniformes fica(m) obrigada(s) a fornecê-lo, gratuitamente, aos empregados.
+|
+Aos empregados eleitos, efetivos ou suplentes, para cargos de direção da CIPA será garantida estabilidade na forma do art. 10, II, das Disposições Transitórias da Constituição Federal.
+|
+Os atestados médicos ou odontológicos fornecidos por facultativos do Sindicato ou por conveniados serão aceitos pela(s) empresa(s).
+ 
+PARÁGRAFO ÚNICO
+ 
+Caso a(s) empresa(s) mantenha(m) atendimento médico/odontológico próprio ou convênios assinados neste sentido, em favor e sem ônus para seus empregados, os atestados emitidos por estes, prevalecerão sobre os demais.
+|
+A(s) empresa(s) descontará (ão) de seus empregados, o percentual de 01% (um por cento) ao mês, sobre o salário bruto recebido, referente à Contribuição Confederativa, aprovada e afixada em Assembléia Geral da categoria a qual será recolhida em guia própria fornecida pela entidade sindical.
+|
+A(s) empresa(s) descontará (ão) as mensalidades sindicais dos associados, em folha de pagamento, procedendo a seu recolhimento ao Sindicato Profissional, na data do desconto, enviando à entidade relação nominal dos empregados, contendo nome, função, salário e valor da contribuição.
+|
+A(s) empresa(s) descontará (ão) e repassará (ão) ao Sindicato Profissional, de seus empregados, a taxa negocial aprovada em Assembléia Geral da categoria, no percentual de 4% (quatro por cento), devendo o desconto ser efetuado em duas parcelas de 2% (dois por cento) cada, sendo a primeira sobre o salário de Junho/2012 e a segunda sobre o salário de Outubro/2012. Tal contribuição deverá ser recolhida, sob pena de multa de 10% (dez por cento), correção monetária e juros, até o 3o. dia após o seu desconto.
+|
+A(s) empresa(s) colocará (ão) à disposição do Sindicato Profissional, quadro de avisos nos locais de trabalho, para afixação de comunicados oficiais da categoria profissional, desde que não contenham matéria político-partidária ou ofensiva a quem quer que seja, devem esses avisos ser enviados ao setor competente da empresa, que se encarregará de afixá-los prontamente, bem como garantirá a livre sindicalização.
+|
+A Justiça do Trabalho será competente para dirimir quaisquer divergências surgidas na aplicação e cumprimento do presente Acordo Coletivo de Trabalho.
+|
+O presente acordo deverá ser aplicado para todos os funcionários da categoria, nos municípios abrangidos pelos signatários.
+|
+O descumprimento de qualquer das cláusulas do presente Acordo Coletivo, ensejará multa no valor de 10% (dez por cento) do salário normativo do motorista carreteiro, por empregado, em favor da parte prejudicada, sem prejuízos de outras cominações já previstas ou devidas.

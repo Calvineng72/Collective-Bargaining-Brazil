@@ -1,0 +1,62 @@
+<STARTofTITLE>
+Mediador - Extrato Acordo Coletivo
+<ENDofTITLE>
+
+<STARTofVALIDITY>
+carimbo
+<ENDofVALIDITY>
+
+<STARTofHEADERS>
+NÚMERO DE REGISTRO NO MTE|SRT00053/2009
+DATA DE REGISTRO NO MTE|15/06/2009
+NÚMERO DA SOLICITAÇÃO|MR016579/2009
+NÚMERO DO PROCESSO|46000.015229/2009-96
+DATA DO PROTOCOLO|05/06/2009
+<ENDofHEADERS>
+
+<STARTofCOUNTERPART1>
+SINDICATO NACIONAL DOS TRABALHADORES EM SISTEMAS DE TV POR ASSINATURA E SERVICOS ESPECIAIS DE TELECOMUNICACOES|00.146.036/0001-88|Presidente|VALDO SOARES LEITE
+<ENDofCOUNTERPART1>
+<STARTofCOUNTERPART2>
+LINK EXPRESS SERVICOS E TELECOMUNICACOES LTDA|03.766.298/0001-33|Diretor|HERMANO STUDART LINS DE ALBUQUERQUE|Diretor|CARLOS ANDRE STUDART LINS DE ALBUQUERQUE
+<ENDofCOUNTERPART2>
+
+<STARTofSTARTDATE>
+1/01/2009
+<ENDofSTARTDATE>
+<STARTofEXPRIRATIONDATE>
+1/01/2010
+<ENDofEXPIRATIONDATE>
+
+<STARTofRENEGOTIATION>
+1/07
+<ENDofRENEGOTIATION>
+
+<STARTofCATEGORY>
+Trabalhadores em Sistemas de TV por Assinatura e Serviços Especiais de Telecomunicações
+<ENDofCATEGORY>
+<STARTofGEOGRAPHY>
+nacional
+<ENDofGEOGRAPHY>
+
+<STARTofCLAUSES>
+Adicional de Periculosidade|PERICULOSIDADE
+Outras Disposições|DISPOSIÇÕES GERAIS
+<ENDofCLAUSES>
+
+<STARTofAPPENDICES>
+
+<ENDofAPPENDICES>
+
+<STARTofAPPTEXT>
+
+<ENDofAPPTEXT>
+
+<STARTofTEXT>
+Fica estabelecido que o pagamento do adicional de periculosidade aos empregados da empresa relacionada acima, que façam jus a tais benefícios, nos termos da legislação em vigor, será devido de forma proporcional ao período de exposição ao risco, calculado em conformidade com a planilha assinada pelo empregado e empregador.
+ 
+ 
+O fato de ser efetuado o pagamento do percentual correspondente ao índice apurado a título de adicional de periculosidade não exime a empresa signatária do presente instrumento em envidar esforços no sentido da melhoria das condições de trabalho, sendo que, após neutralizado ou eliminado o risco, será indevido o pagamento do referido adicional.
+|
+
+E por estarem as partes justas e acordadas, arquivam o presente Acordo Coletivo de Trabalho, perante  a Secretaria de Relações do Trabalho, do Ministério do Trabalho e Emprego em Brasília/DF, para que surtam seus jurídicos e legais efeitos. 

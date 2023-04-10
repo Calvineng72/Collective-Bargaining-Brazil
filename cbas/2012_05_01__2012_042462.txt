@@ -1,0 +1,511 @@
+<STARTofTITLE>
+Mediador - Extrato Convenção Coletiva
+<ENDofTITLE>
+
+<STARTofVALIDITY>
+carimbo
+<ENDofVALIDITY>
+
+<STARTofHEADERS>
+NÚMERO DE REGISTRO NO MTE|PR003501/2012
+DATA DE REGISTRO NO MTE|20/08/2012
+NÚMERO DA SOLICITAÇÃO|MR042462/2012
+NÚMERO DO PROCESSO|46212.010291/2012-00
+DATA DO PROTOCOLO|20/08/2012
+<ENDofHEADERS>
+
+<STARTofCOUNTERPART1>
+SIND TRAB NAS INDUSTRIA DA CONSTRUCAO E DO MOBIL MGA|79.147.005/0001-00|Presidente|JORGE DE MORAES
+SINDICATO DOS TRAB NA IND DA CONT DO MOB DE PARANAGUA|78.179.009/0001-07|Presidente|JOSE AVIDO PACHECO
+SIND DOS TRAB NA IND DA CONST E DO MOB DE PARANAVAI|77.188.571/0001-26|Presidente|REINALDIM BARBOZA PEREIRA
+SIND TRAB IND DA MADEIRA MOBILIARIO DE QUEDAS DO IGUACU|95.587.721/0001-56|Presidente|CLAUDIR DOS SANTOS
+SINDICATO DOS TRAB NAS IND DA CONST E DO MOB DE UBTA PR|78.681.483/0001-24|Presidente|JOAQUIM FRANCISCO DA SILVA
+SIND DOS TRAB NAS INDUST DA CONST E DO MOB DE UMUARAMA|76.724.780/0001-84|Presidente|MARCOS ANTONIO BERALDO
+SIND. DOS TRAB. NA IND. DA CONST. E DO MOB. DE MAL. CDO. RONDON E REGIAO|77.804.961/0001-83|Presidente|LOTARIO CLAAS
+SIND DOS TRAB DA IND DA CONST CIVIL E DO MOBIL DE MEDIA|77.817.336/0001-76|Presidente|CLIMAR RIBAS DOS SANTOS
+SINDICATO DOS TRAB NA IND DA CONST MOB DE TOO E REGIAO|78.684.560/0001-08|Presidente|ANACIR ANTONIO DE ANDRADE
+SIND TRAB NA IND DA MADEIRA E DO MOBILIAR DE CASCAVEL|73.590.457/0001-77|Presidente|ALMIR GUEDES FERNANDES
+SIN TRAB INDS CONS MOBILIARIO DE UNIAO DA VITORIA|81.646.564/0001-06|Presidente|JOSE ORLANDO DOS SANTOS
+FED DOS TRABS NAS INDS DA COUST E DO MOB NO EST DO PR|76.703.347/0001-62|Presidente|GERALDO RAMTHUN
+SIND OF MARC E TRBS INDUS SER MOV MAD MOV JUNCO EST PR|76.686.609/0001-28|Presidente|JOAO MARIA VIANA
+SINDICATO DOS TRAB NA IND DA CONST E DO MOB DE CIANORTE|77.941.284/0001-45|Presidente|SEBASTIAO LIMA DA SILVA
+SINDICATO DOS TRABALHADORES NA IND COST MOB GUARAPUAVA|75.643.619/0001-13|Presidente|SIRLEI CESAR DE OLIVEIRA
+SINDICATO DOS TRABALHADORES NAS IND. MADEIREIRAS, MOVELEIRAS E SIMILARES DE JAGUARIAIVA PR|04.239.799/0001-24|Presidente|NILTON ANTUNES BETIM
+SIN TRAB NA IND DA CONST E DO MOB JATAIZINHO E IBIPORA|80.921.513/0001-74|Presidente|RICARDO VIEIRA
+SIND DOS TRAB NAS IND DA CONSTRUCAO E MOBIL DE LONDRINA|78.635.885/0001-92|Presidente|DENILSON PESTANA DA COSTA
+<ENDofCOUNTERPART1>
+<STARTofCOUNTERPART2>
+FEDERACAO DAS INDUSTRIAS DO ESTADO DO PARANA|76.709.898/0001-33|Secretário Geral|MARCELO IVAN MELEK
+<ENDofCOUNTERPART2>
+
+<STARTofSTARTDATE>
+1/05/2012
+<ENDofSTARTDATE>
+<STARTofEXPRIRATIONDATE>
+30/04/2013
+<ENDofEXPIRATIONDATE>
+
+<STARTofRENEGOTIATION>
+1/05
+<ENDofRENEGOTIATION>
+
+<STARTofCATEGORY>
+econômicas e profissionais representadas pelas entidades convenentes, sendo: Empresas e Trabalhadores do ramo das indústrias de Vassouras, Escovas e Pincéis
+<ENDofCATEGORY>
+<STARTofGEOGRAPHY>
+PR
+<ENDofGEOGRAPHY>
+
+<STARTofCLAUSES>
+Piso Salarial|PISOS SALARIAIS
+Reajustes/Correções Salariais|REAJUSTE SALARIAL
+Pagamento de Salário – Formas e Prazos|PAGAMENTO DE SALÁRIO
+Outras normas referentes a salários, reajustes, pagamentos e critérios para cálculo|ERRO NA FOLHA DE PAGAMENTO
+Outras normas referentes a salários, reajustes, pagamentos e critérios para cálculo|CLASSIFICAÇÃO PROFISSIONAL
+Adicional de Hora-Extra|HORAS EXTRAS
+Participação nos Lucros e/ou Resultados|PARTICIPAÇÃO NOS LUCROS E RESULTADOS
+Auxílio Habitação|MORADIA
+Auxílio Transporte|TRANSPORTE
+Auxílio Saúde|CONVÊNIO FARMÁCIA
+Outros Auxílios|ASSISTÊNCIA JURÍDICA GRATUITO
+Aposentadoria|ABONO A APOSENTADORIA
+Normas para Admissão/Contratação|CONTRATO DE EXPERIÊNCIA
+Desligamento/Demissão|RESCISÕES CONTRATUAIS
+Desligamento/Demissão|DEMISSÃO POR JUSTA CAUSA
+Aviso Prévio|AVISO PRÉVIO
+Outras estabilidades|GARANTIAS ESPECIAIS DE TRABALHO
+Compensação de Jornada|COMPENSAÇÃO DE HORÁRIO DE TRABALHO
+Faltas|ABONO DE FALTA AO ESTUDANTE
+Faltas|AUSÊNCIAS LEGAIS
+Faltas|SAQUE DO PIS
+Outras disposições sobre jornada|BANCO DE HORAS
+Duração e Concessão de Férias|FÉRIAS PROPORCIONAIS
+Duração e Concessão de Férias|FÉRIAS
+Outras disposições sobre férias e licenças|DIFERENÇA DE FÉRIAS
+Condições de Ambiente de Trabalho|REFEITÓRIO
+Condições de Ambiente de Trabalho|HIGIENE
+Treinamento para Prevenção de Acidentes e Doenças do Trabalho|PROTEÇÃO DO TRABALHADOR
+Aceitação de Atestados Médicos|ATESTADOS
+Outras Normas de Proteção ao Acidentado ou Doente|REMESSA DA CAT
+Sindicalização (campanhas e contratação de sindicalizados)|SINDICALIZAÇÃO DOS TRABALHADORES
+Acesso do Sindicato ao Local de Trabalho|LIVRE ACESSO
+Garantias a Diretores Sindicais|LICENÇA REMUNERADA PARA DIRIGENTES SINDICAIS
+Contribuições Sindicais|CONTRIBUIÇÃO CONFEDERATIVA
+Contribuições Sindicais|CONTRIBUIÇÃO NEGOCIAL
+Contribuições Sindicais|RECOLHIMENTO DE MENSALIDADE
+Outras disposições sobre relação entre sindicato e empresa|ELEIÇÕES SINDICAIS
+Outras disposições sobre relação entre sindicato e empresa|DIVULGAÇÃO DE AVISOS
+Outras disposições sobre relação entre sindicato e empresa|FALECIMENTO DE TRABALHADOR
+Outras disposições sobre relação entre sindicato e empresa|RELAÇÃO DE EMPREGADOS
+Outras disposições sobre relação entre sindicato e empresa|RELATÓRIO DE INSPEÇÃO DE CALDEIRAS
+Outras disposições sobre relação entre sindicato e empresa|COMPROVANTES DE DEPÓSITOS DE FGTS
+Descumprimento do Instrumento Coletivo|MULTA
+Renovação/Rescisão do Instrumento Coletivo|NEGOCIAÇÃO PERMANENTE
+Outras Disposições|BASE TERRITORIAL
+Outras Disposições|ESTACIONAMENTO
+Outras Disposições|LAZER
+Outras Disposições|DELIBERAÇÕES INTERNAS
+Outras Disposições|COMISSÃO DE CONCILIAÇÃO PRÉVIA
+Outras Disposições|ACERVO TÉCNICO
+Outras Disposições|PPRA E PROGRAMA DE CONTROLE MÉDICO
+Outras Disposições|FORO
+Outras Disposições|PONTO
+Outras Disposições|ALTERAÇÃO LEGISLATIVA
+Outras Disposições|ENTIDADES PROFISSIONAIS INTEGRANTES DESTA CCT
+Outras Disposições|ANEXO I
+<ENDofCLAUSES>
+
+<STARTofAPPENDICES>
+
+<ENDofAPPENDICES>
+
+<STARTofAPPTEXT>
+
+<ENDofAPPTEXT>
+
+<STARTofTEXT>
+a)  A partir de 1° de maio de 2012, fica instituído o pagamento de um PISO SALARIAL mínimo a todos os trabalhadores da categoria profissional, no valor de R$ 3,84 (três reais e oitenta e quatro centavos), por hora. 
+b)  Fica instituído o PISO SALARIAL para JOVENS APRENDIZES (art. 428 da CLT), no valor de R$ 3,48 (três reais e quarenta e oito centavos), por hora.
+|
+A partir de 1º de maio de 2012, aos empregados da categoria, será concedido o seguinte reajuste salarial: 
+a)  Sobre o salário do mês de abril de 2012, já reajustado de acordo com a cláusula 4ª da CCT homologada no MTE em 03/11/2011, será aplicado o percentual de 8,0% (oito por cento) a título de reajuste salarial. 
+b)  Os Trabalhadores admitidos após maio de 2010, os reajustes serão concedidos de forma proporcional ao tempo de serviço na empresa, a razão de 1/12 (um doze avos) ao mês de serviço. 
+c)  As eventuais antecipações concedidas durante a vigência da Convenção anterior, serão compensadas, exceto dos aumentos concedidos a título de promoção por mérito. 
+d) Face a assinatura da presente CCT ter ocorrido após o pagamento dos salários dos meses de maio, junho e julho de 2012, acordam as partes que eventuais diferenças entre os valores pagos e os valores ora acordados, deverão serem pagas aos trabalhadores, através de folha complementar, juntamente com o pagamento dos salários de agosto de 2012, ou seja, até o 5° dia útil de setembro de 2012; e)  Os trabalhadores que foram desligados a partir de 1º de maio de 2012, também terão direito às diferenças acima, que serão pagas de uma só vez, até o dia 31 de agosto de 2012. 
+|
+a) O pagamento dos salários deverá ser efetuado até o 5º (quinto) dia útil do mês subseqüente ao vencido. 
+b) Os salários deverão ser pagos até o termino do expediente de trabalho, quando realizados em dinheiro, cheque-administrativo, cheque salário ou depósito em conta-corrente. 
+c)  No caso de pagamento por cheque de emissão da própria Empresa, o pagamento deverá ocorrer até as 11:00 horas, de segunda a sexta-feira. 
+d)  Incorrendo o pagamento até o 9º (nono) dia útil, pagará a Empresa multa, diretamente ao Trabalhador, equivalente á 01 (um) dia de salário por dia de atraso. 
+e)  Quando o pagamento for efetuado em cheque, deverá a empresa liberar o trabalhador para o desconto do mesmo, sem desconto das horas. 
+|
+Quando constatado erro na folha de pagamento, não decorrente de verbas controvertidas, a Empresa se obriga a corrigir o mesmo, no prazo de 72 (setenta e duas) horas. 
+|
+Após decorrido o prazo de experiência, todos os trabalhadores da indústria de vassouras, escovas e pincéis, representados pelos sindicatos convenentes, terão garantido a classificação profissional no cargo que estiver exercendo, conforme segue: 
+ 
+Cargo: Auxiliares de Produção 
+Como Auxiliar de Produção enquadram-se todos os trabalhadores não atingidos pelas demais classificações, ou aqueles que não possuem conhecimentos técnicos indispensáveis para o exercício do ofício e que se subordinam funcionalmente aos profissionais de cada área especifica ou profissionais com maior experiência. 
+Fica assegurada a estes trabalhadores, a remuneração de R$ 3,84 (três reais e oitenta e quatro centavos) por hora, durante a vigência desta convenção coletiva do trabalho. 
+ 
+Cargo: Operadores de Produção e Assemelhados 
+Como operadores de Máquina se enquadram todos os profissionais que tenham escolaridade e conhecimento técnico indispensável para o exercício profissional do manuseio das diversas máquinas empregadas pela indústria do setor. 
+Fica assegurada a estes trabalhadores, a remuneração de R$ 4,59 (quatro reais e cinqüenta e nove centavos) por hora, durante a vigência desta convenção coletiva do trabalho. 
+ 
+Cargo: Encarregados 
+Nesta categoria se enquadram os empregados que exerçam nível de chefia, diretamente subordinados a administração geral. 
+Aos integrantes desta categoria fica assegurado a remuneração de R$ 5,36 (cinco reais e trinta e seis centavos) por hora, durante a vigência desta convenção coletiva do trabalho. 
+ 
+a)  Para efeito de registro do cargo do trabalhador em Carteira Profissional e Ficha de Registro de empregados a empresa poderá adotar os títulos apresentados em cada categoria acima descrita, possibilitando que o trabalhador exerça qualquer função descrita nos diversos níveis. 
+b)  As demais funções não contempladas na classificação profissional ficarão em livre negociação. 
+c)  As empresas que na vigência desta Convenção Coletiva implementarem ou já possuírem o plano de cargos e salários devidamente aprovado e registrado pelo Ministério do Trabalho e desde que os trabalhadores não sofram prejuízos de seus vencimentos, estarão isentas do cumprimento desta classificação profissional. 
+d)  A substituição esporádica de trabalhador classificado em outra categoria, não caracteriza a mudança de nível. 
+|
+a)                   As horas extras trabalhadas serão remuneradas com adicional de 50% (cinqüenta por cento) para as 02 (duas) primeiras horas trabalhadas e com o adicional de 60% (sessenta por cento) para as excedentes. 
+b)                  As horas extras realizadas em dia destinado a repouso semanal (domingo e feriados) ou em dias compensados, serão remuneradas com o adicional de 100% (cem por cento), independente do recebimento do próprio dia a que o Trabalhador já fizera jus. 
+c)                   As horas extras trabalhadas deverão ser computadas no cálculo do 13º (décimo terceiro) salário, férias, aviso prévio, indenização por tempo de serviço e adicional, descanso semanal remunerado e FGTS. 
+|
+a)                   Nos termos do artigo 2º da Lei 10.101 de 19/12/2000, as Empresas pertencentes a categoria econômica convenente poderão instituir programa de participação nos lucros e resultados, devendo arquivar cópia do respectivo instrumento junto ao Sindicato dos Trabalhadores, em até 15 (quinze) dias após sua formalização. 
+b)                  O instrumento de implantação do programa deverá observar o referido dispositivo legal, bem como delimitar com precisão os Empregados envolvidos no programa. 
+|
+As Empresas que fornecerem moradia aos seus Trabalhadores, na hipótese de rescisão do contrato de trabalho, concederão ao mesmo prazo de até 60 (sessenta) dias, contados a partir da homologação da rescisão contratual, para desocupar o imóvel. 
+|
+Se for o Trabalhador recrutado em localidade distinta da Empresa empregadora, no caso de dispensa sem justa causa, esta se obriga a providenciar o retorno do Trabalhador a sua origem, bem como o pagamento das despesas. 
+|
+a)     A Empresa manterá convênio com farmácias e/ou drogarias, visando aquisição exclusivamente de medicamentos com receita médica, aos seus trabalhadores e dependente, com posterior descontos em folha de pagamento. 
+b)    Quando o valor a ser descontado em folha de pagamento ultrapassar a 20% (vinte por cento) o salário base do trabalhador, o mesmo será efetuado, no máximo, em 02 (duas) parcelas consecutivas. 
+|
+As Empresas se obrigam a prestar assistência jurídica, sem qualquer ônus, aos vigias, porteiros e guardiões, quando estes, em defesa do patrimônio da Empresa, venham a cometer atos que impliquem em processo judicial. 
+|
+Para os empregados aposentados até 31/07/2009, ficam ressalvadas as condições mais favoráveis existentes nas CCTs anteriores firmadas em relação a cláusula abono aposentadoria. A partir de 01/08/2009 os Trabalhadores que contarem com mais de 10 (dez) anos na mesma Empresa, e que vierem a se aposentar em qualquer situação receberão abono equivalente a 60 (sessenta) dias da respectiva remuneração. Fica facultado à empresa, quando da continuidade da relação de emprego, o pagamento do Abono Aposentadoria em até 02 (duas) parcelas mensais iguais e consecutivas, após a formalização e entrega do comunicado pelo empregado.
+|
+a)                   Os contratos de experiência serão de 45 (quarenta e cinco) dias, podendo ser a prorrogação por mais 45 (quarenta e cinco) dias e deverão conter a assinatura do Trabalhador, bem como serem registrados na CTPS, inclusive a prorrogação. 
+b)                  A Empresa fornecerá ao Trabalhador a 2ª (segunda) via do contrato de experiência, firmado por prazo determinado. 
+c)                   Caso o Empregado seja readmitido na mesma empresa e no mesmo cargo em período inferior a 06 (seis) meses após seu desligamento, não poderá ser celebrado Contrato de Experiência.
+ 
+|
+ As homologações das rescisões contratuais e o pagamento das verbas decorrentes atenderão as seguintes condições: 
+a)                   Até o 1º (primeiro) dia útil imediato ao término do aviso prévio; ou 
+b)                  Até o 10º (décimo) dia, contado da data da notificação da demissão quando o aviso prévio for indenizado ou quando houver dispensa de seu cumprimento; 
+c)                   O não cumprimento dos prazos legais para quitação das verbas rescisórias implicará no pagamento de multa equivalente a 01 (um) dia de salário para cada dia de atraso, a partir do 2º (segundo) ou 11º (décimo primeiro) dia da dispensa, conforme o caso, diretamente ao trabalhador dispensado, juntamente com as demais verbas rescisórias. 
+d)                  A multa aqui prevista não se aplicará às demissões em decorrência de decretação de falência ou recuperação judicial; 
+e)                   No caso de falta ou recusa do trabalhador no recebimento das verbas, a Empresa comunicará ao Sindicato Laboral, mediante protocolo, para ressalva de seus direitos; 
+f)                    Quando da homologação, deverão as Empresas apresentar os comprovantes de recolhimentos do FGTS e da multa de Lei, se devida, nos termos do parágrafo 1o do artigo 9º do Decreto 2.430/97 que regulamentou a Lei 9.491/97.
+g)                  Todos os Trabalhadores com mais de 06 (seis) meses de trabalho na empresa terão assegurado a exigência de homologação da rescisão do contrato de trabalho na sede ou sub-sede do Sindicato Laboral; 
+h)                  No caso das homologações realizadas na sexta-feira com cheque de emissão da própria Empresa, o pagamento deverá ser efetuado até as 11h00 (onze horas); após este horários, o pagamento deverá ser efetuado em moeda corrente nacional; 
+i)                    A homologação feita pelo Sindicato Laboral, concerne quitação exclusivamente às verbas e aos respectivos valores discriminados no documento rescisório; 
+j)                    As empresas se obrigam a apresentar junto com a rescisão contratual, atestado de saúde ocupacional relativo ao exame demissional; 
+k)                   Os Termos de Rescisão de Contrato de Trabalho deverão ser apresentados para homologação em 05 (cinco) vias. 
+|
+Ocorrendo despedida por justa causa, deverá a Empresa especificar o motivo em carta a ser entregue ao Trabalhador mediante recibo. 
+|
+a)                   O aviso prévio será comunicado obrigatoriamente por escrito, contra recibo, esclarecendo se o Trabalhador deve ou não trabalhar no período. 
+b)                  No aviso prévio ou na carta de demissão, quando for o aviso indenizado, ou trabalhado deverá a Empresa anotar a data, hora, e local do pagamento das verbas rescisórias, para conhecimento do Trabalhador. 
+c)                   O Trabalhador analfabeto que tenha pedido demissão deverá cientificar o Sindicato Laboral, sendo que este colocará visto no respectivo documento de aviso prévio. 
+|
+a)                   O Trabalhador que sofreu acidente de trabalho tem garantia, pelo prazo mínimo de 12 (doze) meses, a manutenção de seu contrato de trabalho na Empresa, após a cessação do auxílio doença acidentário.
+b)                  Ao Trabalhador afastado por motivo de doença por mais de 45 (quarenta e cinco) dias, será assegurada estabilidade no emprego por 60 (sessenta) dias após o término da licença, exceto quando a Unidade (filial) for extinta ou tiver suas atividades paralisadas. 
+c)                   A Trabalhadora gestante terá assegurado estabilidade provisória, desde a confirmação da gravidez até 150 (cento e cinqüenta) dias após o parto. 
+|
+Visando a desburocratização das relações entre o Sindicato Laboral e as empresas, fica acertada entre as partes a oficialização do regime de compensação de horário de trabalho com a extinção total ou parcial do trabalho aos sábados, mediante homologação a cada 24 (vinte e quatro) meses do Acordo Coletivo de Prorrogação para Compensação de Horário de Trabalho, junto ao Sindicato Laboral, nas seguintes condições: 
+a)                   Extinção completa do trabalho aos sábados 7:20 (sete horas e vinte minutos) de trabalho correspondente aos sábados, serão compensadas no decurso de segunda à sexta-feira, com acréscimo de até no máximo 02 (duas) horas diárias, de maneira que nesses dias sejam completadas 44 (quarenta e quatro) horas semanais, respeitados os intervalos de Lei, mediante acordo escrito com os Trabalhadores. 
+b)                  Extinção parcial do trabalho aos sábados: as horas correspondentes à duração do trabalho aos sábados, serão da mesma forma compensada pela prorrogação da jornada de segunda á sexta-feira, de até 01 (uma) hora diária, mediante acordo escrito com os Trabalhadores. 
+c)                   Nenhum acréscimo salarial será devido sobre as horas excedentes, trabalhadas no curso de cada semana, para a compensação dos sábados, pela extinção total ou parcial do expediente nesse dia da semana. 
+d)                  Sempre que, em prazo da prorrogação do horário de trabalho, para efeito de compensar o trabalho aos sábados, houver turno superior a 04 (quatro) horas, será obrigatório um intervalo de no mínimo 15 (quinze) minutos, não computados na duração do trabalho. 
+e)                   A empresa que adota o sistema de compensação de hora de trabalho, ou seja com a suspensão total ou parcial do trabalho aos sábados, garantirá ao Trabalhador o pagamento do dia em que faltou, mediante atestado, como se trabalhado tivesse. 
+f)                    O feriado coincidindo com o sábado compensado será pago pela empresa na base de 8:48 horas (oito horas, e quarenta e oito minutos). 
+g)                  Cumpridas as formalidades acima, deverá o Acordo de Compensação ser homologado junto á entidade obreira: 
+h)                  Os Trabalhadores admitidos após a assinatura desta CCT, poderão aderir no Acordo de Prorrogação para Compensação de Horário de Trabalho, através de Acordo Individual, assinado pelas partes e com validade pelo prazo do Acordo Coletivo de Prorrogação para Compensação de Horário de Trabalho. Todo Acordo Individual será encaminhado ao Sindicato Laboral para homologação, até o dia 10 (dez) do mês seguinte à admissão do Trabalhador. 
+i)                    Havendo necessidade de jornada extraordinária por parte do empregador, de comum acordo, que ultrapasse o horário pré-fixado de compensação ou no dia compensado, estas horas serão pagas como extraordinárias, obedecendo aos critérios da cláusula 18 (dezoito) desta convenção limitando-se ao máximo de 10 (dez) horas de trabalho por dia. Portanto, dessa forma, o Acordo Coletivo de Prorrogação para Compensação de Horário de Trabalho não perde o seu efeito. 
+|
+Os Trabalhadores estudantes serão dispensados sem prejuízo de seus salários para prestação de provas constantes do currículo escolar ou vestibular que coincidam com o horário de trabalho, devendo o mesmo comunicar a empresa com antecedência de 48 (quarenta e oito horas) e comprovar a efetiva realização da prova ou vestibular, no prazo de 48 (quarenta e oito horas) horas. 
+|
+O Trabalhador terá as seguintes ausências legais: 
+a)                   De 02 (dois) dias consecutivos, em caso de falecimento do cônjuge, ascendente ou descendente, irmão ou pessoa que, declarada em sua Carteira de Trabalho e Previdência Social, viva sob sua dependência econômica; 
+b)                  De 03 (três) dias consecutivos em virtude de casamento; de 05 (cinco) dias consecutivos no decorrer da primeira semana de nascimento de filho; 
+c)                   De 01 (um) dia útil no decorrer do ano quando, comprovadamente, houver faltado para doação de sangue, salvo em casos de manutenção de convênio pela Empresa, para coleta diretamente na mesma. 
+d)                  De 01 (um) dia útil em caso de internação de filho, ou de esposa(o), limitando-se a referida ausência a 02 (duas) vezes ao ano. 
+e)                   De 01 (um) dia útil no caso de falecimento do sogro ou sogra; 
+f)                    Para todos os efeitos desta cláusula não se computará como ausência legal os dias compensados. 
+g)                  Parágrafo Único: Ocorrendo ausências em conformidade com esta cláusula, ficam mantidas todas as vantagens oferecidas pela Empresa. 
+|
+A Empresa liberará o Trabalhador para saque do PIS, sendo que as horas dispensadas não poderão ser compensadas ou descontadas. 
+Não se aplicam as disposições acima aos Trabalhadores cujo horário de trabalho não coincida com o horário de expediente bancário, bem como aqueles cujas empresas mantenham convênio ou posto bancário. 
+|
+Na vigência desta convenção Coletiva de Trabalho, as empresas, juntamente com o Sindicato Laboral poderão instituir o banco de horas. 
+|
+Para todos os trabalhadores que rescindam o seu contrato de trabalho por pedido de demissão, fica assegurado o pagamento das férias proporcionais correspondentes ao período trabalhado, incluída a indenização de 1/3 (um terço). 
+|
+O gozo das férias individuais deve, obrigatoriamente, iniciar no primeiro dia útil de trabalho da semana.
+|
+Quando o reajuste salarial ocorrer durante o período de férias, a complementação do pagamento da mesma deverá ser efetuado no primeiro mês subseqüente ao gozo das mesmas. 
+|
+Obrigam-se as Empresas a manter refeitório com local adequado para que os Trabalhadores possam esquentar os seus lanches e refeições nos horários próprios. 
+|
+As Empresas manterão a higiene das instalações sanitárias, que deverão ter separação de sexos, além de chuveiros, lavatórios e fornecimento de água potável através de bebedouros bem como caixa de primeiros socorros com medicamentos nos locais de trabalho. 
+|
+Na admissão do Trabalhador serão dedicadas tantas horas quando necessárias, para demonstração e instrução dos equipamentos de proteção individual, dos riscos da atividade a ser exercida, do local de trabalho, das ordens de serviço, como também, o programa de prevenção de acidentes de trabalho desenvolvidos na empresa e ainda a apresentação para o mesmo dos Trabalhadores integrantes da CIPA. 
+|
+a)                   As empresas que mantêm convênio médico aos seus Empregados poderão recusar atestados médicos emitidos por profissionais que não integrem o quadro médico do Convênio utilizado. 
+b)                  Não havendo convênio médico serão aceitos os atestados médicos e Odontológicos fornecidos por profissionais particulares, da instituição de Previdência Social Federal, de profissional indicado pelo Sindicato Laboral e Serviço Social de Indústria ou do Comércio, serviço de repartições federais, estaduais ou municipais, incumbidas de assuntos de higiene ou de saúde pública. 
+c)                   Ocorrendo ausências em conformidade com esta cláusula, ficam mantidas todas as vantagens legais oferecidas. 
+|
+A Empresa enviará ao Sindicato Laboral cópia da Comunicação de Acidente de Trabalho (CAT), no prazo de 10 (dez) dias a contar de ocorrência. 
+|
+As Empresas se comprometem a favorecer a sindicalização de seus Trabalhadores e daqueles que vierem a ser admitido, com a entrega do material promocional do Sindicato Laboral. 
+|
+Recomendam-se as empresas permitirem o livre acesso dos membros da diretoria do Sindicato dos Trabalhadores, devidamente credenciados, aos locais de trabalho. 
+|
+Quando solicitado pela Entidade Sindical Profissional, com no mínimo 48 (quarenta e oito) horas antes do evento, as Empresas se obrigam a fornecer licença remunerada aos dirigentes efetivos ou suplentes da entidade sindical, que porventura façam parte de seu quadro. Neste caso os vencimentos dos dirigentes sindicais serão pagos como se trabalhando estivessem, mantendo-se todas as vantagens existentes, limitando-se a 15 (quinze) dias por ano e até 03 (três) diretores do Sindicato dos Trabalhadores por grupo empresarial. 
+Parágrafo Único: Ocorrendo ausências em conformidade com esta cláusula, ficam mantidas todas as vantagens oferecidas pelas Empresas. 
+|
+a)         De acordo com a manifestação das assembléias gerais com respaldo no artigo 8o IV da CF/88, fica estabelecido entre os signatários que os empregadores farão um desconto mensal nos salários de todos os empregados associados, nos percentuais abaixo relacionados, a título de contribuição confederativa:
+CASTRO                                 1,5% (um e meio por cento)                   
+FETRACONSPAR                   1,5% (um e meio por cento)                   
+JAGUARIAÍVA                         1,2% (um vírgula dois por cento), limitado a R$ 30,00                            
+LONDRINA                              2,0% (dois por cento)                            
+PARANAGUÁ                          1,5% (um e meio por cento)                   
+PATO BRANCO                       1,5% (um e meio por cento)                               
+JATAIZINHO                                       1,5% (um e meio por cento)
+UBIRATÃ                                2,0% (dois por cento)                            
+UNIÃO DA VITÓRIA                1,5% (um e meio por cento)
+CIANORTE                              2,0% (dois por cento)
+GUARAPUAVA                                   1,5% (um e meio por cento)
+MARINGÁ                               2,0% (dois por cento)
+PARANAVAÍ                            2,0% (dois por cento)
+SOM PARANÁ                         1,5% (um e meio por cento)     
+UMUARAMA                           2,0% (dois por cento)
+TOLEDO                                  2,0% (dois por cento)
+MEDIANEIRA                          2,0% (dois por cento)
+CASCAVEL                             2,0% (dois por cento)
+MAL C. RONDON                    2,0% (dois por cento)
+b)         As importâncias resultantes do desconto deverão ser depositadas em conta especial junto à Caixa Econômica Federal, ou, junto ao Banco do Brasil, em nome da entidade obreira favorecida até o 5º (quinto) dia útil de cada mês. O não recolhimento do desconto no percentual devido dentro do prazo estipulado sujeitará a empresa às sanções do artigo 600 da CLT. Caberá ao Sindicato o encaminhamento das guias para fins de pagamento junto à CEF ou Banco do Brasil.
+c)         A distribuição da mesma será feita conforme orientação impressa na guia que será fornecida pelos Sindicatos Profissionais e efetuada pela Caixa Econômica Federal ou Banco do Brasil, sempre obedecendo aos percentuais a serem distribuídos para o Sindicato, Federação e Confederação.
+|
+a)         Fica estabelecido entre os signatários que todos os trabalhadores que se beneficiaram do reajuste salarial ou foram abrangidos pela presente Convenção Coletiva de Trabalho, sofrerão um desconto, conforme abaixo discriminado, por entidade sindical, que os empregadores farão sobre o total da remuneração dos empregados (artigo 457 CLT), "per capita".
+b)         Estes descontos foram estabelecidos de acordo com a manifestação das Assembléias Gerais, com respaldo no artigo 8º IV da CF, e está dentro da razoabilidade.
+ 
+c)         A fim de evitar-se duplicidade de desconto estipula-se a obrigatoriedade da anotação  do referido  desconto na CTPS do empregado, sua data, valor e nome  da entidade obreira favorecida.
+d)         As importâncias resultantes dos descontos deverão ser depositadas junto a Caixa Econômica Federal S/A ou Banco do Brasil, em nome das entidades obreiras até o dia 10/09/2012, sob as sanções do artigo 600 da CLT. 
+e)         Fica claro entre as Entidades convenentes que todo e qualquer valor descontado dos trabalhadores, a título de contribuição negocial, é de exclusiva responsabilidade das Entidades Profissionais.
+f)          Os valores a serem descontados dos salários dos empregados são os seguintes:
+SINDICATO DOS TRABALHADORES NAS INDÚSTRIAS DA CONSTRUÇÃO E DO MOBILIÁRIO DE CIANORTE;
+Desconto de 8% (oito por cento) sobre a remuneração de cada trabalhador no mês de agosto de 2012, sendo que deste percentual será repassado 0,5% (meio por cento) a Federação dos Trabalhadores nas Indústrias da Construção e do Mobiliário do Estado do Paraná, conforme estabelece o Inciso X, do artigo 8º do Estatuto Social. 
+SINDICATO DOS TRABALHADORES NAS INDÚSTRIAS DA CONSTRUÇÃO E DO MOBILIÁRIO DE GUARAPUAVA;
+Desconto de 9% (nove por cento) sobre a remuneração de cada trabalhador no mês de agosto de 2012, sendo que deste percentual será repassado 0,5% (meio por cento) a Federação dos Trabalhadores nas Indústrias da Construção e do Mobiliário do Estado do Paraná, conforme estabelece o Inciso X, do artigo 8º do Estatuto Social. 
+SINDICATO DOS TRABALHADORES NAS INDÚSTRIAS DA CONSTRUÇÃO E DO MOBILIÁRIO DE LONDRINA;
+Desconto de 8% (oito por cento) sobre a remuneração de cada trabalhador no mês de setembro de 2012, sendo que deste percentual será repassado 0,5% (meio por cento) a Federação dos Trabalhadores nas Indústrias da Construção e do Mobiliário do Estado do Paraná, conforme estabelece o Inciso X, do artigo 8º do Estatuto Social. 
+Para o STICM DE LONDRINA, fica assegurado aos empregados o direito de oposição à referida contribuição, a qual deverá ser apresentada individualmente pelo empregado, diretamente ao Sindicato profissional em sua sede ou sub-sede até 30 (trinta) dias antes de ser efetuado o desconto, sem efeito retroativo, em requerimento manuscrito, com identificação e assinatura do oponente salvo em se tratando de empregado analfabeto, quando poderá opor-se através de termo redigido por outrem, no qual deverá estar atestado por 02 (duas) testemunhas devidamente identificadas. Recebida a oposição, o Sindicato fornecerá recibo de entrega e encaminhará ao empregador, para que não seja procedido o desconto. 
+SINDICATO DOS TRABALHADORES NAS INDÚSTRIAS DA CONSTRUÇÃO E DO MOBILIÁRIO DE JATAIZINHO E IBIPORÃ;
+Desconto de 6,5% (Seis e meio por cento) sobre a remuneração de cada trabalhador no mês de agosto de 2012, sendo que deste percentual será repassado 0,5% (meio por cento) a Federação dos Trabalhadores nas Indústrias da Construção e do Mobiliário do Estado do Paraná, conforme estabelece o Inciso X, do artigo 8º do Estatuto Social. 
+SINDICATO DOS TRABALHADORES NAS INDÚSTRIAS DA CONSTRUÇÃO E DO MOBILIÁRIO DE MARINGÁ;
+Desconto de 4,5% (quatro e meio por cento) sobre a remuneração de cada trabalhador no mês de agosto de 2012, sendo que deste percentual será repassado 0,5% (meio por cento) a Federação dos Trabalhadores nas Indústrias da Construção e do Mobiliário do Estado do Paraná, conforme estabelece o Inciso X, do artigo 8º do Estatuto Social. 
+SINDICATO DOS TRABALHADORES NAS INDÚSTRIAS DA CONSTRUÇÃO E DO MOBILIÁRIO DE PARANAGUÁ;
+Desconto de 5,5% (cinco e meio por cento) sobre a remuneração de cada trabalhador no mês de agosto de 2012, sendo que deste percentual será repassado 0,5% (meio por cento) a Federação dos Trabalhadores nas Indústrias da Construção e do Mobiliário do Estado do Paraná, conforme estabelece o Inciso X, do artigo 8º do Estatuto Social. 
+SINDICATO DOS TRABALHADORES NAS INDÚSTRIAS DA CONSTRUÇÃO E DO MOBILIÁRIO DE PARANAVAÍ;
+Desconto de 8% (oito por cento) sobre a remuneração de cada trabalhador no mês de agosto de 2012, sendo que deste percentual será repassado 0,5% (meio por cento) a Federação dos Trabalhadores nas Indústrias da Construção e do Mobiliário do Estado do Paraná, conforme estabelece o Inciso X, do artigo 8º do Estatuto Social. 
+SINDICATO DOS TRABALHADORES NAS INDÚSTRIAS DA CONSTRUÇÃO E DO MOBILIÁRIO DE PATO BRANCO;
+Desconto de 3% (três por cento) sobre a remuneração de cada trabalhador no mês de agosto de 2012, sendo que deste percentual será repassado 0,5% (meio por cento) a Federação dos Trabalhadores nas Indústrias da Construção e do Mobiliário do Estado do Paraná, conforme estabelece o Inciso X, do artigo 8º do Estatuto Social. 
+SINDICATO DOS TRABALHADORES NAS INDÚSTRIAS DA CONSTRUÇÃO E DO MOBILIÁRIO DE UBIRATÃ;
+Desconto de 8% (oito por cento) sobre a remuneração de cada trabalhador no mês de agosto de 2012, sendo que deste percentual será repassado 0,5% (meio por cento) a Federação dos Trabalhadores nas Indústrias da Construção e do Mobiliário do Estado do Paraná, conforme estabelece o Inciso X, do artigo 8º do Estatuto Social. 
+SINDICATO DOS TRABALHADORES NAS INDÚSTRIAS DA CONSTRUÇÃO E DO MOBILIÁRIO DE UMUARAMA;
+Desconto de 8% (oito por cento) sobre a remuneração de cada trabalhador no mês de agosto de 2012, sendo que deste percentual será repassado 0,5% (meio por cento) a Federação dos Trabalhadores nas Indústrias da Construção e do Mobiliário do Estado do Paraná, conforme estabelece o Inciso X, do artigo 8º do Estatuto Social. 
+SINDICATO DOS TRABALHADORES NAS INDÚSTRIAS DA CONSTRUÇÃO E DO MOBILIÁRIO DE UNIÃO DA VITÓRIA;
+Desconto de 8% (oito por cento) sobre a remuneração de cada trabalhador no mês de agosto de 2012, sendo que deste percentual será repassado 0,5% (meio por cento) a Federação dos Trabalhadores nas Indústrias da Construção e do Mobiliário do Estado do Paraná, conforme estabelece o Inciso X, do artigo 8º do Estatuto Social. 
+SINDICATO DOS TRABALHADORES NAS INDÚSTRIAS DE SERRARIAS, CARPINTARIAS, TANOARIAS, MADEIRAS COMPENSADAS E LAMINADOS, AGLOMERADOS E CHAPAS DE FIBRAS DE MADEIRA, MARCENEIROS, INDÚSTRIAS DE MÓVEIS DE MADEIRA, MÓVEIS DE JUNCO E VIME, VASSOURAS, CORTINADOS E ESTOFADOS, ESCOVAS E PINCÉIS DE QUEDAS DE IGUAÇU;
+Desconto de 8% (oito por cento) sobre a remuneração de cada trabalhador no mês de agosto de 2012, sendo que deste percentual será repassado 0,5% (meio por cento) a Federação dos Trabalhadores nas Indústrias da Construção e do Mobiliário do Estado do Paraná, conforme estabelece o Inciso X, do artigo 8º do Estatuto Social. 
+SINDICATO DOS TRABALHADORES NAS INDÚSTRIAS MADEREIRAS, MOVELEIRAS E SIMILARES DE JAGUARIAÍVA;
+Desconto de 5% (cinco por cento) sobre a remuneração de cada trabalhador no mês de agosto de 2012, sendo que deste percentual será repassado 0,5% (meio por cento) a Federação dos Trabalhadores nas Indústrias da Construção e do Mobiliário do Estado do Paraná, conforme estabelece o Inciso X, do artigo 8º do Estatuto Social. 
+SINDICATO DOS TRABALHADORES NAS INDÚSTRIAS DE PINCÉIS, PALITOS, ESCOVAS, SERRARIAS, MADEIRAS COMPENSADAS E LAMINADAS, AGLOMERADOS, CHAPAS DE FIBRAS DE MADEIRA, MÓVEIS DE MADEIRA E OFICIAIS MARCENEIROS DE CASTRO;
+Desconto de 8% (oito por cento) sobre a remuneração de cada trabalhador no mês de agosto de 2012, sendo que deste percentual será repassado 0,5% (meio por cento) a Federação dos Trabalhadores nas Indústrias da Construção e do Mobiliário do Estado do Paraná, conforme estabelece o Inciso X, do artigo 8º do Estatuto Social. 
+SINDICATO DOS OFICIAIS MARCENEIROS E TRABALHADORES NAS INDÚSTRIAS DE SERRARIAS, MÓVEIS DE MADEIRAS, MÓVEIS DE JUNCO E VIME, DE VASSOURAS, ESCOVAS E PINCÉIS, CORTINADOS E ESTOFOS DO ESTADO DO PARANÁ – SOM PARANÁ;
+Desconto de 8% (oito por cento) sobre a remuneração de cada trabalhador no mês de agosto de 2012, sendo que deste percentual será repassado 0,5% (meio por cento) a Federação dos Trabalhadores nas Indústrias da Construção e do Mobiliário do Estado do Paraná, conforme estabelece o Inciso X, do artigo 8º do Estatuto Social. 
+SINDICATO DOS TRABALHADORES NAS INDÚSTRIAS DA CONSTRUÇÃO E DO MOBILIÁRIO DE MEDIANEIRA;
+Desconto de 8% (oito por cento) sobre a remuneração de cada trabalhador no mês de agosto de 2012, sendo que deste percentual será repassado 0,5% (meio por cento) a Federação dos Trabalhadores nas Indústrias da Construção e do Mobiliário do Estado do Paraná, conforme estabelece o Inciso X, do artigo 8º do Estatuto Social. 
+ 
+SINDICATO DOS TRABALHADORES NAS INDÚSTRIAS DA CONSTRUÇÃO E DO MOBILIÁRIO DE TOLEDO;
+Desconto de 8% (oito por cento) sobre a remuneração de cada trabalhador no mês de agosto de 2012, sendo que deste percentual será repassado 0,5% (meio por cento) a Federação dos Trabalhadores nas Indústrias da Construção e do Mobiliário do Estado do Paraná, conforme estabelece o Inciso X, do artigo 8º do Estatuto Social. 
+SINDICATO DOS TRABALHADORES NAS INDÚSTRIAS DA CONSTRUÇÃO E DO MOBILIÁRIO DE MARECHAL CÂNDIDO RONDON. 
+Desconto de 4% (quatro por cento) sobre a remuneração de cada trabalhador no mês de setembro de 2012, sendo que deste percentual será repassado 0,5% (meio por cento) a Federação dos Trabalhadores nas Indústrias da Construção e do Mobiliário do Estado do Paraná, conforme estabelece o Inciso X, do artigo 8º do Estatuto Social. 
+Para o STICM DE MARECHAL CÂNDIDO RONDON, fica assegurado aos empregados não associados/filiados, o direito de oposição à referida contribuição, vedada a oposição promovida ou intermediada pelo empregador ou terceiros, a qual deverá ser apresentada individualmente pelo empregado, diretamente ao Sindicato profissional em sua sede ou sub-sede, ou remessa via postal, no prazo de 30 (trinta) dias a partir da ciência do primeiro desconto realizado no holerite, em requerimento, com identificação e assinatura do trabalhador oponente, salvo em se tratando de empregado analfabeto, quando poderá opor-se através de requerimento, no qual deverá estar atestado por 02 (duas) testemunhas devidamente identificadas. Recebida a oposição, o Sindicato fornecerá recibo de entrega e encaminhará ao empregador, para que não seja procedido o desconto. 
+SINDICATO DOS TRABALHADORES NAS INDÚSTRIAS DA MADEIRA E DO MOBILIÁRIO DE CASCAVEL E REGIÃO – SINTRIMMOC
+Desconto de 8% (oito por cento) sobre a remuneração de cada trabalhador no mês de agosto de 2012, sendo que deste percentual será repassado 0,5% (meio por cento) a Federação dos Trabalhadores nas Indústrias da Construção e do Mobiliário do Estado do Paraná, conforme estabelece o Inciso X, do artigo 8º do Estatuto Social. 
+FEDERAÇÃO DOS TRABALHADORES NAS INDÚSTRIAS DA CONSTRUÇÃO E DO MOBILIÁRIO DO ESTADO DO PARANÁ – FETRACONSPAR.
+Desconto de 8% (oito por cento) sobre a remuneração de cada trabalhador no mês de agosto de 2012.
+Parágrafo Primeiro: Ocorrendo rescisão do contrato de trabalho por qualquer motivo, deverá ser efetuado o desconto, bem como do  empregado que no mês do desconto estiver afastado do emprego por  qualquer motivo, sofrerá o desconto no retorno e a parcela descontada será recolhida ao Sindicato Obreiro até o 5º (quinto) dia útil do mês subseqüente ao desconto.
+Parágrafo Segundo: Fica assegurado aos empregados o direito de oposição à referida contribuição, a qual deverá ser apresentada individualmente pelo empregado, diretamente ao Sindicato profissional em sua sede ou sub-sede até 10 (dez) dias antes de ser efetuado o desconto, sem efeito retroativo, em requerimento manuscrito, com identificação e assinatura do oponente salvo em se tratando de empregado analfabeto, quando poderá opor-se através de termo redigido por outrem, no qual deverá estar atestado por 02 (duas) testemunhas devidamente identificadas. Recebida a oposição, o Sindicato fornecerá recibo de entrega e encaminhará ao empregador, para que não seja procedido o desconto. 
+|
+As empresas são obrigadas a descontar em folha de pagamento as mensalidades do Sindicato Laboral, que serão recolhidas até o 10º (décimo) dia do mês subseqüente ao desconto. 
+Os recolhimentos efetuados com atraso sofrerão um adicional de multa de 20% (vinte por cento) mais correção mensal de acordo com a taxa SELIC. 
+|
+No período de eleições sindicais, desde que expressamente comunicado por escrito pelo Sindicato Laboral, com antecedência mínima de 05 (cinco) dias a Empresa, mediante entendimento prévio com a entidade profissional, destinarão um local adequado para a realização da eleição, facilitando o acesso de mesários e fiscais, bem como liberando os Trabalhadores associados pelo tempo necessário para o exercício do voto. 
+|
+A Empresa divulgará os avisos e/ou boletins emitidos pelo Sindicato Laboral, desde que estejam devidamente assinados por membros de sua Diretoria, em local apropriado e de acesso contínuo dos Trabalhadores, preferencialmente junto ao relógio de ponto ou refeitório. 
+|
+No caso de falecimento de Trabalhador por motivo de morte natural ou acidental, se obrigam as empresas a comunicar tal fato ao Sindicato Laboral no prazo de 24 (vinte e quatro) horas, a contar do conhecimento do fato, pagando ao dependente mais próximo, mediante comprovação, a seguinte indenização. 
+a)                   Em caso de morte natural ou acidental não decorrente da relação de trabalho, o equivalente a 2,5 (dois e meio) pisos da categoria. 
+b)                  Em caso de morte por acidente de trabalho ou percurso de trabalho, o equivalente a 03 (três) pisos da categoria. 
+c)                   Fica isenta de tal pagamento a empresa que mantiver apólice de seguro, às suas expensas, com prêmio superior aos valores constantes nas letras "a" e "b" da presente cláusula. 
+|
+a)                   A Empresa enviará ao Sindicato Laboral, mensalmente, relação dos Trabalhadores que pagaram as Contribuições devidas ao mesmo, contendo nomes, salário, função e valor recolhido, no prazo de 10 (dez) dias após o seu recolhimento. 
+b)                  Até o final dos meses de novembro de cada ano, a Empresa enviará relação dos Trabalhadores pertencentes a categoria. 
+c)                   Enviarão ainda cópia do cadastro geral de admissão e dispensa CAGED, quando houver movimentação, no prazo de 10 (dez) dias após a entrega do mesmo ao MTE. 
+|
+As Empresas remeterão ao Sindicato Laboral cópia do relatório de Inspeção das Caldeiras, no prazo de 10 (dez) dias após o término da inspeção. 
+ 
+|
+Sempre que solicitadas pelo Sindicato Laboral, as Empresas farão a comprovação ao mesmo do recolhimento do FGTS de seus Trabalhadores. 
+|
+Em caso de descumprimento desta Convenção Coletiva de Trabalho e seu anexo, ocasionado pelos signatários ou pela empresa, a parte infratora pagará ao empregado ou entidade prejudicada, as multas estipuladas na respectiva cláusula infringida, ou, se inexistente a previsão, o equivalente a 01 (um) piso da categoria, por mês do descumprimento. Em qualquer caso a multa será cobrada por cláusula descumprida e não por empregado e será limitada no equivalente a 03 (três) pisos da categoria profissional. 
+|
+a)  Estabelecem as partes que na vigência da presente Convenção Coletiva de Trabalho serão realizadas mesas redondas de forma permanente, buscando a discussão e o aprimoramento das cláusulas sociais, bem com a solução de eventuais problemas e conflitos entre as categorias profissional e econômica. 
+b) As partes aqui convenentes decidem que, em qualquer situação que possa haver a necessidade de propositura de Ações Judiciais Coletivas pelos ora signatários em desfavor de Empresas que estejam submetidas à presente Convenção Coletiva de Trabalho, a partir de notificação formal da Empresa a ser realizada pelo Sindicato Patronal por solicitação do Sindicato Laboral, no prazo de 30 (trinta) dias deverão ocorrer quantas reuniões forem necessárias entre a Empresa, Sindicato Laboral e Sindicato Patronal para que busquem a solução administrativa do conflito antes da interposição de qualquer demanda. 
+|
+A presente Convenção Coletiva de Trabalho abrange as categorias econômicas e profissionais representadas pelas entidades convenentes nas suas respectivas bases territoriais, sendo: 
+BASE TERRITORIAL DA FEDERAÇÃO DAS INDÚSTRIAS DO ESTADO DO PARANÁ -  FIEP: Abatiá, Adrianópolis, Almirante Tamandaré, Altamira do Paraná, Alto Paraná, Alto Piquiri, Altônia, Alvorada do Sul, Amaporã, Andirá, Ângulo, Antonina, Antonio Olinto, Arapoti, Arapuã, Araruna, Araucária, Ariranha do Ivaí, Assai, Atalaia, Balsa Nova, Bandeirantes, Barbosa Ferraz, Barra do Jacaré, Bela Vista do Paraíso, Boa Esperança, Bocaiúva do Sul, Bom Sucesso do Sul, Bom Sucesso, Borrazópolis, Brasilândia do Sul, Cafeara, Cafelândia, Cafezal do Sul, Cambará, Campina da Lagoa, Campina Grande do Sul, Campo Largo, Campo Magro, Campo Mourão, Carlópolis, Castro, Centenário do Sul, Cerro Azul, Chopinzinho, Cianorte, Cidade Gaúcha, Clevelândia, Colombo, Colorado, Congonhinhas, Conselheiro Mairinck, Contenda, Cornélio Procópio, Coronel Domingos Soares, Coronel Vivida, Corumbataí do Sul, Cruzeiro do Oeste, Cruzeiro do Sul, Cruzmaltina, Curitiba, Diamante do Norte, Diamante d´Oeste, Diamante do Sul, Douradina, Doutor Camargo, Doutor Ulysses, Engenheiro Beltrão, Entre Rios do Oeste, Esperança Nova, Espigão Alto do Iguaçu, Farol, Faxinal, Fênix, Floraí,  Floresta, Florestópolis, Flórida, Formosa do Oeste, Foz do Iguaçu, Francisco Alves, Godoy Moreira, Goio-erê, Grandes Rios, Guairaçá, Guapirama, Guaporema, Guaraci, Guaraqueçaba, Guaratuba, Honório Serpa, Icaraíma, Iguaraçú, Inajá, Indianópolis, Iporã, Iracema do Oeste, Iretama, Itaguajé, Itaipulândia, Itambaracá, Itambé, Itaperuçu, Itaúna do Sul, Ivaí, Ivaiporã, Ivaté, Ivatuba, Jaboti, Jacarezinho, Jaguapitã, Jaguariaíva, Janiópolis, Japira, Japurá, Jardim Alegre, Jardim Olinda, Jataizinho, Ibiporã, Jesuítas, Joaquim Távora, Jundiaí do Sul, Juranda, Jussara, Kaloré, Laranjal, Leópolis, Lidianópolis, Loanda, Lobato, Luisiana, Lunardelli, Lupionópolis, Mamborê, Mandaguaçu, Mangueirinha, Manoel Ribas, Maria Helena, Marilândia do Sul, Marilena, Mariluz, Mariópolis, Marumbi, Matinhos, Mauá da Serra, Mercedes, Mirador, Miraselva, Moreira Sales, Morretes, Munhoz de Mello, Nossa Senhora das Graças, Nova Aliança do Ivaí, Nova América da Colina, Nova Aurora, Nova Cantú, Nova Esperança, Nova Fátima, Nova Londrina, Nova Olímpia, Nova Santa Bárbara, Nova Tebas, Novo Itacolomi, Ourizona, Paiçandu, Palmeira, Palmital, Paraíso do Norte, Paranacity, Paranaguá, Paranapoema, Paranavaí, Pato Branco, Peabiru, Perobal, Pérola, Pinhais, Pinhalão, Piraí do Sul, Piraquara, Planaltina do Paraná, Pontal do Paraná, Porecatu, Porto Amazonas, Porto Rico, Presidente Castelo Branco, Primeiro de Maio, Prudentópolis, Quarto Centenário, Quatiguá, Quatro Barras, Quedas do Iguaçu, Querência do Norte, Quinta do Sol, Rancho Alegre, Rancho Alegre d´Oeste, Ribeirão Claro, Ribeirão do Pinhal, Rio Bom, Rio Branco do Ivaí, Rio Branco do Sul, Roncador, Rondon, Rosário do Ivaí, Salto do Itararé, Santa Amélia, Santa Cecília do Pavão, Santa Cruz do Monte Castelo, Santa Fé, Santa Inês, Santa Isabel do Ivaí, Santa Mariana, Santa Mônica, Santana do Itararé, Santo Antônio da Platina, Santo Antônio do  Paraíso, Pato Bragado, Quatro Pontes, Santo Antônio do Caiuá, Santo Inácio, São  Jorge do Ivaí, São Carlos do Ivaí, São João do Caiuá, São João do Ivaí, São João do Triunfo, Ramilândia, Santa Helena, Santa Lúcia, Santa Terezinha de Itaipu, São João, São Jorge do Patrocínio, São José da Boa Vista, São Manoel do Paraná, São Mateus do Sul, São Miguel do Iguaçu, São Pedro do Iguaçu,  São Pedro do Ivaí, São Pedro do Paraná, São Sebastião da Amoreira, São Tomé, Saudade do Iguaçu, Serranópolis do Iguaçu, Sertaneja, Sertanópolis, Siqueira Campos, Sulina, Tamboara, Tapejara, Tapira, Terra Boa, Terra Rica, Tomazina, Tunas do Paraná, Tuneiras do Oeste, Ubiratã, Umuarama, Uniflor, Uraí, Vera Cruz do Oeste, Vila Alta, Vitorino, Wenceslau Braz e Xambrê;
+As empresas dos municípios abaixo, da categoria de VASSOURAS, não são abrangidas por esta Convenção Coletiva de Trabalho
+Ângulo; Assaí; Bela Vista do Paraíso; Bom Sucesso; Centenário do Sul; Florestópolis; Guaraci; Ibiporã; Iguaraçu; Jaguapitã; Jataizinho; Kaloré; Marilândia do Sul; Marumbi; Mauá da Serra; Miraselva; Munhoz de Mello; Novo Itacolomi; Rancho Alegre; Rio Bom; Santa Fé; São Sebastião da Amoreira; Sertanópolis e Uraí.
+BASE TERRITORIAL DA FEDERAÇÃO DOS TRABALHADORES NAS INDÚSTRIAS DA CONSTRUÇÃO E DO MOBILIÁRIO DO ESTADO DO PARANÁ – FETRACONSPAR: Farol;
+BASE TERRITORIAL DO SINDICATO DOS OFICIAIS MARCENEIROS E TRABALHADORES NAS INDÚSTRIAS DE SERRARIAS, MÓVEIS DE MADEIRAS, MÓVEIS DE JUNCO E VIME, DE VASSOURAS, ESCOVAS E PINCÉIS, CORTINADOS E ESTOFOS DO ESTADO DO PARANÁ: Adrianópolis, Almirante Tamandaré, Altamira do Paraná, Altônia, Alvorada do Sul, Andirá, Ângulo, Antônio Olinto, Arapoti, Arapuã, Araucária, Ariranha do Ivaí, Assaí, Balsa Nova, Bandeirantes, Barbosa Ferraz, Barra do Jacaré, Bocaiúva do Sul, Borrazópolis, Brasilândia do Sul, Cafeara, Cambará, Campina Grande do Sul, Campo Largo, Campo Magro, Carlópolis, Centenário do Sul, Cerro Azul, Colombo, Colorado, Contenda, Coronel Domingos Soares, Corumbataí do Sul, Cruzmaltina, Curitiba, Diamante do Oeste, Douradina, Doutor Ulysses, Faxinal, Fênix, Florestópolis, Foz do Iguaçu, Godoy Moreira, Grandes Rios, Guapirama, Guaraci, Icaraíma, Iguatu, Itaguajé, Itambaracá, Itaperuçu, Ivaí, Ivaiporã, Ivaté, Jacarezinho, Jaguapitã, Jardim Alegre, Joaquim Távora, Kaloré, Leópolis, Lidianópolis, Lunardelli, Lupionópolis, Manoel Ribas, Marilândia do Sul, Marumbi, Mauá da Serra, Miraselva, Nossa Senhora das Graças, Nova Santa Bárbara, Nova Tebas, Novo Itacolomi, Palmeira, Pinhais, Pinhalão, Piraí do Sul, Piraquara, Porecatu, Porto Amazonas, Primeiro de Maio, Quatro Barras, Quinta do Sol, Rancho Alegre, Ribeirão Claro, Rio Bom, Rio Branco do Ivaí, Rio Branco do Sul, Rosário do Ivaí, Salto do Itararé, Santa Inês, Santa Mariana, Santana do Itararé, Santo Antônio da Platina, Santo Inácio, São João do Ivaí, São João do Triunfo, São Jorge do Patrocínio, São José da Boa Vista, São Mateus do Sul, São Pedro do Ivaí, Sertaneja, Siqueira Campos, Sulina, Tapira, Tomazina, Tunas do Paraná, Uraí, Vera Cruz do Oeste e Wenceslau Braz; 
+Os trabalhadores dos municípios abaixo, da categoria de VASSOURAS, não são abrangidos por esta Convenção Coletiva de Trabalho
+Ângulo, Assaí, Centenário do Sul, Florestópolis, Guaraci, Jaguapitã, Kaloré, Marilândia do Sul, Marumbi, Mauá da Serra, Miraselva, Novo Itacolomi, Rancho Alegre, Rio Bom, Uraí,
+BASE TERRITORIAL DO SINDICATO DOS TRABALHADORES NAS INDÚSTRIAS DE PINCÉIS, PALITOS, ESCOVAS, SERRARIAS, MADEIRAS COMPENSADAS E LAMINADAS, AGLOMERADOS, CHAPAS DE FIBRAS DE MADEIRA, MÓVEIS DE MADEIRA E OFICIAIS 
+MARCENEIROS DE CASTRO: Castro;
+BASE TERRITORIAL DO SINDICATO DOS TRABALHADORES NAS INDÚSTRIAS DA CONSTRUÇÃO E DO MOBILIÁRIO DE CIANORTE: Araruna, Cafezal do Sul, Cianorte, Cidade Gaúcha, Cruzeiro do Oeste, Esperança Nova, Francisco Alves, Guaporema, Indianópolis, Iporã, Japurá, Jussara, Maria Helena, Nova Olímpia, Pérola, Rondon, São Manoel do Paraná; São Tomé, Tapejara, Terra Boa, Tuneiras do Oeste e Xambrê; 
+BASE TERRITORIAL DO SINDICATO DOS TRABALHADORES NAS INDÚSTRIAS DA CONSTRUÇÃO E DO MOBILIÁRIO DE GUARAPUAVA: Chopinzinho, Honório Serpa, Mangueirinha, Prudentópolis e Saudade do Iguaçu; 
+BASE TERRITORIAL DO SINDICATO DOS TRABALHADORES NAS INDÚSTRIAS MADEREIRAS, MOVELEIRAS E SIMILARES DE 
+JAGUARIAÍVA – SITIM/PR: Jaguariaíva; 
+BASE TERRITORIAL DO SINDICATO DOS TRABALHADORES NAS INDÚSTRIAS DA CONSTRUÇÃO E DO MOBILIÁRIO DE JATAIZINHO E IBIPORÃ: Jataizinho e Ibiporã; 
+Os trabalhadores dos municípios abaixo, da categoria de VASSOURAS, não são abrangidos por esta Convenção Coletiva de Trabalho
+Jataizinho e Ibiporã; 
+BASE TERRITORIAL DO SINDICATO DOS TRABALHADORES NAS INDÚSTRIAS DA CONSTRUÇÃO E DO MOBILIÁRIO DE LONDRINA: 
+Abatiá, Bela Vista do Paraíso, Congonhinhas, Conselheiro Mairinck, Cornélio Procópio, Jaboti, Japira, Jundiaí do Sul, Nova América da Colina, Nova Fátima, Quatiguá, Ribeirão do Pinhal, Santa Amélia, Santa Cecília do Pavão, Santo Antônio do Paraíso, São Sebastião da Amoreira e Sertanópolis; 
+Os trabalhadores dos municípios abaixo, da categoria de VASSOURAS, não são abrangidos por esta Convenção Coletiva de Trabalho
+Bela Vista do Paraíso, São Sebastião da Amoreira e Sertanópolis
+BASE TERRITORIAL DO SINDICATO DOS TRABALHADORES NAS INDÚSTRIAS DA CONSTRUÇÃO E DO MOBILIÁRIO DE MARINGÁ:
+ Atalaia, Bom Sucesso, Campo Mourão, Doutor Camargo, Engenheiro Beltrão, Floraí, Floresta, Flórida, Iguaraçu, Itambé, Ivatuba, Lobato, Mandaguaçu, Munhoz de Mello, Ourizona, Paiçandu, Peabiru, Presidente Castelo Branco, São Carlos do Ivaí, São Jorge do Ivaí, Santa Fé e Uniflor; 
+Os trabalhadores dos municípios abaixo, da categoria de VASSOURAS, não são abrangidos por esta Convenção Coletiva de Trabalho
+Bom Sucesso; Iguaraçu; Munhoz de Mello e Santa Fé
+BASE TERRITORIAL DO SINDICATO DOS TRABALHADORES NAS INDÚSTRIAS DA CONSTRUÇÃO E DO MOBILIÁRIO DE PARANAGUÁ: Antonina, Guaratuba, Guaraqueçaba, Matinhos, Morretes, Paranaguá e Pontal do Paraná; 
+BASE TERRITORIAL DO SINDICATO DOS TRABALHADORES NAS INDÚSTRIAS DA CONSTRUÇÃO E DO MOBILIÁRIO DE PARANAVAÍ: 
+Alto Paraná, Amaporã, Cruzeiro do Sul, Diamante do Norte, Guairaçá, Inajá, Itaúna do Sul, Jardim Olinda, Loanda, Marilena, Mirador, Nova Aliança do Ivaí, Nova Esperança, Nova Londrina, Paraíso do Norte, Paranacity, Paranapoema, Paranavaí, Planaltina do Paraná, Porto Rico, Querência do Norte, Santa Cruz do Monte Castelo, Santa Isabel do Ivaí, Santa Mônica, Santo Antônio do Caiuá, São João do Caiuá, São Pedro do Paraná, Tamboara e Terra Rica;
+BASE TERRITORIAL DO SINDICATO DOS TRABALHADORES NAS INDÚSTRIAS DA CONSTRUÇÃO E DO MOBILIÁRIO DE PATO BRANCO: Bom Sucesso do Sul, Coronel Vivida, Pato Branco, São João e Vitorino; 
+BASE TERRITORIAL DO SINDICATO DOS TRABALHADORES NAS INDÚSTRIAS DE SERRARIAS, CARPINTARIAS, TANOARIAS, MADEIRAS COMPENSADAS E LAMINADOS, AGLOMERADOS E CHAPAS DE FIBRAS DE MADEIRA, MARCENEIROS, INDÚSTRIAS DE MÓVEIS DE MADEIRA, MÓVEIS DE JUNCO E VIME, VASSOURAS, CORTINADOS E ESTOFADOS, ESCOVAS E PINCÉIS DE QUEDAS DE IGUAÇU: Espigão Alto do Iguaçu e Quedas do Iguaçu; 
+BASE TERRITORIAL DO SINDICATO DOS TRABALHADORES NAS INDÚSTRIAS DA CONSTRUÇÃO E DO MOBILIÁRIO DE UBIRATÃ: 
+Boa Esperança, Cafelândia, Campina da Lagoa, Formosa do Oeste, Goio-erê, Iracema do Oeste, Iretama, Janiópolis, Jesuítas, Juranda, Luisiana, Mamborê, Mariluz, Moreira Sales, Nova Aurora, Nova Cantú, Quarto Centenário, Rancho Alegre do Oeste, Roncador e Ubiratã; BASE TERRITORIAL DO SINDICATO DOS TRABALHADORES NAS INDÚSTRIAS DA CONSTRUÇÃO E DO MOBILIÁRIO DE UMUARAMA: Alto Piquiri, Perobal, Umuarama e Alto Paraíso; 
+BASE TERRITORIAL DO SINDICATO DOS TRABALHADORES NAS INDÚSTRIAS DA CONSTRUÇÃO E DO MOBILIÁRIO DE UNIÃO DA VITÓRIA: Bituruna, Clevelândia, Cruz Machado, General Carneiro, Mallet, Mariópolis, Paula Freitas, Paulo Frontin, Porto Vitória e, União da Vitória.
+BASE TERRITORIAL DO SINDICATO DOS TRABALHADORES NAS INDÚSTRIAS DA MADEIRA E DO MOBILIÁRIO DE CASCAVEL E REGIÃO – SINTRIMMOC: Diamante do Sul e Santa Lúcia;
+BASE TERRITORIAL DO SINDICATO DOS TRABALHADORES NAS INDÚSTRIAS DA CONSTRUÇÃO E DO MOBILIÁRIO DE MARECHAL CÂNDIDO RONDON: Entre Rios do Oeste, Mercedes, Pato Bragado e Quatro Pontes;  
+BASE TERRITORIAL DO SINDICATO DOS TRABALHADORES NAS INDÚSTRIAS DA CONSTRUÇÃO E DO MOBILIÁRIO DE MEDIANEIRA: Itaipulândia, Ramilândia, Santa Terezinha de Itaipu, São Miguel do Iguaçu e Serranópolis do Iguaçu;
+BASE TERRITORIAL DO SINDICATO DOS TRABALHADORES NAS INDÚSTRIAS DA CONSTRUÇÃO E DO MOBILIÁRIO DE TOLEDO: Santa Helena e São Pedro do Iguaçu.
+CLÁUSULA TRIGÉSIMA SEXTA - CRECHE
+As Empresas que contem com mais de 30 (trinta) mulheres em seu quadro funcional com mais de 16 (dezesseis) anos de idade, devem manter local apropriado para a guarda e vigilância dos filhos de suas empregadas, até que os mesmos completem 01 (um) ano de idade, podendo conceder, alternativamente, o reembolso das despesas havidas com creche, conforme condições adiante consignadas: 
+a)                   O valor do reembolso mensal das despesas corresponderá às despesas havidas e comprovadas com a guarda, vigilância e assistência ao filho(a) registrado(a), até o limite de 20% (vinte por cento) do piso salarial da categoria. 
+b)                  O reembolso será devido, independentemente do tempo de serviço na Empresa e até o(a) filho(a) completar 01 (um) ano de idade ou, antes dessa idade, na ocorrência da cessação do contrato de trabalho. 
+c)                   Na hipótese de adoção legal, o reembolso será devido em relação à(o) adotado(a), a partir da data da apresentação da respectiva comprovação legal à empresa e também até o limite de 01 (um) ano de idade. 
+d)                  Dado seu caráter substitutivo do preceito legal, bem como por ser meramente indenizatório de despesas e não remuneratório, o valor do reembolso não integrará a remuneração para quaisquer efeitos. 
+e)                   O reembolso beneficiará somente aquelas empregadas que estejam em serviço efetivo na empresa. 
+|
+Se obrigam as Empresas a manter nos locais de trabalho, estacionamento coberto para bicicletas e motocicletas, desde que tenham espaço físico adequado. 
+|
+As Empresas disponibilizarão local adequado para área de lazer de seus Trabalhadores, nos horários de descanso. 
+|
+a)                   Havendo a necessidade de deliberação que envolva jornada de trabalho, que compensa os dias anteriores e posteriores aos feriados, bem como outros dias do interesse das partes fica convencionado que, existindo divergência na deliberação a ser tomada, por divisão de opiniões, será considerada válida e certa a proposta que obtenha, através de votação 2/3 (dois terços) dos votos dos Trabalhadores envolvidos. 
+b)    Caberá ao Sindicato Laboral organizar o processo de votação, quando necessário. 
+c)    Os acordos deverão ser, obrigatoriamente, homologados pelo Sindicato Laboral. 
+|
+As partes convenentes decidem, por meio deste Instrumento, pela extinção das atividades da Câmara de Conciliação Prévia. 
+|
+Desde que solicitado pelo Trabalhador demitido sem justa causa ou demissionário, e que conste nos registros da Empresa, a mesma fornecerá declaração a respeito de cursos por ele concluídos, de sua participação em seminários e congressos, bem como, atividades do ensino profissional. 
+|
+Todas as empresas deverão elaborar o PPRA (NR nº 09, Lei nº 6.514 de 22/12/77) e PCMSO (NR nº 07, Portaria nº 08 de 08/05/96), conforme Legislação aplicável, comprometendo-se em encaminhar cópia ao Sindicato Profissional, quando solicitado. 
+|
+Fica eleito o foro da Comarca de Curitiba, com preferência sobre qualquer outro por mais especial que seja. 
+|
+As partes aqui convenentes, em consonância com o que dispõe a Portaria nº 373 do MTE, publicada no DOU no dia 28 de fevereiro de 2011, e com o intuito de criar meios alternativos para controle de jornada dos trabalhadores, estabelecem que as empresas poderão adotar as seguintes medidas para registro da jornada:
+a) registro manual;
+b) registro mecânico;
+c) registro eletrônico, qualquer que seja o equipamento utilizado, independente de fabricação e modelo.
+Parágrafo Único: Fica dispensado o registro na entrada e saída do intervalo para alimentação.
+|
+Durante a vigência desta CCT, caso haja alteração na legislação trabalhista, que conflite com cláusulas deste termo, as partes se reunirão para avaliá-las.
+|
+FEDERAÇÃO DOS TRABALHADORES NAS INDÚSTRIAS DA CONSTRUÇÃO E DO MOBILIÁRIO DO ESTADO DO PARANÁ - CNPJ 76.703.347/0001-62; SINDICATO DOS OFICIAIS MARCENEIROS E TRABALHADORES NAS INDÚSTRIAS DE SERRARIAS, MÓVEIS DE MADEIRAS, MÓVEIS DE JUNCO E VIME, DE VASSOURAS, ESCOVAS E PINCÉIS, CORTINADOS E ESTOFOS DO ESTADO DO PARANÁ - CNPJ: 76.686.609/0001-28; SINDICATO DOS TRABALHADORES NAS INDÚSTRIAS DE PINCÉIS, PALITOS, ESCOVAS, SERRARIAS, MADEIRAS COMPENSADAS E LAMINADAS, AGLOMERADOS, CHAPAS DE FIBRAS DE MADEIRA, MÓVEIS DE MADEIRA E OFICIAIS MARCENEIROS DE CASTRO - CNPJ: 00.787.201/0001-80; SINDICATO DOS TRABALHADORES NAS INDÚSTRIAS DA CONSTRUÇÃO E DO MOBILIÁRIO DE CIANORTE - CNPJ: 77.941.284/0001-45; SINDICATO DOS TRABALHADORES NAS INDÚSTRIAS DA CONSTRUÇÃO E DO MOBILIÁRIO DE GUARAPUAVA - CNPJ: 75.643.619/0001-13; SINDICATO DOS TRABALHADORES NAS INDÚSTRIAS MADEREIRAS, MOVELEIRAS E SIMILARES DE JAGUARIAÍVA - CNPJ: 04.239.799/0001-24; SINDICATO DOS TRABALHADORES NAS INDÚSTRIAS DA CONSTRUÇÃO E DO MOBILIÁRIO DE JATAIZINHO E IBIPORÃ - CNPJ: 80.921.513/0001-74; SINDICATO DOS TRABALHADORES NAS INDÚSTRIAS DA CONSTRUÇÃO E DO MOBILIÁRIO DE LONDRINA - CNPJ: 78.635.885/0001-92; SINDICATO DOS TRABALHADORES NAS INDÚSTRIAS DA CONSTRUÇÃO E DO MOBILIÁRIO DE MARINGÁ - CNPJ: 79.147.005/0001-00; SINDICATO DOS TRABALHADORES NAS INDÚSTRIAS DA CONSTRUÇÃO E DO MOBILIÁRIO DE PARANAGUÁ - CNPJ: 78.179.009/0001-07; SINDICATO DOS TRABALHADORES NAS INDÚSTRIAS DA CONSTRUÇÃO E DO MOBILIÁRIO DE PARANAVAÍ - CNPJ: 77.188.571/0001-26; SINDICATO DOS TRABALHADORES NAS INDÚSTRIAS DA CONSTRUÇÃO E DO MOBILIÁRIO DE PATO BRANCO - CNPJ: 80.872.153/0001-68; SINDICATO DOS TRABALHADORES NAS INDÚSTRIAS DE SERRARIAS, CARPINTARIAS, TANOARIAS, MADEIRAS COMPENSADAS E LAMINADOS, AGLOMERADOS E CHAPAS DE FIBRAS DE MADEIRA, MARCENEIROS, INDÚSTRIAS DE MÓVEIS DE MADEIRA, MÓVEIS DE JUNCO E VIME, VASSOURAS, CORTINADOS E ESTOFADOS, ESCOVAS E PINCÉIS DE QUEDAS DE IGUAÇU - CNPJ: 95.587.721/0001-56; SINDICATO DOS TRABALHADORES NAS INDÚSTRIAS DA CONSTRUÇÃO E DO MOBILIÁRIO DE UBIRATÃ - CNPJ: 78.681.483/0001-24; SINDICATO DOS TRABALHADORES NAS INDÚSTRIAS DA CONSTRUÇÃO E DO MOBILIÁRIO DE UMUARAMA - CNPJ: 76.724.780/0001-84; SINDICATO DOS TRABALHADORES NAS INDÚSTRIAS DA CONSTRUÇÃO E DO MOBILIÁRIO DE MARECHAL CÂNDIDO RONDON – CNPJ: 77.804.961/0001-83; SINDICATO DOS TRABALHADORES NAS INDÚSTRIAS DA CONSTRUÇÃO E DO MOBILIÁRIO DE MEDIANEIRA – CNPJ: 77.817.336/0001-76; SINDICATO DOS TRABALHADORES NAS INDÚSTRIAS DA CONSTRUÇÃO E DO MOBILIÁRIO DE TOLEDO – CNPJ: 78.684.560/0001-08; SINDICATO DOS TRABALHADORES NAS INDÚSTRIAS DA MADEIRA E DO MOBILIÁRIO DE CASCAVEL E REGIÃO – SINTRIMMOC – CNPJ: 73.590.457/0001-77 e SINDICATO DOS TRABALHADORES NAS INDÚSTRIAS DA CONSTRUÇÃO E DO MOBILIÁRIO DE UNIÃO DA VITÓRIA - CNPJ: 81.646.564/0001-06. 
+|
+Faz parte integrante da presente CCT o ANEXO I que contém Cláusulas com direitos dos Trabalhadores previstos pela Legislação Laboral vigente. 
+ 
+ 
+ANEXO I
+CONVENÇÃO COLETIVA DE TRABALHO 2012/2013
+ 
+1 - FERRAMENTAS 
+a)                   É de responsabilidade das Empresas o fornecimento de todas as ferramentas necessárias para o desenvolvimento do trabalho, ficando proibida a exigência de qualquer ferramenta por parte do Empregador. 
+b)                  Os Trabalhadores se obrigam ao uso devido, a manutenção e limpeza adequada das ferramentas que receberem. As ferramentas deverão ser substituídas pelas Empresas, sempre que apresentarem desgastes ou defeitos que possam comprometer a segurança do Trabalhador. 
+c)                   Para solicitação de substituição das ferramentas, deverão os Trabalhadores devolver aquelas até então utilizadas, efetuando também a devolução por ocasião de rescisão ou extinção do contrato de trabalho. 
+d)                  Não se permite o desconto salarial por quebra de ferramentas, salvo nas hipóteses de dolo, culpa ou recusa da apresentação das ferramentas danificadas. 
+ 
+2 - EQUIPAMENTOS DE PROTEÇÃO INDIVIDUAL (EPI's) 
+a)                   A Empresa fornecerá aos Trabalhadores os EPI necessários, a serem utilizados nos locais de trabalho e serviços onde os Equipamentos de Proteção Coletiva não eliminem por completo os riscos e agressões ambientais. 
+b)                  Os EPI's deverão ser adaptados de acordo com a necessidade do usuário, em caso de eventual deficiência física. 
+c)                   Os Trabalhadores se obrigam ao uso devido, a manutenção e limpeza adequada dos EPI's. 
+d)                  Os Equipamentos de Proteção Individual deverão ser substituídos pela Empresa, sempre que apresentarem desgastes ou defeitos que possam comprometer a segurança ou a saúde do Trabalhador. 
+e)                   Para solicitação de substituição dos EPI's, deverão os Trabalhadores devolver aqueles até então utilizados efetuando também a devolução por ocasião da rescisão ou extinção do contrato de trabalho. 
+f)                    Os EPI's fornecidos pela Empresa deverão possuir Certificado de Aprovação e possibilitar condições de conforto no uso pelos Trabalhadores. 
+g)                  Não se permite o desconto salarial por dano nos EPI's, salvo nas hipóteses de dolo, culpa, ou recusa de apresentação dos equipamentos danificados. 
+ 
+3 - UNIFORMES 
+a)                   A Empresa fornecerá ao Trabalhador, gratuitamente, o uniforme necessário para o desenvolvimento do trabalho.
+b)                  Os Trabalhadores se obrigam ao uso devido, a manutenção e limpeza adequada dos uniformes que receberem.
+c)                   Os Uniformes deverão ser substituídos pela Empresa, sempre que apresentarem desgastes ou defeitos que possam comprometer a segurança ou a saúde do Trabalhador.
+d)                  Para solicitação de substituição dos Uniformes, deverão os Trabalhadores devolver aqueles até então utilizados, efetuando também a devolução por ocasião da rescisão ou extinção do contrato de trabalho. 
+e)                   Os uniformes deverão possibilitar aos Trabalhadores plenas condições de conforto. 
+f)                    Não se permite o desconto salarial por dano nos uniformes, salvo nas hipóteses de dolo, culpa ou recusa de apresentação das peças danificadas. 
+g)                  As empresas poderão, a seu critério, disponibilizar a seus empregados vestiários, que serão de uso facultativo. O tempo despendido pelos trabalhadores que optarem pelo uso destas instalações para troca de uniforme e higiene pessoal não será computado na jornada de trabalho.
+ 
+4 - COMPROVANTES DE PAGAMENTO 
+As Empresas fornecerão obrigatoriamente aos Trabalhadores, os comprovantes de pagamento (envelopes ou recibos), especificando o nome da Empresa, do Trabalhador, e as parcelas a qualquer título, de forma discriminada, o valor do recolhimento do FGTS e os descontos efetuados. 
+ 
+5 - RECEBIMENTO E ENTREGA DA CTPS 
+As Empresas procederão às anotações na Carteira de Trabalho e Previdência Social dos Trabalhadores no prazo de 48 (quarenta e oito) horas, fornecendo recibo por ocasião de sua apresentação e entrega, bem como, de outros documentos. 
+ 
+6 - EXAMES MÉDICOS 
+As despesas correspondentes aos exames médicos admissional, demissional ou periódico serão de responsabilidade das Empresas, devendo ser realizados preferencialmente por médicos do trabalho, não coincidindo com o gozo de férias do Trabalhador e nem com o período de redução do aviso prévio. 
+Parágrafo Primeiro: Quando do retorno do Empregado afastado por mais de 30 (trinta) dias, independente do motivo de afastamento no regresso a Empresa deverá realizar o exame médico. 
+Parágrafo Segundo: Cópia do resultado dos exames deverá ser fornecida ao Empregado, que confirmará o recebimento assinado os originais. 
+ 
+7 - CIPA 
+Serão observadas as seguintes disposições relativas à CIPA. 
+1)                   As Empresas com mais de 20 (vinte) Trabalhadores deverão constituir CIPA, de acordo com o dimensionamento previsto no quadro I da NR.5. 
+2)                   As Empresas com menos de 20 (vinte) Trabalhadores deverão designar um responsável pelo cumprimento dos objetivos da NR.5. 
+3)                   A eleição da CIPA será convocada no prazo mínimo de 60 (sessenta) dias antes do término do mandato em curso. 
+4)                   A empresa remeterá ao Sindicato Laboral, em 03 (três) dias após a convocação, cópia do edital que convocou a eleição da CIPA, liberando à mesma participação no evento. 
+5)                   O presidente e o vice-presidente da CIPA constituirão dentre seus membros, no prazo mínimo de 55 (cinqüenta e cinco) dias antes do término do mandato em curso, a comissão eleitoral (CE), que será a responsável pela organização e acompanhamento do processo eleitoral. 
+6)                   Nos estabelecimentos onde não houver CIPA a comissão eleitoral será constituída conjuntamente pela Empresa e pelo Sindicato Laboral. 
+7)                   O processo eleitoral observará as seguintes condições: 
+a)                   Publicação e divulgação do edital em locais de fácil acesso e visualização pelos Trabalhadores, no prazo mínimo de 60 (sessenta) dias antes do término do mandato em curso, contendo o local e o prazo para inscrição dos trabalhadores interessados. 
+b)                  Inscrição e eleição individual, sendo que o período mínimo para inscrição será de 15 (quinze) dias. 
+c)                   Liberdade de inscrição para todos os Trabalhadores do estabelecimento, independente de setores ou locais de trabalho, com fornecimento de comprovante. 
+d)                  Garantia de emprego para todos os inscritos até a eleição. 
+e)                   Realização da eleição no prazo mínimo de 30 (trinta) dias antes do término do mandato da CIPA, quando houver. 
+f)                    Realização da eleição em dia normal de trabalho, respeitando os horários de turnos e em horário que possibilite a participação da maioria dos Trabalhadores. 
+g)                  Voto secreto. 
+h)                  Apurarão dos votos, em horário normal de trabalho, com acompanhamento de representante da Empresa e dos Trabalhadores, em número a ser definido pela comissão eleitoral. 
+i)                    Faculdade de eleição por meios eletrônicos. 
+j)                    Guarda pela Empresa, de todos os documentos relativos à eleição, por um período mínimo de 05 (cinco) anos. 
+8)                   Havendo participação inferior a 50% (cinqüenta por cento) dos Trabalhadores na votação, não haverá a apuração dos votos e a comissão eleitoral deverá organizar outra votação, a qual ocorrerá no prazo máximo de 10 (dez) dias. 
+9)                   A Empresa garantirá aos membros efetivos da CIPA, representantes dos Trabalhadores, em conjunto ou separadamente, 01 (uma) hora por semana, dentro do período normal de trabalho, para a realização de inspeção de higiene e segurança no trabalho, no âmbito da Empresa. 
+10)                A Empresa enviará ao Sindicato Laboral, após a eleição, cópia da ata de posse da nova diretoria, no prazo de 14 (quatorze) dias. 
+11)                A Empresa comunicará ao Sindicato Laboral, com antecedência mínima de 15 (quinze) dias, a realização da Semana Interna de Prevenção de Acidentes, liberando ao mesmo plena participação. 
+12)                É vedada a dispensa arbitrária ou sem justa causa do Trabalhador eleito como membro para cargo de direção da Comissão Interna de Prevenção de Acidentes, titular ou suplente, desde o registro de sua candidatura até um ano após o final de seu mandato. 
+ 
+8 - TRANSPORTES DE ACIDENTADOS, DOENTES E PARTURIENTES 
+Obriga-se o empregador a transportar, de maneira adequada, o empregado, com urgência para local apropriado, em caso de acidente, mal súbito ou parto, desde que ocorra no horário de trabalho. 
+ 
+9 - TURNOS ININTERRUPTOS DE TRABALHO 
+Ressalvada a não redução de salários, fica assegurado o trabalho em turnos ininterruptos de revezamento, com jornadas de 06 (seis) horas diárias. Alteração da referida jornada, deverá ser precedida de acordo entre as empresas e os trabalhadores diretamente atingidos, com assistência do Sindicato Laboral, para o estabelecimento das condições de trabalhos. 
+ 
+10 - AMAMENTAÇÃO 
+Para a amamentação do próprio filho, de até 06 (seis) meses de idade, a mulher terá direito a 02 (dois) períodos de 30 (trinta) minutos diários, nos horários que melhor lhe convier.
+
+ 
+ 
+ 

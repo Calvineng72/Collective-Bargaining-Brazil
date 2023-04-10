@@ -1,0 +1,143 @@
+<STARTofTITLE>
+Mediador - Extrato Acordo Coletivo
+<ENDofTITLE>
+
+<STARTofVALIDITY>
+semvalorlegal
+<ENDofVALIDITY>
+
+<STARTofHEADERS>
+NÚMERO DA SOLICITAÇÃO|MR003082/2012
+DATA E HORÁRIO DA TRANSMISSÃO|24/01/2012ÀS10:37
+NÚMERO DO PROCESSO|46290.000138/2012-33
+DATA DO PROTOCOLO|13/02/2012
+<ENDofHEADERS>
+
+<STARTofCOUNTERPART1>
+SIND DOS TRAB NAS IND DE FIACAO TEC DE ANAPOLIS|01.688.829/0001-91|Membro de Diretoria Colegiada|ROMUALDO PEDRO DE PAULA
+<ENDofCOUNTERPART1>
+<STARTofCOUNTERPART2>
+COPALIMPA INDUSTRIA TEXTIL LTDA|06.042.880/0001-45|Empresário|HELIO FERREIRA DE BRITO
+<ENDofCOUNTERPART2>
+
+<STARTofSTARTDATE>
+1/11/2011
+<ENDofSTARTDATE>
+<STARTofEXPRIRATIONDATE>
+30/10/2012
+<ENDofEXPIRATIONDATE>
+
+<STARTofRENEGOTIATION>
+1/11
+<ENDofRENEGOTIATION>
+
+<STARTofCATEGORY>
+Trabalhadores nas Indústrias de Fiação e Tecelagem, plano da CNTI,
+<ENDofCATEGORY>
+<STARTofGEOGRAPHY>
+Anápolis/GO
+<ENDofGEOGRAPHY>
+
+<STARTofCLAUSES>
+Piso Salarial|PISO SALÁRIAL DE INGRESSO
+Reajustes/Correções Salariais|DO REAJUSTE SALARIAL
+Outras normas referentes a salários, reajustes, pagamentos e critérios para cálculo|DEMONSTRATIVO SALARIAL
+Adicional de Hora-Extra|DAS HORAS  EXTRAS
+Prêmios|DA ALIMENTAÇÃO
+Auxílio Transporte|DA CONCESSÃO DO VALE TRANSPORTE
+Desligamento/Demissão|DO FORNECIMENTO AAS DECLARAÇÃO DE  REDIMENTO PARA FINS DE IMPOSTO DE RENDA
+Mão-de-Obra Temporária/Terceirização|TERCEIRIZAÇÃO
+Outras normas referentes a admissão, demissão e modalidades de contratação|RESCISÃO CONTRATUAL APÓS O PRAZO LEGAL
+Estabilidade Mãe|ESTABILIDADE DA GESTANTE
+Estabilidade Aposentadoria|COMUNICADO DE PRÉ APOSENTADORIA
+Duração e Horário|REGIME DE HORARIO DE TRABALHO
+Compensação de Jornada|COMPENSAÇÃO DE HORARIO DE TRABALHO NO SABADO
+Faltas|FALTAS JUSTIFICADAS
+Férias Coletivas|DAS FÉRIAS
+Equipamentos de Proteção Individual|FORNECIMENTO DE EQUIPAMENTO DE PROTEÇÃO
+Uniforme|FORNECIMENTO DE UNIFORMES
+CIPA – composição, eleição, atribuições, garantias aos cipeiros|CIPA
+Primeiros Socorros|ACIDENTES DO TRABALHO
+Sindicalização (campanhas e contratação de sindicalizados)|SINDICALIZAÇÃO
+Garantias a Diretores Sindicais|LICENÇA PARA DIRIGENTES SINDICAIS
+Contribuições Sindicais|CONTRIBUIÇÃO PARA CAMPANHA SALARIAL
+Mecanismos de Solução de Conflitos|DO FÓRUM
+Mecanismos de Solução de Conflitos|PENAL
+<ENDofCLAUSES>
+
+<STARTofAPPENDICES>
+
+<ENDofAPPENDICES>
+
+<STARTofAPPTEXT>
+
+<ENDofAPPTEXT>
+
+<STARTofTEXT>
+Fica assegurado aos representados pelo STIFTA, neste ACT, piso salárial de R$640,00(Seiscentos e quarenta reais).
+|
+A partir de novembro de 2011, sobre os salários nominais vigentes será aplicado a titulo de reajuste salarial o índice de 6%(Seis por cento), sendo 3% (Três por cento) em novembro e mais 3%(Três por cento) em dezembro de 2011.
+|
+A empresa fornecerá aos empregados poe ocasião do pagamento dos salários comprovante nos quais contam salários recebidos números de horas extras, descontos efetuados recolhimento feitos adicionais pagos, horas noturnas trabalhadas descanso semanal renumerado além de outras parcelas que acresçam ou oneram a renumeração.
+|
+As horas extras serão renumeradas na forma da lei.
+|
+A empresa fornecerá a todos seus empregados refeição, o empregado pagará apenas a importância de 1,14(Um real e quatorze centavos), por refeição fornecida.
+|
+Fica o empregador obrigado a fornecer o transporte a seus empregados por meio próprios ou mediante vale transporte de acordo com a lei nº 7418, de 16/12/85, entre o  local de sua residência e o local de trabalho e vice versa.
+PARÁGRAFO ÚNICO - A empresa que tem transporte próprio fornecerá  ônibus gratuito para todos trabalhadores de ida e volta.
+|
+A empresa fornecerá aos empregados quando os mesmos solicitarem declaração  de rendimento para efeito de imposto de renda, declaração de salários e de contribuição.
+PARÁGRAFO ÚNICO - A empresa se obrigam a fornecer recibos de documentos pessoais entregues por seus empregados para quaisquer finalidades relacionadas com seu contrato de trabalho, discriminando os documentos recebidos e as datas de recebimento e devolução dos mesmos, sempre que o empregado exigir.
+|
+As empresas prestadora de serviço(Terceirização), fiaca vinculada a seguir este Acordo Coletivo de Trabalho.
+|
+Os empregados que fuzerem a quitação do contrato de trabalho ao empregado após o prazo determinado no parágrafo 4º do art. 477 da CLT. e Instrução Normativa MTPS/SNT nº 2 de 12/03/92, ficam obrigados ao pagamento da multa a favor do empregado em valor equivalente a seu salário devidamente corrigida pelo INPC/IBGE, ou outro índice que venha substitui-lo salvo quando comprovadamente o trabalhador der causa a mora.
+PARÁGRAFO ÚNICO -  Ocorrendo desligamento de qualquer empregado por qualquer notivo o empregador fornecerá ao empregado desligado declaração de rendimento para efeito de imposto de renda e o atestado de afastamento, de salários (AAS) para fins de beneficio do INSS, bem como o PPP.
+|
+A empresa assegurará a estabilidade conforme a legislação.
+|
+O trabalhador que estiver completando o período para se aposentar deverá comunicar a  empresa por escrito com antecedência mínima de 12(Doze) meses para que possa ser feita análise da situação do trabalhador pela empresa.
+|
+A critério da empresa poderão ser adotados os seguintes regimes de horario de trabalho:
+( 6 x 2)( Seis dias consecutivos de trabalho com dois dias consecutivos de folga).
+PARÁGRAFO PRIMEIRO - No regime de trabalho 6 x 2(Seis dias consecutivos de trabalho com dois dias consecutivos de folga), compensa as eventuais horas que excederam a carga horaria semanal prevista na carta magna no art. 7º, inciso Xlll. O regime de trabalho 12 x 36, caso seja necessário poderá se adotado só no setor de portaria e segurança.
+PARÁGRAFO SEGUNDO - Os horarios das 05:00 as 13:30 hs, e das 13:30 as 22:00 hs, e das 22:00 as 05:00 hs, e o quarto turno das 07:00 as 16:00 hs,  e administração das 08:00 as 18:00 hs, os trabalhadores terão 01(Uma) hora de descanso, sendo obrigatório o registro do ponto no inicio e no final do intervalo de descanso.
+|
+Para os empregados que trabalho compensando o sábado durante a semana quando for feriado no respectivo dia não será necessário trabalhar as horas na semana que antecede. No entanto quando o feriado ocorrer durante a semana em algum dos dias compreendidos entre segunda feira e quinta feira o trabalho na sexta feira será prorrogado por mais uma hora a fim de completar a compensação devida sem que isso implique em prestação de horas extras.
+|
+Os trabalhadores poderão deixar de comparecer ao trabalho sem prejuizo ao salário:
+A - Até 03(Três) dias útil em caso de casamento.
+B - Até 05(Cinco) dias consecutivos a partir do nascimento do filho(a).
+C - As ausências do empregado por motivo de internação do esposo(a), companheiro(a), do filho(a), devidamente comprovado acarretarão o não pagamento da horas correspondentes não havendo, porém o desconto das horas DSR respectiva, mediante autorização da empresa. Os atestados médicos só serão aceitos com (CID, carimbo do médico e assinatura).
+D - Por 2(Dois) dias previstos no artigo 473 inciso 1 da CLT, acrescidos de mais 02(Dois) dias totalizando 04(Quatro) dias consecutivo em caso de falecimento de cônjuge,  filho(a), ou pais.
+E - Por 02(Dois) dias consecutivos no caso de falecimento de irmão e sogros e avós.
+F - Por 01(Um) dia em cada 12(Doze) meses de trabalho em caso de doação de sangue devidamente comprovado.
+|
+Os empregados quando da concessão de férias coletivos se obrigam a comunicar esta ocorrência ao Sindicato da Categaria, com antecedência mínima de 15(Quinze) dias conforme o artigo 139 da CLT.
+PARÁGRAFO ÚNICO - A empresa comunicará aos seus empregados a data de inicio do período de gozo de férias com 30(Trinta) dias de antecedência e o inicio das férias não poderão coincidir com domingos, feriados ou dias compensados, e o pagamento correspondente as férias será efetuado com 05(Cinco) dias antes do respectivo inicio. O inicio das férias será fixado a partir do 1º (Primeiro) dia útil da semana.
+|
+A empresa ficará obrigada a fornecer gratuitamente E.P.I. (Equipamento de proteção individual) e material necessário ao trabalhador quando exigisdo por lei ou pelo empregador, serão fornecidos gratuitamente ao empregado e devolvido ao empregador quando do desligamento da empresa.
+PARÁGRAFO ÚNICO - Em caso de perda ou uso inadequado dos E.P.I.(Equipamento de proteção  individual), o empregado deverá arcar com o custos dos mesmos.
+|
+A empresa fica obrigada a fornecer gratuitamente uniformes de trabalho a todos seus empregados, quando a mesma exigir ou quando de uso obrigatório e de acordo com a necessidade.
+|
+A empresa se compromete enviar a entidade sindical a relação dos membros da CIPA eleitos no prazo de 15(Quinze) dias após a posse.
+|
+A empresa se obriga a comunicar aos familiares do acidentado quando o mesmo estiver que ser levado de imediato do local de trabalho para o hospital, desde que o endereço esteja atualizado.
+PARÁGRAFO ÚNICO - Nos casos de acidente do empregado que esteja em horario de trabalho a empresa se obriga a providenciar o seu transporte para assistência médica.
+|
+A empresa prestará imformações sobre como sindicalizar a todos trabalhadores interessados que for admitidos a partir da data de homologação deste Acordo Coletivo de Trabalho. E a empresa descontará o valor de 01(Um) por cento sobre o salário de cada trabalhador sindicalizado e repassará ao sindicato até 10(Décimo) dia de cada m~es.
+PARÁGRAFO  PRIMEIRO - A empresa permitirá acesso de pessoas credenciadas pela entidade sindical para entrega de documentos ou prestar serviços de informações.
+PARÁGRAFO SEGUNDO - A  empresa permitirá ao sindicato ccolocar em seu quadro de avisos cópias do  presente Acordo Coletivo de Trabalho, e cartazes com aviso referente ao sindicato.
+|
+Será concedida licença renumerada aos dirigentes titulares do sindicato para participação em congressos , confer~encias, seminários e sempre que houver necessidade do sindicato com prévia comunicação a empresa desde seja solicitada pelo presidente da entidade com antecedência mínima de 05(Cinco) dias.
+|
+A empresa ficará responsável ao pagamento da contribuição para campanha salarial de todos os seus empregados a importância equivalente de 1/30(Um trinta avos), que equivale a um dia de trabalho sobre o salário da folha de pagamento do mês de novembro de 2011, e junho de 2012.
+PARÁGRAFO ÚNICO - O empregado ficará responsável a repassar a importância da contribuição para campanha salarial ao sindicato até o 10(Décimo) dia do mês. se a empresa não efetuar o pagamento no prazo acima fica convencionada uma multa por atraso de 5%(Cinco por cento) ao mês.
+|
+As controvérsias resultantes da aplicação deste Acordo Coletivo de Trabalho, de acordo com os artigos 625 e 644 letra C da CLT, serão dirimidas pela justiça do trabalho fórum nesta cidade.
+|
+Fica cominada multa no valor equivalente a 1/10(Um décimo) do piso salarial por infração e por trabalhador a parte acordante que infrigiu as normas pactuadas neste acordo.
+E, por estarem justas e acordadas firmam, o presente Acordo Coletivo de Trabalho em Três vias de igual teor para que seja produza seus legais efeitos observando o disposto no artigo 614 da CLT.
+Anápolis, 23 de janeiro de 2012

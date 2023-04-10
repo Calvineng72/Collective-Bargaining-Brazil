@@ -1,0 +1,66 @@
+<STARTofTITLE>
+Mediador - Extrato Acordo Coletivo
+<ENDofTITLE>
+
+<STARTofVALIDITY>
+semvalorlegal
+<ENDofVALIDITY>
+
+<STARTofHEADERS>
+NÚMERO DA SOLICITAÇÃO|MR073403/2013
+<ENDofHEADERS>
+
+<STARTofCOUNTERPART1>
+SINDICATO DOS TRABS NAS INDS DA CONST, DO MOBILIARIO, CIMENTO, CAL, GESSO E MONTAGEM INDUSTRIAL DE ITAPEVA|49.801.459/0001-83|Presidente|NORIVAL ROMEDA
+<ENDofCOUNTERPART1>
+<STARTofCOUNTERPART2>
+EMBALATEC INDUSTRIAL LTDA|69.020.915/0005-99|Sócio|ROSANGELA MARIA DA SILVA SOUZA
+<ENDofCOUNTERPART2>
+
+<STARTofSTARTDATE>
+01/06/2013
+<ENDofSTARTDATE>
+<STARTofEXPRIRATIONDATE>
+31/05/2014
+<ENDofEXPIRATIONDATE>
+
+<STARTofRENEGOTIATION>
+01/05
+<ENDofRENEGOTIATION>
+
+<STARTofCATEGORY>
+Serrarias
+<ENDofCATEGORY>
+<STARTofGEOGRAPHY>
+Itararé/SP
+<ENDofGEOGRAPHY>
+
+<STARTofCLAUSES>
+Prêmios|PREMIO DE ASSIDUIDADE
+Prêmios|O PREMIO SERA CREDITADO MENSALMENTE
+Prêmios|AOS FUNCIONÁRIOS QUE NÃO TIVEREM NENHUM TIPO DE AUSENCIA
+Prêmios|O PREMIO ASSIDUIDADE PREVISTO NAS CLAUSULAS ACIMA.
+Prêmios|EM CONTRA PARTIDA OS VALORES REFERENTES PLR
+<ENDofCLAUSES>
+
+<STARTofAPPENDICES>
+
+<ENDofAPPENDICES>
+
+<STARTofAPPTEXT>
+
+<ENDofAPPTEXT>
+
+<STARTofTEXT>
+Premio de assiduidade , ora definido como um premio de a todos os fu8ncionários de sua unidade de Itararé, destinados a premiar aqueles funcionários que
+não faltarem ao serviço mo transcurso do mes.  
+|
+No dia 20 de cada mês, no cartão vale alimentação no valor de R$ 57,00 ( cinquenta e sete ) reais aqueles funcionários que não tiverem ausencia superior a 4 h no mes, desde
+que estas horas estejam devidamente atestadas. Paragrafo Primeiro : o premio assiduidade pactuado pelo presente instrumento não incorporará aos salários,nem tampouco
+haverá incidencia de INSS ou quaisquer encargos trabalhistas. 
+|
+As ausencias ( nem mesmo as 4 h compravadas) ao final do período ( junho / 13 a maio / 2014 ) receberão um  "Plus", que consiste em um crédito de mais  R$ 96,00 ( noventa e seis ) reais , no cartão alimentação. 
+|
+não se aplicam a liderança. Paragrafo primeiro: A liderança receberá um premio Produtividade mensal, quando cumprida a meta de 16 metros cubicos de produção e 1.000 cubicos de serraria , sendo creditado no cartão alimentação o mesmo valor em igual prazo.Paragrafo segundo : O plus funcionará da mesma forma, ou seja atingirem todos os meses receberão o Plus. 
+|
+serão aqueles fixados em Convenção Coletiva de Trabalho celebrada em ambito intermunicipal entre o sindicato dos Trabalhadores e Sindicato Patronal.Nos temos do artigo 3 ( terceiro ) da Lei 10.101/2000, os valores pagos a titlulo de PLR não integrarão a remuneração do empregado e , portanto, não constitui base de incidência de qualquer encargo trabalhista ou previdenciario, não se lhe aplicando, tambem o principio de habitualidade. 

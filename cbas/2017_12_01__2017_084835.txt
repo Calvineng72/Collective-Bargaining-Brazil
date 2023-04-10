@@ -1,0 +1,91 @@
+<STARTofTITLE>
+Mediador - Extrato Acordo Coletivo
+<ENDofTITLE>
+
+<STARTofVALIDITY>
+carimbo
+<ENDofVALIDITY>
+
+<STARTofHEADERS>
+NÚMERO DE REGISTRO NO MTE|RO000006/2018
+DATA DE REGISTRO NO MTE|17/01/2018
+NÚMERO DA SOLICITAÇÃO|MR084835/2017
+NÚMERO DO PROCESSO|46216.000009/2018-23
+DATA DO PROTOCOLO|17/01/2018
+<ENDofHEADERS>
+
+<STARTofCOUNTERPART1>
+SIND DOS TRB NAS IND E DIST DE BEBIDAS E SIM NO EST RO|34.717.710/0001-59|Presidente|RAIMUNDO NONATO INACIO DA CRUZ
+<ENDofCOUNTERPART1>
+<STARTofCOUNTERPART2>
+MAJESTIC INDUSTRIA E COMERCIO DE BEBIDAS LTDA|15.442.509/0001-61|Presidente|ANAUA DE MENDONCA MELLO ORTIGOSA FERNANDES
+<ENDofCOUNTERPART2>
+
+<STARTofSTARTDATE>
+01/12/2017
+<ENDofSTARTDATE>
+<STARTofEXPRIRATIONDATE>
+30/11/2018
+<ENDofEXPIRATIONDATE>
+
+<STARTofRENEGOTIATION>
+01/12
+<ENDofRENEGOTIATION>
+
+<STARTofCATEGORY>
+TRABALHADORES NAS INDÚSTRIAS DE BEBIDAS E SIMILARES NO ESTADO DE RONDÔNIA
+<ENDofCATEGORY>
+<STARTofGEOGRAPHY>
+Porto Velho/RO
+<ENDofGEOGRAPHY>
+
+<STARTofCLAUSES>
+Outras Disposições|DA FORMA E MODALIDADE DO ACORDO:
+Outras Disposições|DA ANTECEDÊNCIA:
+Outras Disposições|DO BANCO DE HORAS:
+Outras Disposições|DO CONTROLE DAS HORAS:
+Outras Disposições|DA DURAÇÃO DA JORNADA SEMANAL DE TRABALHO:
+Outras Disposições|DA COMPENSAÇÃO DAS HORAS:
+Outras Disposições|DO SALDO DE HORAS
+Outras Disposições|DA CONCESSÃO DE BENEFÍCIO
+Outras Disposições|PENALIDADES
+Outras Disposições|DA DURAÇÃO E VIGÊNCIA DO ACORDO:
+<ENDofCLAUSES>
+
+<STARTofAPPENDICES>
+ATA
+<ENDofAPPENDICES>
+
+<STARTofAPPTEXT>
+
+Anexo (PDF)
+
+<ENDofAPPTEXT>
+
+<STARTofTEXT>
+O Acordo de Compensação de Horas “BANCO DE HORAS” é um sistema de compensação de horas trabalhadas a mais ou a menos que o previsto, que as partes estabelecem, de modo a permitir que a Empresa ajuste o potencial da mão de obra à demanda do mercado consumidor. A Empresa fornecerá ao SITIBRON, uma planilha do BANCO DE HORAS contendo o acumulado das horas do período, com um prazo de três dias depois do fechamento da folha de pagamento.  Parágrafo Único: O numero de Empregado envolvido no sistema de compensação de horas trabalhadas, banco de horas, neste acordo é de 152 colaboradores.
+|
+A Empresa fixará, com antecedência mínima de 24 horas, os dias em que haverá trabalho, bem como a sua duração e forma de cumprimento diário, podendo abranger todos ou apenas parte dos empregados.
+Parágrafo Primeiro: O sistema de flexibilização não prejudicará o direito dos empregados quanto ao intervalo de alimentação, no período de descanso entre duas jornadas diárias de trabalho e o repouso semanal. Parágrafo Segundo: Não será aplicado aos Trabalhadores a compensação de horas nos domingos e feriados
+|
+O Trabalho além das 44 horas semanais será convertido em folgas remuneradas, na proporção de 01 hora de trabalho por 01 hora de descanso. Compromete-se a não passar de duas horas diárias da jornada de trabalho.
+Parágrafo Único: Os trabalhos prestados em repousos semanais ou feriados serão compensados em forma de horas extras em 100%.
+|
+As horas serão controladas por um sistema manual ou informatizado, de debito e crédito, e cada funcionário receberá, mensalmente um extrato onde poderá verificar seu saldo de hora a cada final de mês.
+|
+Durante a vigência do presente acordo, a jornada normal de trabalho não poderá ultrapassar a 02 (duas) horas diárias adicionais, caso seja ultrapassada deve ser contabilizada 02 (horas) no Banco de Horas e o restante será contabilizado com horas extras em 50% (cinquenta) por cento.
+|
+A compensação das horas deverá ocorrer 180 (cento e oitenta dias) 6 – 6 meses após a ocorrência das mesmas; não havendo a compensação das mesmas, estas serão pagas aplicando-se os percentuais devidos de 50% (cinquenta) pr cento conforme determina a Lei.
+Parágrafo Primeiro: As folgas dos funcionários deverão ser programadas e ajustadas diretamente entre o empregado e o seu superior imediato.
+Parágrafo Segundo: As horas a crédito dos funcionários poderão ser compensadas com acréscimos de dias de férias futuras, desde que o período de gozo das férias dos funcionários aconteça dentro dos 60 dias determinados por lei.  Parágrafo Terceiro: As horas ou dias pagos e não trabalhados na semana, serão compensados na oportunidade que a empresa determinar, salvo casos em que o empregado esteja disponível na empresa a mesma não dispor do seu trabalho por motivo de força maior, como também aqueles funcionários que comprovarem por meio de atestado medica que não se encontra em condição de trabalhar, não se aplica este parágrafo as mulheres em licença maternidade.
+ Parágrafo Quarto: Por deliberação da assembleia geral ordinária, após a assinatura deste instrumento normativo de trabalho (BANCO DE HORAS), e o seu deposito no MTE, art. 614 da CLT, fica devidamente quitado pela empresa qualquer valor monetário referente a horas extraordinárias retroativas de seus empregados, desde a sua admissão até a presente data deste instrumento, da área administrativa, operadores, auxiliares, empilhador, motoboy e outras funções que englobe o quadro de funcionários da Majestic Industria e Comércio de Bebidas Ltda.
+|
+Ocorrendo demissão do empregado, a empresa pagará, junto com as demais verbas rescisórias, o saldo credor de horas, aplicando-se o percentual de trabalho extraordinário vigente.   Parágrafo Único: O saldo devedor será assumido pela empresa, exceto quando da ruptura do contrato de trabalho de se der por iniciativa do empregado ou por motivo de justa causa, quando o desconto das horas se fará no acerto das verbas rescisórias.
+|
+Para a concessão dos benefícios: vale transporte e alimentação, a empresa não levará em consideração os dias efetivamente trabalhados no mês.
+|
+O descumprimento por parte do empregador sujeita a multa de 5 (cinco salários) do piso da categoria por empregado, cujo montante será revertido em favor da parte prejudicada.
+|
+O presente acordo terá validade de 01 ano e vigorará no período de 01/12/2017 à 30/11/2018, podendo ser renovado por igual período, conforme acordo entre as partes.
+Parágrafo Único: No final do acordo será feito acerto para zera o período. Na hipótese de existir saldo positivo ou negativo de horas, a empresa terá 30 dias, subseqüente ao término do acordo, para regularizar. Se ao término deste período ainda subsistirem horas, essas horas serão pagas como horas extras de 100%.                                                                                         
+                                                           E por estarem assim justos e acordados, firmam o presente termo de acordo em 02 (duas) vias de igual teor e forma, para que produza seus jurídicos e legais efeitos, , devendo ser efetuado o registro do acordo no sistema mediador do Ministério do Trabalho e Emprego e arquivo na Superintendência Regional do Trabalho Local.

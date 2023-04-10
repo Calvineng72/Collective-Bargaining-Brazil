@@ -1,0 +1,182 @@
+<STARTofTITLE>
+Mediador - Extrato Convenção Coletiva
+<ENDofTITLE>
+
+<STARTofVALIDITY>
+carimbo
+<ENDofVALIDITY>
+
+<STARTofHEADERS>
+NÚMERO DE REGISTRO NO MTE|RN000223/2017
+DATA DE REGISTRO NO MTE|27/06/2017
+NÚMERO DA SOLICITAÇÃO|MR039364/2017
+NÚMERO DO PROCESSO|46217.005530/2017-66
+DATA DO PROTOCOLO|23/06/2017
+<ENDofHEADERS>
+
+<STARTofCOUNTERPART1>
+SINDICATO DOS EMPREGADOS NO COMERCIO DE RESTAURANTES E BARES DE NATAL NO ESTADO DO RIO GRANDE DO NORTE - SINDEBARNAT/RN|14.010.861/0001-65|Presidente|FLAVIO TEOTONIO
+<ENDofCOUNTERPART1>
+<STARTofCOUNTERPART2>
+SINDICATO DE HOTEIS, RESTAURANTES, BARES E SIMILARES DO ESTADO DO RIO GRANDE DO NORTE                                                                 |08.466.518/0001-27|Presidente|PAULO CESAR TAVORA GALLINDO
+<ENDofCOUNTERPART2>
+
+<STARTofSTARTDATE>
+01/03/2017
+<ENDofSTARTDATE>
+<STARTofEXPRIRATIONDATE>
+28/02/2018
+<ENDofEXPIRATIONDATE>
+
+<STARTofRENEGOTIATION>
+01/03
+<ENDofRENEGOTIATION>
+
+<STARTofCATEGORY>
+dos Empregados no comércio de restaurantes, bares, lanchonetes, bufês, churrascarias e pizzarias, além de todas as empresas que integram, por atividades similares ou conexas, as categorias econômicas aqui descritas, com abrangência territorial em Natal/RN,
+<ENDofCATEGORY>
+<STARTofGEOGRAPHY>
+Natal/RN
+<ENDofGEOGRAPHY>
+
+<STARTofCLAUSES>
+Piso Salarial|1.º PISO SALARIAL
+Piso Salarial|2.º PISO SALARIAL
+Reajustes/Correções Salariais|AUMENTO SALARIAL
+Pagamento de Salário – Formas e Prazos|FORMA DE PAGAMENTO
+Descontos Salariais|PROIBIÇÃO DE DESCONTOS DE CHEQUES E CARTÕES DE CRÉDITO NO SALÁRIO
+Outras normas referentes a salários, reajustes, pagamentos e critérios para cálculo|VALE ADIANTAMENTO SALARIAL
+Adicional de Hora-Extra|ADICIONAL DE HORA EXTRA
+Adicional de Tempo de Serviço|QUINQUENIO
+Adicional Noturno|ADICIONAL NOTURNO
+Outros Adicionais|QUEBRA DE CAIXA
+Outros Adicionais|SALÁRIO SUBSTITUIÇÃO
+Outros Adicionais|REFLEXOS DAS HORAS EXTRAS, ADICIONAL NOTURNO, TAXA DE SERVIÇO E COMISSÕES
+Comissões|TAXA DE SERVIÇO
+Auxílio Alimentação|FORNECIMENTO DE LANCHES
+Desligamento/Demissão|RESCISÃO DO TRABALHO POR JUSTA CAUSA
+Desligamento/Demissão|DA HOMOLOGAÇÃO DA RESCISÃO
+Aviso Prévio|AVISO PRÉVIO
+Contrato a Tempo Parcial|TEMPO PARCIAL   SALÁRIO HORA – TERCEIRIZAÇÃO DE MÃO DE OBRA
+Outras normas referentes a admissão, demissão e modalidades de contratação|CONTRATO POR PRAZO DETERMINADO
+Compensação de Jornada|COMPENSAÇÃO DE JORNADA
+Intervalos para Descanso|INTERVALO PARA REPOUSO E ALIMENTAÇÃO
+Descanso Semanal|TRABALHO NO DESCANSO SEMANAL
+Faltas|EXAMES ESCOLARES E ABONOS DE FALTA
+Outras disposições sobre jornada|DA JORNADA DE 12 HORAS DE TRABALHO POR 36 DE DESCANSO
+Uniforme|UNIFORMES
+Aceitação de Atestados Médicos|ATESTADOS
+Liberação de Empregados para Atividades Sindicais|LIBERAÇÃO DE DIRIGENTES E DELEGADOS DE BASE
+Contribuições Sindicais|MENSALIDADE EMPREGADOS
+Contribuições Sindicais|CONTRIBUIÇÃO ASSISTENCIAL EMPREGADOS
+Contribuições Sindicais|CONTRIBUIÇÃO ASSISTENCIAL EMPREGADORES
+Contribuições Sindicais|CONTRIBUIÇÃO CONFEDERATIVA PATRONAL
+Contribuições Sindicais|DO RESSARCIMENTO DE DESPESAS
+Aplicação do Instrumento Coletivo|PAGAMENTO DAS DIFERENÇAS SALARIAS EM RELAÇÃO A DATA BASE
+Descumprimento do Instrumento Coletivo|MULTA POR DESCUMPRIMENTO
+<ENDofCLAUSES>
+
+<STARTofAPPENDICES>
+EDITAL
+ATA
+LISTA
+ATA DE MEDIAÇÃO
+<ENDofAPPENDICES>
+
+<STARTofAPPTEXT>
+
+Anexo (PDF)
+|
+Anexo (PDF)
+|
+Anexo (PDF)
+|
+Anexo (PDF)
+
+<ENDofAPPTEXT>
+
+<STARTofTEXT>
+É assegurado aos empregados das categorias de ASG, Servente, Jardineiro, Auxiliar de Cozinha, Copeiro, Cumim, Monitor, Office Boy, Auxiliar de Manutenção, Auxiliar de Lavanderia, Auxiliar de Almoxarifado, Porteiro, Atendente de Lanchonete, Balconista e Chapeiro, os dois últimos válidos para Sanduicherias, um Piso Salarial de R$956,00 (novecentos e cinquenta e seis reais).
+|
+Assegura-se aos demais empregados da categoria, excluídos os citados na cláusula anterior, um Piso Salarial de R$ 998,00 (novecentos e noventa e oito reais).
+|
+Os trabalhadores que perceberam, em fevereiro de 2017, salário base superior aos pisos salariais e até o limite de R$ 1.560,00 (um mil, quinhentos e sessenta reais), terão os seus salários reajustados no mês de março de 2017, com o percentual de 7% (sete por cento) sobre os salários que vigoravam em março de 2016. PARÁGRAFO ÚNICO: Para os trabalhadores que perceberam, em fevereiro de 2017, salário base superior a R$ 1.560,00 (um mil, quinhentos e sessenta reais), o reajuste salarial será objeto de livre negociação.
+|
+As empresas que não efetuarem o pagamento dos salários em moeda corrente, e quando em cheque, concederão um intervalo de 1 (uma) hora e dentro da jornada do expediente dos estabelecimentos bancários, excluindo os horários de refeição para recebimento do salário no banco.
+|
+É proibido o desconto de salário dos empregados relativos a cheques e cartões de crédito não compensados, ou sem provisão de fundos, quando o seu recebimento for autorizado expressamente pelo empregador ou seus prepostos legais.
+|
+As empresas concederão até o dia 23  de cada mês adiantamento de, no mínimo 30% (trinta por cento) da remuneração desde que o empregado requeira.
+Parágrafo Único: O empregado deverá fazer o requerimento até dia 15 de cada mês.
+|
+O adicional das horas extras, sobre o valor da hora normal, será de 70% (setenta por cento).
+|
+Fica assegurado um adicional a cada quinquênio de serviço na empresa, correspondente a 6% (seis por cento) calculado sobre o salário base da categoria.
+|
+Pagamento de 25% (vinte e cinco por cento) de adicional para o trabalho prestado entre 22:00 e 05:00 horas da manhã, havendo prorrogação de jornada o percentual será de 20% após 05:00 horas da manhã até o término da jornada.
+|
+As empresas remunerarão os empregados que exerçam função de caixa, com o percentual de 30% (trinta por cento) do salário mínimo.
+|
+Enquanto perdurar a substituição que não tenha caráter meramente eventual, o empregado fará jus ao salário igual ao do empregado de menor salário na função, sem considerar as vantagens pessoais, salvo se o seu salário for maior ou estiver ele em treinamento até o prazo máximo de 60 (sessenta) dias.
+PARÁGRAFO ÚNICO: para efeito desta cláusula, considera-se a substituição de caráter meramente eventual, aquela que não ultrapasse de 60 (sessenta) dias, ressalvada a hipótese da substituição da empregada gestante quando este período será igual ao da licença maternidade.
+|
+As férias e o 13º salário serão pagos com integração do valor das horas extras, taxa de serviços, comissões e adicionais noturnos dos últimos 06 (seis) meses.
+|
+Em consonância com o entabulado em convenção coletiva, todas as empresas abrangidas pela presente categoria econômica, que incluírem em suas notas de fornecimento de alimentação e bebidas a TAXA ADICIONAL DE 10% (dez por cento), cobradas diretamente do usuário de forma "compulsória ou voluntária", efetuarão a retenção de 33% (trinta e três por cento) em favor da empresa para cobrir os custeios de encargos sociais, previdenciários e trabalhistas derivados de sua integração à remuneração dos empregados.
+PARÁGRAFO PRIMEIRO: Referido rateio será adotado para todas as opções de faturamento e de recolhimento tributário, não fazendo distinção se a empresa seja optante das modalidades tributária do SIMPLES, LUCRO REAL, LUCRO PRESUMIDO, dentre as demais classificações tributárias.
+PARÁGRAFO SEGUNDO: Na forma dos Enunciados 290 e 314 do TST, as gorjetas cobradas pelo empregador na nota de serviço dos clientes integram a remuneração do empregado, não servindo de base de cálculo para as parcelas de aviso prévio, adicional noturno, horas extras e repouso semanal remunerado.
+PARÁGRAFO TERCEIRO: A taxa de serviço e a distribuição prevista nesta clausula não eximem o pagamento do piso salarial.
+PARÁGRAFO QUARTO:  O remanescente de 67% (sessenta e sete por cento) das gorjetas cobradas nas notas de serviços, previstas no Enunciado 354 do Colendo TST, serão distribuídas entre os empregados segundo critérios a serem firmados por Acordo Individual Coletivo, com a assistência/interveniência do Sindicato Patronal e Laboral, sob pena da impossibilidade da cobrança.
+I – As empresas terão o prazo de 120 (cento e vinte dias), a contar do registro da presente Convenção Coletiva de Trabalho junto ao Ministério do Trabalho e Emprego, para providenciar o Acordo Individual Coletivo a que alude o item anterior. No decorrer do referido lapso temporal, vigorará os termos que a empresa já vinha praticando.
+II – As Empresas poderão optar, mediante entendimentos com os seus trabalhadores, ambos com assistência de seus Sindicatos, pelo acréscimo, redução ou ainda extinção da cobrança de Gorjetas ou Taxa de Serviços.
+III – As Gorjetas espontâneas recebidas diretamente pelo trabalhador do cliente acima da taxa de serviço de 10% (dez por cento), serão destinadas exclusivamente para o mesmo, e não serão consideradas remuneração, não incidindo para fins de encargos sociais e trabalhistas.
+|
+As empresas fornecerão lanches gratuitamente a seus empregados, quando estes estiverem em regime de trabalho extraordinário.
+|
+No caso de rescisão do contrato de trabalho por justa causa, o empregador deverá indicar, por escrito, a falta grave cometida, sob pena de não poder alegá-la em juízo.
+|
+Observadas as regras contidas no art. 477 da CLT, as homologações das rescisões dos contratos de trabalho serão realizadas no sindicato da categoria profissional, inclusive de outras categorias profissionais compreendidas na atividade preponderante das empresas alcançadas por esta CCT, conforme jurisprudência interativa do Colendo Tribunal Superior do Trabalho.
+PARÁGRAFO ÚNICO: Quando das homologações, deverão ser apresentados os seguintes documentos:
+1- Guias TRCT em 4 (quatro) vias; 2 - CTPS com as anotações devidamente atualizadas; 3 - Registro do empregado em livro, fichas ou cópia dos dados obrigatórios, nos termos da Portaria MTPS nº 3.626/91; 4- Comprovante do Aviso Prévio quando for o caso, dado ou recebido; 5 - As guias de recolhimento das contribuições sindicais (Sindical e Assistencial), profissional e patronal; 6 - Comunicação de Dispensa (CD) e requerimento do Seguro Desemprego (SD), quando for o caso; 7 - - Atestado demissional, nos termos da NR-07. Na eventualidade de não comparecimento do trabalhador ao médico designado, a responsabilidade pela mora será do trabalhador. 8 - Demonstrativo do FGTS do trabalhador, quando for o caso. 9 - Chave de liberação do FGTS, quando for o caso de saque.
+|
+Fica isento do cumprimento do aviso prévio o trabalhador que obtiver um novo emprego, não acarretando prejuízo no recebimento das verbas rescisórias.
+Parágrafo Primeiro: Toda rescisão de contrato, sem justa causa, com aviso trabalhado, cujo o termo final coincida com o período de 30 (trinta) dias que antecede a data base de sua correção salarial, terá direito à indenização adicional equivalente a um salário mensal. (Lei 7.238/84 - art. 9.º) (lei 12.506/11)
+Parágrafo Segundo: Toda rescisão de contrato, sem justa causa, com aviso indenizado, cujo o termo final de sua projeção coincida com o período de 30 (trinta) dias que antecede a data base de sua correção salarial, terá direito à indenização adicional equivalente a um salário mensal. (Lei 7.238/84 - art. 9.º) (lei 12.506/11)
+Parágrafo Terceiro: As demais rescisões com termo final projetados além dos prazos anteriores, será acrescidas das diferenças salariais estipuladas pela convenção coletiva da respectiva data base.
+|
+Só será permitido a adoção do regime de tempo parcial e trabalhador horista, bem como o pagamento de salário hora, conforme preceitua o art. 58-A da CLT. 
+Parágrafo Primeiro: O valor da hora será obtido pela divisão do piso salarial da categoria correspondente por 220hs, salvo negociação direta entre trabalhador e empresário.
+|
+Fica instituída a permissão do contrato de trabalho por prazo determinado na forma estabelecida pela Lei 9.601/98 – regulamentada pelo decreto 2.490/98.
+|
+A jornada de trabalho diária dos empregados poderá ser prorrogada, sem o acréscimo de salário e adicionais, nas seguintes condições: a)  O excesso de horas em um dia será compensado pela correspondente diminuição em outro dia. b)  O período máximo de compensação não poderá exceder de 365 dias. c)   A jornada diária será de, no máximo, dez horas. d)  No caso de ser excedido o período de 365 dias, a empresa pagará como extras as horas trabalhadas. e)  Caso o contrato de trabalho seja rescindido pelo empregador ou pelo empregado, sem que tenha ocorrido a compensação, integral ou parcialmente, da jornada extraordinária, o empregador pagará as horas extras, calculadas sobre o valor da remuneração na data da rescisão. f)   A jornada extraordinária não poderá ser compensada com o período do aviso prévio, indenizado ou trabalhado. g)   As horas extras serão pagas com um adicional de 70%. h)   A empresa fornecerá ao empregado, a cada 40 (quarenta) dias, comprovante do seu banco de horas, discriminando o total da jornada trabalhada, sem prejuízo do registro diário de ponto. i)   Aplicam-se as disposições do art. 59, § 2º, da CLT, respeitando-se as regras mais favoráveis aos empregados, estipuladas no presente acordo.
+|
+Em qualquer trabalho contínuo, cuja duração exceda de 6 (seis) horas, a concessão do intervalo para repouso ou alimentação, será de, no mínimo 1 (uma) hora, até o máximo de 4 (quatro) horas.
+PARÁGRAFO PRIMEIRO: quando o trabalho não exceder de 6 (seis) horas, o intervalo será de 15 (quinze) minutos, quando a duração ultrapassar de 4 (quatro) horas.
+PARÁGRAFO SEGUNDO: havendo a utilização do intervalo intrajornada superior a 2 (duas) hora e que não ultrapasse as 4 (quatro) horas, os trabalhadores receberão, a título de verba indenizatória mensal, a quantia de 5% (cinco por cento) calculado sobre o salário piso da categoria em que o mesmo se enquadrar.
+|
+O trabalho executado em dia de domingo e/ou feriados e no dia 11 de agosto, DIA DO GARÇOM E DO TRABALHADOR EM BARES, RESTAURANTES e SIMILARES, será remunerado com o adicional de 100% (cem por cento) do trabalho diário executado normalmente, salvo se as empresas determinarem outro dia de folga.
+|
+Consideram-se abonadas as faltas ao trabalho do empregado estudante, decorrente de comparecimento para prestação de exames vestibulares e supletivos durante o respectivo horário de trabalho, desde que haja comunicação á empresa com antecedência mínima de 8 (oito) dias e posterior comprovação em 5 (cinco) dias.
+|
+Fica autorizado o regime compensatório com a utilização da jornada de 12 horas de trabalho por 36 horas de descanso, sem prejuízo das normas de saúde e segurança no trabalho para a categoria de porteiro.
+|
+Quando o exercício de atividades exigir o uso de uniforme padronizados, competirá aos empregadores fornecê-los gratuitamente em número de dois uniformes em cada 12 (doze) meses, salvo mal uso ou extravio injustificável.
+|
+Os atestados médicos e odontológicos fornecidos por profissional das entidades signatárias desta Convenção serão aceitos pelas empresas para todos os efeitos legais, ressalvados os casos em que estas mantenham a assistência médica para os seus empregados, quando somente serão aceitos os atestados emitidos pelos médicos por eles credenciados.
+|
+Todo dirigente sindical, delegado de base ou representante dos trabalhadores eleitos em Assembleia da categoria serão liberados para participar de encontros de trabalhadores municipais, estaduais, nacionais ou internacionais, terão abonadas as suas faltas, até o limite de 12 (doze) dias ao ano, intercalados ou sucessivos, sem prejuízo de qualquer parcela remuneratória, desde que comprovado e avisado pelo Presidente do Sindicato á empresa com antecedência mínima de 07 (sete) dias.
+|
+Os empregadores se obrigam a efetuar o desconto correspondente a 2% (dois por cento) do salário de seus empregados sindicalizados, pertencentes á categoria profissional representada pelo sindicato convenente, a qual deverá ser depositada na conta indicada pelo Sindicato dos Trabalhadores, até o 10º (décimo) dia de cada mês subseqüente ao vencido, de acordo com os artigos 513 e 545 da CLT, salvo desautorização expressa pelo empregado.
+|
+A título de contribuição assistencial, os empregadores descontarão dos seus empregados associados abrangidos pelos benefícios da presente Convenção Coletiva de Trabalho, o percentual de 3% (três por cento) sobre o valor do salário do mês de abril de 2017, que será aplicado em despesas de assessoria jurídica, econômica, conservação e ampliação do patrimônio da entidade sindical profissional assistente, a qual deverá ser na sede do Sindicato dos Trabalhadores, até o 14º (décimo quarto) dia do mês subseqüente, salvo desautorização expressa do empregado, no próprio sindicato dos trabalhadores, até 10 (dez) dias após a assinatura final desta Convenção.
+|
+Todas as empresas ou pessoas físicas pertencentes á categoria econômica ora acordante, sindicalizados ou não, ficam obrigados a recolher, em guias expedidas elo respectivo Sindicato Patronal, para despesas de assessoria jurídica, econômica, a taxa seguinte: R$ 200,00 para os estabelecimentos que tenham de um a dez empregados; o valor de R$ 250,00 para os estabelecimentos que tiverem de onze a trinta empregados; o valor de R$ 300,00 para os estabelecimentos que tiverem de trinta e um a cinqüenta empregados; o valor de R$ 400,00 para os estabelecimentos que tiverem de cinqüenta e um a cem empregados, e de R$ 500,00 para os estabelecimentos com mais de cem empregados, com vencimento para 30.07.2017.
+|
+Fica estabelecida a cobrança da contribuição confederativa Patronal, com previsão inciso IV do art. 8º da Constituição Federal de 1988, a qual  terá o seu vencimento no dia 30 de novembro, com o valor fixado no equivalente a 3% (três por cento) do valor da folha salarial relativa ao mês anterior ao seu vencimento.
+|
+Todas as empresas ou pessoas físicas pertencentes á categoria econômica ora convenente, que necessitarem de assistência na elaboração de ACORDOS COLETIVOS, farão o recolhimento a cada um dos respectivos Sindicatos Patronal e Laboral, a título de ressarcimento de despesas, das seguintes taxas: R$ 100,00 para os estabelecimentos que tenham de um a cinco empregados, R$ 200,00 para os estabelecimentos que tenham de seis a dez empregados; o valor de R$ 250,00 para os estabelecimentos que tiverem de onze a trinta empregados; de R$ 300,00 para os estabelecimentos que tiverem de trinta e um a cinqüenta empregados; de R$ 400,00 para os estabelecimentos que tiverem de cinqüenta e um a cem empregados, e de R$ 500,00 para os estabelecimentos com mais de cem empregados. 
+|
+As diferenças salariais não pagas em relação a data base, relativas aos meses de Março, Abril, Maio e Junho serão pagas respectivamente nos meses de Julho, Agosto, Setembro e Outubro dso ano de 2017.
+|
+Multa de 10% (dez por cento) do salário normativo, por empregado, em caso de descumprimento de qualquer cláusula contida na norma coletiva, revertendo o seu benefício em favor da parte prejudicada.

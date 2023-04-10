@@ -1,0 +1,247 @@
+<STARTofTITLE>
+Mediador - Extrato Acordo Coletivo
+<ENDofTITLE>
+
+<STARTofVALIDITY>
+carimbo
+<ENDofVALIDITY>
+
+<STARTofHEADERS>
+NÚMERO DE REGISTRO NO MTE|CE000307/2009
+DATA DE REGISTRO NO MTE|21/05/2009
+NÚMERO DA SOLICITAÇÃO|MR016731/2009
+NÚMERO DO PROCESSO|46205.007284/2009-14
+DATA DO PROTOCOLO|14/05/2009
+<ENDofHEADERS>
+
+<STARTofCOUNTERPART1>
+SINDICATO DOS TRABALHADORES NAS IND.DA CONSTR.DE ESTRADA, PA|04.325.091/0001-96|Presidente|RAIMUNDO NONATO GOMES
+<ENDofCOUNTERPART1>
+<STARTofCOUNTERPART2>
+RG2 TERRAPLENAGEM LTDA.|10.417.584/0001-59|Sócio|JOSE WEBSTON NOGUEIRA PINHEIRO
+<ENDofCOUNTERPART2>
+
+<STARTofSTARTDATE>
+1/01/2009
+<ENDofSTARTDATE>
+<STARTofEXPRIRATIONDATE>
+31/12/2010
+<ENDofEXPIRATIONDATE>
+
+<STARTofRENEGOTIATION>
+1/04
+<ENDofRENEGOTIATION>
+
+<STARTofCATEGORY>
+Trabalhadores nas Indústrias de Construção de Estradas; Pavimentação; Obras de Terraplanagem em geral e de Construções de Aeroportos, Barragens, Canais e Engenharia Consultiva, Gasoduto, Pontes, Portos, Obras de Saneamento, Termelétrica, Ferrovias, Hidrelétricas, Metrôs, Montagens Industriais, Eclusas, Eólicas, Obras em Linhas de Transmissão Elétricas, Obras em Estádios de Futebol, Túneis, Adutoras, Viadutos, Consórcios, Concessionárias, Manutenção e Limpeza de Vias, Manutenção de Rodovias, Limpeza e Manutenção de Canais
+<ENDofCATEGORY>
+<STARTofGEOGRAPHY>
+CE
+<ENDofGEOGRAPHY>
+
+<STARTofCLAUSES>
+Participação nos Lucros e/ou Resultados|OBJETO
+Participação nos Lucros e/ou Resultados|PERÍODO DE AFERIÇÃO E PAGAMENTO
+Faltas|PERÍODO DE AFERIÇÃO E ABSENTEÍSMO
+Equipamentos de Proteção Individual|FALTA DO USO DE EPI
+Outras Normas de Proteção ao Acidentado ou Doente|ACIDENTE DE TRABALHO
+Regras para a Negociação|CONDIÇÕES GERAIS
+<ENDofCLAUSES>
+
+<STARTofAPPENDICES>
+
+<ENDofAPPENDICES>
+
+<STARTofAPPTEXT>
+
+<ENDofAPPTEXT>
+
+<STARTofTEXT>
+O presente acordo Coletivo de Trabalho tem por finalidade estabelecer condições específicas para o Programa de Participações nos Lucros ou Resultados (PLR) das obras da indústria da construção civil pesada executadas no Estado do Ceará.
+|
+Os períodos de aferição, que credenciam a participação do empregado nos lucros ou resultados, será o da vigência do presente ACORDO COLETIVO DE TRABALHO, ou seja, de 01/01/2009 á 31/12/2010, os pagamentos, pela  empresa RG2 TERRAPLENAGEM LTDA, relativo ao primeiro período de 2009 (01/01/2009 á 30/06/2009), será efetuado  no último dia útil do mês de Agosto de 2009, já o segundo período de 2009 (01/07/2009 á 31/12/2009), será pago no último dia útil do mês de Fevereiro de 2010, enquanto que o ano de 2010 será pago da seguinte forma:  primeiro período (01/01/2010 á 30/06/2010), será efetuado  no último dia útil do mês de Agosto de 2010, já o segundo período de 2010 (01/07/2010 á 31/12/2010), será pago no último dia útil do mês de Fevereiro de 2011.
+ 
+3.2- O valor máximo para pagamento do PLR, para os empregados da mão de obra direta, cujas funções estão relacionadas, no anexo I (um), em cada período de aferição(um semestre), é de 40%(quarenta por cento) do salário base do empregado com 100% (cem por cento) de freqüência no período.
+ 
+|
+O empregado com faltas no período, não justificadas, receberá a PLR obedecendo aos percentuais abaixo estabelecidos, considerando ainda o período trabalhado, sendo considerado como mês completo, o mês no qual o funcionário tiver trabalhado pelo menos 15 dias. O mês no qual o funcionário tiver trabalhado menos que 15 dias não será considerado para efeito de cálculo do PLR, de acordo com conceituação estabelecida na CLT em sua seção V, Art 146:
+ 
+ 
+ 
+ 
+ 
+ 
+MÃO DE OBRA DIRETA 
+ 
+
+
+
+
+FALTAS
+
+                         PERIODO TRABALHADO (EM MESES)
+ 
+
+
+
+
+ 
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+
+0
+
+6,67%
+
+13,33%
+
+20,00%
+
+26,67%
+
+33,33%
+
+40,00%
+
+
+1
+
+5,83%
+
+11,67%
+
+17,50%
+
+23,33%
+
+29,17%
+
+35,00%
+
+
+2
+
+0,00%
+
+10,00%
+
+15,00%
+
+20,00%
+
+25,00%
+
+30,00%
+
+
+3
+
+0,00%
+
+  0,00%
+
+12,50%
+
+16,67%
+
+20,83%
+
+25,00%
+
+
+4
+
+0,00% 
+
+  0,00% 
+
+  0,00%
+
+13,33%
+
+16,67%
+
+20,00%
+
+
+5
+
+0,00%
+
+  0,00%
+
+  0,00%
+
+  0,00%
+
+12,50%
+
+15,00%
+
+
+6
+
+0,00%
+
+  0,00%
+
+  0,00%
+
+  0,00%
+
+  0,00%
+
+10,00%
+|
+Para cada trabalhador que for flagrado sem o uso de EPI, quando devidamente disponibilizado pela empresa e entregue ao mesmo, a frente de serviço onde este está lotado perde 1/3 (um terço) da PLR semestral.
+ 
+|
+A cada ocorrência de acidente com afastamento, no período, acarretará a perda de 15% da PLR para todos os empregados, somente nos casos de culpa exclusiva do empregado.
+ 
+|
+8.1- O empregado demitido por justa causa, devidamente comprovada, perderá o direito ao recebimento da PLR. O empregado desligado por iniciativa própria sem justa causa, receberá a PLR proporcional ao tempo trabalhado na empresa.
+ 
+8.2- Nos recibos salariais ficará destacado, especificamente, o pagamento referente a PLR. 
+ 
+8.3- Os empregados acometidos de acidentes de trabalho, doenças ou moléstias, que resultem em afastamentos, ou estando em gozo de férias terão suas ausências abonadas, para o efeito do pagamento da PLR.
+ 
+8.4- A ocorrência de greves ou paralisações implicará na perda da PLR para todos os empregados, caso seja considerada ilegal pela justiça.
+ 
+8.5- No caso de paralisação da obra por motivo alheio a vontade da empresa, por iniciativa dos órgãos ou por falta de verbas, implicará na perda pelos trabalhadores da PLR. 
+ 
+8.6- A empresa deverá entregar para o SINTEPAV-CE, relação de todos os empregados com discriminação dos valores devidos a título de PLR relativo ao ano de 2009 e 2010, inclusive dos empregados já desligados da empresa.
+ 
+8.7- Em relação aos empregados ainda vinculados á empresa, caberá a empresa pagar diretamente a cada empregado o valor devido a título de PLR, já em relação aos empregados desligados/demitidos deverão os respectivos valores serem entregues ao SINTEPAV-CE que se encarregará de repassar os valores aos trabalhadores. .
+ 
+8.8 - O período de vigência inicial do presente acordo é de dois anos, ou seja, de 01 de Janeiro de 2009 à 31 de dezembro de 2010, podendo ser renovado nos termos do parágrafo l° da cláusula 12° da CONVENÇÃO COLETIVA DE TRABALHO 2008/2009.
+ 
+Por assim justas e acordadas, firma as partes o presente instrumento.
+ 
+Fortaleza, 11 de Maio de 2009.
+ 
+ 
+ 
+ 
+___________________________________________________
+JOSÉ WEBSTON NOGUEIRA PINHEIRO
+CPF 318.155.373-53
+SÓCIO DA EMPRESA  
+RG2 TERRAPLENAGEM LTDA
+ 
+ 
+ 
+____________________________________________________
+RAIMUNDO NONATO GOMES 
+CPF: 145.549.443-15
+REPRESENTANTE DO SINTEPAV/CE

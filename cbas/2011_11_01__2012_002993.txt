@@ -1,0 +1,353 @@
+<STARTofTITLE>
+Mediador - Extrato Acordo Coletivo
+<ENDofTITLE>
+
+<STARTofVALIDITY>
+semvalorlegal
+<ENDofVALIDITY>
+
+<STARTofHEADERS>
+NÚMERO DA SOLICITAÇÃO|MR002993/2012
+DATA E HORÁRIO DA TRANSMISSÃO|10/02/2012ÀS11:42
+NÚMERO DO PROCESSO|46219.004497/2012-22
+DATA DO PROTOCOLO|17/02/2012
+<ENDofHEADERS>
+
+<STARTofCOUNTERPART1>
+SIND DOS TRAB.,INST., DIR.EM AUTO ESC.,CFC,DESP.,EMP.DE TRAN.ESC E ANEX DO MUN. DE SP|04.144.351/0001-27|Presidente|VALDIR JOSE LIMA
+<ENDofCOUNTERPART1>
+<STARTofCOUNTERPART2>
+JOAO MARQUES DESPACHANTE LTDA|03.066.445/0001-62|Sócio|JOAO CARLOS MARQUES
+<ENDofCOUNTERPART2>
+
+<STARTofSTARTDATE>
+1/11/2011
+<ENDofSTARTDATE>
+<STARTofEXPRIRATIONDATE>
+31/10/2012
+<ENDofEXPIRATIONDATE>
+
+<STARTofRENEGOTIATION>
+1/11
+<ENDofRENEGOTIATION>
+
+<STARTofCATEGORY>
+trabalhadores empregados da empresa acordante do ramo de despachante
+<ENDofCATEGORY>
+<STARTofGEOGRAPHY>
+São Paulo/SP
+<ENDofGEOGRAPHY>
+
+<STARTofCLAUSES>
+Piso Salarial|PISO SALARIAL
+Reajustes/Correções Salariais|INDICE DE REAJUSTE
+Pagamento de Salário – Formas e Prazos|SALARIO ADMISSIONAL
+Pagamento de Salário – Formas e Prazos|VALE SALARIAL
+Pagamento de Salário – Formas e Prazos|PAGAMENTO DO SALÁRIO
+Outras Gratificações|ABONO APOSENTADORIA
+Outras Gratificações|FORNECIMENTO DE REMÉDIOS
+Adicional de Hora-Extra|HORA EXTRA
+Auxílio Alimentação|ABONO REFEIÇÃO
+Auxílio Transporte|VALE TRANSPORTE
+Auxílio Saúde|CONVÊNIO MÉDICO
+Seguro de Vida|SEGURO DE VIDA
+Normas para Admissão/Contratação|CONTRATO DE EXPERIÊNCIA
+Desligamento/Demissão|CARTA DE REFERÊNCIA
+Aviso Prévio|AVISO PRÉVIO ESPECIAL
+Estabilidade Serviço Militar|ESTABILIDADE SERVIÇO MILITAR
+Estabilidade Acidentados/Portadores Doença Profissional|APROVEITAMENTO DE DEFICIENTE FÍSICO
+Estabilidade Acidentados/Portadores Doença Profissional|GARANTIA DE EMPREGO AO EMPREGADO AFASTADO POR MOTIVO DE SAÚDE
+Estabilidade Aposentadoria|ESTABILIDADE PRÉ APOSENTADORIA
+Outras estabilidades|ESTABILIDADE DATA BASE
+Outras estabilidades|ESTABILIDADE DE FÉRIAS
+Duração e Horário|DURAÇÃO E HORÁRIO
+Compensação de Jornada|COMPENSAÇÃO DO HORÁRIO DE TRABALHO
+Descanso Semanal|DESCANSO SEMANAL REMUNERADO
+Controle da Jornada|JORNADA DO DIGITADOR E TELEMARKETING
+Jornadas Especiais (mulheres, menores, estudantes)|TRABALHADOR ESTUDANTE
+Duração e Concessão de Férias|FÉRIAS
+Licença Maternidade|ALEITAMENTO
+Licença Adoção|LICENÇA PARA MULHERES ADOTANTES
+Outras disposições sobre férias e licenças|FERIADO PROLONGADO
+Condições de Ambiente de Trabalho|ÁGUA POTÁVEL
+Uniforme|UNIFORME
+Exames Médicos|ATESTADO MÉDICO
+Readaptação do Acidentado e/ou Portador de Doença Profissional|GARANTIA AO EMPREGADO ACIDENTADO/READAPTAÇÃO
+Outras Normas de Prevenção de Acidentes e Doenças Profissionais|ASSEDIO MORAL E GÊNERO
+Outras Normas de Prevenção de Acidentes e Doenças Profissionais|COMUNICAÇÃO DE ACIDENTE DE TRABALHO
+Acesso do Sindicato ao Local de Trabalho|CAMPANHA DE SINDICALIZAÇÃO
+Contribuições Sindicais|MENSALIDADE ASSOCIATIVA
+Contribuições Sindicais|CONTRIBUIÇÃO ASSISTENCIAL DO EMPREGADO (ART. 513, ALÍNEA E, DA CLT)
+Contribuições Sindicais|CONTRIBUIÇÃO DO EMPREGADO DEMITIDO
+Contribuições Sindicais|EXTRAVIO DAS GUIAS DE CONTRIBUIÇÕES
+Direito de Oposição ao Desconto de Contribuições Sindicais|OPOSIÇÃO DO EMPREGADO
+Direito de Oposição ao Desconto de Contribuições Sindicais|SOBRE DESCONTO DE CONTRIBUIÇÕES
+Outras Disposições|MULTA
+Outras Disposições|DISPENSA POR JUSTA CAUSA ART. 29. § 4º:
+Outras Disposições|FORMULÁRIOS
+Outras Disposições|INTERRUPÇÕES
+Outras Disposições|ABONO POR INTERNAÇÃO HOSPITALAR
+Outras Disposições|LEGALIDADE DA ENTIDADE
+Outras Disposições|DIVULGAÇÃO DESTE ACORDO
+<ENDofCLAUSES>
+
+<STARTofAPPENDICES>
+
+<ENDofAPPENDICES>
+
+<STARTofAPPTEXT>
+
+<ENDofAPPTEXT>
+
+<STARTofTEXT>
+
+
+
+
+
+
+Despachante Empregado 
+
+R$ 1.375,00
+
+
+Gerente ou Auxiliar de Despachante
+
+R$ 997,70
+
+
+Auxiliar de Escritório
+
+R$ 757,90
+
+
+Office Boy, Faxineiro e demais Empregado
+
+R$ 653,40
+
+
+Digitador
+
+R$ 893,20
+
+
+Telemarketing 
+
+R$ 816,20
+
+
+Tele atendimento
+
+R$ 755,70
+
+
+Motoboy
+
+R$ 801,90
+
+
+Auxiliar em Associação
+
+R$ 813,00
+a) Ao Empregado que exerça exclusivamente a função de digitador e o de Telemarketing, fica assegurada a jornada diária de trabalho do excedente a (6) seis horas, sendo que destas, apenas (5) cinco horas no trabalho de entrada de dados. |
+
+Os salários de novembro de 2011, assim considerados aqueles resultantes da aplicação integral da norma coletiva de 01 de novembro de 2010 a 31 de outubro de 2011, serão corrigidos na data base em (10%) dez por cento a titulo de correção salarial. O índice inflacionário usado e do INPC (IBGE) mais ganho real.
+ 
+Parágrafo único: Os reajustes espontâneos efetuados pelas empresas entre 1º de novembro de 2011 até a assinatura do presente acordo, desde que feito como adiantamento de reajuste, serão compensados, excetuados aqueles provenientes de abono salarial decorrente de lei, término de aprendizagem, promoções, transferências de cargos, função ou localidade, equiparação salarial e aumento real ou meritório.|
+Fica garantido ao empregado admitido, para as funções de outro dispensado, o piso salarial da função
+|
+Salvo expressa manifestação em Contrário por parte do empregado, o Empregador se obriga a conceder um adiantamento salarial até o dia (20) vinte de cada mês de no mínimo 40% (Quarenta por cento) do salário nominal no mês em curso, antecipando para o primeiro dia útil, imediatamente anterior, se este coincidir com sábado, domingo ou feriado, sob pena de pagamento de multa de 1/60 (um sessenta avos) do valor nominal do seu salário por dia de atraso, salvo os motivos de força maior comprovados com a limitação do Artigo 412 do Código Civil
+|
+
+O pagamento do salário deverá ser feito até o quinto dia útil de cada mês, subseqüente ao vencimento. Em caso de inadimplência, a Empresa infratora pagará ao empregado multa de 1/60 (um sessenta avos) do valor nominal do seu salário por dia de atraso, salvo os motivos de força maior comprovados com a limitação do Artigo 412 do Código Civil. 
+ 
+Parágrafo único: O Pagamento do salário deverá ser efetuado, em cheque nominal, em dinheiro, ou ordem de pagamento bancária, durante a jornada de trabalho. 
+ |
+
+Fica assegurada a concessão de um abono aposentadoria da seguinte forma:
+ 
+Aos empregados com (5) cinco anos ou mais de serviços contínuos na mesma empresa e que dela se desligarem espontaneamente, por motivo de aposentadoria, será pago abono equivalente ao seu ultimo salário nominal.
+ 
+Aos empregados com (10) dez anos ou mais de serviços contínuos na mesma empresa, na forma das alíneas anteriores, será pago um abono equivalente a dois salários nominais.
+ |
+O Empregador fornecerá ao empregado, pelo preço de custo, remédios ou medicamentos mediante apresentação de receita, estendendo esse direito a todos os dependentes legais, com desconto em folha de pagamento.
+|
+As horas extras extraordinárias serão remuneradas com os seguintes adicionais aplicáveis sobre o salário da hora normal;
+ 
+a)- (50%) Cinqüenta por cento para as duas primeiras horas;
+ 
+b)- (80%) oitenta por cento para os excedentes de (2) duas horas diárias, e nos permitidos  no artigo 61º  da CLT;
+ 
+c)- 100% (cem por cento) para as prestadas aos domingos e feriados;
+ 
+ 
+Parágrafo único: Quando as horas extras diárias forem, eventualmente, superiores a (2) duas horas, nos termos do art.61 da CLT, os empregadores deverão fornecer refeição comercial ao empregado que as cumprir.
+|
+ O empregador fica obrigado a conceder ao empregado, um valor de R$ 12,00 (doze reais), em vale refeição ou a seu critério. (E expressamente vedado ao empregador substituí-lo por antecipação em dinheiro).
+O empregador pagará as diferenças de abono refeição em 03 (três) parcelas, a contar do próximo pagamento.|
+
+O empregador se compromete a efetuar o desconto relativo ao vale transporte, estabelecido pela Lei 7.418/85 e regulamentada pelo Decreto 95.247/87 de até no máximo 6% (seis por cento), e, é expressamente vedado ao empregador substituí-lo por antecipação em dinheiro, artigo 5 do Decreto 95.247/87.
+|
+
+Os Empregadores estão obrigados a instituir o Convênio Médico para assistência dos seus empregados, e subsidiarão o valor de R$ 60,00 (sessenta reais) mensais para cada empregado, ficando por conta do trabalhador o valor excedente que será descontado em folha de pagamento desde que, expressamente autorizado pelo respectivo funcionário.
+ 
+Parágrafo 1°) O Sindicato dos empregados é o responsável pela contratação da operadora do convênio médico. As empresas que já concedem o convênio médico a seus funcionários ficam desobrigadas do cumprimento desta cláusula, desde que as condições por elas praticadas sejam equivalentes aqui estipuladas, ou ainda, mais favoráveis ao empregado, Sendo que na hipótese da contratação pelo empregador, este fica obrigado a apresentar ao Sindicato dos Empregados, o contrato de prestação de serviços do convênio médico com empresa idônea;
+ 
+Parágrafo 2º) Em caso do fornecimento do convênio médico pelo Sindicato dos Empregados a responsabilidade de informar, fiscalizar a cobrança da cobertura do convênio será do Sindicato dos Empregados, o empregador será responsável pela informação do numero de empregados pelo pagamento dos boletos. Na rescisão do contrato de trabalho do empregado não poderá ser exigido à cobrança dos boletos em atraso do empregador;
+ 
+Parágrafo 3°) O empregado que já possuir convênio médico, o empregador poderá subsidiar até o valor de R$. 60,00 (sessenta reais);
+ 
+O reajuste será aplicado ao longo de doze meses, respeitando a data de aniversário do contrato com o convênio Médico;
+ 
+Fica vedado o desconto de contribuição para convênio médico, salvo expressa concordância do empregado.|
+Os Empregadores subsidiarão uma apólice de VIDA E ACIDENTES PESSOAIS EM GRUPO, MODALIDADE PASI – PLANO DE AMPARO SOCIAL IMEDIATO, no valor de até R$ 14,77 (quatorze reais e setenta e sete centavos) mensais para cada empregado. Este benefício deverá contemplar todos os trabalhadores que estiver em plena atividade de trabalho independentemente de sua idade.
+O Sindicato dos Trabalhadores, Empregados, Instrutores, Diretores em Auto Escola, Centro de Formação de Condutores A e B, Trabalhadores e Empregados em Despachante Documentalista do Município de São Paulo – SINTRADETE, na qualidade de entidade responsável na contratação da Apólice de Vida em Grupo para benefício da categoria profissional abrangida por este Acordo Coletivo de trabalho, que deverá com exclusividade indicar, disponibilizar, certificar a qualidade da contratação do benefício especificado, administrar as inclusões e exclusões, bem como acompanhar a movimentação financeira das apólices.
+As empresas que já concedem o seguro de VIDA E ACIDENTES PESSOAIS EM GRUPO a seus empregados ficam desobrigadas do cumprimento desta clausula, desde que na apólice vigente, constar expressamente a cobertura especificada no item III parágrafo 1º desta cláusula como coberturas mínimas exigidas.
+ 
+COBERTURA MÍNIMAS EXIGIDAS
+I.                 - R$ 30.000,00 (trinta mil reais), em caso de Morte do empregado (a), independentemente do local ocorrido;
+II.                 - R$ 30.000,00 (trinta mil reais), em caso de Invalidez Permanente (Total ou Parcial) do empregado (a), causada por acidente, independentemente do local ocorrido, atestado por médico devidamente qualificado, discriminando detalhadamente, no laudo médico, as seqüelas definitivas, mencionando o grau ou percentagem, respectivamente, da invalidez deixada pelo acidente.
+III.                 – R$ 30.000,00 (trinta mil reais) em caso de Invalidez Permanente total adquirida no exercício profissional, será pago ao empregado 100% (cem por cento) do Capital Básico Segurado para a Cobertura de MORTE, limitado ao Capital Segurado mínimo exigido pela Convenção Coletiva de Trabalho da Categoria, mediante declaração médica, em modelo próprio fornecido pela seguradora, assinada pelo médico ou junta médica, responsável pelo laudo, caracterizando a incapacidade decorrente da doença profissional, obedecendo ao seguinte critério de pagamento:
+Paragráfo 1º.               Fica entendido que o empregado fará jus à cobertura PAED, somente no caso em que o próprio segurado seja considerado INVÁLIDO DE FORMA DEFINITIVA E PERMANENTE POR DOENÇA PROFISSIONAL, cuja doença seja caracterizada com DOENÇA PROFISSIONAL que o impeça de desenvolver definitivamente suas funções e pela qual não se pode esperar recuperação ou reabilitação com os recursos terapêuticos disponíveis no momento de sua constatação e desde que a data do início de tratamento e/ou diagnóstico da doença profissional caracterizada seja posterior à data de sua inclusão no seguro, e desde que tenha vínculo contratual com a empresa contratante, devidamente comprovada por relação ou proposta de adesão.
+Paragráfo 2º.               : Desde que devidamente comprovada e antecipada a indenização de invalidez de doença profissional, o segurado será excluído do seguro, em caráter definitivo, não cabendo o direito de nenhuma outra indenização futura ao mesmo segurado, mesmo que este segurado venha desempenhar outras funções na empresa ou em qualquer outra atividade neste ou outra empresa no País ou Exterior.
+Paragráfo 3º.                Caso não seja comprovada e/ou caracterizada a Invalidez adquirida no exercício profissional, o segurado continuará com as mesmas condições contratuais.
+Paragráfo 4º.                Caso o Empregado já tenha recebido indenizações contempladas pelo Benefício PAED ou outro semelhante, em outra seguradora, fica o mesmo Empregado sujeito às condições desta cláusula, sem direito a qualquer indenização.
+Paragráfo 5º.               - As indenizações em R$, independentemente da cobertura, deverão ser processadas e pagas aos beneficiários do seguro, no prazo não superior a 24 (vinte e quatro) horas após a entrega da documentação completa exigida pela Seguradora;
+Paragráfo 6º.                - Os valores das coberturas mínimas ajustadas nesta cláusula, com valores base Novembro de 2011 sofrerão, anualmente, atualizações pela variação da Convenção Coletiva de Trabalho.
+Paragráfo 7º.                - A partir do valor mínimo estipulado e das demais condições constantes do "caput" desta Cláusula, ficam as empresas livres para pactuarem com os seus empregados outros valores, critérios e condições para concessão do seguro, bem como a existência ou não de subsídios por parte da empresa e a efetivação ou não de desconto no salário do empregado (a), o qual deverá se for o caso, incidir apenas na parcela que exceder ao limite acima.
+Paragráfo 8º.                - Aplica-se o disposto na presente Cláusula a todas as empresas e empregadores, inclusive aos empregados (as) em regime de trabalho temporário, autônomos (as) e estagiários (as) devidamente comprovado o seu vínculo.
+Paragráfo 9º.                - As coberturas e as indenizações por morte e/ou por invalidez, previstas nos incisos I e II, do caput desta cláusula, não serão cumuláveis, sendo que o pagamento de uma exclui a outra.
+Paragráfo 10º.             - A Seguradora deverá observar o fiel cumprimento desta clausula, devendo, para tanto, constar respectiva apólice de seguro, as condições mínimas aqui estabelecidas, sob pena de virem a responder por eventual prejuízo causado aos empregadores e/ou empregados.
+Paragráfo 11º.             - O empregador que por ocasião do óbito ou da incapacitação permanente do trabalhador que não tenha implantado o benefício constante da presente cláusula ou estiver inadimplente por falta de pagamento, pagamento após o dia do vencimento ou efetuar o recolhimento por valor inferior ao devido, efetuará a indenização por morte ou invalidez ao empregado ou os seus dependentes equivalente ao dobro do valor da cobertura básica do seguro. 
+Paragráfo 12º.             - Faculta-se aos empregadores qualquer forma de contratação de seguro, desde que contemplados todos os benefícios previstos nesta cláusula e desde que firmado através de Acordo Coletivo de Trabalho com a participação das Entidades Sindicais subscritoras da presente Convenção Coletivas de Trabalho, sob pena de nulidade.
+Paragráfo 13º.             - A presente cláusula não tem natureza salarial, por não se constituir em contraprestação de serviços.
+Paragráfo 14º.            - As empresas e/ou empregadores não serão responsabilizadas, sob qualquer forma, solidária ou subsidiariamente, na eventualidade da Seguradora contratada não cumprir com as condições mínimas aqui estabelecidas, salvo quando houver prova de culpa ou dolo.
+IV.                R$ 15.000,00 (quinze mil reais) em caso de morte do cônjuge do titular do seguro.
+V.                R$ 7.500,00 (sete mil e quinhentos reais) em caso de morte de filhos do titular do seguro.
+VI.                R$ 7.500,00 (sete mil e quinhentos reais) em caso de nascimento de filhos do titular do seguro com doença congênita.
+VII.                Ocorrendo a morte do titular do seguro, os beneficiários do seguro receberão, a título de doação, duas cestas-básicas de 25kg cada, de comprovada qualidade.
+VIII.                Ocorrendo o nascimento de filho (os) da funcionária (cobre somente titular do sexo feminino) a mesma receberá, a título de doação, duas cestas natalidade, caracterizadas como um kit mãe e um kit bebê, com conteúdos específicos para atender as primeiras necessidades básicas da beneficiária e seu bebê, limitado a duas cestas, desde que o comunicado seja formalizado pela empresa até 30 dias após o parto da empregada contemplada.
+IX.                Ocorrendo a morte do titular do seguro, a empresa ou empregador receberá uma indenização de até 10% (dez por cento) do capital básico vigente, a título de reembolso das despesas efetivadas, para o acerto rescisório trabalhista, devidamente comprovado.
+X.                Ocorrendo a morte do empregado (a), a apólice de Seguro de Vida em Grupo deverá contemplar uma cobertura para os gastos com a realização do sepultamento do mesmo, no valor de até R$ 2.160,00 (dois mil cento e sessenta reais).|
+Fica estabelecido, que o contrato de experiência, terá prazo máximo de duração de (90) noventa dias sem direito a renovação;
+ 
+ 
+Parágrafo único: De caráter obrigatório para todas as Empresas sem exceção, o empregado deverá apresentar exame médico, comprovando estar apto ao trabalho no ato da contratação (exame admissional) e que o trabalho não lhe causou nenhum dano, (exame demissional) no ato da homologação. O exame médico realizado por conta do Empregador constará de investigação clínica, podendo, a critério médico, serem exigidos exames complementares conforme determinada a portaria nº. 24/94 do serviço de Medicina e Segurança do Trabalho.
+|
+
+O Empregador, na demissão sem justa causa, poderá se solicitado por escrito fornecer ao empregado, Carta de Referência, na ocasião da Homologação da Rescisão do Contrato de Trabalho.
+|
+O empregado dispensado sem justa causa, que contar com mais de (45) quarenta e cinco anos de idade e mais de (2) dois anos de trabalho na Empresa, fará jus ao Aviso Prévio de (45) quarenta e cinco dias. O empregado demitido sem justa causa fica dispensado do cumprimento do Aviso Prévio, desde que comprove a obtenção de um novo emprego, mediante simples carta do futuro Empregador;
+ 
+ a)      Os portadores de necessidades especiais terão os mesmos direitos.|
+
+Fica assegurado ao empregado em idade de prestação do Serviço Militar obrigatório o emprego, desde o alistamento prévio (em data anterior a data de dispensa) até (60) sessenta dias após o término do compromisso, salvo a hipótese de dispensa, devidamente assistido pelo Sindicato dos Trabalhadores.|
+A Empresa deverá reservar 2% (dois por cento) de sua capacidade de absorção de empregados para o deficiente físico em função compatível. Lei 8213/91, art. 93.
+|
+Ao Empregado afastado do serviço por doença, recebendo o benefício previdenciário respectivo, será garantido emprego e salário, a partir da alta por (30) trinta dias prévio previsto na CLT.
+|
+Fica assegurado aos empregados em geral, sejam homens ou mulheres, em vias de aposentadoria nos prazos mínimos legais, de conformidade com o previsto nos termos do art.188 do Decreto nº. 3.048/99 garantia de emprego, como segue:
+ 
+
+
+
+
+TEMPO DE TRABALHO NA MESMA EMPRESA
+
+ESTABILIDADE
+
+
+                                       20 ANOS OU MAIS
+
+            02 ANOS
+
+
+                                      10 ANOS OU MAIS
+
+            01 ANO
+
+
+                                      05 ANOS OU MAIS 
+
+           06 MESES
+ 
+ 
+§ 1º.: Para concessão das garantias acima, o empregado deverá apresentar comprovante fornecido pelo INSS, nos termos do art.130 do Decreto 3.048/99, que ateste, respectivamente, os períodos de 2 anos, 1 ano ou 6 meses restantes para a implementação do beneficio. A contagem da estabilidade inicia-se a partir da apresentação dos comprovantes pelo empregado, limitada ao tempo que faltar para aposentar-se.
+ 
+ 
+§ 2º.: A concessão prevista nesta cláusula, ocorrerá uma única vez, podendo a obrigação ser substituída por uma indenização correspondente aos salários do período não cumprido ou não implementado da garantia, não se aplicando nas hipóteses de encerramento das atividades da empresa e dispensa por justa causa ou pedido de demissão. |
+É vedada a dispensa do empregado no período de (30) trinta dias que antecedem e 30 trinta dias que sucedem à data-base da categoria, sob pena de pagamento dos salários do período e de multa igual a 01 (um) salário do Empregado na respectiva função.
+|
+Fica garantida a todo Empregado após o retorno das férias uma estabilidade de 30 (trinta) dias corridos. 
+|
+A jornada de trabalho dos empregados da categoria profissional é de (44) quarenta e quatro horas, salvo as exceções previstas em lei.|
+Quando for Feriado Prolongado, o Empregador poderá pedir a compensação das respectivas horas durante a jornada de trabalho que não poderá exceder (1) uma hora por dia. Estas horas não estarão sujeitas aos acréscimos salariais, desde que obedecidas às disposições dos parágrafos 2º e 3º do art. 59 da CLT em vigor.
+|
+Fica assegurado a todo empregado o direito de descanso semanal remunerado, salvo a necessidade excepcional do empregado, desde que as horas laboradas sejam pagas com acréscimos legais.  
+|
+Ao Empregado que exerça exclusivamente a função de digitador e o de Telemarketing, fica assegurada a jornada diária de trabalho não excedente a 6 (seis) horas, sendo que destas, apenas (5) cinco horas no trabalho de entrada de dados.  
+ 
+|
+Fica garantida a manutenção do horário do empregado estudante, matriculado em estabelecimento de ensino, cursando o Primeiro Grau, Segundo Grau, Superior ou Curso Profissionalizante desde que notifique a Empresa, até 10 (Dez) dias antes da efetivação da matrícula. 
+  
+§ 1º - Esta garantia se estenderá até a etapa final do curso, devendo o empregado apresentar declaração de freqüência, fornecida pela Entidade de Ensino, a cada semestre.
+  
+§ 2º  - Será abonada a falta do empregado estudante desde que os Exames coincidam com o horário de trabalho, devendo o empregado comunicar ao Empregador com antecedência.|
+Observado o disposto no Art. 135 da CLT as férias só poderão ter início em dias úteis. Havendo preferência do empregado em relação ao período de gozo das férias deverá o mesmo informar ao Empregador, por escrito e com antecedência de (60) sessenta dias, a fim de que o mesmo possa programar-se. 
+|
+A Empregada Mãe Biológica que estiver amamentando, terá sua jornada diária de trabalho reduzida em (2) duas horas até o sexto mês de vida do recém-nascido, prazo este que poderá ser dilatado quando assim o exigir a saúde de seu filho, a critério da autoridade médica competente, ficando a mãe, ainda, com a liberdade de optar pelo descanso contínuo, correspondente à referida redução da jornada diária de trabalho, conforme Art. 396 par. Único da CLT.
+|
+A Empresa concederá licença remunerada de (120) cento e vinte dias em conformidade com a Constituição Federal para mulher adotante, no caso de Adoção de criança na faixa de (0) zero a (12) doze meses.
+|
+
+Na hipótese de feriado Prolongado o empregador não poderá descontar os dias da remuneração do empregado.|
+O Empregador se obriga a manter no local de trabalho água potável, para consumo de seus empregados, bem como sanitários, masculino e feminino, em perfeitas condições de higiene, armários individuais para guarda de roupas e pertences pessoais do empregado, desde que a troca de roupa decorra de exigência da atividade desenvolvida.
+|
+Fica garantido o fornecimento gratuito de uniforme completo desde que exigido o seu uso pelo Empregador.
+|
+Para efeito de justificação, abono de faltas e atraso, a Empresa aceitará o atestado médico e/ou odontológico do Instituto Previdenciário, ou alternativamente, de eventual Convênio Medico do qual o empregado faça parte.
+|
+Será garantida ao empregado acidentado no trabalho, remuneração antes percebida desde que, após o acidente, apresente cumulativamente, redução da capacidade laborial que anteriormente exercia atestada pelo Órgão Oficial, obrigado, porém o empregado nesta situação, a participar de processo de readaptação e reabilitação profissional, que quando adquiridos, cessa a garantia assegurada na Lei Nº. 8.213/91, Art.118.
+|
+As empresas não adotarão quaisquer práticas gerenciais e de organização de trabalho que possam caracterizar assédio moral aos seus empregados, entendidas como tais todas as formas de constrangimento, intimidação, humilhação e discriminação perpetrados em face dos seus empregados, desde que decorrentes da relação de trabalho, e de que possam resultar sofrimento pscilógico para os mesmos com reflexos na saúde física, mental e moral.
+As empresas ratificam seus compromissos em cumprimento da legislação relativa a quaisquer discriminações relativas a sexo, idade, cor, religião, estado civil, etnia, número de filhos, tanto para admissão como para preenchimento de cargos.
+|
+A falta de comunicação de acidente de trabalho pelo empregador e a falta de anotação na CTPS, importará a sua responsabilidade pelo pagamento integral, e em dobro, dos salários durante o período de inatividade.
+|
+O Empregador permitirá que o Sindicato da Categoria Profissional promova Campanha de Sindicalização a seus empregados, no estabelecimento de trabalho e em data previamente estabelecida por consenso entre as partes e no horário de expediente.
+|
+A Mensalidade Sindical devida pelo Empregado, Sócio do Sindicato, será descontada em folha de pagamento e o recolhimento deverá ser efetuado em Agência Bancária por impresso próprio que será fornecido ao Empregador, pela Entidade Profissional, até o quinto dia útil do mês subseqüente.
+|
+O Empregador descontará da remuneração do empregado, sindicalizado ou não, a Contribuição assistencial, de acordo com a Assembléia Geral da Categoria, da seguinte forma:               
+ 
+ Para ser aplicada a partir da divulgação deste acordo.
+ 
+A Contribuição assistencial será dividida em (11) onze parcelas iguais, de (2%) dois por cento, incidindo respectivamente sobre os salários de Janeiro, Fevereiro, Abril, Maio, Junho, Julho, Agosto, Setembro, Outubro, Novembro e Dezembro de 2011, devendo ser recolhida até o quinto dia útil do mês subseqüente ao desconto.
+ 
+O recolhimento deverá ser efetuado em Agência Bancária por impresso próprio que será fornecido ao empregador pela Entidade Profissional.
+ 
+O recolhimento da Contribuição assistencial efetuado pelo Empregador fora do prazo será acrescido de multa de (2%) Dois por cento nos (30) trinta primeiros dias, mais (1%) um por cento por mês subseqüente de atraso além de juros de mora de (1%) um por cento ao mês.|
+O empregador se obriga a descontar e repassar ao Sindicato dos Trabalhadores a Contribuição Assistencial proporcional ao período trabalhado no exercício do ano em curso referente ao empregado Demitido por ocasião da Homologação de Demissão, caso as mesmas não tenham sido recolhidas anteriormente, com as multa estipulada pelo atraso.
+|
+No caso do empregador não receber a guia para pagamento das contribuições devidas é de responsabilidade do Sindicato dos Trabalhadores disponibilizarem a emissão da 2ª via da guia e enviá-la pelo correio..
+|
+
+Será dado ao empregado (20) vinte dias, para opor-se ao desconto das Contribuições Assistenciais, a partir da data base da categoria, conforme deliberação em Assembléia, devendo se manifestar por escrito e entregar o documento, pessoalmente e individualmente, na Sede ou Sub Sede da entidade Sindical. 
+|
+O Empregador esclarecerá a seu empregado sobre os descontos das Contribuições Confederativa , Assistencial que são obrigatórias por imposição de Lei.  Salvo quanto a contribuição sindical, cujo desconto independe dessas formalidades. 
+|
+
+Fica estipulada multa no valor correspondente a (10%) dez por cento do piso salarial vigente nas respectivas funções por empregado e por infração, no caso de violação de qualquer cláusula do presente acordo revertendo seu valor para a parte prejudicada.|
+É vedado ao empregador efetuar anotações desabonadoras à conduta do empregado em sua Carteira de Trabalho e Previdência Social. (Acrescentado pela L-010.270-2001).
+|
+O Empregador, desde que solicitado, fornecerá ao seu empregado os documentos necessários relativos ao vínculo laborial para obtenção de benefício previdenciário.|
+Eventuais interrupções do trabalho ocasionadas ou decorrentes de casos fortuitos ou de força maior não poderão ser descontadas nem trabalhadas como compensação.
+ 
+Parágrafo único:  O atraso ao trabalho, desde que não ultrapasse (15) quinze minutos,  não acarretará qualquer desconto da remuneração do trabalhador.
+|
+O Empregador abonará (5) cinco dias alternados de ausência do empregado dentro do período de (12) doze meses em caso de internação hospitalar da esposa e filhos, desde que haja incompatibilidade de horário para o comparecimento ao serviço.
+|
+Fica garantida a Entidade Sindical Signatária a promoção perante a Justiça do Trabalho e o Foro em Geral de ações plúrimas em nome dos empregados e em nome próprio ou ainda, como parte interessada, em caso de descumprimento de qualquer cláusula avençada ou determinada neste Acordo Coletivo.
+  
+Parágrafo único: Fica vedado ao Sindicato dos Trabalhadores patrocinarem causas trabalhistas, sem esgotar a negociação da conciliação trabalhista prevista neste acordo, após sua constituição.|
+As partes conveniadas comprometem-se a divulgar os termos do presente acordo aos seus representados.

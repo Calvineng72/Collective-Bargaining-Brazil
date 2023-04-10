@@ -1,0 +1,68 @@
+<STARTofTITLE>
+Mediador - Extrato Acordo Coletivo
+<ENDofTITLE>
+
+<STARTofVALIDITY>
+semvalorlegal
+<ENDofVALIDITY>
+
+<STARTofHEADERS>
+NÚMERO DA SOLICITAÇÃO|MR083965/2015
+<ENDofHEADERS>
+
+<STARTofCOUNTERPART1>
+SINDICATO DOS EMPREGADOS NO COMERCIO DE URUGUAIANA                                                                                                    |98.417.462/0001-03|Presidente|JORGE UBIRAJARA ALVES DA SILVA
+<ENDofCOUNTERPART1>
+<STARTofCOUNTERPART2>
+LUCIANA EVALDT MENGUE - ME|03.267.589/0001-87|Empresário|LUCIANA EVALDT MENGUE
+<ENDofCOUNTERPART2>
+
+<STARTofSTARTDATE>
+16/12/2015
+<ENDofSTARTDATE>
+<STARTofEXPRIRATIONDATE>
+05/01/2016
+<ENDofEXPIRATIONDATE>
+
+<STARTofRENEGOTIATION>
+01/11
+<ENDofRENEGOTIATION>
+
+<STARTofCATEGORY>
+EMPREGADOS NO COMERCIO VAREJISTA DE URUGUAIANA
+<ENDofCATEGORY>
+<STARTofGEOGRAPHY>
+Uruguaiana/RS
+<ENDofGEOGRAPHY>
+
+<STARTofCLAUSES>
+Prorrogação/Redução de Jornada|DA JORNADA DE TRABALHO ESPECIAL DO DOMINGO 20 DE DEZEMBRO
+Compensação de Jornada|DA PAGAMENTO DA JORNADA DE TRABALHO ESPECIAL
+Compensação de Jornada|DA CONCESSÃO DA FOLGA
+Sobreaviso|DAS DIVERGENCIAS
+<ENDofCLAUSES>
+
+<STARTofAPPENDICES>
+ATA ASSEMBLEIA EXTRAORDINARIA
+<ENDofAPPENDICES>
+
+<STARTofAPPTEXT>
+
+Anexo (PDF)
+
+<ENDofAPPTEXT>
+
+<STARTofTEXT>
+ Conforme establece Lei 11.603 e atendendo  a Lei Municipal  n. 4.064/2011 " Art. 1º Fica acrescido parágrafo único ao artigo 1º da Lei N.º 3.870/09, de 15 de maio de 2009, com a seguinte redação: “Art. 1º [...] Parágrafo único. Fica autorizado o funcionamento das atividades do Art. 1º (........). Parágrafo ùnico: " Fica autorizado o funcionamento das atividades do comércio em geral do município de Uruguaiana, no domingo que antecede ao dia 25 de dezembro de cada ano, no horário das 16h as 20hs, mediante acordo coletivo."  Ficando acordado entre as partes o trabalho no domingo a seguir nominado
+ 
+- Do domingo  20 de dezembro   das 09hs (nove horas) as 13hs(treze horas)
+                                                   das16hs (dezesseis horas) as 20hs (vinte horas). 
+|
+       Os funcionários que laborarem no domingo estabelecidos neste acordo, receberão a titulo de indenização o pagamento de R$ 57,00 (cinquenta e sete reais),  por turno trabahdo no domingo  a ser pago ao final da referida jornada de trabalho.  
+|
+Será concedido um dia de descanso compensatório por turno trabalhado, o qual será concedido na semana seguinte ao domingo trabalhado.
+Parágrafo Primeiro: Caso não seja usufruído nas referidas datas aqui acordadas será pago como horas extraordinárias com adicional de 100(cem)%.
+Parágrafo Segundo:O a concessão da folga pelas horas tabalhadas nos domingos, não poderão ser subistituídos pelo acréscimo ou decréscimo no banco de horas dos empregados. 
+ 
+|
+As eventuais divergências decorrentes da aplicação das cláusulas do presente acordo coletivo de trabalho serão dirimidas, exclusivamente, pela Justiça do Trabalho.

@@ -1,0 +1,335 @@
+<STARTofTITLE>
+Mediador - Extrato Acordo Coletivo
+<ENDofTITLE>
+
+<STARTofVALIDITY>
+semvalorlegal
+<ENDofVALIDITY>
+
+<STARTofHEADERS>
+NÚMERO DA SOLICITAÇÃO|MR073410/2013
+DATA E HORÁRIO DA TRANSMISSÃO|25/11/2013ÀS09:47
+<ENDofHEADERS>
+
+<STARTofCOUNTERPART1>
+SINDICATO DOS TRAB NAS INDUSTRIA DO VESTUARIO CAPIVARI|57.517.815/0001-60|Presidente|EURIDES CASSANIGA
+<ENDofCOUNTERPART1>
+<STARTofCOUNTERPART2>
+RILUTS CONFECCAO TEXTIL LTDA - EPP|54.329.503/0001-34|Empresário|BENEDITO MESSIAS SIMAO
+<ENDofCOUNTERPART2>
+
+<STARTofSTARTDATE>
+01/06/2013
+<ENDofSTARTDATE>
+<STARTofEXPRIRATIONDATE>
+31/05/2014
+<ENDofEXPIRATIONDATE>
+
+<STARTofRENEGOTIATION>
+01/06
+<ENDofRENEGOTIATION>
+
+<STARTofCATEGORY>
+PROFISSIONAL DOS TRABALHADORES NAS INDUSTRIA DO VESTUARIO
+<ENDofCATEGORY>
+<STARTofGEOGRAPHY>
+Tietê/SP
+<ENDofGEOGRAPHY>
+
+<STARTofCLAUSES>
+Piso Salarial|SALÁRIO NORMATIVO
+Reajustes/Correções Salariais|REAJUSTE SALARIAL E AUMENTO SALARIAL
+Reajustes/Correções Salariais|COMPENSAÇÕES
+Pagamento de Salário – Formas e Prazos|PAGAMENTO DE SALÁRIOS,  ATRASO NO PAGAMENTO DE SALÁRIOS, FÉRIAS E 13º SALÁR
+Pagamento de Salário – Formas e Prazos|ERROS NO PAGAMENTO DE SALÁRIOS
+Pagamento de Salário – Formas e Prazos|PAGAMENTO DE SALÁRIOS MEDIANTE CHEQUES
+Descontos Salariais|ATRASO AO TRABALHO   DESCONTO DRS
+Outras normas referentes a salários, reajustes, pagamentos e critérios para cálculo|ADIANTAMENTO DE SALÁRIOS (VALE)
+Outras normas referentes a salários, reajustes, pagamentos e critérios para cálculo|MULTAS
+Outras Gratificações|PROMOÇÕES
+Adicional de Hora-Extra|HORAS EXTRAS
+Adicional Noturno|ADICIONAL NOTURNO
+Outros Adicionais|ADICIONAL DE TRANSFERÊNCIA
+Auxílio Transporte|VALE TRANSPORTE
+Auxílio Transporte|HORÁRIO DE TRANSPORTE
+Auxílio Educação|ABONO DE FALTAS DO ESTUDANTE
+Auxílio Educação|AUXÍLIO ESCOLAR
+Auxílio Morte/Funeral|AUXÍLIO FUNERAL
+Auxílio Creche|AUXÍLIO CRECHE
+Outros Auxílios|CONVÊNIO FARMÁCIA
+Aposentadoria|ABONO POR APOSENTADORIA
+Normas para Admissão/Contratação|READMISSÃO DE EMPREGADO
+Normas para Admissão/Contratação|SALÁRIO PARA ADMISSÃO
+Normas para Admissão/Contratação|CARTEIRA DE TRABALHO
+Desligamento/Demissão|PRAZO PARA QUITAÇÃO DE RESCIÇÃO CONTRATUAL
+Desligamento/Demissão|CARTA AVISO DE DISPENSA
+Aviso Prévio|AVISO PRÉVIO
+Mão-de-Obra Temporária/Terceirização|SUBSTITUIÇÃO TEMPORÁRIA
+Outros grupos específicos|COMPROVANTE DE PAGAMENTO   EXTRATO FO FGTS
+Outros grupos específicos|PIS
+Adaptação de função|AUTOMAÇÃO
+Ferramentas e Equipamentos de Trabalho|FORNECIMENTO DE FERRAMENTAS E INSTRUMENTOS DE TRABALHO
+Estabilidade Serviço Militar|SERVIÇO MILITAR
+Estabilidade Acidentados/Portadores Doença Profissional|EMPREGADO ACIDENTADO
+Estabilidade Aposentadoria|EMPREGADOS EM VIAS DE APOSENTADORIA
+Outras normas de pessoal|CARTA DE REFERÊNCIA
+Compensação de Jornada|COMPENSAÇÃO DE HORÁRIO DE TRABALHO
+Faltas|AUSÊNCIA JUSTIFICADA
+Duração e Concessão de Férias|COINCIDÊNCIAS DE FÉRIAS COM LICENÇA DE CASAMENTO
+Duração e Concessão de Férias|FÉRIAS
+Férias Coletivas|FÉRIAS COLETIVAS
+Licença Maternidade|GESTANTES
+Licença Adoção|LICENÇA ADOTANTE
+Outras disposições sobre férias e licenças|DIAS "PONTES"
+Outras disposições sobre férias e licenças|LICENÇA PARA CASAMENTO
+Outras disposições sobre férias e licenças|LICENÇA PATERNIDADE
+Condições de Ambiente de Trabalho|HIGIENE PESSOAL
+Condições de Ambiente de Trabalho|AQUECIMENTO DE REFEIÇÕES
+Condições de Ambiente de Trabalho|ÁGUA POTÁVEL
+Equipamentos de Proteção Individual|EQUIPAMENTO DE PROTEÇÃO INDIVIDUAL
+Uniforme|UNIFORMES
+CIPA – composição, eleição, atribuições, garantias aos cipeiros|CIPA
+Exames Médicos|EXAMES MÉDICOS
+Aceitação de Atestados Médicos|PREENCHIMENTO DE FORMULÁRIOS PARA A PREVIDÊNCIA SOCIAL
+Aceitação de Atestados Médicos|ATESTADOS MÉDICOS / ODONTOLÓGICOS
+Primeiros Socorros|TRANSPORTES DE ACIDENTES E DOENTES
+Sindicalização (campanhas e contratação de sindicalizados)|SINDICALIZAÇÃO
+Garantias a Diretores Sindicais|DIRIGENTES DO SINDICATO   AUSÊNCIAS
+Contribuições Sindicais|CONTRIBUIÇÕES DOS EMPREGADOS A FAVOR DO SINDICATO
+Outras disposições sobre relação entre sindicato e empresa|HOMOLOGAÇÕES
+Outras disposições sobre relação entre sindicato e empresa|CÓPIAS DA RAIS
+Outras disposições sobre relação entre sindicato e empresa|RELAÇÃO DE EMPREGADOS ADMITIDOS E DEMITIDOS
+Outras disposições sobre relação entre sindicato e empresa|QUADRO DE AVISOS
+Outras disposições sobre relação entre sindicato e empresa|RECIBOS DE MENSALIDADES DO SINDICATO
+Aplicação do Instrumento Coletivo|ACORDOS COLETIVOS   NORMAS MAIS FAVORÁVEIS
+Aplicação do Instrumento Coletivo|AÇÃO DE CUMPRIMENTO
+Aplicação do Instrumento Coletivo|COMPROMISSO
+Aplicação do Instrumento Coletivo|PRORROGAÇÃO, REVISÃO, DENÚNCIA OU REVOGAÇÃO
+Aplicação do Instrumento Coletivo|JUÍZO COMPETENTE
+<ENDofCLAUSES>
+
+<STARTofAPPENDICES>
+
+<ENDofAPPENDICES>
+
+<STARTofAPPTEXT>
+
+<ENDofAPPTEXT>
+
+<STARTofTEXT>
+Fica assegurado para os empregadores, à execução do menor aprendiz, na forma da Lei, um salário normativo a partir do mês de junho de 2013, que obedecerá aos seguintes critérios e valores:
+a) NÃO QUALIFICADOS, R$ 767,00 (Setecentos e sessenta e sete reais) mensais;
+b) QUALIFICADOS, R$ 880,00 (Oitocentos e oitenta reais) mensais.
+Parágrafo 1º - São considerados qualificados os empregados que exercitam as funções de: costureira, cortador, estilista ou modelista, passadeira, inspetor de qualidade, bordadeira, operador de máquina em geral.
+Parágrafo 2º - São considerados não qualificados todos os demais empregados que exercitem suas atividades em funções não enquadradas nas especificações acima.
+Parágrafo 3º - Os salários normativos acima estabelecidos serão corrigidos na mesma época, do mesmo modo e no mesmo percentual que vierem a corrigir, na forma da lei e deste acordo da categoria.
+|
+Sobre os pisos salariais vigentes em 01 de junho de 2012, será aplicado o percentual 10% (dez por cento) correspondente as perdas salariais acumuladas do período de 31-05-2012 a 31-05-2013, negociados pelas partes, a vigorar a partir de 01 de junho de 2013, limitado ao teto de R$ 2.750,00 (dois mil e setecentos e cinquenta reais). O valor do teto estabelecido comportando a livre negociação entre as partes, no que exceder o referido valor.
+|
+Serão compensados todas as antecipações, abonos, reajustes e aumentos salariais, espontâneos ou compulsórios, concedidos no período de 01-06-2012 a 31-05-2013, exceto os decorrentes de promoção, equiparação salarial, transferência, mérito, implemento de idade, termino de aprendizagem e os aumentos  reais expressamente concedidos e esse título.
+|
+a) Quando o 5º dia útil do mês recair no sábado, a empresa deverá antecipar o pagamento dos salários para o primeiro dia útil imediatamente anterior;
+b) O não pagamento dos salários ajustados no prazo determinado por Lei, ou seja, até o 5º (quinto) dia útil de cada mês subseqüente ao vencido, salvo quando este recair no sábado, procedendo-se na forma acima, acarretará multa diária revertida ao trabalhador, a saber:
+1 - 0,16% (zero vírgula dezesseis por cento) do maior Salário Normativo, quando a obrigação for satisfeita independente de medida judicial, sendo então concomitantemente o Principal e a respectiva multa.
+2 - 0,32% (zero vírgula trinta e dois por cento) do maior Salário Normativo, quando a obrigação for satisfeita através de medida judicial.
+c) O não pagamento do 13º Salário e da remuneração das férias nos prazos definidos em Lei implicará na mesma multa, conforme acima estipulado;
+d) Nos em que o vencimento dos prazos supra coincidirem com sábados, o pagamento deverá ser antecipado para o dia útil imediatamente anterior e, no caso de recaírem em domingos e feriados o pagamento será feito no primeiro dia útil subseqüente;
+e) As multas previstas nos itens 1 e 2 da letra "B" supra não poderão ser exigidos nos casos controversos de diferenças salariais e não poderão superar nunca a 2 (dois) salários nominais do empregado.
+|
+
+Os erros comprovados e incontroversos que por ventura ocorrem no pagamento dos salários serão corrigidos, com o pagamento das diferenças no prazo máximo de 3 (três) dias úteis, a contar da data da solicitação por parte do empregado.
+|
+a) A empresa que paga salários através de cheques devem observar exigências da Portaria nº 3.281, de 17/12/84, cuja redação é a seguinte:
+Art. 1º - As empresas situadas em perímetro urbano poderão efetuar o pagamento dos salários e da remuneração das férias através de conta bancária aberta para esse fim, em nome de cada empregado e com consentimento deste estabelecimento de credito próximo ao local de trabalho, ou em cheque emitido diretamente pelo empregador, em favor do empregado, salvo se o trabalhador for analfabeto, quando o pagamento somente poderá ser feito em dinheiro.
+Parágrafo único - As condições de funcionamento do sistema previsto neste artigo serão estipulados em convênio entre a empresa e o estabelecimento de credito, de modo que o empregador possa utilizar a importância depositada de conformidade com o disposto nos artigos 145, 459, parágrafo único e 465, todos da Consolidação das Leis do Trabalho.
+Art. 2º - Os pagamentos efetuados na forma do artigo 1º obrigam o empregador a assegurar ao empregado:
+a) Horário que permita o desconto imediato do cheque;
+b) Transporte, caso o acesso ao estabelecimento de Crédito exija a utilização do mesmo;
+c) Condição que impeça qualquer atraso no recolhimento dos salários e da remuneração das férias.
+Art. 3º - Esta Portaria estará em vigor na data de sua publicação, revogadas as disposições em contrário, especialmente a Portaria nº 3.245, de 28 de julho de 1971.
+|
+A ocorrência de um atraso ao trabalho na semana, desde que não superior a 30 (trinta) minutos, não acarretará o desconto do DSR correspondente. Nessa hipótese, a empresa não poderá impedir o cumprimento do restante da jornada de trabalho.
+Aplicar-se-á o mesmo critério para o caso de greve geral nos transportes públicos coletivos, limitado o atraso a 120 (cento e vinte minutos).
+|
+A empresa fornecerá aos empregados adiantamento salarial equivalente a 40% do salário mensal, até o dia 20 de cada mês. 
+Estará excluída da aplicação desta cláusula a empresa que possue convênios com supermercados, postos de abastecimento ou cooperativas de consumo, desde que os seus trabalhadores manifestem livremente, até o dia 10 de cada mês, a vontade de participarem do benefício e de não receberem o vale.
+O pagamento do adiantamento salarial (vale), não será devido, inclusive, nos meses em que ocorrer o pagamento das parcelas do 13º salário. 
+|
+Multa de 5% (cinco por cento) do maior Salário Normativo, vigente à época da infração, pelo descumprimento de qualquer cláusula do presente Acordo Coletivo de Trabalho, revertendo a favor da parte prejudicada, multa esta por infração e por empregado.
+A presente multa não se aplica em relação às cláusulas para as quais a CLT, já estabeleça penalidade ou aquelas que, neste Acordo, já tragam no seu próprio bojo punição pecuniária.
+A multa será, especialmente, de 3 % (três por cento) do Salário Normativo, vigente à época da infração, por empregado, no caso de descumprimento da obrigação de fazer relativa à cláusula de fornecimento de demonstrativo de pagamento, revertendo em favor da parte prejudicada.
+Parágrafo único: A parte prejudicada deverá notificar a outra, por escrito. Se sanada a irregularidade no prazo de 30 (trinta) dias, a multa não será imposta.
+|
+
+a)  Sempre que ocorrer promoção, a mesma deverá ser comunicada por escrito ao empregado e obrigatoriamente anotada na CTPS.
+b)    A toda promoção para função sem paradigma será garantido reajuste salarial, de acordo com a política de salários, de cada empresa, respeitando aumento mínimo de 10% (dez por cento).
+c)   Havendo paradigma, será garantido o menor salário da função.
+d)    O aumento por promoção não será compensado nem deduzido por ocasião da primeira data-base subseqüente, garantido-se à empresa o direito de compensar reajustes espontâneos e antecipações havidas entre a data-base passada e a data da promoção.
+|
+Ressalvadas as condições mais favoráveis praticadas pela empresa, as extraordinárias serão remuneradas na forma abaixo:
+a) 50% (cinqüenta por cento) de acréscimo em relação à hora normal, quando trabalhadas em qualquer dia compreendido entre segunda-feira e sábado;
+b) 100% (cem por cento) de acréscimo em relação à hora normal, quando trabalhadas em domingos e feriados ou dia destinados ao repouso semanal, desde que a Empresa esteja autorizada pelo M.T.E. a trabalhar nestes dias, conforme Port. 3118/89.
+|
+A remuneração do trabalho noturno será efetuada da forma abaixo:
+a) Será acrescida o adicional de 40% (quarenta por cento).
+Considera-se horário noturno aquele compreendido das 22:00 às 05:00 horas.
+|
+a) O adicional de transferência, previsto no Art. 469 - Parágrafo 3º da CLT será de 30% (trinta por cento).
+b) A empresa deverá comunicar o fato com antecedência de 60 (sessenta) dias da data da mudança.
+c) Sendo da transferência definitiva e na impossibilidade do empregado poder acompanhar a empresa, esta viabilizará a dispensa sem justa causa.
+d) Visando a eventual recolocação do empregado, as empresas nessas condições, encaminharão uma ficha cadastral e funcional do empregado à Bolsa de Empregados do Sindicato.
+|
+
+a) Fica a empresa alertada de que deverão cumprir a legislação referente ao vale-transporte, nos termos da Lei 7619/87 e decreto nº 95.247/87.
+b) Na concorrência de aumento de tarifa de transporte, a empresa deverá complementar a diferença, dentro do prazo máximo de 05 (cinco) dias úteis.|
+O encerramento do expediente que se verificar no período noturno, na empresa que não fornece transporte coletivo próprio, deverá ser compatível com os horários cobertos normalmente por serviços de transportes públicos.
+|
+Serão abonadas as faltas do empregado estudante para prestação de exames em estabelecimento de ensino oficial, autorizado ou reconhecido e desde que coincidentes com o horário de trabalho, pré-avisado o empregador com o mínimo de 72 (setenta e duas) horas de comprovação posterior.
+|
+Recomenda-se à empresa solicitarem os serviços do MEC ou do FENAME, para facilitar aos seus empregados a aquisição de material escolar, duas vezes por ano.
+|
+No caso de falecimento de empregado, a empresa pagará o título de Auxilio Funeral, uma única vez, juntamente com o saldo de salário e outras verbas trabalhistas remanescentes a quantia correspondente a um salário nominal do empregado, vigente à data do falecimento.
+Não se aplica esta cláusula à empresa que tem sistema de seguro de vida em grupo inteiramente subvencionado por elas.
+|
+Durante a vigência do presente acordo, a empresa que não mantém creche ou convênio com creche, na forma da Legislação pertinente, pagarão as suas empregadas o valor mensal correspondente a 25% (vinte e cinco por cento) do maior salário normativo da categoria vigente no respectivo mês.
+Este auxílio será concedido a criança, porem limitado ao período máximo de 12 (doze) meses, a contar de mês em que a empregada retornar da licença-gestante.
+As partes convencionam que a concessão da vantagem contida no item supra atende integralmente aos parágrafos do Art. 389 da CLT:
+§ 1º Os estabalelecimentos em que trabalharem pelo menos 30 (trinta) mulheres com mais de 16 (dezesseis) anos de idade terão local apropriado onde seja permitido às empregadas guardar sob vigilância e assistência os seus filhos no período da amamentação.
+§ 2º A exigência do § 1º poderá ser suprida por meio de creches distritas mantidas, diretamente ou mediante convênios, com outras entidades públicas ou privadas, pelas próprias empresas, em regime comunitário, ou a cargo do SESI, DO SESC, da LBA ou de entidades sindicais.
+Bem como na Portaria MTP-3296, de 03-09-86. O auxílio creche objeto desta cláusula não integrará, para nenhum efeito o salário da empregada.
+|
+Recomenda-se à empresa que estabeleça convênios com farmácias e drogarias para aquisição de remédios pelos seus empregados.
+|
+Ressalvadas as situações mais favoráveis já existentes, ao empregado com 4 (quatro) anos ou mais de serviços contínuos dedicados à mesma empresa, quando dela vier a desligar-se definitivamente por motivo de aposentadoria, será pago um abono a título de indenização, equivalente ao seu ultimo salário nominal, percebido na empresa.
+|
+Não será exigido contrato de experiência nos casos de readmissão de empregado para a mesma função anteriormente exercida da mesma empresa.
+|
+Assegura-se ao empregado admitido para a função de outro dispensado, salário igual ao empregado de menor salário na função, sem considerar vantagens pessoais.
+|
+O empregador ao reter a CTPS para anotações deverá precedê-las no prazo de 48 horas.
+a) A Carteira de Trabalho deverá conter obrigatoriamente as anotações da data da admissão, a remuneração, a forma de pagamento, a declaração de opções do FGTS, PIS e outras condições especiais que venham a existir, além da anotação da função ou cargo;
+b) As anotações na CTPS serão feitas ainda pelo empregador:
+1. Na data-base da categoria;
+2. Na rescisão contratual;
+3. A qualquer tempo, quando justificadamente, for exigido do empregado, por órgãos públicos ou não, a comprovação de seus salários registrados em CTPS.
+|
+A empresa deverá efetuar o pagamento das parcelas constantes dos instrumentos de rescisão ou recibo de quitação, até o primeiro dia útil imediato ao término do contrato ou até o décimo dia, contando da data da notificação da demissão, quando da ausência do aviso prévio, indenização do mesmo ou dispensa de seu cumprimento, conforme disposições da Lei nº 7.855/89, que alterou parágrafos do Art. 477 da CLT.
+|
+Entrega aos empregados de carta-aviso, nos casos de dispensa sob alegação de prática de falta grave, contra-recibo, declinando as razões determinantes da demissão.
+|
+Nos casos de rescisão de trabalho sem justa causa pelo empregador, de empregado com 45 anos ou mais de idade e que com um mínimo de 4 (quatro) anos de trabalho na mesma empresa, fica garantido um aviso prévio de 45 dias, sendo que os quinze dias excedentes ao Aviso-Prévio serão pagos em caráter indenizatório.
+|
+a) Sempre que houver determinação de substituição temporária, a mesma será comunicada por escrito ao empregado;
+b) Nas substituições temporárias superiores a 30 (trinta) dias o substituto fará jus à diferença salarial existente entre ele e o substituído, a titulo de gratificação por função, desde 31º (trigésimo primeiro) dia, até o último em que perdurar a substituição.
+c) Terminada a substituição, deixará de existir a obrigatoriedade no pagamento da referida gratificação, não implicando redução salarial.
+d) Excluem-se das estipulações acima os casos de férias e os empregados exercentes de cargos administrativos de Supervisão, Chefia e Gerência.
+|
+a) Fornecimento obrigatório ao empregado, de pagamento, com a discriminação das importâncias pagas e descontos efetuados, contendo a identificação da empresa e os recolhimentos ao Fundo de Garantia por Tempo de Serviço (FGTS).
+b) A empresa fica alerta de que deverá cumprir rigorosamente as disposições da Lei 8036/90, especialmente seu Art. 17, a fim de possibilitar ao Banco Depositário do FGTS o atendimento ao Art. 22 do Decreto 99.684/90, ou seja, a remessa pelo Banco, do Extrato do FGTS, bimestralmente, diretamente ao próprio trabalhador.
+|
+A empresa deverá providenciar o pagamento do PIS nas suas próprias dependências. As empresas que não o fizerem deverão conceder abono de 4 (quatro) horas para o empregado recebê-lo, analisando os casos em que o domicílio bancário esteja situado em outro município para abonar o tempo necessário.
+|
+Na automação dos meios de produção, com a implantação de novas técnicas ou maquinários, a empresa deverá desenvolver e promover treinamento durante o período necessário e dentro da jornada de trabalho, a fim de que os funcionários adquiram melhor qualificação em seus novos todos de trabalho.
+|
+a) A empresa fornecerá, sem qualquer ônus, aos empregados, as ferramentas e instrumentos de trabalhos necessários e utilizados no local de trabalho, para a prestação dos serviços respectivos;
+b) As ferramentas ou instrumentos serão reembolsados pelo empregado, na ocorrência de perda ou dano causado uso indevido, devidamente comprovado, ressalvando o desgaste normal das ferramentas.
+|
+Fica garantido emprego ou salário ao empregado em idade de prestação de serviço militar, desde o alistamento até a respectiva incorporação ao serviço militar ou em tiro de guerra e nos 30 (trinta) dias após o desligamento.
+|
+Garantia de emprego ou salário, a partir da alta previdenciária, ao empregado afastado por acidente do trabalho, se incapacitado para exercer a função que vinha exercendo e em condições de exercer outra função compatível com seu estado físico após o acidente, por período igual ao do afastamento e até o limite máximo de 90 (noventa) dias. Ocorrendo os pressupostos previstos na Lei 8213, de 24-07-91, regulamentada pelo Decreto 356, de 07-12-91, deverão ser observadas as disposições ali contidas.
+|
+Aos empregados que comprovadamente estiverem a um máximo de 12(doze) meses da aquisição do direito à aposentadoria em seus prazos mínimos, e contém com o mínimo de 04 (quatro) anos de serviço contínuo na empresa, fica assegurado o emprego ou salário durante o período que faltar para aposentar-se, ficando excluídas desta garantia de rescisões por justa causa, rescisões por acordo entre as partes e pedidos de demissão.
+|
+Desde que o empregado solicite a empresa lhe fornecerá carta de referência, da qual deverá constar no mínimo a indicação do período trabalhado.
+Quando da dispensa sem motivo justificado a empresa fornecerá, também, caso seja solicitado e ainda não tenha sido entregue, documentação de curso que o mesmo tenha concluído na empresa.
+|
+Fica autorizada a celebração de ACORDO DE COMPENSAÇÃO DE HORAS, diretamente entre a empresa e o empregado, em instrumento individual ou plúrimo, no qual conste o horário de trabalho a ser executado para a compensação acordada.
+Em se tratando e empregado menor de 18 anos de idade, este deverá ser assistido pelo responsável legal.
+As regras constantes desta cláusula serão aplicáveis, no caso de menor, ao trabalho em horário diurno, isto é, das 5:00 às 22:00 horas.
+|
+
+a) O empregado poderá deixar de comparecer ao serviço, sem prejuízo do salário, por 2 (dois) dias em caso de falecimento do cônjuge, ascendente, descendente, sogra ou sogro, irmão ou pessoas que, declarada em sua Carteira de Trabalho, viva sob sua dependência econômica; e 2 (dois) dias por semestre no caso de internação hospitalar da(o) esposa(o) ou companheiro (o) ou filho (a), desde que coincidente com as jornadas de trabalho e mediante comprovação.
+ 
+b) No caso de internação do filho por mais de 02 (dois) dias, a trabalhadora poderá solicitar licença - não remunerada para o período compreendido entre o 3º (terceiro) e o 15º (décimo quinto) dias em que afastar-se do emprego, sendo que os proventos de reflexo em 13º salário, Férias e 1/3 serão assegurados para esse período.
+|
+Desde que avisadas com um mínimo de 30 (trinta) dias de antecedência, a empresa procurará compatibilizar o gozo das férias regulamentares com a licença casamento do empregado, desde que este tenha mais de um ano de serviço na mesma empresa.
+|
+a) A empresa comunicará aos empregados à data do início do período de gozo das férias individuais com antecipação mínima de 30 (trinta) dias, nos termos do disposto pelo Art. 135 da CLT.
+b) Ao caso de férias coletivas, o empregador deverá comunicar ao órgão do Ministério do Trabalho com a antecedência mínima de 15 (quinze) dias, enviando cópia da comunicação à entidade sindical profissional.
+c) O início das férias individuais ou coletivas não poderá coincidir com sábado, domingos, feriados ou dias já compensados, devendo ser fixado a partir do primeiro dia útil da semana.
+d) A remuneração das férias, inclusive o terço de que trata o inciso XVII do Art. 7º da Constituição Federal, deverá ser pago até 2 (dois) dias antes do início do respectivo período de férias.
+|
+Quando as férias coletivas concedidas abrangem os dias 25 de dezembro e 1º de janeiro, estes dias não serão computados como férias e, portanto, excluídos da contagem dos dias corrigidos regulamentares.
+|
+a) Fica vedada a dispensa arbitrária ou sem justa causa, da empregada gestante, desde a confirmação da gravidez até 05 (cinco) meses após o parto;
+b)A empregada gestante não poderá ser despedida, a não ser nas hipóteses de justa causa, contrato por prazo determinado (inclusive o de experiência) e pedido de demissão.
+c)A empresa não poderá exigir o Aviso Prévio pelo empregado que pedir demissão imediatamente após o vencimento da licença compulsória decorrente a maternidade.
+|
+À empregada que adotar ou obtiver guarda judicial para adoção será concedida licença-maternidade, nos termos do art. 392-A, da CLT, conforme a seguir discriminado:
+a) 120 dias para criança até 1 ano de idade;
+b) 60 dias para criança a partir de 1 ano até 4 anos de idade;
+c) 30 dias para criança a partir de 4 anos até 8 anos de idade.
+|
+A empresa poderá liberar o trabalho dos seus empregados em dias úteis intercalados com feriados e fins de semana, além dos feriados municipais regionais que recaírem em terças-feiras e quintas-feiras, através de compensação anterior ou posterior, dos respectivos dias, desde que aceita a liberação de compensação por, no mínimo 2/3 (dois terços) do total de seus empregados, inclusive mulheres e menores, nos termos do Art. 616 e seus parágrafos da CLT.
+|
+Na hipótese do casamento do empregado, fica assegurada uma licença remunerada de 3 (três) dias úteis, excluindo o dia do casamento.
+|
+De acordo com o inciso XIX, Art. 7º da Constituição Federal, combinado com o Parágrafo 1º do Art. 10 do Ato de Disposições Transitórias e enquanto não for regulamentada em lei, a licença paternidade será de 5 dias corridos, contados desde a data do parto, neles incluído o dia previsto no inciso III do Art. 473 da CLT.
+|
+a) A empresa que se utilizar de mão-de-obra feminina, manterão em suas caixas de Primeiros Socorros, absorventes higiênicos para uso emergencial, fornecidos gratuitamente.
+b) A empresa proporcionará gratuitamente, produtos adequados a higiene pessoal de seus empregados de acordo com as condições específicas do trabalho realizado.
+|
+A empresa que não possue refeitório se comprometem a oferecer condições para os empregados aquecerem suas refeições e tomarem em condições de higiene e boa acomodação.
+|
+A empresa fornecerá água potável filtrada e resfriada aos seus empregados; os estabelecimentos em que trabalharem mais de 30 (trinta) trabalhadores, ficará uma auxiliar para levar água potável a cada 30 (trinta) minutos.
+|
+Nos ambientes onde haja perigo ou risco de acidente, o primeiro dia de trabalho do empregado será destinado, parcialmente ou integralmente, a treinamento com o material de proteção individual (EPI) e conhecimento daquela área.
+|
+Fornecimento gratuito de uniforme e EPI's aos empregados, quando exigidos pelas empresas ou por Lei.
+|
+a) A empresa convocará eleições para CIPAS (Comissão Internas de Prevenção de Acidentes), com 50 (cinqüenta) dias de antecedência mínima, dando publicidade a tal ato através de comunicados afixados nos quadros de aviso das mesmas empresas, comunicados estes cujas cópias deverão ser enviadas ao Sindicato dentro de 15 dias daquela convocação.
+b) A empresa com mais de 30 (trinta) empregados, no prazo mínimo de 15 (quinze) dias após a realização das eleições, deverão comunicar ao Sindicato Profissional o resultado, indicando o nome dos empregados eleitos.
+c) Os titulares da representação dos empregados na CIPA não poderão ser transferidos para outra localidade, salvo quando houver concordância expressa dos mesmos.
+|
+Serão realizados obrigatoriamente os exames admissionais, demissionais e periódicos, na forma estabelecida pela NR-7 da Portaria 3214/78, sem ônus para o trabalhador.
+|
+A empresa deverá preencher o Atestado do Afastamento e Salários (AAS), quando solicitado pelo empregado nos seguintes prazos:
+a) Máximo de 5 (cinco) dias úteis, contados da solicitação,  nos casos  de  obtenção  de  benefício  por auxílio doença. Se ocorrer solicitação do INSS para apresentação do AAS, a empresa o concederá no prazo de 48 horas.
+b) Máximo de 7 (sete) dias úteis, contados da data da solicitação, nos casos de aposentadoria e abono de permanência em serviço.
+c) Máximo de 7 (sete) dias úteis, contados da solicitação, quando, após, a rescisão contratual, o empregado necessitar, justificadamente, do AAS. 
+|
+A empresa reconhecerá a validade dos atestados médicos ou odontológicos emitidos de conformidade com a portaria MPAS-3.291, de 20-02-84, inclusive os emitidos pela entidade sindical, desde que o profissional emitente seja conveniado com a Previdência Social.
+|
+Obriga-se o empregador a transportar o empregado com urgência, para o local apropriado, em caso de acidente ou mal súbito, desde que ocorram no local e em horário de trabalho.
+|
+A empresa deverá colocar à disposição do Sindicato, uma por semestre, local e meios para fins de sindicalização, o período será convencionado de comum acordo entre empregador e a entidade profissional, representadas por no máximo 3 (três) de seus diretores e a atividade será desenvolvida fora do ambiente de produção e no período de descanso da jornada normal de trabalho.
+|
+Os dirigentes sindicais, no máximo de 1 (um) por empresa, não afastados de suas funções na  empresa, poderão ausentar-se do serviço até 3 (três) dias por ano, sem prejuízo nas férias, 13º salário e descanso semanal remunerado, desde que avisada a empresa por escrito, pelo Sindicato, com antecedência mínima de 48 (quarenta e oito) horas, ressalvadas as condições mais favoráveis já existentes na empresa.
+|
+CONTRIBUIÇÃO CONFEDERATIVA
+A empresa descontará dos salários já reajustados de seus empregados, associados ou não, mensalmente, para custeio do Sistema Confederativo da Representação Sindical, CONTRIBUIÇÃO CONFEDERATIVA (Art. 8º, inciso IV da C.F.), aprovada por Assembléia Geral, cujo valor 2% (dois por      cento) de sua remuneração, com limite de recolhimento de R$ 27,00.  
+A referida contribuição, após descontada, será recolhida na CEF ou na Sede do Sindicato, no prazo e percentuais discriminados nas guias de recolhimento, fornecida pelo Sindicato.
+|
+Nas cidades onde houver sede ou subsede do sindicato profissional, as homologações poderão ser feitas, preferencialmente, na sede do sindicato.
+|
+Remessa, pela empresa, à entidade representativa dos trabalhadores, cópia da RAIS, Imposto Sindical, com nome, função e salário recolhido no mês de Abril.
+|
+As empresas abrangidas por este Acordo Coletivo semestralmente, ao Sindicato Profissional, até 30 dias após o encerramento do semestre civil, informações numéricas sobre quantidade de empregados existentes, admitidos e demitidos.
+|
+A empresa permitirá a afixação de avisos pelo Sindicato dos Trabalhadores, no quadro respectivos, em local visível, na parte destinada ao Sindicato, da convenção coletiva em vigor e de comunicados aos trabalhadores, desde que de caráter oficial, assinados pela Diretoria da entidade laboral, relativos à convocação de assembléias, realização de eleições, campanhas de sindicalização, serviços prestados pela entidade, e ainda, realização de cursos, palestras, seminários, excursões, quando encaminhados à Diretoria da empresa com antecedência de 2 (dois) dias úteis.
+|
+a) O Sindicato Profissional encaminhará para a empresa, a relação de seus associado-empregados, e a manterá informada das alterações havidas em seu quadro de associados;
+b) A empresa descontará em folha de pagamento as mensalidades sindicais e outras assistências prestadas pelo sindicato desses trabalhadores, desde que por ele expressamente autorizados;
+c) A transferência do respectivo valor ao Sindicato será feita através de depósito bancário, em conta corrente a ser indicada ou diretamente ao Sindicato, no prazo máximo de 5 (cinco) dias da data legal de pagamento do salário;
+d) Não será exigido desconto nos casos de desligamento contratual no curso do mês e bem assim na ocorrência de suspensão do contrato por benefício previdenciário;
+e) O não cumprimento por parte da empresa do disposto na letra "C" acima, acarretará multa no valor correspondente a 10% (dez por cento) do montante devido, corrigido pelos índices oficiais de variação inflacionária, até a data efetiva do recolhimento, revertida em favor da entidade Sindical.
+|
+As condições mais favoráveis estabelecidas em acordo coletivo legal e formalmente em ordem, prevalecerão com relação as normas vigentes neste Acordo Coletivo de Trabalho.
+|
+Os empregados ou sua Entidade representativa poderão intentar ação de cumprimento na forma e para fins especificados no Artigo 872, Parágrafo Único, da Consolidação das Leis de Trabalho.
+|
+As partes comprometem-se a cumprir os dispositivos ora pactuados, em todos os seus termos e condições, durante prazo de vigência respectivo.
+|
+O processo de prorrogação, revisão, denuncia ou revogação total ou parcial, deste Acordo findará subordinado às normas estabelecidas pelo Artigo 615 da Consolidação das Leis de Trabalho.
+|
+Será competente a Justiça de Trabalho para dirimir quaisquer divergências surgidas na aplicação deste acordo.

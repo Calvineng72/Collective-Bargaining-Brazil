@@ -1,0 +1,67 @@
+<STARTofTITLE>
+Mediador - Extrato Termo Aditivo de Acordo Coletivo
+<ENDofTITLE>
+
+<STARTofVALIDITY>
+semvalorlegal
+<ENDofVALIDITY>
+
+<STARTofHEADERS>
+NÚMERO DA SOLICITAÇÃO|MR081490/2014
+DATA E HORÁRIO DA TRANSMISSÃO|05/12/2014ÀS15:55
+NÚMERO DO PROCESSO|46423.000016/2015-37
+DATA DO PROTOCOLO|12/01/2015
+                                                            NÚMERO DO PROCESSO  DO ACORDO COLETIVO PRINCIPAL|                                                        46423.000472/2014-04
+                                                            DATA DE REGISTRO  DO ACORDO COLETIVO PRINCIPAL|                                                        19/11/2014
+<ENDofHEADERS>
+
+<STARTofCOUNTERPART1>
+SINDICATO DOS TRAB IND MET MEC MAT ELETRICO DE ITAPIRA|59.026.369/0001-16|Presidente|LUIZ ROBERTO DA SILVA
+<ENDofCOUNTERPART1>
+<STARTofCOUNTERPART2>
+BREMBO DO BRASIL LTDA|03.645.767/0003-28|Diretor|ODAIR TOCOLLI
+<ENDofCOUNTERPART2>
+
+<STARTofSTARTDATE>
+01/01/2014
+<ENDofSTARTDATE>
+<STARTofEXPRIRATIONDATE>
+31/12/2014
+<ENDofEXPIRATIONDATE>
+
+<STARTofRENEGOTIATION>
+01/11
+<ENDofRENEGOTIATION>
+
+<STARTofCATEGORY>
+Metalúrgicas,Mecânicas e de Material Elétrico
+<ENDofCATEGORY>
+<STARTofGEOGRAPHY>
+Santo Antônio de Posse/SP
+<ENDofGEOGRAPHY>
+
+<STARTofCLAUSES>
+Duração e Horário|HORÁRIOS
+<ENDofCLAUSES>
+
+<STARTofAPPENDICES>
+
+<ENDofAPPENDICES>
+
+<STARTofAPPTEXT>
+
+<ENDofAPPTEXT>
+
+<STARTofTEXT>
+As partes convencionam que para os empregados que trabalham em turnos serão adotados os seguintes horários de trabalho, observando-se o intervalo de 01 (uma) hora para repouso e alimentação:ADM2ª a 6ª feira das 08:00 às 17:48 hs 2ª a 6ª feira das 07:00 às 16:48 hs
+1º Turno
+2ª a 6ª feira das 06:00 às 14:30 hsSábados das 07:00 às 14:35 hs
+2º Turno
+2ª a 6ª feira das 14:30 às 24:00 hs
+3º Turno
+Domingo para 2ª feira das 20:01 às 06:00 hs2ª a 6ª feira das 23:00 às 06:00 hs6ª feira para sábado das 23:00 às 07:00 hs
+De segunda a sexta-feira a primeira hora do terceiro turno será dedicada ao intervalo para o jantar.
+Quando necessário o segundo turno poderá trabalhar no sábado em horas extras .
+Nota: Este padrão pode ser para 1º, 2º e 3º turnos rotativos. 
+ 
+ 

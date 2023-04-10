@@ -1,0 +1,170 @@
+<STARTofTITLE>
+Mediador - Extrato Acordo Coletivo
+<ENDofTITLE>
+
+<STARTofVALIDITY>
+carimbo
+<ENDofVALIDITY>
+
+<STARTofHEADERS>
+NÚMERO DE REGISTRO NO MTE|PI000087/2012
+DATA DE REGISTRO NO MTE|29/08/2012
+NÚMERO DA SOLICITAÇÃO|MR042451/2012
+NÚMERO DO PROCESSO|46214.004926/2012-10
+DATA DO PROTOCOLO|23/08/2012
+<ENDofHEADERS>
+
+<STARTofCOUNTERPART1>
+NOSSA RADIO DE TERESINA FM LTDA|08.797.923/0001-28|Diretor|FILIPE BEZERRA RIBEIRO SOARES
+<ENDofCOUNTERPART1>
+<STARTofCOUNTERPART2>
+SINTERTELPI - SIND. DOS TRAB. EM EMPRESAS DE RADIODIFUSAO E TELEVISAO DO PIAUI|06.761.548/0001-30|Membro de Diretoria Colegiada|VALDECK RODRIGUES DE MORAES
+<ENDofCOUNTERPART2>
+
+<STARTofSTARTDATE>
+1/05/2012
+<ENDofSTARTDATE>
+<STARTofEXPRIRATIONDATE>
+30/04/2013
+<ENDofEXPIRATIONDATE>
+
+<STARTofRENEGOTIATION>
+1/05
+<ENDofRENEGOTIATION>
+
+<STARTofCATEGORY>
+trabalhadores em empresa de radiodifusão
+<ENDofCATEGORY>
+<STARTofGEOGRAPHY>
+Teresina/PI
+<ENDofGEOGRAPHY>
+
+<STARTofCLAUSES>
+Outras normas referentes a salários, reajustes, pagamentos e critérios para cálculo|PISO SALARIAL,REAJUSTES DE SALÁRIOS E OUTROS
+13º Salário|13º SALÁRIO,ACÚMULO DE FUNÇÃO E OUTROS
+Normas para Admissão/Contratação|RESCISÃO CONTRATUAL,AVISO PRÉVIO
+Qualificação/Formação Profissional|REGISTRO PROFISSIONAL,NOVAS TÉCNICAS E EQUIPAMENTOS  E OUTRAS
+Duração e Horário|JORNADA DE TRABALHO,CONVOCAÇÃO DURANTE REPOUSO SEMANAL E OUTRAS
+Condições de Ambiente de Trabalho|ATESTADO MÉDICO,UNIFORME E ACESSÓRIOS DE PROTEÇÃO E OUTRAS
+Contribuições Sindicais|CONTRIBUIÇÃO ASSISTENCIAL ,ACESSO ÀS EMPRESAS E OUTRAS
+Regras para a Negociação|NOVA NEGOCIAÇÃO,PENALIDADES,REGISTRO E ARQUIVAMENTO
+<ENDofCLAUSES>
+
+<STARTofAPPENDICES>
+
+<ENDofAPPENDICES>
+
+<STARTofAPPTEXT>
+
+<ENDofAPPTEXT>
+
+<STARTofTEXT>
+REAJUSTES DE SALÁRIOS
+Fica estabelecida para todos aqueles que trabalham na empresa reajuste salarial  de  8% ( Oito ) por cento, para vigorar em 1º ( primeiro ) de Maio/2012 :
+ 
+PARÁGRAFO ÚNICO: A saber os seguintes pisos salariais para as funções  descrita abaixo:  
+ 
+GERENTE  ADMINISTRATIVO                      ( A )   R$ 1.474,60
+ TÉCNICO DE MANUTENÇÃO EM RÁDIO  ( B )    R$   963,14
+ OPERADOR DE AÚDIO                                ( C )    R$   963,14
+ SONOPLASTA                                                ( D )    R$ 1.081,39
+LOCUTOR APRES. ANIMADOR                   ( E )    R$    912,92
+ PAGAMENTO DE SALÁRIO
+A empresa obriga-se a efetuar o pagamento, de salários até o 5º ( quinto ) dia útil do mês subsequente . 
+ 
+ DIÁRIA DE VIAGEM
+O empregado em viagem a serviço receberá ajuda de custo suficiente para   cobrir despesas com: alimentação, estadia e transporte, o empregado fica obrigado  a fazer prestação de conta quando do retorno mediante contra - recibo.
+ 
+COMPROVANTE DE PAGAMENTO
+A empresa descriminará nos recibos de salários ou documentos que os substituírem, todos os itens de remuneração dos empregados, especialmente horas extraordinárias, gratificações, adicionais, descontos efetuados e parcela correspondentes   a deposito do FGTS.
+|
+13º SALÁRIO
+A empresas obriga - se a fazer o pagamento do 13º salário em 02 ( duas )  parcelas, conforme a legislação vigente. 
+ACÚMULO DE FUNÇÃO
+Na hipótese de exercício de funções acumuladas, dentro de um setor conforme a regulamentação legal os empregados receberão um adicional  conforme determina a lei 6.615/78 artigo 16º. 
+HORA EXTRA
+No caso de necessidade do trabalho extraordinário, fica estipulado uma remuneração de 50% ( cinqüenta por cento )  sobre o valor da hora normal.
+ADICIONAL NOTURNO
+A empresa obriga - se a pagar adicional noturno no trabalho compreendido no período de 22:00 ( vinte e duas ) horas às 05:00 ( cinco ) horas da manhã, será remunerado  com um acréscimo de 20%  ( vinte por cento ) sobre a hora diurna.
+ 
+  VALE TRANSPORTE
+No atendimento às disposições legais, a empresa obriga -se a pagar o vale – transporte conforme legislação vigente.
+ADIANTAMENTO SALARIAL 
+A empresa obriga – se a fornecer adiantamento de salário no valor de 40%  ( quarenta por cento ) sobre salário base no dia 15 ( quinze ) de cada mês  aos que fizerem esta opção .
+|
+RESCISÃO CONTRATUAL
+O pagamento dos direitos decorrentes da rescisão será regulado pelo art. 477   da CLT. A empresa fica obrigada a efetuar o pagamento desses direitos ,  conforme a legislação vigente 
+ 
+PARÁGRAFO ÚNICO: 
+A empresa comunicará a Entidade Sindical com antecedência de 48 ( quarenta e oito ) horas para fazer a homologação dos empregados.  
+ 
+CRACHÁ
+ A empresa obriga - se a implantar o crachá funcional no ato da admissão do empregado, contendo: nome, fotografia, função e logotipo da empresa
+|
+REGISTRO PROFISSIONAL
+ 
+A empresa obriga - se a somente contratar para exercer qualquer das funções descritas no decreto nº 84.134/79, Radialista Profissional devidamente registrados  no Ministério do Trabalho, art. 6º da  Lei nº 6.615 de 16 de Dezembro de 1.978, radialistas profissionais . 
+ 
+LICENÇA PARA EMPREGADO(A) ADOTANTE
+ 
+Fica assegurado a licença para a empregado ( a ) adotante conforme a  legislação vigente . 
+ 
+ESTABILIDADE PARA GESTANTE
+ 
+As empregadas gestantes gozarão de licença de 120 ( cento e vinte ) dias  conforme esta previsto no artigo 7º XVIII. A estabilidade no emprego, inicia – se  desde a confirmação da gravidez até 5 ( cinco )meses após o parto conforme expressamente previsto no artigo 10 II , b do ato das   disposições da constituição trabalhista. 
+ 
+ANOTAÇÕES NA CTPS
+A empresa obriga - se anotar na CTPS a função exercida pelo empregado obedecendo a nomenclatura  das funções reconhecidas pela legislação e decretos    que regulamentaram a profissão.
+ 
+LICENÇA PATERNIDADE
+Fica assegurado aos trabalhadores em rádio e TV, a licença de 05 ( cinco ) dias, pela ocasião do nascimento do seu filho ( a ). O empregado comprovará o nascimento no prazo de 05 ( cinco ) dias.
+ 
+AUXILIO FUNERAL
+No caso de falecimento do empregado a empresa fornecerá aos dependentes habilitados junto a Previdência Social. Uma assistência funeral no valor de R$ 3.000,00 ( TRES MIL REAIS ). 
+SALARIO "In Natura"   
+Não Constituem salário " in natura " , previsto no art. 458 e parágrafo e incisos da CLT , os seguintes benefícios quando oferecido pela empresa : refeição , abrigo após jornada de trabalho , seguro de vida em grupo , auxilio funeral , auxilio educação , plano de saúde , plano odontológico  , previdência privada , cesta básica e moradia .
+ SEGURO DE VIDA   
+A Empresa fornecerá a todos os seus empregados seguro de vida em grupo na seguinte forma como e detalhe a baixo:
+MORTE POR QUALQUER CAUSA (Básica)                                        R$ 50.000,00
+INDENIZAÇÃO ESPECIAL POR MORTE ACIDENTAL                       R$ 50.000,00
+INVALIDEZ PERMANENTE TOTAL OU PARCIAL POR ACIDENTE  R$ 50.000,00
+INVALIDEZ FUNCIONAL PERMANENTE TOTAL POR DOENÇA      R$ 50.000,00
+ 
+PARAGRAFO ÚNICO: 
+Fica convencionado entre as partes que o reajuste da apólice de seguro de vida não condicionada ao reajuste salarial
+DIA DO RADIALISTA
+A empresa assinante deste acordo estabelecem o dia 21 de setembro  ( Dia do Radialista ) como feriado para os trabalhadores em Rádio e TV, aqueles que forem convocados para o trabalho nesta data receberão em dobro.
+|
+JORNADA DE TRABALHO
+Fica estabelecido a jornada de trabalho dos radialistas e trabalhadores em Rádio e TV, conforme legislação de nº 6.615 de 16 de dezembro de 1.978 e decreto n.º 84.134      de 30 de outubro de 1.979.
+ 
+PARÁGRAFO ÚNICO: 
+A jornada de trabalho esta distribuída nas áreas da seguinte formas área de locução 05:00 horas diárias área técnica e produção 06:00 horas diárias e área administrativa 08:00 horas diárias. 
+ 
+INTERVALO NA JORNADA DE TRABALHO
+ 
+Fica assegurado aos trabalhadores em intervalo mínimo de 11:00 ( onze ) horas    para descanso entre 02 ( duas )  jornadas  de trabalho. Fica também garantido intervalo para refeição conforme legislação vigente..
+ 
+ESCALA DE FOLGA
+ 
+A empresa obriga - se a fixar a escala de folga dos seus empregados em locais de boa visibilidade  e com antecedência de 10 ( dez ) dias.
+|
+ATESTADO MÉDICO
+ 
+A empresas obriga - se a receber os atestados Médicos e Odontológicos,   fornecidos pelas  entidades médicas que necessariamente mantenham convênios    com a Previdência Social ( INSS ) e sindicato laboral, para justificar a ausência no trabalho em até 15 ( quinze ) dias obedecidas a portaria nº 1.722 do INSS.
+ 
+PRIMEIROS SOCORROS
+A empresa obriga - se a manter material de primeiros socorros em locais de fácil acesso, bem como fornecer transporte ao empregado até o local de atendimentos médico em caso de urgência.
+|
+ 
+MENSALIDADE ASSOCIATIVA
+Serão descontados 3% ( três ) por cento  dos seus salários dos empregados que tenha carteira de trabalho assinada ( CTPS ) que tenha autorizado o desconto, a mensalidade associativa afixada em assembléia da categoria. A empresa obriga-se a repassar até o 15º ( décimo quinto ) dia útil de cada mês ou depositar na conta corrente, operação 03 agência 029 conta nº 051-8 ( Caixa Econômica - Conselheiro Saraiva ), repassando a entidade sindical a relação de todos os empregados com os respectivos descontos e cópia da guia de recolhimento bancário. 
+CONTRIBUÍÇÃO ASSISTENCIAL
+Fica a empresa obrigada a descontar a título da Contribuição do Acordo para o Sindicato Laboral do salário de MAIO - 2012  de todos os trabalhadores devidamente sindicalizados, a importância de 3% ( três por cento ).
+|
+NOVA NEGOCIAÇÃO
+As partes se comprometem a se reunirem, assim que uma delas o desejar para reavaliação das condições  aqui acordadas.
+PENALIDADES
+A parte integrante deste acordo coletivo de trabalho, que infringir quaisquer das cláusulas do mesmo obrigam-se a pagar multa diária no valor de 05 ( tres) pisos da categoria ,  em favor da outra.
+REGISTRO E ARQUIVAMENTO
+ As partes assinarão, conjuntamente, requerimento para registro e arquivamento do processo e do presente ACT - Acordo Coletivo de Trabalho na SRTE/PI – Superintendência Regional do Trabalho e emprego no Piauí

@@ -1,0 +1,78 @@
+<STARTofTITLE>
+Mediador - Extrato Acordo Coletivo
+<ENDofTITLE>
+
+<STARTofVALIDITY>
+carimbo
+<ENDofVALIDITY>
+
+<STARTofHEADERS>
+NÚMERO DE REGISTRO NO MTE|SP000859/2016
+DATA DE REGISTRO NO MTE|22/01/2016
+NÚMERO DA SOLICITAÇÃO|MR075846/2015
+NÚMERO DO PROCESSO|46266.007698/2015-69
+DATA DO PROTOCOLO|14/12/2015
+<ENDofHEADERS>
+
+<STARTofCOUNTERPART1>
+FIORDE TRANSPORTES E ARMAZENS GERAIS LTDA|61.102.778/0001-04|Procurador|LUIZ CARLOS DA ROCHA JUNIOR
+<ENDofCOUNTERPART1>
+<STARTofCOUNTERPART2>
+SINDICATO DOS EMPREGADOS EM EMPRESAS DE TRANSPORTES RODOVIARIOS E ANEXOS, SUPER PESADOS, LIQUIDOS, ENTREGADORES DE|04.276.287/0001-38|Presidente|IRAPUAN SIQUEIRA SOUSA
+<ENDofCOUNTERPART2>
+
+<STARTofSTARTDATE>
+16/06/2015
+<ENDofSTARTDATE>
+<STARTofEXPRIRATIONDATE>
+15/04/2016
+<ENDofEXPIRATIONDATE>
+
+<STARTofRENEGOTIATION>
+01/05
+<ENDofRENEGOTIATION>
+
+<STARTofCATEGORY>
+dos empregados de transportes rodoviários, cargas secas e molhadas e anexo de Guarulhos e região
+<ENDofCATEGORY>
+<STARTofGEOGRAPHY>
+Guarulhos/SP
+<ENDofGEOGRAPHY>
+
+<STARTofCLAUSES>
+Pagamento de Salário – Formas e Prazos|QUITAÇÃO BANCO DE HORAS
+Controle da Jornada|BANCO DE HORAS
+<ENDofCLAUSES>
+
+<STARTofAPPENDICES>
+ATA
+LISTAGEM APROVAÇÃO
+<ENDofAPPENDICES>
+
+<STARTofAPPTEXT>
+
+Anexo (PDF)
+|
+Anexo (PDF)
+
+<ENDofAPPTEXT>
+
+<STARTofTEXT>
+O saldo credor existente em 15/10/2015, devido as horas creditadas em banco no período de 16/06/2015 a 15/10/2015, serão pagas, com o adicional previsto em lei, na folha de pagamento de outubro/2015.
+O saldo credor existente em 15/04/2016, devido as horas creditadas em banco no período de 16/10/2015 a 15/04/2016, serão pagas, com o adicional previsto em lei, na folha de pagamento de abril/2016
+|
+Conforme previsto na Convenção Coletiva de Trabalho 2015/2016, clausula 5ª, as empresas poderão, de comum acordo com o empregado, estender a jornada de trabalho, para além dos limites estabelecidos nos artigos 58 e 59 da CLT, desde que necessária a atender especificidades do serviço ou da operação ou que decorram de eventos fora do controle do empregador e do empregado, tais como, acidentes de trânsito, congestionamentos, filas de coleta/entrega, quebra ou defeito nos veículos e ocorrencias de força maior.
+O banco de horas objeto desta claúsula, será regido pelas seguintes regras:
+A empresa e seus empregados acordam que as horas extras ocorridas durante o mês calendário utilizado pela empresa, que compreende o dia 16 do mês anterior a 15 do mês corrente, serão 60% (sessenta por cento) das mesmas pagas, com o adicional previsto em lei e as restantes, 40% (quarenta por cento) serão creditadas ao empregado no banco de horas.
+O banco de horas aqui pactuado será computado por períodos de até 180 (cento e oitenta) dias, podendo registrar saldo positivo (crédito) ou negativo (débito), em nome do empregado
+A utilização do saldo existente no banco de horas, registre ele saldo negativo ou positivo, será feita em igualdade de condições, ou seja, na razão de uma hora depositada (crédito ou débito), para cada uma hora utilizada
+A utilização de saldos depositados no banco de horas, demandará prévio aviso da empresa para o empregado e deste para empresa.
+As horas extras realizadas aos sábados, domingos e feriados serão pagas na totalidade com o adicional de 100% (cem por cento) sobre o salário hora, ou seja, não haverá crédito no banco de horas.
+Conforme vigência deste acordo, o saldo credor existente no banco de horas será pago ao empregado com o acréscimo legal de 50% (cinquenta por cento). O saldo devedor será diferido (transferido) para o período seguinte e, assim, sucessivamente, até que seja compensado.
+No caso de desligamento, o saldo positivo será pago com o acréscimo e reflexos legais, na quitação final do empregado. Havendo saldo negativo (devedor), no caso de desligamento sem justa causa por iniciativa do empregador, o saldo será absorvido pela empresa.
+Os controles das horas extras realizadas, bem como toda a movimentação ocorrida mensalmente será demonstrada no cartão de ponto que deverá ser assinado pelo empregado.
+Para utilização do banco de horas a empresa deverá encaminhar ofício endereçado ao Presidente do sindicato, constando na lista os empregados que irão compor o referido banco.
+A ampliação da jornada deverá ser feita dentro das regras desta claúsula e respeitará sempre o critério de razoabilidade, ficando assegurados intervalos destinados ao repouso e alimentação do trabalhador.
+No caso de não renovação do banco de horas, dentro do prazo de vigência da convenção coletiva de trabalho, suas regras serão prorrogadas por um período de 120 (cento e vinte) dias, para acerto das pendências
+As empresas que não adotarem o regime de banco de horas poderão adotar a regra de compensação insculpida no art 59 da CLT, para efeito de apuração de horas suplementares, sendo consideradas e pagas como extras aquelas que, se não compensadas no período, ultrapassarem o limite legal previsto em lei.
+Os abusos verificados na utilização dos dispositivos desta claúsula, por queixa escrita do empregado ao seu sindicato e constatação da sua procedência, facultará ao empregado, caso não corrigida a irregularidade, a denúncia e oposição ao regime do banco de horas, durante a vigência da convenção coletiva de trabalho

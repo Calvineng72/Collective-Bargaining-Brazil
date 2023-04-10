@@ -1,0 +1,109 @@
+<STARTofTITLE>
+Mediador - Extrato Acordo Coletivo
+<ENDofTITLE>
+
+<STARTofVALIDITY>
+carimbo
+<ENDofVALIDITY>
+
+<STARTofHEADERS>
+NÚMERO DE REGISTRO NO MTE|RS000057/2018
+DATA DE REGISTRO NO MTE|11/01/2018
+NÚMERO DA SOLICITAÇÃO|MR084809/2017
+NÚMERO DO PROCESSO|46218.000394/2018-99
+DATA DO PROTOCOLO|10/01/2018
+<ENDofHEADERS>
+
+<STARTofCOUNTERPART1>
+SINDICATO DOS EMPREGADOS NO COMERCIO DE TAQUARI|08.666.045/0001-01|Tesoureiro|RAUL DA CRUZ CERVEIRA NETO
+<ENDofCOUNTERPART1>
+<STARTofCOUNTERPART2>
+MIRIAN CRISTINA WEBER PASA - ME|23.079.654/0001-58|Administrador|MIRIAN CRISTINA WEBER PASA
+<ENDofCOUNTERPART2>
+
+<STARTofSTARTDATE>
+01/12/2017
+<ENDofSTARTDATE>
+<STARTofEXPRIRATIONDATE>
+30/03/2018
+<ENDofEXPIRATIONDATE>
+
+<STARTofRENEGOTIATION>
+01/03
+<ENDofRENEGOTIATION>
+
+<STARTofCATEGORY>
+empregados no comércio varejista
+<ENDofCATEGORY>
+<STARTofGEOGRAPHY>
+Taquari/RS
+<ENDofGEOGRAPHY>
+
+<STARTofCLAUSES>
+Prêmios|TRABALHO AOS DOMINGOS DE FINAL DE ANO
+Duração e Horário|HORÁRIO DE NATAL E FIM DE ANO
+<ENDofCLAUSES>
+
+<STARTofAPPENDICES>
+ATA DE DISSIDIO 2017
+<ENDofAPPENDICES>
+
+<STARTofAPPTEXT>
+
+Anexo (PDF)
+
+<ENDofAPPTEXT>
+
+<STARTofTEXT>
+As empresas serão autorizadas a usar mão de obra de trabalhadores nos seguintes domingos de dezembro:
+03, 10 e 17 e 24 de dezembro de 2017.
+Com carga horária autorizada de até 5 horas, em turno único, sem intervalo de descanso, apenas com intervalo para lanche. 
+PARAGRAFO ÚNICO: Excepcionalmente para o domingo dia 24 de dezembro de 2017 as empresas deverão cumprir a seguinte carga horária: das 09h as 14h em turno único, sem intervalo de descanso, apenas com intervalo para lanche. 
+REMUNERAÇÃO 
+Será pago um bônus de R$120,00 (cento e vinte reais) por domingo trabalhado a cada trabalhador(a). Sendo que o bônus deve ser depositado antecipadamente em sua conta bancária no nome do trabalhador, ou a empresa deverá deixar na secretaria do sindicato onde o valor ficará disponivel para o trabalhador retirar até a sexta-feira meio dia que antecede o domingo trabalhado. O trabalhador que não vier retirar não poderá trabalhar no domingo referido ao bônus.
+Lista de trabalhadores e Comprovantes de Depósito:
+Entrega da lista de trabalhadores: a empresa fornecerá ao sindicato dos comerciários até as 12h (meio dia) da sexta-feira que antecede o domingo trabalhado a relação de todos os empregados que irão trabalhar domingo. As empresas também deverão informar ao Sindicato qual o horário que será realizado. 
+Comprovante de pagamento de bônus: A empresa fornecerá ao sindicato dos comerciários até as 12h (meio dia) da sexta feira antecedente ao domingo trabalhado a cópia do depósito.
+As empresas deverão conter registro de ponto independente do número de trabalhadores. 
+As empresas deverão fechar suas portas com 30 (trinta) minutos de antecedência ao término do horário para dar continuidade aos atendimentos iniciados de porta fechada. 
+Operadores de Caixa: Caso o operador de caixa não consiga fechar seu caixa no tempo hábil a empresa pagará adicional de 100% (cem por cento) para as operadoras de caixa sendo permitido no máximo 30 (trinta) minutos de tolerância.
+As empresas deverão informar quem é caixa quando entregarem a lista de trabalhadores.
+FOLGA: As empresas deverão fornecer folga proporcional ao tempo trabalhado nos domingos aos seus empregados. As folgas deverão obrigatoriamente serem dadas nos meses de janeiro e fevereiro de 2018.
+Os empregados que trabalharem em um ou mais domingos, terão garantido o descanso na 2ª e 3ª de carnaval.
+Caso ocorra a falta do trabalhador o valor do bônus deverá ser estornado na próxima folha de pagamento.
+ 
+|
+HORÁRIOS DE DEZEMBRO
+As empresas impreterivelmente deverão encerrar suas atividades cumprindo os seguintes horários:
+- Na sexta-feira 01 de dezembro até as 19h. 
+- De 04 a 08 de dezembro no máximo as 19h.
+- De 11 a 15 de dezembro no máximo as 19h30min
+- De 18 a 20 de dezembro no máximo as 19h30min
+- De 21 a 22 de dezembro poderão estender seus horários no máximo até as 20 horas.
+Aos sábados de dezembro deverão encerrar suas atividades no máximo até as 18 horas.
+Independente do horário que a loja for trabalhar no fim de ano deverá respeitar a clausula da convenção coletiva de trabalho do banco de horas que diz:
+A duração normal da jornada de trabalho poderá, para fins de adoção do regime de compensação horária de que trata o art. 59 da CLT, ser acrescida de horas suplementares em número não excedente de 02 (duas) horas, respeitada a seguinte sistemática:
+a) o regime de compensação horária poderá ser estabelecido por períodos máximos de 35 (trinta e cinco) dias, hipótese em que será considerado o período mensal de apuração de horas adotado pela empresa para o fechamento da folha de pagamento dos salários;
+b) o número máximo de horas extras a serem compensadas será de 35 (trinta e cinco) horas por período;
+c) as horas excedentes ao limite previsto na letra “b” da presente cláusula, serão pagas como extras e acrescidas do adicional previsto nesta convenção;
+d) as empresas que utilizarem a compensação deverão adotar controle de ponto da carga horária do empregado;
+e) a compensação dar-se-á sempre de segunda-feira a sábado.  
+
+PARÁGRAFO PRIMEIRO
+
+As horas de trabalho reduzidas na jornada para  posterior compensação não poderão ser objeto de descontos salariais, caso não venham a ser compensadas com o respectivo aumento da jornada dentro do período de trinta e cinco (35) dias e nem poderão ser objeto de compensação nos meses subseqüentes. 
+
+PARÁGRAFO  SEGUNDO
+
+Havendo rescisão de contrato e se houver crédito de horas a favor do empregado, as respectivas horas serão computadas e remuneradas com o adicional de horas extras previsto nesta convenção. 
+
+PARÁGRAFO TERCEIRO
+
+Se houverem débitos de horas do empregado para com o empregador, na hipótese de rompimento de contrato por iniciativa do empregador, as horas não trabalhadas serão abonadas, sem qualquer desconto nas verbas a que o trabalhador tiver direito na rescisão de contrato de trabalho. 
+
+PARÁGRAFO QUARTO
+
+A faculdade estabelecida no "caput" desta cláusula se aplica a todas as atividades, inclusive aquelas consideradas insalubres, independentemente da autoriza­ção a que se refere o artigo 60 da CLT.
+Penalidade em caso de descumprimento do acordo: Caso qualquer das cláusulas do presente acordo sejam descumpridas, pagará a empresa acordante, por cada empregado envolvido, multa de R$ 5.000,00 ( cinco mil reais), pago diretamente ao sindicato dos Empregados, até 10 dias após a constatação do descumprimento.
+ 
+ 

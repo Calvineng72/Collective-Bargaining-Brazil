@@ -1,0 +1,263 @@
+<STARTofTITLE>
+Mediador - Extrato Convenção Coletiva
+<ENDofTITLE>
+
+<STARTofVALIDITY>
+carimbo
+<ENDofVALIDITY>
+
+<STARTofHEADERS>
+NÚMERO DE REGISTRO NO MTE|SC001984/2012
+DATA DE REGISTRO NO MTE|17/08/2012
+NÚMERO DA SOLICITAÇÃO|MR042489/2012
+NÚMERO DO PROCESSO|46220.004207/2012-10
+DATA DO PROTOCOLO|17/08/2012
+<ENDofHEADERS>
+
+<STARTofCOUNTERPART1>
+FEDERACAO DOS TRAB. EM TURISMO, HOSPITALIDADE E DE HOTEIS, REST., BARES E SIMIL. NO ESTADO DE SANTA CATARINA|79.887.329/0001-76|Presidente|SONIA REGINA BARCELOS VIDAL
+<ENDofCOUNTERPART1>
+<STARTofCOUNTERPART2>
+SINDICATO INST BELEZA CABELEREIROS E SIMILARES DE B C|95.313.102/0001-73|Presidente|VALDEMIR MARTINS DO AMARAL
+<ENDofCOUNTERPART2>
+
+<STARTofSTARTDATE>
+1/05/2012
+<ENDofSTARTDATE>
+<STARTofEXPRIRATIONDATE>
+30/04/2013
+<ENDofEXPIRATIONDATE>
+
+<STARTofRENEGOTIATION>
+1/05
+<ENDofRENEGOTIATION>
+
+<STARTofCATEGORY>
+Oficiais Barbeiros (inclusive aprendizes), Manicures e Empregados nos salões de Cabeleireiro para Homens, Empregados em Institutos de Beleza e Cabelereiro de Senhoras
+<ENDofCATEGORY>
+<STARTofGEOGRAPHY>
+Araquari/SC|Balneário Camboriú/SC|Balneário Piçarras/SC|Barra Velha/SC|Blumenau/SC|Brusque/SC|Camboriú/SC|Canelinha/SC|Gaspar/SC|Guabiruba/SC|Ilhota/SC|Indaial/SC|Itajaí/SC|Itapema/SC|Ituporanga/SC|Jaraguá do Sul/SC|Luiz Alves/SC|Navegantes/SC|Nova Trento/SC|Penha/SC|Porto Belo/SC|Rio do Sul/SC|São Francisco do Sul/SC|São João Batista/SC|Tijucas/SC
+<ENDofGEOGRAPHY>
+
+<STARTofCLAUSES>
+Piso Salarial|PISO SALARIAL
+Reajustes/Correções Salariais|CORREÇÃO SALARIAL
+Outras Disposições|QUITAÇÃO DO IGP DI/FGV NAS RESCISÕES CONTRATUAIS
+Outras Disposições|– RENEGOCIAÇÃO
+Outras Disposições|HORAS EXTRAORDINÁRIAS
+Outras Disposições|– REPOUSO REMUNERADO
+Outras Disposições|DIRIGENTES SINDICAIS FREQUENCIA LIVRE
+Outras Disposições|DESCONTO NOS SALÁRIOS DE CHEQUES SEM FUNDOS
+Outras Disposições|– FÉRIAS PROPORCIONAIS
+Outras Disposições|INÍCIO DO PERÍODO DE GOZO DAS FÉRIAS
+Outras Disposições|ESTABILIDADE DA GESTANTE
+Outras Disposições|GARANTIA DE SALÁRIO NO PERÍODO DE AMAMENTAÇÃO
+Outras Disposições|ESTABILIDADE NA PRÉ – APOSENTADORIA
+Outras Disposições|ALISTAMENTO MILITAR
+Outras Disposições|– ABONO DE FALTA AO EMPREGADO ESTUDANTE E VESTIBULANDO
+Outras Disposições|ABONO DE FALTA A MÃE  TRABALHADORA
+Outras Disposições|ATESTADOS MÉDICOS E ODONTOLÓGICOS
+Outras Disposições|TRANSPORTE DE ACIDENTADOS, DOENTES E PARTICULARES
+Outras Disposições|INTERVALO PARA LANCHES
+Outras Disposições|CONTROLE DO HORÁRIO DE TRABALHO
+Outras Disposições|EMPREGADO MAIS NOVO NA EMPRESA
+Outras Disposições|VALE FARMÁCIA
+Outras Disposições|EMPREGADO SUBSTITUTO
+Outras Disposições|MORA SALARIAL
+Outras Disposições|DO ATRAZO DO 13° SALÁRIO
+Outras Disposições|QUINQUENIO
+Outras Disposições|PAGAMENTO DE SALÁRIO
+Outras Disposições|13° SALÁRIO DO COMISSIONISTA
+Outras Disposições|VALE TRANSPORTE
+Outras Disposições|SALÁRIO PAGAMENTO AO ANALFABETO
+Outras Disposições|COMPROVANTE DE PAGAMENTO
+Outras Disposições|ANOTAÇÃO NA CARTEIRA DE TRABALHO E PREVIDÊNCIA SOCIAL
+Outras Disposições|CÓPIA DO CONTRATO DE TRABALHO
+Outras Disposições|CONTRATO DE EXPERIÊNCIA – READMITIDO
+Outras Disposições|FORNECIMENTO GRATUITO DE UNIFORMES E CALÇADOS
+Outras Disposições|ASSENTO NO LOCAL DE TRABALHO
+Outras Disposições|AUXÍLIO CRECHE
+Outras Disposições|INDENIZAÇÃO ADICIONAL DE LEI
+Outras Disposições|AUXÍLIO FUNERAL
+Outras Disposições|CURSOS E REUNIÕES OBRIGATÓRIOS
+Outras Disposições|QUADROS DE AVISOS
+Outras Disposições|ELEIÇÃO NA CIPA
+Outras Disposições|– ADICIONAL NOTURNO
+Outras Disposições|DESLIGAMENTO POR DISPENSA SEM JUSTA CAUSA SE EMPREGADO APOSENTADO
+Outras Disposições|ANTECIPAÇÃO DO 13° SALÁRIO
+Outras Disposições|– EXAMES MÉDICOS E LABORATORIAIS
+Outras Disposições|ESTABILIDADE DO EMPEGADO  ACIDENTADO
+Outras Disposições|– ESTABILIDADE AO EMPREGADO SOB AUXÍLIO DOENÇA COMUM
+Outras Disposições|– AUSÊNCIA  JUSTIFICADA
+Outras Disposições|LICENÇA PARA CASAMENTO
+Outras Disposições|CONTRIBUIÇÕS DEVIDAS PELA CATEGORIA PROFISSIONAL
+Outras Disposições|MULTA
+Outras Disposições|CONTRIBUIÇÃO CONFEDERATIVA PATRONAL
+<ENDofCLAUSES>
+
+<STARTofAPPENDICES>
+
+<ENDofAPPENDICES>
+
+<STARTofAPPTEXT>
+
+<ENDofAPPTEXT>
+
+<STARTofTEXT>
+03.1 – CABELEIREIRO (a)
+R$ 1.133,00
+03.2 – MANICURE, PEDICURE, DEPILADORA, RECEPCIONISTA E DEMAIS FUNÇÕES.
+R$ 946,00 
+03.3 – NA ÁREA DE MANIPULAÇÃO DE PRODUTOS QUIMICOS, COMO: (TINTURAS)
+R$ 1.983,00
+03.4 – NA FUNÇÃO DE ESTÉTICA COMO: (ESTÉTICA CORPORAL e FACIAL)
+R$ 1.210,00 
+03.5 – FAXINEIRA/COPEIRA
+R$ 800,00  
+03.6 – CAIXA
+R$ 800,00
+ 
+03.7 – NA ÁREA DE EMPREGADOS EM ACADEMIAS
+03.7.1 – AUXILIAR DE ESCRITÓRIO
+R$ 924,00
+03.7.2 – PREPARADOR FÍSICO
+R$ 1.014,00 
+03.7.3 - RECEPCIONISTA.
+R$ 880,00
+03.7.4 – FAXINEIRA/COPEIRA
+R$ 800,00 
+03.7.5 – DEMAIS FUNÇÕES
+R$ 880,00
+|
+Os salários dos integrantes da categoria profissional serão reajustados pela aplicação do índice correspondente a 8% (oito por cento) fruto de livre negociação, aplicado sobre todas as faixas salariais vigentes em 01 de maio de 2012, inclusive sobre o salário normativo.
+|
+As empresas complementarão na rescisão contratual de seus empregados eventuais diferenças do IGP-DI/FGV, acumuladas à partir da última data-base ou data de admissão, até o mês da rescisão contratual, os valores referentes às verbas rescisórias.
+|
+As entidades convenentes poderão renegociar durante a vigência desta Convenção Coletiva de Trabalho, as possíveis perdas salariais, e forma de reajuste do mesmo.
+ 
+|
+As horas extraordinárias trabalhadas até o limite de 02 (duas) horas diárias, de segunda a sábado, terão acréscimo de 100% (cem por cento)
+Parágrafo Único: fica proibida a prorrogação da jornada de trabalho do empregado estudante.
+|
+A cada 6 (seis) dias de trabalho, haverá uma folga (repouso remunerado) que recairá preferivelmente aos domingos.
+|
+Assegura-se a freqüência livre dos dirigentes sindicais para participarem de assembléias, reuniões, cursos e congressos sindicais.
+ 
+|
+Não pode haver desconto de qualquer parcela  de salário do empregado correspondente a cheque não compensado ou sem fundos.
+|
+O empregado que rescindir espontaneamente seu contrato de trabalho, antes de completar 1(um) ano de serviço, será pago férias proporcionais na mesma proporção do décimo terceiro salário, ou seja 01/12 ao mês.
+|
+O início das férias coletivas ou individuais, não poderá coincidir com sábado, domingo, feriados ou dia de compensação de repouso semanal.
+Parágrafo Primeiro – o empregado estudante, menor de 18 (dezoito) anos, terá direito a fazer coincidir suas férias com as férias escolares.
+Parágrafo Segundo – quando marido e mulher trabalharem na mesma empresa deverá esta conceder as férias a ambos de forma conjunta.
+|
+Fica vedada a dispensa da gestante, desde a concepção até 120 (cento e vinte) dias após o término do benefício previdenciário
+|
+É garantido as mulheres, no período de amamentação, o recebimento do salário sem prestação de serviços, quando o empregado não cumprir as determinações dos §§ 1 e 2 do art. 389 da CLT.
+|
+Será garantido o emprego o salário ao trabalhador, durante os 48 meses, imediatamente anterior a sua aposentadoria.
+|
+A partir do conhecimento pelo empregado, de seu alistamento ao serviço militar, terá o mesmo estabilidade no emprego até 90(noventa) dias após a dispensa ou baixa.
+|
+Será abonada as faltas do empregado estudante e vestibulandos nos horários de exames regulares ou vestibulares, quando coincidirem com o horário de trabalho para realização das provas.
+|
+No caso de necessidade de consulta médica e filho(a) até 14 anos de idade ou inválido com qualquer idade, mediante comprovação médica, a mãe empregada terá sua falta abonada e remunerada.
+|
+Os atestados médicos e odontológicos fornecidos pôr profissionais do INSS, particularidades ou do sindicato profissional, serão aceitos pelas empresas.
+|
+Obriga-se o empregador a providenciar o transporte do empregado, com urgência e segurança, para local apropriado, em caso de acidente, mal súbito ou parto, desde que ocorram no horário de trabalho ou em conseqüência deste.
+
+ 
+|
+Os intervalos para lanche de 15(quinze) minutos, serão computados como tempo de serviço na jornada diária do empregado
+|
+É obrigatória utilização de cartão ponto mecanizado ou livro ponto preenchido pelo empregado, para o efetivo controle do horário de trabalho, afim de que possibilite o real pagamento das horas trabalhadas além da jornada normal, independente do número de empregados na empresa.
+|
+Por ocasião do reajuste salarial e quando da admissão, não poderá o empregado mais antigo receber salário inferior ao empregado mais novo na mesma função, devendo, neste caso ser efetuada a equiparação salarial na forma da lei.
+|
+A empresa fornecerá vale, para aquisição de remédios, desde que o empregado comprove, por receita médica o preço do produto, não podendo ultrapassar o valor da remuneração mensal do empregado.
+|
+Enquanto pendurar a substituição, o empregado substituto fará jus ao salário contratual do empregado substituído.
+|
+As empresas pagarão 1% (um por cento) ao dia sobre o salário vencido, no caso de mora salarial, após o 5° (quinto) dia útil do mês subseqüente ao vencido.
+Parágrafo Único – Na hipótese de o 5°(quinto) dia coincidir  com dia de sábado, domingo ou feriado, o pagamento do salário deverá ser efetuado obrigatoriamente anterior, e em tempo hábil para o desconto de cheque, se for o caso.
+ 
+|
+As empresas que não efetuarem o pagamento da 1° (primeira) parcela do 13° salário entre os meses de fevereiro e novembro de cada ano, e a 2° (segunda) parcela até do dia 20 de dezembro de cada ano, terão que pagá-los acrescido de multa de 1%(um por cento), por dia de atraso, independentemente da multa prevista pela lei.
+|
+A cada período de 5 (cinco) anos de trabalho na mesma empresa, contando de sua admissão, terá o empregado o direito ao recebimento adicional em percentual acumulável de 2% (dois por cento) a título de qüinqüênio aplicável sobre o salário mensal recebido.
+|
+As empresas que não efetuam o pagamento de salários em moeda corrente nacional devem proporcionar aos seus empregados tempo hábil para recebimento, dentro o expediente bancário.
+|
+O 13° salário do empregado comissionista será pago com base na maoir remuneração percebida durante o  ano.
+|
+Fica estabelecido a obrigatoriedade do fornecimento de vale transporte a todos os empregados abrangidos por esta convenção coletiva de trabalho, no seu valor integral.
+|
+O pagamento de salário ao empregado analfabeto deverá ser efetuado na presença de 2 testemunhas.
+|
+As empresas ficam obrigadas a fornecer cópia  a seus empregados do envelope mensal de pagamentos ou documento equivalente, contendo, além da identificação da empresa, discriminação de todos os valores pagos e descontados, inclusive para a previdência Social e ao FGTS.
+|
+As empresas ficam obrigadas a promover a anotação na carteira de trabalho (CTPS) da função efetivamente exercida pelo empregado, de acordo com a classificação brasileira de ocupação (CBO) além de anotar as comissões e gratificações.
+Parágrafos Único - A CTPS será obrigatoriamente apresenta, contra recibo, pelo empregado á empresa que o admitir, a qual terá o prazo improrrogável de 48 (quarenta e oito) horas para nela anotar especificamente, a data de admissão, a remuneração e condições especiais se houver, sob pena de pagar uma indenização correspondente à 1 (um) dia de salário, por dia de atraso, pela retenção de sua carteira profissional (CPTS), após o prazo de 48 (quarenta e oito) horas, limitada ao valor de 6 (seis)meses do salário do empregado.
+|
+O empregador se obriga a entregar a segunda via do contrato de trabalho, ao empregado.
+|
+O empregado que for readmitido até 24(vinte e quatro) meses após a sua demissão ficará vedado e desobrigado de firmar contrato de experiência.
+Parágrafo Único - o contrato de experiência fica suspenso a concessão do benefício previdenciário completando-se o tempo nele previsto após a cessação do benefício referido.
+ 
+|
+Quando a empresa exigir de seus empregados o uso de uniformes e calçados, estes deverão ser fornecidos gratuitamente.
+|
+As empresas manterão assentos para seus empregados nos locais que possam ser utilizados durante as pausas verificadas no serviço e em especial, nos intervalos de atendimentos da clientela.
+|
+As empresas que não mantenham convênio com creches ou instituições análogas, reembolsarão aos seus empregados que tenham a guarda dos filhos, inclusive adotivos, com idade até 7(sete) anos, inclusive, as despesas integrais efetuados com pagamento de creches ou instituições análogas, de sua livre escolhas.
+|
+O direito ao recebimento de indenização adicional estabelecido no artigo 9° da lei n° 7238/84, fica estendido ao período de 60(sessenta) dias antes da data da correção salarial (data Base).
+ 
+|
+As empresas pagarão aos dependentes do empregado falecido, o valor de 1,5(um virgula cinco) salários mínimos, quando do acerto da rescisão do contrato de trabalho.
+|
+Os cursos e reuniões quando de comparecimento obrigatório devem ser realizados durante a jornada ordinária, ou se fora dela, mediante o pagamento do período da sua duração na modalidade de horário extraordinário.
+|
+Colocação de quadros de aviso, sob responsabilidade da entidade sindical no âmbito da empresa, para a afixação de editais, avisos e notícias sindicais.
+|
+Sempre que houver eleição para a cipa, deverá ser comunicado por escrito a esta entidade sindical profissional, com antecedência de 90 (noventa) dias, para acompanhamento, em todo o processo, por representante do sindicato profissional.
+
+|
+O trabalho noturno será pago com adicional de 30% (trinta por cento) a incidir sobre o salário da hora normal das 22:00 e ás 05:00 horas.
+|
+Aos empregados aposentados voluntariamente que tiverem seu contrato rescindido por dispensa sem justa causa, quando já se encontra no gozo da aposentadoria, será pago pelos empregadores, a indenização de 40% (quarenta por cento) sobre todos os depósitos efetuados do FGTS, considerando toda a contratualidade, devidamente atualizado na forma da lei.
+|
+Fica estabelecido a antecipação do percentual de 50% (cinqüenta por cento) do 13° salário dos empregados que requeiram até 10(dez) dias antes do início das férias.
+|
+Os exames admissionais, periódicos, de retorno ao trabalho, de mudança de função e demissional dos trabalhadores, exigidos pela Norma Regulamentadora (NR7), serão custeados pelo empregador, sendo executado por médico especializado em medicina do trabalho.
+Parágrafo único – Os exames laboratoriais, desde que exigidos pelo empregador, devem ser pagos por este e realizados em locais por ele indicado.
+|
+O empregado que sofrer acidente de trabalho tem garantia de emprego e salário por período mínimo de 12(doze)meses, de seu contrato de trabalho na empresa empregadora, após a cessação ao auxílio-doença acidentário, independente de percepção de auxílio acidente, na forma do artigo 118 da lei 8213 de 24 de julho de1991.
+|
+Fica garantida a estabilidade no emprego ao empregado sob auxílio-doença comum, até 120 (cento e vinte) dias após alta médica previdenciária.
+|
+Serão consideradas ausências justificadas ao serviço sem prejuízo remunerado, as ausências dos empregados nas seguintes condições:
+Por falecimento dos cônjuges, pai, mãe: 05 dias;
+Por falecimento do sogro(a), genro, nora, neto(a), tio(a), cunhado(a), sobrinho(a): 03 dias.
+|
+O empregado(a) em caso de casamento terá licença remunerada de10(dez) dias consecutivos.
+|
+Cláusula 01 – Com fundamento no art.8°, inciso IV da Constituição Federal, combinando com o art. 513, letra "e" da CLT e conforme decisão do STF – Supremo Tribunal Federal – todos os integrantes da categoria profissional, sindicalizados ou não, contribuirão para a manutenção dos benefícios e serviços prestados pelo sindicato profissional, com o percentual de 4% (quatro por cento) a ser aplicada sobre os salários já reajustados pela presente Convenção Coletiva de Trabalho, nos meses de maio/2012, agosto/2012 e novembro/2012, desconto este a ser procedido em folhas de pagamento e recolhido pelos empregadores ao sindicato profissional, através de guias próprias.
+Parágrafo Primeiro - O direito a oposição deverá ser observado até o último dia útil dos meses imediatamente anteriores ao desconto, com a presença do empregado diretamente no sindicato profissional formalizando através de carta feita de próprio punho. OBS: Não será aceita em hipótese alguma oposição por correspondência e/ou procuração.
+Parágrafo Segundo – As empresas enviarão ao FETRATUH – SC, até o dia 30 do mês subseqüente ao do desconto, a relação dos empregados contribuintes.
+|
+As empresas pagarão multa equivalente ao maior piso salarial da categoria profissional, por empregado, por infração, por mês, pelo não cumprimento de qualquer das cláusulas desta Convenção Coletiva de Trabalho, sendo seu valor revertido para  os cofres da entidade sindical profissional
+Parágrafo único – a multa nas mesmas condições será devida pelo não cumprimento das seguintes condições legais:
+a)             Não concessão de lugar apropriado onde seja permitido às empregadas guardar sob vigilância e assistência os seus filhos no período de amamentação;
+b)            Não entrega aos empregados dos extratos do FGTS fornecidos pelos bancos depositários;
+c)             Não cadastramento no PIS ou omissão do nome do empregado na RAIS;
+d)            Não concessão do vale- transporte
+|
+As empresas que compõe a categoria econômica, associadas ou não, recolherão em favor do SINDICATO DOS INSTITUTOS DE BELEZA CABELEIREIROS E SIMILARES DE BALNEÁRIO CAMBORIÚ, em única parcela no mês de agosto de 2012 em guia próprio a título de contribuição confederativa patronal  à conta n° 1361/9 da Caixa Econômica Federal, agência 0921 em Balneário Camboriu – SC para manutenção dos serviços assistenciais da entidade e de acordo com i art.8°, inciso IV da Constituição Federal, conforme valores abaixo:
+Salão de beleza e academias sem empregados...............................................R$  66,00
+Salão de beleza e academias com até 05 empregados....................................R$  130,00
+ Salão de beleza e academias com mais de 08 empregados............................R$ 175,00
+Parágrafo único - A contribuição acima referida deve ser recolhida até o dia 15 de setembro de 2012   sendo que após esta data as empresas, inadimplentes estarão sujeitas a multa não compensatória de 2% (dois por cento) sobre o valor respectivo e juros de mora sem prejuízo de eventual cobrança judicial.
+ 

@@ -1,0 +1,110 @@
+<STARTofTITLE>
+Mediador - Extrato Acordo Coletivo
+<ENDofTITLE>
+
+<STARTofVALIDITY>
+carimbo
+<ENDofVALIDITY>
+
+<STARTofHEADERS>
+NÚMERO DE REGISTRO NO MTE|SP007632/2017
+DATA DE REGISTRO NO MTE|28/07/2017
+NÚMERO DA SOLICITAÇÃO|MR039221/2017
+NÚMERO DO PROCESSO|46263.002116/2017-40
+DATA DO PROTOCOLO|07/07/2017
+<ENDofHEADERS>
+
+<STARTofCOUNTERPART1>
+SINDICATO DOS METALURGICOS DO ABC|71.535.520/0001-47|Diretor|GENILDO DIAS PEREIRA
+<ENDofCOUNTERPART1>
+<STARTofCOUNTERPART2>
+COATING INDUSTRIA E COMERCIO LTDA|67.749.630/0001-34|Diretor|JOSE IRINEU FORTUNATO
+<ENDofCOUNTERPART2>
+
+<STARTofSTARTDATE>
+01/03/2017
+<ENDofSTARTDATE>
+<STARTofEXPRIRATIONDATE>
+28/02/2018
+<ENDofEXPIRATIONDATE>
+
+<STARTofRENEGOTIATION>
+01/09
+<ENDofRENEGOTIATION>
+
+<STARTofCATEGORY>
+trabalhadores metalúrgicos
+<ENDofCATEGORY>
+<STARTofGEOGRAPHY>
+São Bernardo Do Campo/SP
+<ENDofGEOGRAPHY>
+
+<STARTofCLAUSES>
+Controle da Jornada|DO OBJETIVO DO ACORDO
+Controle da Jornada|DO BANCO DE HORAS
+Controle da Jornada|DA JORNADA DE TRABALHO
+Controle da Jornada|DO LIMITE DA APLICAÇÃO
+Controle da Jornada|DO SALDO REMANESCENTE
+Controle da Jornada|DA VIGÊNCIA
+Controle da Jornada|DA ESTABILIDADE
+Controle da Jornada|DAS DIVERGÊNCIAS
+<ENDofCLAUSES>
+
+<STARTofAPPENDICES>
+ATA DE ASSEMBLEIA
+<ENDofAPPENDICES>
+
+<STARTofAPPTEXT>
+
+Anexo (PDF)
+
+<ENDofAPPTEXT>
+
+<STARTofTEXT>
+O presente acordo tem por finalidade implantar o sistema de BANCO DE HORAS, isto é, estabelecer flexibilização de horários de trabalho nos termos e condições a seguir apresentados, conforme Título III da consolidação das leis do Trabalho. Aprovado pelos trabalhadores em assembleia no dia 23 de Março de 2017, com a presença do Sindicato.
+ 
+Considerando:
+-         Que a empresa, por força do mercado, não dispõe de garantidas contratuais junto a seus clientes que possibilitem o pré-estabelecimento de prazos de seus serviços e, assim sendo, depende altamente de sua flexibilização na produção para que, remanejando sua mão de obra, faça frente às exigências de prazos de entrega cada vez mais curtos;
+-           Que a empresa uma prestadora de serviços, beneficiadora de produtos fabricados por seus clientes e consequentemente, dependente dos mesmos no que tange à disponibilidade dos materiais a serem beneficiados;
+-           A busca pelas partes em firmar compromisso de investir no constante esforço pela preservação dos postos de trabalho e pela melhoria das condições de trabalho;
+-           A necessidade em se encontrar formas alternativas para preservação do emprego e manutenção dos níveis de postos de trabalho frente às situações oscilantes do mercado, decorrente da atual conjuntura econômica pela qual atravessa o país, e a consequente elevação das taxas de desemprego;
+-           A necessidade de atender situações particularizadas do mercado, bem como de manter e/ou aumentar a intensidade demanda dos serviços prestados pela empresa;
+-           A possibilidade de o empregado trabalhar além da jornada normal quando for necessário e trabalhar menos horas posteriormente, quando o cumprimento da jornada normal não for necessária.
+ 
+Este acordo é regido pelas seguintes condições:
+|
+Sempre que o volume de produção sofrer redução ou ampliação por oscilação de mercado, a empresa estabelecerá jornadas diárias reduzidas ou ampliadas, de forma geral, setorial, para equipes ou individual sem qualquer alteração nos salários mensais dos empregados.
+ 
+Parágrafo Primeiro: As horas correspondentes às folgas ou excedentes, com objetivo de reduzir ou ampliar o volume de produção, nos termos do parágrafo anterior, serão administradas pelo sistema de débito e crédito formando o BANCO DE HORAS.
+Parágrafo Segundo: A empresa comunicará aos trabalhadores, sempre com 1(um) dia de antecedência a necessidade de ampliação ou redução do horário.
+Parágrafo Terceiro: O saldo devedor e credor do Banco de Horas serão reposto conforme necessidade da empresa para redução ou ampliação de produção na mesma proporção conforme descrito a seguir:
+O empregado que for convocado para estender sua jornada de trabalho em até 10(dez horas) de segunda à sábado, estará ciente que as horas excedentes da jornada normal irão a crédito para ao Banco de horas.
+Da mesma forma, o empregado que for dispensado do cumprimento de sua jornada diária de trabalho, estará ciente que as horas faltantes da jornada normal irão a débito para o Banco de Horas.
+* Atrasos e faltas injustificadas, não serão administradas pelo sistema de débito e crédito e serão descontados conforme legislação vigente.(Entendendo-se como falta injustificada, aquela sem atestado e/ou sem o devido comunicado).
+ Parágrafo quarto: O débito dos empregados para com o banco de horas somente se extinguirá quando sua reposição for em horas trabalhadas.
+Parágrafo quinto: Em havendo desligamento do empregado por iniciativa do empregador, a empresa não poderá descontar as horas correspondentes com saldo negativo, caso o desligamento seja por iniciativa do empregado(pedido de demissão) ou demitido por justa causa o saldo será descontado em folha, a razão de seu salário hora normal.
+Parágrafo Sexto: Em havendo desligamento do empregado tanto por iniciativa do empregado (sem ser justa causa) ou do empregador, as horas correspondentes com saldo positivo serão pagas com acréscimo de 50%(cinquenta por cento); Outrossim, do mesmo modo ao final deste acordo as horas correspondentes ao saldo positivo serão pagas em folha de pagamento com acréscimo de 50%.
+Parágrafo Sétimo: Para efeito de saldo do banco de horas, as mesmas serão limitadas no máximo de 60(sessenta) horas.
+Parágrafo Oitavo: Quando o empregado com saldo positivo atingir 60(sessenta) horas, o empregador se obriga a conceder folga nas seguintes condições:
+I-      Folgas adicionais no período de férias;
+II-   Dias Pontes;
+III- Necessidade de afastamento do empregado por período superior a 3 dias deverá ser  previamente solicitado em formulário fornecido pela empresa com antecedência de 15 dias, salvo causas emergenciais,  e negociadas  as formas de compensação dessas horas  com o  RH.
+IV-   Jornada reduzida.
+Parágrafo Nono: O controle do saldo mensal do banco de horas de todos os empregados será demonstrado mensalmente.
+ 
+|
+A empresa poderá adotar jornadas de trabalho de acordo com sua necessidade de produção, limitadas a 10(dez horas) diárias de Segunda à Sábado respeitando-se a possibilidade estabelecida no Parágrafo Terceiro da Cláusula Quarta.
+|
+Parágrafo Único: O banco de horas dos ocupantes de cargos administrativos (envolvendo os setores: administração, recepção, faturamento, qualidade, etc.) embora regidos pelas mesmas regras gerais aplicadas aos empregados da produção, terão programação de horários tratada individualmente entre empregado e empregador.
+ 
+|
+Fica ora determinada a transferência do saldo remanescente do banco de horas de vigência de 01 de Março de 2016 a 28 de Fevereiro de 2017,devendo o mesmo ser zerado até abril deste ano.
+|
+A vigência do presente acordo será de 12 meses a partir de  01 de março de 2017 até 28 de fevereiro de 2018.
+Quaisquer das partes, que por ventura, quiserem rever as condições do presente acordo poderá fazê-lo, manifestando por escrito à parte contrária, seu interesse.
+|
+Fica assegurada aos empregados uma estabilidade que ocorrerá durante o período de 23 de Março de 2017 a 22 de junho de 2016, neste período, portanto, não poderá haver demissões, exceto por motivo de falta grave, justa causa ou mudança drástica na conjuntura econômica atual.
+|
+Parágrafo Único: As eventuais divergências das cláusulas deste acordo não poderão ser submetidas à apreciação judicial, sem antes ser tentada solução amigável através de reunião entre sindicato e empresa.
+ 
+E por estarem devidamente acordado, assinam o presente instrumento normativo, comprometendo-se a entidade sindical consoante a promover o depósito em uma via do mesmo na Delegacia Regional do Trabalho, para fins de registro e arquivo.

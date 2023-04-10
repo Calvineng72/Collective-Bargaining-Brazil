@@ -1,0 +1,159 @@
+<STARTofTITLE>
+Mediador - Extrato Acordo Coletivo
+<ENDofTITLE>
+
+<STARTofVALIDITY>
+carimbo
+<ENDofVALIDITY>
+
+<STARTofHEADERS>
+NÚMERO DE REGISTRO NO MTE|MG002717/2014
+DATA DE REGISTRO NO MTE|22/07/2014
+NÚMERO DA SOLICITAÇÃO|MR038173/2014
+NÚMERO DO PROCESSO|46246.001842/2014-19
+DATA DO PROTOCOLO|02/07/2014
+<ENDofHEADERS>
+
+<STARTofCOUNTERPART1>
+SINDICATO DOS TRABALHADORES DAS EMPRESAS DE TRANSPORTES COLETIVOS URBANOS DO MUNICIPIO DE MONTES CLAROS/MG E DO NORTE DE MINAS                        |11.163.637/0001-15|Presidente|DALVAI FERREIRA DA SILVA
+<ENDofCOUNTERPART1>
+<STARTofCOUNTERPART2>
+AUTO LOTACAO PRINCESA DO NORTE LTDA                                                                                                                   |22.690.390/0001-01|Gerente|WELITON MAINART
+TRANSMOC TRANSPORTE E TURISMO MONTES CLAROS LTDA|16.898.413/0001-75|Diretor|JOSE HENRIQUE BARBOSA DE OLIVA
+<ENDofCOUNTERPART2>
+
+<STARTofSTARTDATE>
+01/01/2014
+<ENDofSTARTDATE>
+<STARTofEXPRIRATIONDATE>
+31/12/2014
+<ENDofEXPIRATIONDATE>
+
+<STARTofRENEGOTIATION>
+01/01
+<ENDofRENEGOTIATION>
+
+<STARTofCATEGORY>
+dos Motoristas, Cobradores, Apontadores e demais empregados e trabalhadores da classe de transporte urbano de passageiros
+<ENDofCATEGORY>
+<STARTofGEOGRAPHY>
+Montes Claros/MG
+<ENDofGEOGRAPHY>
+
+<STARTofCLAUSES>
+Piso Salarial|REAJUSTAMENTO SALARIAL
+Pagamento de Salário – Formas e Prazos|PAGAMENTOS DE SALÁRIOS
+Descontos Salariais|DESCONTOS EM FOLHA DE PAGAMENTO
+Outras Gratificações|REMUNERAÇÃO AOS DOMINGOS E FERIADOS
+Adicional de Hora-Extra|HORAS EXTRAS
+Adicional Noturno|ADICIONAL NOTURNO
+Auxílio Alimentação|ALIMENTAÇÃO
+Auxílio Transporte|TRANSPORTE GRATUITO
+Auxílio Educação|EDUCAÇÃO
+Auxílio Saúde|PLANO DE SAUDE
+Seguro de Vida|SEGURO DE VIDA EM GRUPO
+Outros Auxílios|UNIFORMES
+Normas para Admissão/Contratação|ANOTAÇÃO DA CTPS
+Desligamento/Demissão|RESCISÃO DE CONTRATO DE TRABALHO
+Outras normas referentes a condições para o exercício do trabalho|TROCA DE CARTEIRA DE HABILITAÇÃO
+Duração e Horário|JORNADA DE TRABALHO
+Controle da Jornada|CARTÃO DE PONTO
+Outras disposições sobre férias e licenças|DIA DO MOTORISTA
+CIPA – composição, eleição, atribuições, garantias aos cipeiros|ELEIÇÕES DA CIPA
+Aceitação de Atestados Médicos|ATESTADOS MÉDICOS/ODONTOLÓGICOS
+Acompanhamento de Acidentado e/ou Portador de Doença Profissional|ACIDENTE DE TRABALHO
+Acesso a Informações da Empresa|LIVRE ACESSO A EMPRESA
+Contribuições Sindicais|CONTRIBUIÇÃO NEGOCIAL
+Contribuições Sindicais|CONTRIBUIÇÃO CONFEDERATIVA
+Contribuições Sindicais|MENSALIDADE SINDICAL
+Direito de Oposição ao Desconto de Contribuições Sindicais|DIREITO DE OPOSIÇÃO
+Outras Disposições|EMPRÉSTIMOS CONSIGNADOS
+Outras Disposições|SIPAT
+Outras Disposições|NUMERÁRIO PARA TAREFA
+Outras Disposições|GARANTIAS
+Outras Disposições|QUADRO DE AVISO
+<ENDofCLAUSES>
+
+<STARTofAPPENDICES>
+
+<ENDofAPPENDICES>
+
+<STARTofAPPTEXT>
+
+<ENDofAPPTEXT>
+
+<STARTofTEXT>
+A partir de 1º de Janeiro de 2014, o salário do Motorista será reajustado com índice de 5,56% (cinco, cinquenta e seis por cento), passando a R$1.399,30 (um mil, trezentos e noventa e nove reais e trinta centavos).
+A partir de 1º de Janeiro de 2014, o salário do cobrador será de R$724,00 (setecentos e vinte e quatro reais).
+MOTORISTAS................................................................................R$1.399,30
+COBRADORES................................................................................R$  724,00
+A partir de 1º de Janeiro de 2014, os salários dos demais funcionários serão reajustados em 5,56% (cinco, cinquenta e seis por cento), percentuais este que incidirá sobre os salários vigentes em 31 de Dezembro de 2013, exceto para os empregados que recebem um salário mínimo.
+A)-Caso, em decorrência de novas medidas governamentais substanciais, quanto à moeda circulante e estrutura econômica e financeira, porventura lançada pelo Governo Federal e/ou aditamento de normas pelo Poder Público Municipal - Poder Concedente, em relação a operacionalização da execução do transporte coletivo urbano e estes dispositivos legais vierem a alterar, substancialmente, as bases acordadas, inviabilizando sua aplicação, as partes acordantes acham-se dispostas em adaptar à nova ordem institucional, a determinar novas condições e bases através de conciliação futura.
+B)-A Empresa empenhará seus esforços para, no momento da contratação de seus empregados, orientá-los a procurar sindicato, afim de conhecer todos os direitos oriundos do presente Acordo Coletivo de Trabalho. 
+|
+O pagamento aos empregados será mensal, efetivando antecipação de 50% (cinquenta por cento) até o dia 21 (vinte e um) de cada mês, exceto quando cair em domingos e feriados, exigindo-se no primeiro dia útil subseqüente, e o saldo até o 5.º (quinto) dia útil do mês subseqüente, mediante crédito em conta corrente bancária, modalidade salarial, em nome do empregado, disponibilizando comprovante mensal.
+Parágrafo Único - A empresa fornecerá aos seus empregados, cópia de comprovante de pagamento salarial, contendo todas as parcelas e os respectivos descontos.|
+A empresa descontará da remuneração mensal do empregado, as despesas contraídas com tratamento médico, odontológico, ou outros convênios do Sindicato, desde que estejam autorizados pelo empregado, e não excedem a 20% (vinte por cento) da remuneração mensal do mesmo, devendo o montante arrecadado ser repassado à tesouraria do Sindicato até o dia 10 (dez) do mês subsequente ao do desconto, juntamente com a relação dos mesmos.
+Só será permitido o desconto salarial por quebra de material nos casos de dolo ou recusa de apresentação dos objetos danificados, ou ainda, por culpa comprovada do empregado.|
+                                            A empresa se compromete a remunerar em dobro o trabalho realizado nos domingos e feriados que não tenham sido compensados.|
+A empresa pagará aos empregados as horas extras trabalhadas com acréscimo de 50% (cinquenta por cento) em relação às horas normais.
+|
+O trabalho noturno, após às 22:00 (vinte e duas) horas, e previsto em Lei, será remunerado com adicional de 20% (vinte por cento) sobre o valor da hora diurna.|
+A empresa fornecerá para os seus empregados, "Ticket Alimentação", no valor de R$ 230,41 (duzentos e trinta reais e quarenta e um centavos), de forma gratuita e proporcional aos dias trabalhados, não integrando os salários, às férias, ao 13º salário, e também não incidindo encargos sociais, nos termos do art. 6º do Decreto 05, de 14/01/91, que regulamentou a Lei 6.321 de 14/04/76
+|
+A empresa concederá transporte gratuito para todos os seus empregados, nos seus veículos coletivos, desde que estejam devidamente credenciados, salvo em caso de aposentadoria por qualquer de suas formas.
+Parágrafo Único - A empresa se compromete a buscar os empregados para o 1º (primeiro) turno, e a levá-los após o 2º (segundo) turno, em itinerários pré-estabelecidos, sem que o tempo gasto seja considerado horas "in itinere".|
+A empresa poderá implantar escolinha para preparação e capacitação dos seus trabalhadores, visando promoção ao cargo de motorista, sendo que a deliberação acerca da promoção ficará a cargo exclusivo da empresa.As aulas serão destinadas, unicamente, àqueles trabalhadores que tenham interesse na capacitação, sendo, portanto, facultativas. O periodo despendido nas aulas não será considerado como trabalhado ou tempo a disposição do empregador, não podendo, em hipótese alguma, ser computado na jornada de trabalho para qualquer finalidade. |
+A empresa fornecerá  PLANO DE SAÚDE para os trabalhadores, com a co-participação - como fator moderador - de R$13,22 (treze reais e vinte e dois centavos) do titular e mais R$13,22 (treze reais e vinte e dois centavos) do cônjuge, se houver.
+A partir da vigência do Acordo coletivo de 2014, fica a empresa autorizada  a descontar, mensalmente, 1% (um por cento) sobre a remuneração básica do empregado, associado ou não, valor este que deverá ser creditado diretamente na conta da entidade sindical junto a Caixa Econômica Federal, conta nº 1358-0, agência 0132, que serão destinados a assistência social e fiscalização dos benefícios conquistados, tais como: ajuda ticket alimentação, prevenção da saúde dos trabalhadores e de seus dependentes (Plano de Saúde), devendo os valores depositados serem comprovados via Email para o endereço eletrônico sindcoletivosurbanos@yahoo.com.br.  
+Fica garantido ao trabalhador o direito de oposição contra o desconto previsto na cláusula anterior, devendo ele, nesse caso, formalizar por escrito e de próprio punho a sua pretensão, diretamente no sindicato, no prazo preclusivo  de 15 (quinze) dias a partir da homologação do presente termo.
+Caso, por algum motivo, a empresa tenha que devolver eventuais valores que tenham sido descontados dos empregados com base na presente cláusula, fica o sindicato obrigado a restituír o respectivo montante, exceto se a quantia correspondente ainda não lhe tiver sido repassada pela empresa.
+|
+A empresa se compromete a manter seguro de vida, cobrindo os eventuais acidentes pessoais e morte acidental, no trabalho ou fora destes, para todos os seus empregados, sem qualquer ônus para estes.
+Parágrafo Único - A empresa em nenhuma hipótese poderá ser responsabilizada pelas obrigações das Companhias Seguradoras.|
+A empresa fornecerá aos seus empregados, gratuitamente, uniformes obrigatórios, constituídos de 02 (duas) camisas, 02 (duas) calças e 01 (um) par de sapatos, mediante termo de responsabilidade, e para os empregados da manutenção, uniforme constituído de 01 (um) macacão e um par de botinas.
+Parágrafo Primeiro - Os uniformes são fornecidos mediante comprovante de fornecimento com cópia para o empregado. Caso o mesmo seja desligado do quadro de empregados da empresa, fica obrigado a devolver aqueles à empregadora, caso contrário, será cobrado na rescisão contratual de forma proporcional ao tempo de uso;
+Parágrafo Segundo - Sempre que alguma peça do uniforme se desgastar ou inutilizar pelo uso normal ou causa não provocada esta será reposta pela empresa.|
+A empresa anotará na Carteira de Trabalho a função do empregado de acordo com a Classificação Brasileira de Ocupações - CBO - como, por exemplo, motorista, apontador, cobrador, etc.|
+As rescisões de Contrato de Trabalho de empregados com mais de um ano de trabalho na empresa, serão homologadas no Sindicato da Categoria.
+O empregado dispensado por "justa causa" receberá o comunicado do fato por escrito com a indicação do motivo pelo qual foi demitido.|
+A Empresa concederá aos motoristas, sem qualquer ônus, licença de 02 (dois) dias para a troca de sua CNH - Carteira Nacional de Habilitação, desde que sejam de outra localidade, quando o exame de saúde estiver vencido.
+ 
+Parágrafo primeiro. A Empresa concederá aos motoristas, sem qualquer ônus, licença de 02 (dois) dias, quando for necessária a realização de curso de motorista para a renovação da CNH - Carteira Nacional de Habilitação.
+Parágrafo segundo. Em ambos os casos acima, tratados no caput e no parágrafo primeiro da presente cláusula, o motorista só terá direito a licença de 02 (dois) dias, se comunicar a empresa a necessidade de praticar os atos alí elencados com antecedência mínima de 30 (trinta) dias. 
+|
+A jornada será de 44 (quarenta e quatro) horas por semana, 220 (duzentos e vinte) horas por mês, facultada a compensação de horários, que poderá ser realizado até o mês subsequente ao fechamento da folha de pagamento, de acordo com o inciso XIII do art. 7.º da Constituição e artigos 57 e seguintes da CLT.
+Parágrafo Primeiro - A empresa poderá adotar o sistema de escala de revezamento de 12:00 (doze) horas de trabalho por 36:00 (trinta e seis) horas de descanso, de acordo com as peculiariedades dos serviços integrantes da atividade empresarial do transporte coletivo urbano, bem como a utilização de flexibilização de horários para todos os empregados, exceto para os motoristas e cobradores, acordado através deste instrumento;
+Parágrafo Segundo - Ante a natureza do serviço e em virtude das condições especiais de trabalho, no caso especifico dos cobradores e motoristas, fica autorizada a redução do intervalo intrajornada para 20 (vinte) minutos diários não descontados da jornada, a serem concedidos de forma fracionada entre uma viagem e outra do coletivo, bem como ficando expressamente autorizada a prática da jornada prevista no §5º do art. 71, da CLT;
+Parágrafo Terceiro - O Sindicato dos Trabalhadores das Empresas de Transportes Coletivos Urbanos do Municipio de Montes Claros e Norte de Minas terá livre acesso ao controle de jornada de trabalho dos motoristas e cobradores;
+Parágrafo Quarto - Qualquer Fração de hora trabalhada será computada como tempo efetivo de serviço e anotada no cartão de ponto;
+Parágrafo Quinto - Em face da característica de mensalista, poderá a empresa, para aquele empregado que não trabalhar a carga horária total prevista de 220 (duzentos e vinte) horas em um determinado mês, compensar as horas que faltarem para completar a carga total, o que poderá ser realizado até o mês subsequente ao fechamento da folha de pagamento;
+Parágrafo Sexto - No caso específico dos motoristas e cobradores, a empresa poderá utilizar o sistema de "dupla pegada", ficando estipulado que apenas o número equivalente a 12% (doze por cento) do quadro de empregados poderá laborar concomitantemente nesta situação;
+Parágrafo Sétimo - Quanto a mudança de turno, o revezamento será quinzenal, permitindo-se o revezamento semanal para os empregados, preferencialmente após as folgas, como forma de flexibilização dos horários de trabalho;
+Parágrafo Oitavo - Fica autorizada a prática de turno ininterrupto de revezamento, hipótese em que continuará sendo observada a jornada prevista no "caput" desta cláusula.|
+A empresa computará como período trabalhado, o horário em que o empregado no primeiro turno sair da garagem, com o veículo coletivo, até o horário em que o mesmo passar o veículo para o outro colega do segundo turno e ainda para o empregado do segundo turno o horário em que o mesmo o recebeu e o entregou na garagem ao fim de seu respectivo turno.
+Parágrafo Único - O empregado tomará ciência da escala no dia anterior e deverá comparecer ao local de trabalho a tempo de cumprí-la.|
+O dia 25 (vinte e cinco) do mês de julho - DIA DO MOTORISTA - é considerado feriado para os mesmos.|
+A empresa obriga-se a comunicar ao Sindicato dos Empregados, com 60 (sessenta) dias de antecedência, a data de realização das eleições da CIPA, assim como, também, posteriormente, a posse dos eleitos.|
+A empresa reconhecerá a validade dos atestados médicos e/ou odontológicos oficiais, desde que conste o CID, e sejam ratificados pelo médico da empresa, ficando estabelecido prazo de 48 (quarenta e oito) horas para a sua entrega, a contar da data da sua emissão.
+Parágrafo Primeiro - A empresa, nos atos de admissão, demissão e exames periódicos, submeterá seus empregados a exames médicos sem ônus para os mesmos;
+Parágrafo Segundo - A empresa concederá estabilidade de 60 (sessenta) dias para todos os empregados que retornarem a empresa depois de afastamento para tratamento médico com atestado de mais de 30 (trinta) dias.
+Parágrafo Terceiro - A empresa fornecerá no ato de demissão carta de apresentação, salvo se a dispensa for por "justa causa".|
+A empresa se responsabilizará pela remoção do empregado acidentado no trabalho, providenciando veículo em condições adequadas para levá-los até o local de atendimento.|
+A empresa permitirá que os diretores do Sindicato da Categoria Profissional tenham acesso ao seu recinto, desde que isto não prejudique o normal andamento dos serviços, para a verificação do cumprimento das cláusulas deste acordo, respeitada a sua privacidade.|
+A empresa descontará de todos os seus empregados, sindicalizado ou não, o valor equivalente a um dia de salário do mês, a título de contribuição negocial, e remeterá a lista do montante arrecadado, juntamente com a relação dos empregados, à tesouraria do Sindicato para pagamento no mês subsequente ao que for realizado o dito desconto e que deverá ser depositado na conta do sindicato Obreiro.|
+A empresa descontará de todos os seus empregados, sindicalizados ou não, a título de Contribuição Confederativa, mensalmente, a importância correspondente a 1,0% (um por cento) dos seus salários mensais, conforme deliberação da Assembléia Geral Extraordinária da categoria Profissional, recolhendo-a a respectiva Entidade Profissional até o décimo dia do mês seguinte ao da competência do desconto, através de guias próprias a serem fornecidas pelo Sindicato Profissional.
+Parágrafo Único - Todas as contribuições pertencentes ao Sindicato Profissional deverão ser depositadas na sua conta de nº 1358-0, agência 0132 - Caixa Econômica Federal, cujos os comprovantes deverão ser enviadas via e-mail para o seguinte endereço eletrônico: sindcoletivosurbanos@yahoo.com.br|
+A empresa, desde que tenha o "de acordo" do empregado, descontará do seu salário a mensalidade sindical, remetendo a importância arrecadada para a tesouraria do sindicato até o dia 10 (dez) do mês subsequente ao do desconto, juntamente com a relação dos empregados, conforme aprovado e fixado pela Assembléia Geral Extraordinária.|
+A empresa não responderá por quaisquer pendências que possam advir dos descontos referidos nestas cláusulas, sendo assegurado aos empregados o direito de oposição às contribuições enumeradas para a Contribuição Negocial e Confederativa, previstas nas cláusulas anteriores, a ser exercido no prazo de 05 (cinco) dias a contar da efetivação do desconto, através do comparecimento pessoal ao Sindicato para protocolar carta de oposição, escrita de próprio punho, com observância de tratamento recíproco de urbanidade, sob pena de indeferimento. O Sindicato se obriga a comunicar à respectiva empresa os nomes daqueles que se opuserem aos presentes descontos.|
+A empresa se compromete a promover descontos consignados na folha de pagamento dos seus empregados, referentes a empréstimos, financiamento e operações de arrendamento mercantil concedidos por instituição financeira conveniada ou não ao Sindicato, desde que tais descontos sejam autorizadas pelo empregado na forma do art. 545 da CLT e Súmula 342 do TST, observando as normas e procedimentos instituídos pela Lei 10.820/03.
+Parágrafo Primeiro - O Sindicato, por si ou através da instituição financeira que a ele seja ou não conveniada, enviará à empresa empregadora a relação dos empregados que pretenderem tomar empréstimos consignados em folha de pagamento, para que a empregadora possa avaliar a capacidade de comprometimento e possibilidade de efetuar descontos em seus vencimentos, sendo facultado à empresa negar a consignação na hipótese do empregado não suportar o desconto respectivo;
+Parágrafo Segundo - Um vez celebrado o convênio e desde que cumpridas às exigências impostas pela Lei 10.820/03, assim como o disposto no art. 545 da CLT, na Súmula 342 do TST e no parágrafo primeiro da presente cláusula, a empresa não poderá se opor aos lançamentos em folha de pagamento dos descontos consignados a ela encaminhados, nem recusar o fornecimento da documentação destinada ao seu cadastramento junto à instituição financeira.|
+A empresa encaminhará ao Sindicato, com antecedência de 30 (trinta) dias, o programa e a data da realização da SIPAT.
+|
+A empresa fornecerá recursos financeiros para os cobradores com a finalidade de facilitar suas tarefas.
+Parágrafo Primeiro - Os cobradores deverão depositar no cofre de segurança, os valores acima de R$ 50,00 (cinquenta reais), em locais determinados pela empresa, sendo obrigados a restituir valores não depositados que sejam extraviados, perdidos, furtados ou roubados;
+Parágrafo Segundo - Os cobradores deverão depositar no cofre de segurança 100% (cem por cento) dos vales transportes recebidos, devidamente assinados e perfurados;
+Parágrafo Terceiro - Fica vedado à comercialização de vales transportes / cartão eletrônico por qualquer empregado.|
+Ficam mantidas todas as garantias naquilo que não contrariar o presente acordo.|
+Será afixado um quadro geral na empresa, ou indicado o lugar onde o sindicato poderá colocar seus avisos, que não poderão conter alusões e/ou mensagens injuriosas e caluniosas à empresa ou seus diretores, nem ser de caráter político.

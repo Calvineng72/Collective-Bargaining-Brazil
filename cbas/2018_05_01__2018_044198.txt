@@ -1,0 +1,257 @@
+<STARTofTITLE>
+Mediador - Extrato Acordo Coletivo
+<ENDofTITLE>
+
+<STARTofVALIDITY>
+carimbo
+<ENDofVALIDITY>
+
+<STARTofHEADERS>
+NÚMERO DE REGISTRO NO MTE|SP012635/2018
+DATA DE REGISTRO NO MTE|04/12/2018
+NÚMERO DA SOLICITAÇÃO|MR044198/2018
+NÚMERO DO PROCESSO|46404.000172/2018-79
+DATA DO PROTOCOLO|31/08/2018
+<ENDofHEADERS>
+
+<STARTofCOUNTERPART1>
+FEDERACAO TRAB EM TRANSPORTES RODOV ESTADO DE SAO PAULO|57.854.168/0001-81|Procurador|JOSE ROBERTO DUARTE DA SILVEIRA
+<ENDofCOUNTERPART1>
+<STARTofCOUNTERPART2>
+TRANSPORTADORA TURISTICA BENFICA LTDA|59.275.289/0014-19|Administrador|PAULO NARCISO FUSO
+<ENDofCOUNTERPART2>
+
+<STARTofSTARTDATE>
+01/05/2018
+<ENDofSTARTDATE>
+<STARTofEXPRIRATIONDATE>
+30/04/2019
+<ENDofEXPIRATIONDATE>
+
+<STARTofRENEGOTIATION>
+01/05
+<ENDofRENEGOTIATION>
+
+<STARTofCATEGORY>
+PROFISSIONAL DOS CONDUTORES DE VEÍCULOS RODOVIÁRIOS,
+<ENDofCATEGORY>
+<STARTofGEOGRAPHY>
+Paulo De Faria/SP
+<ENDofGEOGRAPHY>
+
+<STARTofCLAUSES>
+Piso Salarial|SALÁRIOS NORMATIVOS E BENEFÍCIOS
+Reajustes/Correções Salariais|CORREÇÃO SALARIAL DEMAIS FUNÇÕES E OUTROS
+Pagamento de Salário – Formas e Prazos|PRAZO PAGAMENTO DE SALÁRIOS
+Pagamento de Salário – Formas e Prazos|ADIANTAMENTO DE SALÁRIO
+Pagamento de Salário – Formas e Prazos|INTERVALO DE PAGAMENTO
+Pagamento de Salário – Formas e Prazos|SALÁRIO SUBSTITUIÇÃO
+Pagamento de Salário – Formas e Prazos|COMPROVANTE DE PAGAMENTO
+Pagamento de Salário – Formas e Prazos|DESCONTOS SALARIAIS
+Outras normas referentes a salários, reajustes, pagamentos e critérios para cálculo|SALÁRIO PARADIGMA
+Outras normas referentes a salários, reajustes, pagamentos e critérios para cálculo|NÃO INCORPORAÇÃO SALARIAL
+Adicional de Hora-Extra|HORAS EXTRAS E ADICIONAIS
+Adicional de Tempo de Serviço|PRÊMIO POR TEMPO DE SERVIÇO
+Participação nos Lucros e/ou Resultados|PLR PARTICIPAÇÃO NOS RESULTADOS
+Auxílio Alimentação|TICKET/CARTÃO
+Auxílio Transporte|VALE TRANSPORTE
+Auxílio Transporte|QUILÔMETRO RODADO
+Auxílio Morte/Funeral|AUXÍLIO FUNERAL
+Normas para Admissão/Contratação|DENOMINAÇÃO DE FUNÇÃO
+Normas para Admissão/Contratação|CONTRATO DE EXPERIÊNCIA
+Normas para Admissão/Contratação|ANOTAÇÕES NA CTPS E DOCUMENTOS
+Normas para Admissão/Contratação|OBRIGATORIEDADE DAS HOMOLOGAÇÕES
+Desligamento/Demissão|CARTA DE REFERÊNCIA
+Desligamento/Demissão|DISPENSA POR JUSTA CAUSA
+Aviso Prévio|AVISO PRÉVIO
+Outros grupos específicos|OBRIGAÇÕES PROFISSIONAIS
+Estabilidade Acidentados/Portadores Doença Profissional|ESTABILIDADE AO ACIDENTADO
+Estabilidade Acidentados/Portadores Doença Profissional|GARANTIA APOSENTADORIA
+Prorrogação/Redução de Jornada|TEMPO A DISPOSIÇÃO DO EMPREGADOR
+Compensação de Jornada|SISTEMA DE FOLGA E JORNADA DE TRABALHO
+Controle da Jornada|CONTROLE DE HORÁRIO
+Controle da Jornada|TRABALHO EXTERNO  ART.62
+Controle da Jornada|CALENDÁRIO DIFERENCIADO
+Outras disposições sobre jornada|REGIME DE FRETAMENTO
+Duração e Concessão de Férias|FÉRIAS
+Outras disposições sobre férias e licenças|ATESTADO DE AFASTAMENTO E SALÁRIO
+Outras disposições sobre férias e licenças|ATESTADO MÉDICO E ODONTOLÓGICO
+Uniforme|UNIFORME E EPI
+Acesso do Sindicato ao Local de Trabalho|QUADRO DE AVISOS
+Contribuições Sindicais|GUIAS DE RECOLHIMENTO
+Contribuições Sindicais|CONTRIBUIÇÃO ASSISTENCIAL DOS EMPREGADOS MENSAL OBRIGATÓRIA
+Contribuições Sindicais|CONTRIBUIÇÃO COLETIVA DOS EMPREGADOS MENSAL OBRIGATÓRIA
+Outras disposições sobre relação entre sindicato e empresa|CATEGORIAS PROFISSIONAIS REPRESENTADAS NESTE ACORDO PELAS PARTES
+Outras disposições sobre representação e organização|CÂMARA DE CONCILIAÇÃO INTERSINDICAL
+Outras disposições sobre representação e organização|APLICAÇÃO LEGAL DO ACORDO
+Descumprimento do Instrumento Coletivo|DESCUMPRIMENTO/PENALIDADE
+Outras Disposições|ASSINATURAS E REGISTRO DO ACORDO
+Outras Disposições|JUÍZO COMPETENTE
+<ENDofCLAUSES>
+
+<STARTofAPPENDICES>
+ATA ASSEMBLEIA
+<ENDofAPPENDICES>
+
+<STARTofAPPTEXT>
+
+Anexo (PDF)
+
+<ENDofAPPTEXT>
+
+<STARTofTEXT>
+As partes CONVENENTES estabelecem SALÁRIOS NORMATIVOS (PISO SALARIAL) e demais vantagens e benefícios, para ter vigência no período de validade deste ACORDO, aplicando-se as normas legais vigentes, sendo defeso pleitear a revisão de aplicação de índices de correção ou qualquer direito anterior. Esclarecem que os pisos salariais pactuados foram ajustados mediante critério de valoração econômica e com reposição dos índices de inflação do período anterior.
+                         PISOS SALARIAIS DE MAIO/2018
+MOTORISTA................................................................R$ 2.285,30
+MECÂNICO................................................................. R$ 2.449,92
+MECÂNICO A..............................................................R$ 2.986,41
+MECÂNICO B..............................................................R$ 2.738,90
+BORRACHEIRO..........................................................R$ 2.257,68
+FUNILEIRO..................................................................R$ 2.513,24
+ELETRICISTA..............................................................R$ 2.257,68
+AUXILIAR LIMPEZA.................................................R$    998,84
+LAVADOR....................................................................R$ 1.381,53
+ADMINISTRATIVO....................................................R$ 1.656,69
+ 
+|
+Para as demais funções não beneficiadas pelos “salários normativos” vigentes em abril/2018, fica ajustado à aplicação do percentual de 2,5% (dois e meio por cento), para vigorar a partir de 1º de maio de 2018.
+|
+O pagamento dos salários deverá ser efetuado até o quinto dia útil de cada mês subseqüente ao vencido, e, recaindo em dia de Sábado, deverá ser efetuado na Sexta-feira antecedente.
+Parágrafo Único:O descumprimento do prazo previsto obriga o empregador ao pagamento de multa legal de 2% (dois por cento) sobre o saldo do salário devido, revertendo à multa em favor do empregado.
+|
+As empresas se obrigam ao pagamento de Vale de Adiantamento aos seus empregados, de 40% (quarenta por cento) do salário nominal contratual, até 15 (quinze) dias após a quitação do salário mensal; podendo o empregado dispensar o adiantamento conforme for de sua conveniência.
+|
+Sempre que os salários forem pagos através de bancos, será assegurado ao empregado, intervalo remunerado, a critério da empresa, de tal modo que não prejudique o andamento dos serviços, para que o mesmo receba seu ganho, sendo que esse intervalo não corresponde àquele destinado ao seu descanso e refeição.
+|
+Aos empregados admitidos para exercer a mesma função de outro, cujo contrato de trabalho tenha sido rescindido, exceto por motivo de justa causa, será garantida, ressalvada a vantagem pessoal, o mesmo salário da função, ou o salário normativo para ela existente, quando da admissão.
+ 
+|
+As empresas fornecerão a seus empregados, comprovante de pagamento, que deverá conter a identificação da Empresa, a discriminação de todas as verbas pagas e os descontos por ela efetuados.
+|
+Os descontos salariais, em casos de multas de trânsito, quebra de veículos e avaria de carga, furto e roubo, serão admitidos em caso de culpa ou dolo do empregado, sendo que as despesas com cópias de “B.O” serão suportados pela empresa.
+|
+Para efeito de controle, pelos Sindicatos Profissionais, fica esclarecido que os empregados que sejam admitidos após a data-base, em funções com paradigma, será aplicado o mesmo percentual de reajuste salarial, ou aumentos reais concedidos ao paradigma, observado o contido no Art. 461, da Consolidação das Leis do Trabalho.
+|
+Todo e qualquer benefício adicional que as empresas, espontaneamente já concedem ou que vierem a conceder aos seus empregados, tais como: convênios, seguros, diárias, cesta de alimentos e auxílios de qualquer espécie, inclusive o P.T.S, não serão considerados em qualquer hipótese e para nenhum efeito, como parte do salário ou remuneração do empregado, não podendo ser objeto de qualquer postulação seja a que título for.
+|
+A empresa remunerará as horas extras, independentemente de limite, com o adicional legal fixado em 50% (cinquenta por cento) e calculado sobre a hora normal.
+Parágrafo Primeiro: As horas extras integrarão, quando habituais, a remuneração dos empregados, para efeito do “DSR”, férias, 13º. Salário, Aviso Prévio, INSS, FGTS e verbas rescisórias.
+|
+O Prêmio por Tempo de Serviço, que faz jus todo empregado com 01 (um) ou mais anos de serviço prestado à mesma empresa, será calculado à base de 6% (seis por cento) sobre o salário do Motorista para a área Operacional.
+Parágrafo Primeiro: Após completar 04 (quatro) anos de serviço para o mesmo empregador, o “P.T.S” será acrescido em 2% (dois por cento), de forma não cumulativa, para cada ano (completo) de serviço.
+Parágrafo Segundo: O "P.T.S" não tem natureza salarial para fins de equiparação, não podendo expressamente ser considerado verba salarial para quaisquer fins, bem como não será devido cumulativamente.
+|
+Os empregados ora representados farão jus a título de participação nos resultados (PLR), ao valor correspondente a R$ 970,06 (novecentos e setenta reais e seis centavos), que será pago em 2 (duas) parcelas de igual valor, correspondente a R$ 485,03 (quatrocentos e oitenta e cinco reais e três centavos) cada uma, a serem pagas juntamente com as folhas de pagamento dos meses de novembro de 2018 e março de 2019. Para os empregados com menos de um ano na mesma empresa e para fins rescisórios o pagamento será feito proporcionalmente aos meses trabalhados.
+Parágrafo Primeiro: Referida obrigação é criada nas prerrogativas e isenções fixadas pela Lei, não tendo, portanto, qualquer conotação salarial, não integrando a remuneração do empregado, para quaisquer finalidades.
+Parágrafo Segundo: Caso a empresa já tenha ou venha a instituir seu plano de participação nos lucros e/ou resultados, estará automaticamente desobrigada do pagamento desta parcela.  
+|
+Fica expressamente ajustado que as Empresas concederão mensalmente aos seus empregados Ticket/Cartão no valor de R$ 405,08 (quatrocentos e cinco reais e oito centavos), a título de ajuda alimentação.
+Parágrafo Primeiro: Sobre o beneficio social ora ajustado não incidirá encargos trabalhistas, conforme legislação do PAT – Programa de Alimentação do Trabalhador.
+|
+Fica convencionado que as empresas fornecerão o “vale transporte” aos seus empregados, conforme estabelece a lei em vigor.
+|
+Parágrafo Primeiro:A empresa abrangida por este instrumento normativo, que operam no segmento de transporte de passageiros, sob o regime de Fretamento, podendo atuar nas modalidades designadas por “Fretamento Contínuo” e “Fretamento Eventual”. Sendo o Fretamento Eventual, destinado ao turismo de lazer, negócios, religioso etc., e o Fretamento Contínuo que consiste principalmente no transporte de empregados de empresas comerciais, industriais, e estudantes, Prefeituras Municipais e órgãos públicos municipal, estadual e federal, cujos horários adotados obrigam via de consequência que a jornada de trabalho do motorista de fretamento, seja desdobrada em vários períodos do mesmo dia; tem acordado entre si a legalidade e aceitação do desmembramento inevitável da jornada em vários períodos distintos em um mesmo dia de trabalho, os quais serão computados como jornada efetivamente trabalhada, sendo tais intervalos de uso e gozo exclusivo e individual do empregado, exceção feita ao intervalo destinado a sua alimentação e descanso, o qual deverá constar em seu controle de trabalho.
+Parágrafo Segundo: Visando facilitar a movimentação do funcionário ao longo dos intervalos entre as pegadas e/ou as jornadas, a empresa de comum acordo com o funcionário poderá autorizar que o veículo fique em local mais próximo a sua residência e/ou local em que estiver hospedado; ao invés de deixar o veículo na garagem e/ou locais previamente estabelecidos pela empresa.
+Parágrafo Terceiro: Conforme Lei 13.103/2015, quando o veículo de trabalho permanecer na residência do empregado ou em local determinado pela empresa para que esteja hospedado, sejam nos intervalos intrajornada e/ou entre uma pegada e outra, ou nos intervalos entre jornadas e/ou entre um dia e outro de trabalho, o mesmo fica isento de qualquer responsabilidade no tocante a guarda e conservação, não sendo este período computado como tempo á disposição da empresa para fins de duração do trabalho, em face à peculiaridade dos serviços.
+Parágrafo Quarto: O intervalo de descanso entre as jornadas de trabalho de um dia para o outro será o de 11 (onze) horas; sendo que em conformidade com a legislação esse poderá ser fracionado para até 09 (nove) horas, mais 02 (duas) horas de descanso no mesmo dia; tendo em vista a natureza da atividade.
+Parágrafo Quinto: Na Jornada de Trabalho de 08h00 (oito horas) por dia em que os motoristas venham a trabalhar através do sistemas de pegadas, conforme especificado na cláusula Turnos e Pegadas, os intervalos entre as pegadas e/ou Turnos: Turno A (manhã) para o Turno B (tarde) e/ou do Turno B (tarde) para o Turno C (noite) e/ou do Turno C (noite) para o turno A (manhã) são destinados exclusivamente ao descanso do motorista; ficando bem claro que nesses intervalos o trabalhador poderá exercer sua vida social estando liberado de suas obrigações funcionais nesse lapso de tempo.
+Parágrafo Sexto: Na Jornada de Trabalho de 12 X 36 (Doze Horas Trabalhadas por Trinta e Seis horas de Descanso) Jornada de 1 x 1 (um dia trabalhado e um dia de folga) que venham a trabalhar através de pegadas ao longo do dia, poderá ter o intervalo entre jornadas de trabalho vir a ser fracionadas desde que sejam devidamente e compensadas ao longo do dia efetivamente trabalhado. Portanto assim em conformidade com a cláusula Turnos e Pegadas os intervalos entre as pegadas do Turno A (manhã) para a pegada do Turno B (tarde) e do Turno B (tarde) para o Turno C (noite), sendo esse tempo de intervalo reservado exclusivamente para o descanso do motorista ficando bem claro que nesses intervalos o trabalhador poderá exercer sua vida social estando liberado de suas obrigações funcionais nesse lapso de tempo.
+|
+Em caso de morte natural, ou por acidente de trabalho de empregado, as Empresas ficam obrigadas a pagar aos seus dependentes, habilitados perante a Previdência Social, o valor equivalente a 02 (dois) salários na base do piso salarial vigente por ocasião do evento, a título de auxílio funeral.
+|
+Para fins e efeitos do quanto disciplinado neste ACORDO, não serão admitidas as alterações de denominação de cargos e funções, que objetivem isentar as empresas do cumprimento dos salários normativos ajustados pelas entidades convenentes.
+|
+As partes convenentes se ajustam no sentido de que o Contrato de Experiência terá prazo máximo de 90 (noventa) dias.
+|
+As empresas anotarão na CTPS dos empregados à função efetivamente exercida pelo empregado.
+Parágrafo Único: O prazo de entrega da C.T.P.S é de 48 horas, com emissão de protocolo de entrega da mesma.
+|
+Só serão homologadas por esta entidade sindical, as empresas que comprovarem o cumprimento de todas as cláusulas do Acordo de trabalho, sendo as cláusulas econômicas, sociais e sindicais, além de comprovar o pagamento das contribuições sindicais em dia. Constatada o descumprimento de qualquer cláusula, a entidade poderá interromper a execução das homologações, até que as mesmas sejam resolvidas, exceto entendimentos.
+|
+Ocorrendo a rescisão do Contrato de Trabalho sem justa causa, o empregador fica obrigado a fornecer Carta de Referência, quando solicitada pelo empregado, por escrito, excetuando-se os casos de contratos de experiência.
+|
+Ao empregado demitido por justa causa, a empresa dará por escrito, ciência dos motivos determinantes da rescisão contratual.
+|
+Aos empregados com mais de 45 anos de idade e que, na ocasião de seu desligamento, não estiver recebendo nenhum benefício de aposentadoria, e que contar com mais de 05 (cinco) anos de trabalho na mesma empresa, será assegurado um aviso prévio de 60 (sessenta) dias.
+|
+Os profissionais rodoviários representados neste Acordo Coletivo de Trabalho zelarão pela conservação do veículo que lhe for confiado, bem como deverá proceder aos reparos de emergência conforme sua capacitação.
+Parágrafo Primeiro:Fica proibido aos profissionais rodoviários representados neste Acordo Coletivo de Trabalho fazer-se acompanhar por terceiros em seus veículos (carona), sem autorização expressa do empregador. A inobservância acarretará despedida por justa causa.
+Parágrafo Segundo:Aos profissionais rodoviários representados neste Acordo Coletivo de Trabalho cabe a responsabilidade de toda e qualquer Infração de trânsito por ele cometida na condução do veículo, inclusive o pagamento da multa que vier a sofrer, quando ficar configurada sua culpa ou dolo, depois de esgotados os recursos administrativos cabíveis. O motorista fica obrigado a entregar imediatamente ao empregador, a guia e ou talões de multas de trânsito ou qualquer outra infração.
+Parágrafo Terceiro:Os profissionais rodoviários representados neste Acordo Coletivo de Trabalho, ficam obrigados a respeitar e cumprir o “regulamento interno” das Empresas, sujeitando-se às penas de advertência, suspensão e demissão por justa causa, em caso de desobediência e depois de aferido o grau de sua responsabilidade.
+Parágrafo Quarto:Os profissionais rodoviários representados neste Acordo Coletivo de Trabalho ficam proibidos abastecer o veículo, e quando ocorrer voluntariamente, não será devido adicional de periculosidade e ou insalubridade.
+Parágrafo Quinto:Os profissionais rodoviários representados neste Acordo Coletivo de Trabalho que tiver a C.N.H. suspensa pelo cometimento de infração de trânsito gravíssima, exceto as decorrentes de falta de equipamento ou defeito de veículo, fica sujeito à penalidade de demissão por justa causa.  
+|
+Será assegurado ao empregado acidentado no trabalho, o benefício garantido por lei em vigor.
+|
+As empresas assegurarão aos empregados que estiverem a 1 (um) ano da aquisição do direito à aposentadoria e que contem com 5 (cinco) anos de serviço na mesma empresa, o emprego (ou salário) durante o período que faltar para se aposentar, excetuando-se os casos de demissão por justa causa, de extinção do estabelecimento, ou motivo de força maior comprovada, desde que essa condição do empregado, seja por ele expressamente informada, por escrito, à sua empregadora.
+|
+Eventuais interrupções do trabalho, ocasionadas por culpa da empresa ou decorrentes de caso fortuito, não poderão ser descontadas e ou compensadas.
+ 
+|
+As Empresas que adotarem a jornada de trabalho com base no art.61 parágrafo 2º da CLT conforme cláusula deste acordo que irão executar colheitas ou safras com sazonalidade imperiosa poderá adotar o sistema de folga de 4x2 (sendo a cada quatro dias trabalhados dois dias de folga), seguindo as determinações do Sindicato Obreiro.
+|
+As empresas ficam obrigadas a procederem às anotações e controles de jornadas de trabalho de seus empregados, exceto quando se trate de atividade disciplinada pelo Art. 62 alínea “I”, da Consolidação das Leis do Trabalho e nas hipóteses previstas nas Cláusulas das horas extras fixas e do trabalho externo deste Acordo.
+Parágrafo Primeiro: Ficam excluídas da obrigação, as empresas que possuam até dez (10) empregados.
+Paragrafo Segundo:Fica ajustado que, entre duas jornadas de trabalho haverá, necessariamente, um período de 11 (onze) horas consecutivas para descanso do empregado.
+ 
+|
+De acordo com o art. 62 letra “I” da CLT, os empregados que exerçam trabalho externo, sem controle de horário, não estão sujeitos a jornada de trabalho estabelecida na CLT; e, nestes casos, as Empresas ficam dispensadas de manter papeleta de controle externo (art. 74, par. 3º da CLT).
+Parágrafo Primeiro:Os empregados em serviços externos têm a liberdade e a responsabilidade de desfrutar de intervalo satisfatório para repouso e ou alimentação, devendo interromper os serviços para tal finalidade.
+Parágrafo Segundo:Fica convencionado que, em face das peculiaridades das operações do transporte os instrumentos de: tacógrafo, telefone celular, rádio de comunicação, rastreador de veículo, equipamento de informática e equipamentos afins, não se prestam para medição, controle e prova para a jornada de trabalho.
+|
+As empresas poderão adotar calendário diferenciado para apuração das horas extras e demais verbas variáveis, desde que não causem prejuízos ao empregado;
+Parágrafo Primeiro: Entende-se por calendário diferenciado o período, por exemplo: de 16 de um mês até 15 do seguinte ou, de 23 de um mês até 22 do mês seguinte.
+Parágrafo Segundo: Tal calendário é adotado para permitir que as empresas processem suas folhas de pagamentos antes do final do mês; e para todos efeitos perante os órgãos de fiscalização.
+ 
+ 
+|
+Considerando a entrada em vigor da Lei 12.619/2012 em cotejo com a Lei 13.103/2015, que regulam a profissão de motorista profissional;
+Considerando as peculiaridades do setor de fretamento;
+Considerando que os motoristas de veículos de fretamento operam preponderante em regiões metropolitanas;
+Considerando a assembleia realizada com os trabalhadores, conforme listagem anexa, aprovou por unanimidade a realização dessa cláusula;
+Considerando que este acordo obedece aos ditames legais e não é prejudicial à saúde e à segurança do trabalhador;
+Considerando que não haverá qualquer prejuízo a nenhum dos trabalhadores;
+Considerando que essa jornada do setor de fretamento existe há mais de 35 anos;
+Considerando que devido as peculiaridades do transporte de fretamento, não podendo o motorista estacionar o veículo em qualquer lugar ou em qualquer tempo sem antes transportar os passageiros até o destino final;
+Considerando que o tempo efetivo de direção inserido dentro da jornada de trabalho dos motoristas é extremamente reduzido, pois boa parte da jornada inclui o tempo de espera para embarque e desembarque de passageiros;
+Considerando que a jornada do fretamento permite que o motorista vá com o veículo para sua residência, constituindo assim um benefício, pois se implantada outra espécie de jornada, o motorista seria rendido por outro nos pontos iniciais/ finais e teria que deslocar-se dali para sua residência e vice-versa, através de transporte público, muitas vezes percorrendo grandes trajetos em prejuízo a sua vida social e familiar;
+Considerando, outrossim, o bom e sensato relacionamento existente entre as partes envolvidas;
+Considerando, finalmente, o disposto no Art.235-C, inserido na CLT pela Lei 12.619/2012;
+Resolvem adequar a cláusula que disciplina e regula a jornada de trabalho dos empregados do regime de fretamento, aos termos das Leis 12.619/2012 e 13.103/2015, sendo que a presente cláusula se regerá com base nos seguintes termos:
+1) As empresas abrangidas por esta convenção operam no ramo de transportes de passageiros sob o regime de fretamento, consistente, principalmente, na condução de empregados das indústrias e outras empresas localizadas predominantemente na base territorial do Sindicato Signatário.
+Essas empresas tomadoras de serviços, como é do conhecimento do Sindicato Profissional, operam em até três turnos de trabalho através do sistema de turnos de revezamento, decorrendo, via de consequência, que a jornada de trabalho dos motoristas das empresas de transporte por fretamento sofre inevitável desdobramento, em dois ou três períodos do mesmo dia, implicando em involuntária dilatação do intervalo previsto no artigo 71 por até 9 (nove) horas, combinado com o parágrafo 2º do artigo 59 e artigos 66,74 todos da CLT.
+2) Assim resta acordado entre as partes, que nos intervalos que separam os períodos de trabalho,os motoristas são liberados pelas empresas abrangidas por esta convenção e não permanecem à sua disposição nem de sobreaviso, não configurando, portanto, sobrejornada, nos termos do parágrafo 1º., do art. 235-C da Lei 13.103/2015.
+§1º - Será considerado como trabalho efetivo o tempo em que o motorista empregado estiver à disposição do empregador, excluídos os intervalos para refeição, repouso e descanso e o tempo de espera, fato este reconhecido e aceito pelo Sindicato Profissional e pelos empregados da categoria específica.
+3) E mais, considerando que a dilatação do intervalo do artigo 71 da CLT por mais de duas horas, conforme permitido pela própria redação do artigo 71 Consolidado, implica, consequentemente, na redução dos artigos 66 da CLT e 235-C, parágrafo 3º, da Lei 13.103/2015, resolvem as partes permitir o fracionamento do intervalo de 11 horas, com gozo mínimo de 8h00, de modo que o tempo não usufruído daquele intervalo será fracionado e gozado junto com o intervalo do artigo 71 da CLT usufruído durante a jornada. Ademais, a redação do artigo 66 da CLT, é aplicável ao trabalhador que trabalha ininterruptamente pelo menos 8 horas diárias, o que não é o caso dos empregados da categoria, face os intervalos consideráveis gozados no decorrer da jornada.
+|
+As férias do empregado, garantidas por lei e observado o disposto no art. 135 da CLT, só poderão ter início em dias úteis.
+|
+Fica ajustado, que a empresa, desde que solicitada por escrito e com antecedência mínima de 48 horas, fornecerá aos seus empregados, o atestado de afastamento e salários, para fins previdenciários.
+|
+Para efeito de justificação e abono de faltas e atrasos, as empresas aceitarão os Atestados Médicos e Odontológicos do ambulatório do Sindicato profissional, desde que este mantenha convênio com a Previdência Social.
+Parágrafo Único:No caso das empresas que mantém serviços médicos e assistenciais aos seus empregados, somente serão aceitos atestados quando expedidos por eles ou seus conveniados.
+|
+Quando exigido o uso de uniforme e ou “E.P.I.” pelo empregador, este será obrigado a fornecê-lo gratuitamente aos seus empregados.
+|
+A empresa colocará à disposição do Sindicato da Categoria Profissional, quadro de Avisos nos locais de trabalho, para afixação de comunicados oficiais da categoria profissional, facilitando-se esse procedimento, desde que os mesmos não contenham matéria político-partidária, ou ofensiva a quem quer que seja, devendo esses avisos ser encaminhados ao setor competente da empresa, que se encarregará de afixá-los imediatamente.
+|
+Por ocasião do recolhimento das Contribuições Sindicais, as empresas enviarão aos respectivos Sindicatos, cópias das guias de recolhimento, juntamente com a relação nominal dos empregados correspondentes.
+|
+As empresas descontarão obrigatoriamente dos salários dos seus empregados, a importância correspondente a 2,5% (dois e meio por cento) mensalmente, sobre o salário bruto (total dos vencimentos), referente à Contribuição Assistencial, conforme Art. 513, alínea “e” da CLT. O recolhimento do valor arrecadado será efetuado para o Sindicato da Categoria Profissional, através de guia própria fornecida pela Entidade Sindical Profissional, e deverá ser repassada até o décimo quinto dia do mês subseqüente.
+Parágrafo Único: Fica ressalvado o direito de oposição do trabalhador, a ser manifestado por escrito perante o Sindicato profissional competente até 10 (dez) dias antes do recebimento do primeiro pagamento com aplicação deste Acordo.
+|
+As empresas descontarão de seus empregados o percentual de 2% (dois por cento) mensalmente, conforme Art. 8º Inciso IV da CF., sobre o salário bruto (total dos vencimentos), referente à Contribuição Coletiva aprovada e fixada pela AGE da categoria e deverá ser recolhida em guias próprias fornecidas pelo Sindicato da Categoria Profissional, e deverá ser repassada até o décimo quinto dia do mês subseqüente.
+Parágrafo Único: Fica ressalvado o direito de oposição do trabalhador, a ser manifestado por escrito perante o Sindicato profissional competente até 10 (dez) dias antes do recebimento do primeiro pagamento com aplicação deste Acordo.
+|
+Os Sindicatos profissionais e econômicos convenentes representam os trabalhadores: motorista de triminhão; motorista de bi-trem; motorista carreteiro; motorista guincheiros; motorista; motorista de empilhadeira; motorista de empresas de malote; motorista de empresas prestadoras de serviços(ECT - correios); motorista particular; motorista manobrista; motorista manobrista de estacionamento; moto-entrega e similares;  tratorista;agentes auxiliares no transporte escolar(monitor); movimentador de mercadorias no transporte em geral; ajudante de motorista e carregador nos setores: sucroalcooleiro; transporte; comércio; entidade filantrópica; clubes em geral; indústria metalúrgica; siderúrgica; fundição; construção civil; fabricante de autopeças e similares; agrícolas e nas esferas rurais; urbanos; suburbanos e intermunicipal, conforme pisos salariais mencionados. Das disposições legais: as empresas deverão cumprir na sua essência o art. 620 da CLT.
+|
+As partes convenentes estabelecem a continuidade da Câmara de Conciliação Intersindical, implantada e regulamentada nos moldes da Lei nº 9958/00.
+|
+O presente ACORDO Coletivo e os seus aditivos e acordos firmados e registrados, em todos os seus termos, ajustes e condições pactuados, que representa a legitima vontade e o interesse das partes, deverá ser conhecida e respeitada por todos, inclusive autoridades civis, fazendárias, fiscalizadoras, e judiciárias do trabalho e civis, conforme permitido no art. 7º Inciso XXVI da Constituição Federal.
+|
+Em caso de descumprimento de qualquer cláusula econômica, social e sindical, a empresa pagará 20 (vinte) vezes o valor devido ao prejudicado, conforme decisão da AGE.
+Parágrafo Único: A empresa se não repassar as contribuições descontadas, conforme cláusula das contribuições mencionadas neste acordo nas datas previstas, poderá ser incidida no código penal brasileiro a título de apropriação indébita, além de ser protestada em cartório.
+|
+Assim, por estarem justos e convencionados firmam o presente ACORDO COLETIVO, que será levada à homologação pelo Órgão Competente e protocolada na Sub-Delegacia do Ministério do Trabalho, para registro e arquivamento, produzindo efeitos a partir do mês de MAIO/2018 inclusive; ficando revogadas as disposições anteriores.                        
+|
+As partes elegem a Justiça do Trabalho, como preceitua o art. 114, da C.F., para dirimir não só as dúvidas oriundas deste instrumento, mas também, quaisquer questões pertinentes a Contribuição Sindical, Confederativa e Assistencial.

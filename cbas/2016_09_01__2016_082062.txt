@@ -1,0 +1,727 @@
+<STARTofTITLE>
+Mediador - Extrato Convenção Coletiva
+<ENDofTITLE>
+
+<STARTofVALIDITY>
+semvalorlegal
+<ENDofVALIDITY>
+
+<STARTofHEADERS>
+NÚMERO DA SOLICITAÇÃO|MR082062/2016
+DATA E HORÁRIO DA TRANSMISSÃO|03/01/2017ÀS10:50
+NÚMERO DO PROCESSO|46397.000005/2017-83
+DATA DO PROTOCOLO|05/01/2017
+<ENDofHEADERS>
+
+<STARTofCOUNTERPART1>
+SINDICATO DOS TRABALHADORES NO COMERCIO DE LORENA|60.130.044/0001-68|Presidente|LUIZ ALFREDO GERVASIO PEREIRA
+<ENDofCOUNTERPART1>
+<STARTofCOUNTERPART2>
+SINDICATO DO COMERCIO VAREJISTA DE LORENA - SINCOMERCIO.|65.042.582/0001-14|Presidente|NILSON RAMOS ALMADA
+<ENDofCOUNTERPART2>
+
+<STARTofSTARTDATE>
+01/09/2016
+<ENDofSTARTDATE>
+<STARTofEXPRIRATIONDATE>
+31/08/2017
+<ENDofEXPIRATIONDATE>
+
+<STARTofRENEGOTIATION>
+01/09
+<ENDofRENEGOTIATION>
+
+<STARTofCATEGORY>
+A presente Convenção Coletiva de Trabalho abrangerá a(s) categoria(s) O presente Acordo Coletivo de Trabalho, aplicável no âmbito da(s) empresa(s) acordante(s), abrangerá a(s) categoria(s) O Sindicato dos Empregados no Comércio de Lorena, Piquete, Cunha e Canas, entidade representativa dos empregado no comércio atacadista e varejista, com abrangência territorial em Lorena/SP, com abrangência territorial em Lorena/SP
+<ENDofCATEGORY>
+<STARTofGEOGRAPHY>
+Lorena/SP
+<ENDofGEOGRAPHY>
+
+<STARTofCLAUSES>
+Piso Salarial|PISOS SALARIAIS
+Piso Salarial|REGIME ESPECIAL DE PISO SALARIAL   REPIS
+Reajustes/Correções Salariais|REAJUSTE SALARIAL
+Reajustes/Correções Salariais|REAJUSTE SALARIAL DOS EMPREGADOS ADMITIDOS ENTRE 01.09.2016 ATÉ 31.08.2017
+Reajustes/Correções Salariais|COMPENSAÇÃO
+Pagamento de Salário – Formas e Prazos|COMPROVANTES DE PAGAMENTO DOS SALÁRIOS
+Pagamento de Salário – Formas e Prazos|PAGAMENTO DOS SALÁRIOS POR MEIO DE CHEQUES
+Remuneração DSR|REMUNERAÇÃO DO REPOUSO SEMANAL DOS COMISSIONISTAS
+Descontos Salariais|CHEQUES DEVOLVIDOS
+Descontos Salariais|ADIANTAMENTO DE SALÁRIO (VALE)
+Outras normas referentes a salários, reajustes, pagamentos e critérios para cálculo|GARANTIA DO COMISSIONISTA
+Outras normas referentes a salários, reajustes, pagamentos e critérios para cálculo|NÃO INCORPORAÇÃO DE ABONOS OU ANTECIPAÇÕES
+Outras normas referentes a salários, reajustes, pagamentos e critérios para cálculo|NÃO INCORPORAÇÃO DE CLÁUSULAS COMO DIREITO ADQUIRIDO
+13º Salário|VERBAS REMUNERATÓRIAS DOS COMISSIONISTAS
+Outras Gratificações|INDENIZAÇÃO DE QUEBRA DE CAIXA
+Outras Gratificações|DIA DO COMERCIÁRIO
+Adicional de Hora-Extra|REMUNERAÇÃO DAS HORAS EXTRAS DOS COMISSIONISTAS
+Adicional de Hora-Extra|REMUNERAÇÃO DE HORAS EXTRAS
+Participação nos Lucros e/ou Resultados|PARTICIPAÇÃO DOS TRABALHADORES NOS LUCROS OU RESULTADOS
+Auxílio Morte/Funeral|AUXÍLIO FUNERAL / SEGURO DE VIDA
+Outros Auxílios|ASSISTÊNCIA JURÍDICA
+Outros Auxílios|HOMOLOGAÇÃO
+Outros Auxílios|PLANO DE RENDA COMPLEMENTAR
+Normas para Admissão/Contratação|GARANTIA NA ADMISSÃO
+Normas para Admissão/Contratação|SALÁRIO DO SUBSTITUTO
+Desligamento/Demissão|INDENIZAÇÃO POR DISPENSA
+Desligamento/Demissão|DESPESAS PARA RESCISÃO CONTRATUAL
+Aviso Prévio|AVISO PRÉVIO ESPECIAL
+Aviso Prévio|VEDAÇÃO DE ALTERAÇÃO CONTRATUAL DURANTE O AVISO PRÉVIO
+Aviso Prévio|NOVO EMPREGO   DISPENSA DO AVISO PRÉVIO
+Outras normas referentes a admissão, demissão e modalidades de contratação|CONTRATO DE EXPERIÊNCIA
+Normas Disciplinares|DOCUMENTOS – RECEBIMENTO PELA EMPRESA
+Estabilidade Mãe|ESTABILIDADE DA GESTANTE
+Estabilidade Serviço Militar|ESTABILIDADE DO EMPREGADO EM IDADE DE PRESTAR O SERVIÇO MILITAR
+Estabilidade Portadores Doença Não Profissional|GARANTIA DE EMPREGO OU SALÁRIO AO EMPREGADO AFASTADO POR MOTIVO DE DOENÇA
+Estabilidade Aposentadoria|GARANTIA DE EMPREGO DO FUTURO APOSENTADO
+Outras normas referentes a condições para o exercício do trabalho|FORNECIMENTO DE UNIFORMES
+Compensação de Jornada|COMPENSAÇÃO DE HORÁRIO DE TRABALHO
+Controle da Jornada|DO CONTROLE DE JORNADA
+Faltas|ABONO DE FALTA À MÃE COMERCIÁRIA
+Faltas|FALECIMENTO DE SOGRO OU SOGRA, GENRO OU NORA
+Jornadas Especiais (mulheres, menores, estudantes)|ABONO DE FALTA AO COMERCIÁRIO ESTUDANTE
+Jornadas Especiais (mulheres, menores, estudantes)|DAS GESTANTES, LACTANTES E MENORES
+Outras disposições sobre jornada|CALENDÁRIO DE FUNCIONAMENTO DO COMÉRCIO EM DATAS ESPECIAIS
+Outras disposições sobre jornada|TRABALHO AOS DOMINGOS
+Outras disposições sobre jornada|TRABALHO NOS FERIADOS NACIONAIS
+Duração e Concessão de Férias|INÍCIO DAS FÉRIAS
+Outras disposições sobre férias e licenças|COINCIDÊNCIA DAS FÉRIAS COM ÉPOCA DO CASAMENTO
+Aceitação de Atestados Médicos|ATESTADOS MÉDICOS E ODONTOLÓGICOS
+Contribuições Sindicais|CONTRIBUIÇÃO ASSISTENCIAL DOS EMPREGADOS
+Contribuições Sindicais|CONTRIBUIÇÃO ASSISTENCIAL PATRONAL
+Regras para a Negociação|ACORDOS COLETIVOS
+Regras para a Negociação|COMUNICAÇÃO PRÉVIA
+Descumprimento do Instrumento Coletivo|MULTA
+Descumprimento do Instrumento Coletivo|DAS IRREGULARIDADES
+Renovação/Rescisão do Instrumento Coletivo|FIXAÇÃO DE OUTRAS CONDIÇÕES
+Renovação/Rescisão do Instrumento Coletivo|PRORROGAÇÃO, REVISÃO, DENÚNCIA OU REVOGAÇÃO TOTAL OU PARCIAL
+<ENDofCLAUSES>
+
+<STARTofAPPENDICES>
+ATA DA ASSEMBLEIA GERAL EXTRAORDINÁRIA
+ATA DA ASSEMBLÉIA GERAL EXTRAORDINÁRIA
+<ENDofAPPENDICES>
+
+<STARTofAPPTEXT>
+
+Ata de Assembléia Geral Extraordinária Itinerante 01/02  Anexo (PDF)
+|
+Ata da Assembléia Geral Extraordinária 02/02 Anexo (PDF)
+
+<ENDofAPPTEXT>
+
+<STARTofTEXT>
+Pisos Salariais: Ficam estipulados os seguintes pisos salariais, a vigir a partir de 01/09/16, desde que cumprida integralmente a jornada legal de trabalho:
+ 
+Parágrafo único: O salario de office-boy e empacotador deverá ser igualado ao salario mínimo nacional, tanto paras as empresas de maior faturamento, como para as microempresas e empresas de pequeno porte, caso este seja inferior.
+ 
+ 
+             EMPRESAS EM GERAL
+a)    empregados em geral ..........................................................R$ 1.318,00 
+ 
+b)    caixa ........................................................................................R$ 1.414,00
+ 
+c)     faxineiro e copeiro .................................................................R$ 1.162,00
+                       
+d)    office boy e empacotador .......................................................R$ 962,00
+ 
+e)    garantia do comissionista.........................................................R$ 1.545,00
+|
+REGIME ESPECIAL DE PISO SALARIAL - REPIS: Objetivando dar tratamento diferenciado e favorecido às microempresas (ME) e empresas de pequeno porte (EPP), assim conceituadas na Lei Complementar nº 123/06 e de posse do Certificado do Repis, devidamente assinado pelas entidades signatárias, ficam estipulados os seguintes pisos salariais para os empregados delas integrantes, a vigorar  a partir de 01/09/16, desde que cumprida integralmente a jornada legal de trabalho e respeitadas todas as condições previstas nesta cláusula, a saber:
+MICROEMPRESAS (ME)
+a) piso salarial de ingresso...............................................................R$ 1.073,00
+ 
+b) empregados em geral.............................................................R$ 1.206,00
+ 
+c) caixa.......................................................................................... R$ 1.317,00
+ 
+d) faxineiro e copeiro.......................................................................R$ 1.082,00
+ 
+e) office boy e empacotador .......................................................R$ 962,00
+ 
+f) garantia do comissionista.........................................................R$ 1.414,00
+ 
+EMPRESAS DE PEQUENO PORTE (EPP)
+a) piso salarial de ingresso............................................................R$ 1.144,00
+ 
+b) empregados em geral.............................................................R$ 1.264,00
+ 
+c) caixa.......................................................................................... R$ 1.356,00
+ 
+d) faxineiro e copeiro..................................................................R$ 1.110,00
+ 
+e) office boy e empacotador ......................................................R$ 962,00
+ 
+f) garantia do comissionista.......................................................R$ 1.484,00
+ 
+Parágrafo 1º - Para os efeitos desta cláusula, considera-se microempresa a pessoa jurídica que em cada ano-calendário aufira receita bruta (faturamento) igual ou inferior a R$ 360.000,00 (trezentos e sessenta mil reais), enquanto que empresa de pequeno porte é aquela com faturamento superior a R$ 360.000,00 (trezentos e sessenta mil reais) e igual ou inferior a R$ 3.600.000,00 (três milhões e seiscentos mil reais).
+Parágrafo 2º - O piso salarial de ingresso será devido aos novos contratados pelo prazo de 120 (cento e vinte) dias a partir da contratação, findo o qual esses empregados passarão a se enquadrar nas funções de nível salarial superior acima especificadas, a critério da empresa, à exceção daquelas previstas nas letras “d” (faxineiro e copeiro) e “e” (office boy e empacotador), segundo com o enquadramento da empresa como ME ou EPP.
+Parágrafo 3º - Os valores constantes da letra “c” desta cláusula se aplicam, somente, para os empregados exercentes da função exclusiva de operador de caixa.
+Parágrafo 4º - As empresas enquadradas na forma do caput desta cláusula, para poderem praticar os valores acima estabelecidos, deverão apresentar ao sindicato representativo de sua respectiva categoria econômica os seguintes documentos:
+I – formulário assinado pelo sócio empresário titular ou sócio da empresa, e também pelo contabilista responsável, requerendo a expedição de Certidão para Adesão ao REPIS/2016-2017, que será disponibilizado pela entidade patronal e profissional e do qual conste:
+a) razão social, CNPJ, Número de Inscrição do Registro de Empresas - NIRE, Capital Social registrado na JUCESP, endereço completo, atividade social, identificação do empresário e contabilista responsável;
+b) declaração atualizada do número de empregados existentes na data da solicitação da certidão;
+c) declaração de que a receita total auferida no ano-calendário vigente ou proporcional ao mês da declaração permite enquadrar a empresa como MICROEMPRESA (ME) ou EMPRESA DE PEQUENO PORTE (EPP), no Regime Especial de Piso Salarial – REPIS/ 2016-2017;
+d) declaração de que estão cumprindo integralmente a presente Convenção Coletiva de Trabalho;
+II - cópia da última alteração contratual.
+Parágrafo 5º - A falsidade de declaração ocasionará o desenquadramento da empresa do REPIS, sendo-lhe imputado o pagamento de diferenças salariais existentes.
+Parágrafo 6º - Preenchidos os requisitos do parágrafo 4º, incisos I e II, as empresas receberão da entidade sindical patronal correspondente, sem qualquer ônus e com validade coincidente com a da presente norma coletiva, certificado de enquadramento no regime especial de piso salarial – CERTIFICADO REPIS, que lhes facultará, a partir de 01/09/2016 até 31/08/2017, a prática dos pisos salariais previstos nesta cláusula 5ª, conforme o caso.
+Parágrafo 7º - As empresas que protocolarem o requerimento a que se refere o item I, parágrafo 4º, desta cláusula, poderão praticar os valores do REPIS/2016-2017 a partir da data do protocolo, ficando sujeitas ao deferimento do pleito. Em caso de indeferimento, deverão adotar os valores previstos na cláusula 4ª, com aplicação retroativa a 01 de setembro de 2016.  Para renovação da adesão ao REPIS, com efeitos retroativos a data base, será de até 120 dias da assinatura da convenção.
+ 
+Parágrafo 8º - O CERTIFICADO REPIS, mencionado no parágrafo 6º desta cláusula somente terá validade se conter as assinaturas dos representantes legais das entidades sindical profissional e econômica, conjuntamente.
+ 
+Parágrafo 9º - Em atos homologatórios de rescisão de contrato de trabalho e comprovação perante a Justiça Federal do Trabalho do direito ao pagamento dos pisos salariais previstos nesta cláusula, a prova do empregador se fará através da apresentação do CERTIFICADO REPIS/2016-2017 a que se refere o parágrafo 6º.
+|
+Os salários fixos ou parte fixa dos salários mistos serão reajustados a partir de 01 de setembro de 2016, data-base da categoria profissional, mediante aplicação do percentual de 9,62% (nove e sessenta e dois por cento), incidente sobre os salários já reajustados em 1º de setembro de 2016, já os pisos normativos da categoria seguem os valores previstos nas cláusulas 4ª e 5ª.
+Parágrafo 1° – Caso haja eventuais diferenças salariais referentes ao mês de setembro do ano de 2016 poderão ser complementadas até a data de pagamento dos salários dos meses de competência de outubro de 2016.
+ Parágrafo 2° - Os encargos de natureza trabalhista, previdenciária e tributaria serão recolhidos na mesma época do pagamento das diferenças salarias acima referidas, caso haja.
+ 
+|
+REAJUSTE SALARIAL DOS EMPREGADOS ADMITIDOS ENTRE 01.09.2016 ATÉ 31.08.2017: O reajuste salarial será proporcional e incidirá sobre o salário de admissão, conforme tabela abaixo:
+                                                       
+ Parágrafo único: O salário reajustado não poderá ser inferior ao salário normativo da função, conforme previsto nas cláusulas 4ª e 5ª.
+ 
+ 
+
+
+
+
+
+Admitidos no período de:
+
+
+Multiplicar   o salário de admissão por:
+
+
+
+
+Até 15.09.15         
+
+
+ 
+
+
+1,0988
+
+
+
+
+de 16.09.15     a
+
+
+15.10.15
+
+
+1,0906
+
+
+
+
+de 16.10.15     a
+
+
+15.11.15
+
+
+1,0823
+
+
+
+
+de 16.11.15     a
+
+
+15.12.15
+
+
+1,0741
+
+
+
+
+de 16.12.15     a
+
+
+15.01.16
+
+
+1,0659
+
+
+
+
+de 16.01.16     a
+
+
+15.02.16
+
+
+1,0576
+
+
+
+
+de 16.02.16     a
+
+
+15.03.16
+
+
+1,0494
+
+
+
+
+de 16.03.16     a
+
+
+15.04.16
+
+
+1,0412
+
+
+
+
+de 16.04.16     a
+
+
+15.05.16
+
+
+1,0329
+
+
+
+
+de 16.05.16     a
+
+
+15.06.16
+
+
+1,0247
+
+
+
+
+de 16.06.16     a
+
+
+15.07.16
+
+
+1,0147
+
+
+
+
+de 16.07.16     a           15.08.16
+
+
+1,0082
+
+
+
+
+A partir   de 16.08.16
+
+
+1,0000
+
+
+
+
+
+|
+COMPENSAÇÃO: Nos reajustamentos previstos nas cláusulas 1 e 2 serão compensados, automaticamente, todos os aumentos, antecipações e abonos, espontâneos e compulsórios, concedidos pela empresa no período compreendido entre 01/09/16 a 31/08/17, salvo os decorrentes de promoção, transferência, implemento de idade, equiparação e término de aprendizagem.
+ 
+ 
+|
+COMPROVANTES DE PAGAMENTO DOS SALÁRIOS: As empresas ficam obrigadas a fornecer comprovantes de pagamento dos salários e respectivos depósitos do FGTS, com discriminação das importâncias pagas e descontos efetuados, contendo sua identificação e a do empregado.
+|
+PAGAMENTO DOS SALÁRIOS POR MEIO DE CHEQUES: Quando o empregador efetuar o pagamento dos salários por meio de cheques, deverá conceder ao empregado, no curso da jornada e no horário bancário, o tempo necessário ao desconto do cheque, que não poderá exceder de 30 (trinta) minutos.
+ 
+|
+ REMUNERAÇÃO DO REPOUSO SEMANAL DOS COMISSIONISTAS: A remuneração do repouso semanal dos comissionistas será calculada tomando-se por base o total das comissões auferidas durante o mês, dividido por 25 (vinte e cinco) e multiplicado o valor encontrado pelos domingos e feriados a que fizerem jus, atendido o disposto no art.º 6º, da Lei n.º 605/49.
+ 
+|
+CHEQUES DEVOLVIDOS: É vedado às empresas descontar do empregado as importâncias correspondentes a cheques sem fundos recebidos, desde que o mesmo tenha cumprido as normas pertinentes ou ocorrer a devolução das mercadorias, aceita pela empresa.
+ 
+|
+As empresas concederão no decorrer do mês, um adiantamento de salário aos empregados, ressalvada a hipótese do fornecimento concomitante de “vale-compra” ou qualquer outro por elas concedidos, prevalecendo, nesses casos, apenas um deles.
+ 
+|
+GARANTIA DO COMISSIONISTA: Aos empregados remunerados exclusivamente à base de comissões percentuais pré-ajustadas sobre as vendas (comissionistas puros), fica assegurada a garantia de uma remuneração mínima, conforme valores estabelecidos na alínea “e” da cláusula 4 e “f” da cláusula 5, nela incluído o descanso semanal remunerado, e que somente prevalecerá no caso das comissões auferidas em cada mês não atingirem o valor da garantia e se cumprida integralmente a jornada legal de trabalho.
+|
+NÃO INCORPORAÇÃO DE ABONOS OU ANTECIPAÇÕES: Aos valores fixados na alínea “e” da cláusula 4 e “f” da cláusula 5, não serão incorporados abonos ou antecipações decorrentes de eventual legislação superveniente.
+|
+NÃO INCORPORAÇÃO DE CLÁUSULAS COMO DIREITO ADQUIRIDO: As garantias previstas nas cláusulas 4 e 5 não se constituirão, sob qualquer hipótese, em salários fixos ou parte fixa dos salários, não estando sujeitas aos reajustes previstos nas cláusulas 1 e 2.
+|
+VERBAS REMUNERATÓRIAS DOS COMISSIONISTAS: O cálculo da remuneração das férias, do aviso prévio e do 13º salário dos comissionistas, inclusive na rescisão contratual, terá como base a média das remunerações dos 6 (seis) últimos meses anteriores ao mês de pagamento.
+ 
+Parágrafo único - Para a integração das comissões no cálculo do 13º salário será adotada a média comissional de julho a dezembro, podendo a parcela do 13º salário, correspondente às comissões de dezembro, ser paga até o 5º (quinto) dia útil de janeiro.
+|
+INDENIZAÇÃO DE QUEBRA DE CAIXA: O empregado que exercer as funções de caixa terá direito à indenização por “quebra-de-caixa” mensal, no valor de R$ 66,00 (sessenta e seis reais), a partir de 01 de setembro de 2016.
+                     
+Parágrafo 1º - A conferência dos valores do caixa será sempre realizada na presença do respectivo operador e, se houver impedimento por parte da empresa, ficará aquele isento de qualquer responsabilidade.
+ 
+Parágrafo 2º - As empresas que não descontam de seus empregados as eventuais diferenças de caixa não estão sujeitas ao pagamento da indenização por “quebra-de-caixa” prevista no “caput” desta cláusula.
+ 
+|
+DIA DO COMERCIÁRIO: Pelo Dia do Comerciário - 30 de outubro - será concedida ao empregado do comércio, que pertencer ao quadro de trabalho da empresa nesse dia, uma indenização correspondente a 1 (um) ou 2 (dois) dias da sua respectiva remuneração mensal auferida no mês de outubro/2016 e outubro/2017, a ser paga juntamente com esta, conforme proporção abaixo:
+ 
+a) até 90 (noventa) dias de contrato de trabalho na empresa, o empregado não faz jus ao benefício;
+ 
+b) de 91 (noventa e um) dias até 180 (cento e oitenta) dias de contrato de trabalho na empresa, o empregado fará jus a 1 (um) dia;
+ 
+c) acima de 181 (cento e oitenta e um) dias de contrato de trabalho na empresa, o empregado fará jus a 2 (dois) dias.
+ 
+Parágrafo 1º - Fica facultado às partes, de comum acordo, converter a indenização em descanso, obedecida a proporcionalidade acima, durante a vigência da presente Convenção.
+ 
+Parágrafo 2º - A indenização prevista no “caput” deste artigo fica garantida aos Empregados em gozo de férias e às empregadas em gozo de licença maternidade.
+|
+REMUNERAÇÃO DAS HORAS EXTRAS DOS COMISSIONISTAS: O acréscimo salarial de horas extras, em se tratando de comissões, será calculado tomando-se por base o valor da média horária das comissões auferidas nos 6 (seis) meses antecedentes, sobre o qual se aplicará o correspondente percentual de acréscimo, multiplicando-se o valor do acréscimo pelo número de horas extras remuneráveis, de conformidade com o disposto na cláusula 13, conforme segue:
+ 
+a)    apurar a média das comissões auferidas nos últimos 6 (seis) meses;
+ 
+b)    dividir o valor encontrado por 220 (duzentos e vinte) para obter o valor da média horária das comissões;
+ 
+c)    multiplicar o valor da média horária apurada na alínea “b” por 0,6 (zero vírgula seis)  conforme percentual previsto na cláusula 13. O resultado é ovalor do acréscimo;
+ 
+d)    multiplicar o valor do acréscimo apurado na alínea "c" pelo número de horas extras laboradas no mês. O resultado é o valor a ser pago a título de acréscimo salarial de horas extras a que faz jus o comissionista.
+|
+REMUNERAÇÃO DE HORAS EXTRAS: As horas extras diárias serão remuneradas com o adicional legal de 60% (sessenta por cento), incidindo o percentual sobre o valor da hora normal.
+ Parágrafo único: Quando as horas extras diárias forem eventualmente superiores a 2 (duas), nos termos do art. 61 da CLT, a empresa deverá fornecer refeição comercial ao empregado que as cumprir.
+|
+PARTICIPAÇÃO DOS TRABALHADORES NOS LUCROS OU RESULTADOS: As empresas abrangidas por esta Convenção Coletiva de Trabalho que, na medida de suas possibilidades e critério de administração, desejarem negociar com seus empregados a participação nos lucros ou resultados, na forma prevista na Lei 10.101/2000, deverão valer-se da assessoria de suas respectivas entidades sindicais, que constituirão comissão intersindical para oferecer orientação e apoio na implantação do programa.  
+|
+AUXÍLIO FUNERAL / SEGURO DE VIDA: Na ocorrência de falecimento de empregado, as empresas indenizarão o beneficiário com valor equivalente a 50% (cinqüenta por cento) do valor do salário normativo de empregados em geral, previsto na cláusula 4 e 5, para auxiliar nas despesas com o funeral.  
+ 
+Parágrafo 1º - As empresas que mantenham apólice de seguro para cobertura de despesas com funeral em condições mais benéficas ao empregado, ficam dispensadas da concessão do pagamento do beneficio previsto no caput desta cláusula.
+ 
+Parágrafo 2º – Fica facultada ao empregador a concessão de seguro de vida ao empregado, que indicará seus beneficiários. Não caberá ao empregado nenhum ônus do referido benefício social.  Todo o procedimento de instituição será regido pela apólice e respectivas condições gerais do seguro.
+|
+ASSISTÊNCIA JURÍDICA: A empresa proporcionará assistência jurídica integral ao empregado que for indiciado em inquérito criminal ou responder a ação penal por ato praticado no desempenho normal das suas funções e na defesa do patrimônio da empresa.
+|
+HOMOLOGAÇÃO – O ato de assistência na rescisão contratual será sem ônus para o trabalhador e empregador, obedecidos ao dia e hora designados pelo sindicato profissional para a realização do ato.
+ 
+Parágrafo 1º - Se, por conveniência do empregador, este desejar ser atendido de forma especial, em caráter urgente, em dia e hora de sua preferência, ficará sujeito ao pagamento de uma taxa retributiva a serem fixadas de comum acordo entre os sindicatos representativos de ambas as categorias, destinada a despesas do setor de homologação.
+ 
+Parágrafo 2º - A homologação da rescisão contratual deverá ocorrer até 15 (quinze) dias da rescisão do contrato, independente da causa, ou seja, pedido de demissão dispensa com justa causa, sob pena da multa prevista no paragrafo 8º do artigo 477 da CLT.
+ 
+Parágrafo 3º - Caso não seja possível realizar a homologação no prazo do parágrafo anterior, por impedimento ou recusa sem fundamento legal do órgão assistente, ou por ausência do empregado que comprovadamente foi convidado por escrito pelo empregador para o ato, será fornecido atestado à empresa que ficará isenta do pagamento da multa prevista nesta Cláusula.
+|
+PLANO DE RENDA COMPLEMENTAR: As entidades sindicais convenentes se comprometem a divulgar e incentivar junto às empresas e empregados integrantes de suas respectivas categorias, o Plano Fecomércio Renda Complementar, administrado pela Fundação Fecomércio de Previdência Associativa e gerido por representantes de empregados e empregadores.
+ 
+Parágrafo único - O Plano a que se refere o caput desta cláusula destina-se a empregados e empregadores, bem como a seus respectivos familiares, que pretendam dispor de um rendimento complementar à aposentadoria oficial.
+|
+GARANTIA NA ADMISSÃO: Admitido o empregado para a função de outro dispensado sem justa causa, salvo se exercendo cargo de confiança, será assegurado àquele, salário igual ao do empregado de menor salário na função, sem considerar vantagens pessoais.
+|
+SALÁRIO DO SUBSTITUTO: Enquanto perdurar a substituição que não tenha caráter meramente eventual, o empregado substituto fará jus ao salário contratual do substituído.
+|
+INDENIZAÇÃO POR DISPENSA - Na hipótese de dispensa sem justa causa, o empregado fará jus a uma indenização em pecúnia correspondente a 1 (um) dia por ano completo de serviço na empresa, sem prejuízo do direito ao aviso prévio a que fizer jus. 
+|
+DESPESAS PARA RESCISÃO CONTRATUAL: As empresas ficam obrigadas a fornecer refeição e transporte aos empregados que forem chamados para homologação da rescisão contratual fora da cidade onde prestavam seus serviços.
+|
+AVISO PRÉVIO ESPECIAL: Aos empregados com mais de 45 (quarenta e cinco) anos de idade e mais de 05 (cinco) anos de contrato de trabalho na mesma empresa, dispensados sem justa causa, o aviso prévio indenizado será de 45 (quarenta e cinco) dias.
+ 
+Parágrafo 1º – Na hipótese de aviso prévio indenizado,  respeitando decisões do Supremo Tribunal Federal (STF) e do Superior Tribunal e Justiça (STJ – RE 1.198.968- SC 010/0114527-1), não incidirá sobre este valor contribuição previdenciária, nem do empregado, nem da empresa.
+ 
+Parágrafo 2º - Em se tratando de aviso prévio trabalhado, o empregado cumprirá 30 (trinta) dias, recebendo indenização em pecúnia pelos 15 (quinze) dias restantes.
+|
+VEDAÇÃO DE ALTERAÇÃO CONTRATUAL DURANTE O AVISO PRÉVIO: Durante o prazo de aviso prévio dado por qualquer das partes, salvo o caso de reversão ao cargo efetivo por exercentes de cargo de confiança, ficam vedadas alterações nas condições de trabalho, inclusive transferência de local de trabalho, sob pena de rescisão imediata do contrato, respondendo o empregador pelo pagamento do restante do aviso prévio.
+|
+NOVO EMPREGO - DISPENSA DO AVISO PRÉVIO: O empregado dispensado sem justa causa que obtiver novo emprego antes ou durante o prazo do aviso prévio, ficará desobrigado do seu cumprimento, desde que solicite a dispensa e comprove o alegado com antecedência de 48 (quarenta e oito) horas, dispensada, nesta hipótese, a remuneração do período não trabalhado.
+ 
+Parágrafo Único - Na hipótese de concessão da dispensa do aviso prévio por novo emprego, a data de saída a ser anotada na Carteira de Trabalho e Previdência Social, deve ser:
+ 
+I – Na página relativa do contrato de trabalho, a do último dia da data projetada para o aviso prévio indenizado; e 
+ 
+II – Na página relativa das anotações gerais, a data do último dia efetivamente trabalhado.
+|
+CONTRATO DE EXPERIÊNCIA: Fica vedada a celebração de contrato de experiência quando o empregado for readmitido para o exercício da mesma função na empresa.
+|
+DOCUMENTOS – RECEBIMENTO PELA EMPRESA: A Carteira de Trabalho e Previdência Social, bem como certidões de nascimento, de casamento e atestados serão recebidos pela empresa, contra recibo, em nome do empregado.
+|
+ESTABILIDADE DA GESTANTE: Fica assegurada estabilidade provisória à gestante, desde a confirmação da gravidez até 75 (setenta e cinco) dias após o término da licença maternidade.
+ 
+Parágrafo único - Na hipótese de dispensa sem justa causa, a empregada deverá apresentar à empresa atestado médico comprobatório da gravidez anterior ao aviso prévio, dentro de 60 (sessenta) dias após a data do recebimento do aviso, sob pena de decadência do direito previsto nesta cláusula.
+|
+ESTABILIDADE DO EMPREGADO EM IDADE DE PRESTAR O SERVIÇO MILITAR: Fica assegurada estabilidade provisória ao empregado em idade de prestar serviço militar obrigatório, inclusive Tiro de Guerra, a partir do alistamento compulsório, desde que realizado no primeiro semestre do ano em que o empregado completar 18 anos, até 30 (trinta) dias após o término do mesmo ou da dispensa de incorporação, o que primeiro ocorrer.
+ 
+Parágrafo único - Estão excluídos da hipótese prevista no “caput” desta cláusula, os refratários, omissos, desertores e facultativos.
+|
+GARANTIA DE EMPREGO OU SALÁRIO AO EMPREGADO AFASTADO POR MOTIVO DE DOENÇA: Ao empregado afastado por motivo de doença, fica concedida, nas licenças acima de 15 (quinze) dias, a partir da alta previdenciária, garantia de emprego ou salário por período igual ao do afastamento até o limite máximo de 30 (trinta) dias.
+ 
+Parágrafo único – Os 15 (Quinze) primeiros dias de afastamento por motivo de auxilio doença e auxílio acidentário, pagos pela empresa, respeitando decisões do Supremo Tribunal Federal (STF) e do Superior Tribunal e Justiça (STJ – REsp 936308-RS), não sofrerão incidência de contribuição previdenciária.
+|
+GARANTIA DE EMPREGO DO FUTURO APOSENTADO: Fica assegurado aos empregados em geral, sejam homens ou mulheres, em vias de aposentadoria, nos prazos mínimos legais, de conformidade com o previsto nos termos do art. 188 do Decreto n.º 3.048/99, garantia de emprego, como segue:
+ 
+ 
+
+
+
+
+ 
+TEMPO DE TRABALHO NA MESMA EMPRESA
+
+
+ 
+ESTABILIDADE
+
+
+
+
+20 anos ou mais
+
+
+2 anos
+
+
+
+
+10 anos ou mais
+
+
+1 ano
+
+
+
+
+5 anos ou mais
+
+
+6 meses
+
+
+
+
+ 
+Parágrafo 1º - Para a concessão das garantias acima, o (a) empregado (a) deverá apresentar comprovante fornecido pelo INSS,  nos  termos  do  art. 130  do  Decreto n.º   3.048/99, no prazo máximo de 30 dias após a sua emissão, que ateste, respectivamente, os períodos de 2 anos, 1 ano ou 6 meses restantes para a implementação do benefício. A contagem da estabilidade inicia-se a partir da apresentação dos comprovantes pelo empregado, limitada ao tempo que faltar para aposentar-se.
+ 
+Parágrafo 2º - A concessão prevista nesta cláusula ocorrerá uma única vez, podendo a obrigação ser substituída por uma indenização correspondente aos salários do período não cumprido ou não implementado da garantia, não se aplicando nas hipóteses de encerramento das atividades da empresa e dispensa por justa causa ou pedido de demissão.
+ 
+Parágrafo 3º - O empregado que deixar de apresentar o comprovante fornecido pelo INSS no prazo estipulado no parágrafo 1º, ou de pleitear a aposentadoria na data em que adquirir essa condição, não fará jus à garantia de emprego e/ou indenização correspondentes, previstas no parágrafo anterior.
+ 
+Parágrafo 4º - Na hipótese de legislação superveniente que vier a alterar as condições para aposentadoria em vigor, esta cláusula ficará sem efeito.
+|
+FORNECIMENTO DE UNIFORMES: Quando o uso de uniformes, equipamentos de segurança, macacões especiais, for exigido pelas empresas, ficam estas obrigadas a fornecê-los gratuitamente aos empregados, salvo injustificado extravio ou mau uso.
+|
+COMPENSAÇÃO DE HORÁRIO DE TRABALHO: A compensação da duração diária de trabalho, obedecidos aos preceitos legais, convenção ou acordo coletivo existentes, fica autorizada, atendidas as seguintes regras:
+ 
+a) manifestação de vontade por escrito, por parte do empregado, assistido o menor pelo seu representante legal, em instrumento individual ou plúrimo, no qual conste o horário normal de trabalho e o período compensável das horas excedentes;
+ 
+b) não estarão sujeitas a acréscimo salarial as horas suplementares trabalhadas, desde que compensadas dentro de 30 (trinta) dias, contados a partir da data do trabalho extraordinário;
+ 
+c) as horas extras trabalhadas, não compensadas no prazo acima previsto, ficarão sujeitas à incidência do adicional legal de 60% (sessenta por cento), sobre o valor da hora normal, conforme previsto na cláusula 13 deste instrumento;
+ 
+d) as regras constantes desta cláusula serão aplicáveis, no caso do menor, ao trabalho em horário diurno, isto é, até as 22h00min (vinte e duas) horas, obedecido, porém, o disposto no inciso I do art. 413 da CLT;
+ 
+e) cumpridos os dispositivos desta cláusula, as entidades signatárias da presente Convenção se obrigam, quando solicitadas, a dar assistência sem ônus para as partes, inclusive em pendências decorrentes da aplicação do regime de compensação, salvo o da publicação de editais, nos acordos que venham a ser celebrados entre empregados e empregadores, integrantes das respectivas categorias, na correspondente base territorial.
+ 
+f) para o controle das horas extras e respectivas compensações, ficam os empregadores obrigados a fornecer aos empregados, até o 5º (quinto) dia do mês subsequente ao trabalhado, comprovantes individualizados onde conste o montante das horas extras laboradas no mês, o saldo eventualmente existente para compensação e o prazo limite para tal. 
+|
+Do controle de jornada: Independente do número de empregados, a empresa deverá realizar o controle de jornada, ou seja, anotação da hora de entrada e de saída, em registro, manual, mecânico ou eletrônico, conforme instruções atuais do Ministério do Trabalho e Emprego, devendo haver pré-assinalação do período de repouso, sob pena de nulidade de seu conteúdo.
+ 
+Parágrafo único – Poderão as entidades sindicais, requerer o controle de jornada dos empregados e comprovação dos pagamentos referentes às horas extras e quaisquer outros documentos, que deverão ser entregues no prazo de 10 (dez) dias corridos a contar da notificação pelos Sindicatos representativos da categoria profissional e/ou econômica.
+|
+ABONO DE FALTA À MÃE COMERCIÁRIA: A comerciária que deixar de comparecer ao serviço para acompanhamento em consultas médicas de seus filhos menores de 14 (quatorze) anos, ou inválidos ou incapazes, no limite de uma por mês, e em casos de internações, devidamente comprovadas nos termos da cláusula 21, terá suas faltas abonadas até o limite máximo de 15 (quinze) dias, durante os respectivos períodos de vigência da presente Convenção.
+ 
+Parágrafo único - Caso mãe e pai trabalhem na mesma empresa, este benefício poderá ser concedido a um ou outro, alternativamente, a critério do empregador, obedecidas as condições estabelecidas no "caput" desta cláusula.
+ 
+|
+FALECIMENTO DE SOGRO OU SOGRA, GENRO OU NORA: No caso de falecimento de sogro ou sogra, genro ou nora, o empregado poderá deixar de comparecer ao serviço nos dias do falecimento e do sepultamento, sem prejuízo do salário.
+|
+ABONO DE FALTA AO COMERCIÁRIO ESTUDANTE: O empregado estudante que deixar de comparecer ao serviço para prestar exames finais que coincidam com o horário de trabalho ou, no caso de vestibular, este limitado a um por ano, terá suas faltas abonadas desde que, em ambas as hipóteses, haja comunicação prévia às empresas com antecedência de 5 (cinco) dias e com comprovação posterior.
+|
+DAS GESTANTES, LACTANTES E MENORES: As gestantes, lactantes e menores, deverão ter jornada de trabalho até as 18 (dezoito) horas, respeitando sempre a jornada diária de 08 (oito) horas e 44 (quarenta e quatro) horas semanais.
+ 
+Parágrafo único – A utilização das gestantes e lactantes somente poderá ser utilizada, se consentido e formalizado através de uma declaração confeccionada pelo empregado interessado.
+|
+CALENDÁRIO DE FUNCIONAMENTO DO COMÉRCIO EM DATAS ESPECIAIS: O funcionamento do comércio em datas especiais, sua duração e a compensação do horário de trabalho dos comerciários, obedecido ao disposto no art.º 59, parágrafos 1º a 3º, e demais disposições pertinentes da CLT, desta convenção e legislação municipal correspondente respeitada às convenções, os acordos existentes, ficam autorizados no seguinte calendário de datas especiais, aprovado pelas entidades signatárias, obedecido ao período de onze horas consecutivas para descanso:
+ 
+Parágrafo Único – Para que ocorra o trabalho em datas especiais, as empresas deverão requerer anuência dos sindicatos: patronal e empregado com (5) cinco dias de antecedência, mediante convenção ou acordo coletivo de trabalho, com anuência do empregado e devidamente homologados pelos sindicatos dos empregados e patronal.
+ 
+ 
+A) dia das mães, dia dos namorados, dia dos pais e dia das crianças:
+ 
+- antevéspera e véspera: das 08:00 às 22:00 horas, salvo se recair aos sábados, quando o horário será até às 18:00 horas;
+ 
+ 
+Parágrafo 1º - Fica liberado o trabalho no primeiro sábado subseqüente ao 5º dia útil de cada mês, até às 18:00hs, obedecido ao disposto no art. 59 e parágrafos 1º a 3º e demais dispositivos da CLT, bem como as disposições contidas neste instrumento e na legislação municipal correspondente.    
+ 
+Parágrafo 2º - Caso o 5º (quinto) dia útil do mês recaia no primeiro sábado, este será assim considerado para os efeitos do parágrafo anterior.
+ 
+Parágrafo 3º - Fica proibido o trabalho de menores e mulheres gestantes nos dias especificados neste calendário, exceto se os próprios interessados se manifestarem, por escrito, no sentido contrário, assistido o menor pelo seu representante legal.
+ 
+Parágrafo 4º - O disposto nesta cláusula não se aplica às atividades do comércio, cuja permissão para o trabalho aos domingos e feriados civis e religiosos se regem pelo Art. 7º do Decreto 27.048/49, que regulamentou a Lei nº 605/49.
+|
+TRABALHO AOS DOMINGOS: Ao comércio varejista em geral, fica facultada a abertura e funcionamento em todos os domingos do mês, em conformidade com a Lei 10.101/2000, alterada pela Lei 11.603 de 06 de dezembro de 2007, em seu artigo 6º, obedecidas às normas de proteção do trabalho elaborando escalas no sentido de ressalvar o direito de que o empregado tenha no mínimo 02 (dois) descansos remunerados no mês coincidente com o domingo, onde a um domingo trabalhado segue-se o outro, necessariamente de concessão do descanso semanal remunerado (DSR). Observando-se a faculdade do trabalhador de optar em laborar aos domingos.
+ 
+Parágrafo 1º: Aos empregados que laborarem aos domingos, as empresas pagarão o valor que ora se segue, a titulo de gratificação:
+Demais Empresas do comércio em geral: R$ 39,00
+Empresas EPP: R$ 35,00
+Empresas ME: R$ 25,00
+ 
+Observação: Estes valores deverão ser pagos no final do dia de trabalho, na boca do caixa, mediante recibo para posterior fiscalização.
+ 
+Parágrafo 2º: Aos empregados que laborarem nos domingos, a empresa concederá o pagamento do vale transporte com antecedência mínima de 02 (dois) dias, caso resida fora da cidade onde desenvolva suas atividades laborais.
+ 
+Parágrafo 3º: Para os empregados que laborarem, as empresas forneceram uma refeição no valor de R$ 11, 00 (onze reais) ou refeição no mesmo valor.
+ 
+Parágrafo 4º: Ao empregado que trabalhar no domingo, será concedido um folga na semana imediatamente posterior, sem prejuízo do descanso do próximo domingo, conforme estabelecido no caput desta cláusula.
+ 
+ Parágrafo 5º: O trabalho realizado aos domingos será das 8:00 às 14:00 horas.
+ 
+Parágrafo 6°: Para a abertura do comércio aos domingos, ficará sujeita as EMPRESAS ao Acordo Coletivo de Trabalho, que deverá ser assinado pelas duas entidades sindicais, a saber, entidade representativa da classe econômica e a da classe trabalhadora, com antecedência mínima de 7 dias, cujo o modelo será fornecido pelo Sincomerciarios.
+ 
+Parágrafo 7º: Os valores previstos no parágrafo 1º devem ser reajustados, no mínimo, de acordo com os índices salariais aplicados a cada ano.
+ 
+Parágrafo 8º: O disposto nos parágrafos acima não desobriga a EMPRESA a satisfazer as demais exigências dos poderes públicos em relação á abertura de seu estabelecimento, bem como o cumprimento das demais legislações Federais, Estadual e Municipal correlato. 
+ 
+|
+TRABALHO NOS FERIADOS NACIONAIS: Na forma do Decreto 99.647 de 20 de agosto de 1.990 combinado com a Lei 605/1949, artigos 611 parágrafo 1º e 612 da Consolidação das Leis do Trabalho, o artigo 6º da Lei 10.101 de 19/12/2000, alterada pela Lei 11.603 de 06 de dezembro de 2007, que acrescentou o artigo 6-A, fica autorizado o trabalho nos dias de Feriado, COM EXCEÇÃO dos dias 25 de dezembro de 2016 (Natal) e 1º de janeiro de 2017 (Confraternização Universal) e 1º de Maio de 2017 (Dia do Trabalho), desde que atendidas as seguintes regras:
+ 
+Parágrafo 1º: Entendem-se como Feriados Nacionais os dias: 1º de janeiro (Confraternização Universal), 21 de Abril (Tiradentes), 1º de Maio (Dia do Trabalho),  7 de setembro (Independência), 12 de Outubro (Padroeira do Brasil), 2 de Novembro (Finados), 15 de novembro (Proclamação da República) e 25 de dezembro (Natal).
+ 
+Parágrafo 2º: Os demais Feriados Estaduais e Municipais será respeitados conforme sua decretação e seguirão as mesmas regras dos Feriados Nacionais.
+ 
+Parágrafo 3º: O trabalho nos dias de Feriado é FACULTATIVO, condicionado à vontade do empregado em laborar nesses dias, VEDADA a convocação compulsória por parte das EMPRESAS e limitada a cada trabalhador o máximo de 03 (três) Feriados trabalhados aqui incluídos todos os Feriados, existentes na vigência desta convenção coletiva de trabalho, ou seja, de 01/09/2016 à 31/08/2017.
+ 
+Parágrafo 4º: O empregado que ESPONTÂNEAMENTE CONCORDAR em laborar no dia de Feriado terá sua jornada máxima de seis horas, a saber, das 8:00 às 14:00 horas, e fará jus ao recebimento das horas trabalhadas, acrescidas do adicional de 100% (CEM POR CENTO) sobre a hora normal.
+ 
+Parágrafo 5º: Fica terminantemente proibida a inclusão das horas trabalhadas aos Feriados em qualquer sistema de compensação ou banco de horas.
+ 
+Parágrafo 6º: Aos empregados que laborarem aos feriados, as empresas pagarão o valor que, ora se segue, a titulo de gratificação:
+Demais Empresas do comércio em geral: R$ 39,00
+Empresas EPP: R$ 35,00
+Empresas ME: R$ 25,00
+ 
+Observação: Estes valores deverão ser pagos no final do dia de trabalho, na boca do caixa, mediante recibo para posterior fiscalização.
+ 
+Parágrafo 7º: Aos empregados que laborarem nos feriados, a empresa concederá o pagamento do vale transporte com antecedência mínima de 02 (dois) dias, caso resida fora da cidade onde desenvolva suas atividades laborais.
+ 
+Parágrafo 8º: Para os empregados que laborarem, as empresas forneceram uma refeição no valor de R$ 11,00 (onze reais) ou refeição no mesmo valor.     
+ 
+Parágrafo 9º: Os valores previstos no parágrafo 6º devem ser reajustados, no mínimo, de acordo com os índices salariais aplicados a cada ano.
+ 
+Parágrafo 10º: O pagamento no Feriado será remunerado com a hora normal com os adicionais previstos no parágrafo 4º, garantindo ao empregado que laborar no feriado, um dia de folga compensatória a ser gozada em até 30 dias do trabalho, sem prejuízo das demais vantagens concedidas. Na existência de empregados casados ou de união estável, o casal que tenha laborado no mesmo Feriado terá a folga, aqui estabelecida, obrigatoriamente coincidente para o casal.
+ 
+Parágrafo 11º: O disposto nos parágrafos acima não desobriga a EMPRESA a satisfazer as demais exigências dos poderes públicos em relação á abertura de seu estabelecimento, bem como o cumprimento das demais legislações Federais, Estadual e Municipal correlato.
+ 
+Parágrafo 12°: Para a abertura do comércio em feriados, ficará sujeita as EMPRESAS ao Acordo Coletivo de Trabalho, que deverá ser assinado pelas duas entidades sindicais, a saber, entidade representativa da classe econômica e a da classe trabalhadora, com antecedência mínima de 7 dias, cujo o modelo será fornecido pelo Sincomerciarios.
+ 
+|
+INICIO DAS FERIAS: O início das férias, individuais ou coletivas, não poderá coincidir com sábados, domingos, feriados ou dias já compensados.
+ 
+Parágrafo I – Fica estabelecida a estabilidade de 30 dias ao empregado após o retorno das férias, sob pena do empregador efetuar o pagamento de 1 mês de salário.
+ 
+Parágrafo II – O terço adicional de férias (art. 7º, XVII, CF),  respeitando decisões do Supremo Tribunal Federal (STF) e do Superior Tribunal e Justiça (STJ –no  AgRg no REsp  1062530-DF, AgRg no  AgRg no REsp 1123792DF ), não sofrerá incidência  de contribuição previdenciária.
+|
+COINSCIDÊNCIA DAS FERIAS EM ÉPOCA DE CASAMENTO: Fica facultado ao empregado gozar férias no período coincidente com a data de seu casamento, condicionada a faculdade à não coincidência com o mês de pico de vendas da empresa, por ela estabelecido, e comunicação com 60 (sessenta) dias de antecedência.
+|
+ATESTADOS MÉDICOS E ODONTOLÓGICOS: Serão reconhecidos os atestados médicos e/ou odontológicos firmados por profissionais habilitados junto ao sindicato representativo da categoria, desde que mencionado o objeto do atendimento, e desde que este mantenha convênio com órgão oficial competente da Previdência Social; serão reconhecidos também, os atestados médicos ou comprovante de comparecimento dos órgãos da saúde estadual ou municipal, prevalecendo, sempre, a ordem de prioridade prevista no parágrafo 1º do art. 75 do Decreto n.º 3.048/99.
+ 
+Parágrafo único – Os atestados médicos deverão obedecer aos requisitos previstos na Portaria MPAS 3.291/84, devendo constar, inclusive, o diagnóstico codificado, conforme o Código Internacional de Doenças (CID), nesse caso, com a concordância do empregado, bem como deverão ser apresentados à empresa em até 10 (dez) dias de sua emissão.
+|
+CONTRIBUIÇÃO ASSISTENCIAL DOS EMPREGADOS: As empresas se obrigam a descontar em folha de pagamento e recolher de seus empregados, sindicalizados ou não, a título de contribuição assistencial, o percentual de 2% (dois por cento) de suas respectivas remunerações mensais, limitado cada desconto ao valor de R$ 30,00 (trinta reais), aprovado nas assembléias das entidades profissionais que autorizaram a celebração da presente norma coletiva.
+ 
+Parágrafo 1º - A contribuição de que se trata esta clausula será descontada mensalmente e recolhida ao sindicato da categoria profissional até o dia 15 (quinze) do mês subsequente no modelo padrão estabelecido pela entidade sindical e profissional.
+ 
+Parágrafo 2º - A contribuição assistencial não pode ser descontada nos meses em que houver o desconto da contribuição sindical.
+ 
+Parágrafo 3º - A contribuição assistencial não poderá ser recolhida diretamente nos caixas dos sindicatos, sob pena de arcar a empresa com a penalidade prevista na cláusula 51 deste instrumento.
+ 
+Parágrafo 4º - Do modelo padrão da guia de recolhimento referida no parágrafo 2º, deverá constar, obrigatoriamente, que o valor será recolhido na proporção de 80% (oitenta por cento), para o Sindicato representante da categoria profissional e 20% (vinte por cento) para a Federação dos Empregados no Comércio do Estado de São Paulo, sendo revertido em prol dos serviços sociais da entidade sindical profissional beneficiaria e do custeio financeiro do plano de expansão assistencial da referia federação.
+ 
+Parágrafo 5º - O recolhimento da contribuição assistencial efetuado fora do prazo mencionado no parágrafo 2º será acrescido de multa de 10% (dez por cento) nos trinta primeiros dias.
+ 
+Parágrafo 6º - Ocorrendo atraso superior a 30 (trinta) dias, além da multa de 10% (dez por cento), correrão juros de mora de 1% (um por cento) ao mês, sobre o valor do principal.
+ 
+Parágrafo 7º - O desconto previsto nesta clausula fica condicionado a não-oposição do empregado, sindicalizado ou não. A oposição se for de vontade do empregado será manifestada por escrito com entrega pelo próprio empregado junto com o respectivo sindicato profissional, que fornecera protocolo de recebimento. Caberá ao trabalhador, de posse de seu recibo, efetuar comunicação ao seu empregador no prazo de 5 (cinco) dias.
+ 
+Parágrafo 8º – A oposição poderá ser exercida ate 15 (quinze) dias antes do pagamento mensal do salario, sendo exercida apenas uma vez durante a vigência da norma coletiva. Expirada a vigência da norma coletiva necessária nova carta de oposição.
+ 
+Paragrafo 9º – A carta de oposição poderá ter retratação no decorrer da vigência da norma coletiva, ressalta-se, que a oposição apresentada por empregado não terá efeito retroativo para devolução dos valores já descontados.
+ 
+Paragrafo 10 – O sindicato da categoria profissional assume, desde já, quaisquer responsabilidade sobre os descontos mencionados nesta clausula, inclusive sobre a sua destinação, podendo as empresas ficarem livres de quaisquer cominações para todos fins e efeitos de direito.
+ 
+Paragrafo 11 - As empresas, quando notificadas, deverão apresentar no prazo máximo de 15 (quinze) dias, as guias de recolhimento da contribuição assistencial devidamente autenticadas pela agencia bancaria, juntamente com o livro ou ficha de registro de empregados.
+ 
+|
+Os integrantes das categorias econômicas, quer sejam associados ou não, deverão recolher aos sindicatos representativos das respectivas categorias econômicas, uma contribuição assistencial nos valores máximos, conforme as seguintes tabelas:
+ 
+
+
+
+
+ 
+SINDICATOS   DO COMÉRCIO VAREJISTA
+    
+
+
+ 
+VALOR
+
+
+
+
+ 
+MICROEMPRESAS
+ 
+
+
+ 
+R$ 326,00
+
+
+
+
+ 
+EMPRESAS   DE PEQUENO PORTE
+ 
+
+
+ 
+R$ 651,00
+
+
+
+
+ 
+DEMAIS   EMPRESAS
+ 
+
+
+ 
+R$ 1.373,00
+
+
+
+
+ 
+Parágrafo 1º - O recolhimento da contribuição assistencial deverá ser efetuado no mês de setembro/2015, exclusivamente em agências bancárias, em impresso próprio, que será fornecido à empresa pela entidade sindical patronal.
+ 
+Parágrafo 2º - O recolhimento das contribuições assistencial e confederativa patronal efetuado fora dos prazos mencionados nos parágrafos 1º e 2º desta cláusula será acrescido da multa de 10% (dez por cento) nos 30 (trinta) primeiros dias, mais 1% (um por cento) por mês subsequente de atraso, além de juros de mora de 1% (um por cento) ao mês.
+ 
+Parágrafo 3º - Nos municípios onde existam empresas que possuam uma ou mais filiais, será devida uma contribuição por cada empresa, existentes naquele município.
+|
+ACORDOS COLETIVOS: Os sindicatos convenentes, objetivando o aprimoramento das relações trabalhistas e a solução de problemas envolvendo seus representados, obrigam-se, sempre que possível, à negociação e à celebração conjunta, sob pena de ineficácia e invalidade, de termos de compromisso, ajustes de conduta ou acordos coletivos envolvendo quaisquer empresas, associadas ou não, que integrem a respectiva categoria econômica.
+|
+COMUNICAÇÃO PRÉVIA: A entidade sindical representante da categoria profissional poderá, na hipótese de convocação de empresas em razão de denúncias de irregularidades em face da legislação ou de descumprimento desta Convenção, a comunicar, previamente, a entidade sindical representante da categoria econômica para que, no prazo de 5 dias, esta preste assistência e acompanhe suas representadas.
+ 
+|
+MULTA: Fica estipulada multa no valor de R$ 300,00 (quinhentos reais) por empregado e por cláusula descumprida, a favor do prejudicado.
+|
+DAS IRREGULARIDADES: Caso haja alguma irregularidade quanto ao cumprimento deste instrumento por parte da Empresa, o SINCOMERCIÁRIOS - Sindicato dos Empregados no Comércio de Lorena, Piquete, Canas e Cunha, tomará as medidas cabíveis junto ao Ministério do Trabalho ou junto a outro órgão que se faça necessário, podendo inclusive representar os interesses de sua categoria profissional, perante o Poder Judiciário, se o caso.
+ 
+Parágrafo único: Na hipótese de o SINCOMERCIÁRIOS – Sindicato dos Empregados no Comércio de Lorena, Piquete, Canas e Cunha, representar os interesses da categoria profissional perante o Poder Judiciário, ou perante qualquer outro órgão da Administração Pública, os honorários advocatícios serão pagos pela empresa que praticar a irregularidade e deverão ser de 20% (vinte por cento) do valor a ser atribuído à causa ou do valor da vantagem que venha a ser obtida pela categoria representada, conforme determina nos termos da Lei.
+ 
+ 
+|
+FIXAÇÃO DE OUTRAS CONDIÇÕES: Fica convencionado que, durante a vigência da presente Convenção, poderão ser negociadas e fixadas outras condições de natureza econômica e/ou sociais nela não previstas, sendo indispensável, para tanto, a assistência das representações sindicais de ambas as categorias.
+|
+PRORROGAÇÃO, REVISÃO, DENÚNCIA OU REVOGAÇÃO TOTAL OU PARCIAL: Nos casos de prorrogação, revisão, denúncia ou revogação total ou parcial desta convenção serão observadas as disposições constantes do art. 615 da Consolidação das Leis do Trabalho.
+ 

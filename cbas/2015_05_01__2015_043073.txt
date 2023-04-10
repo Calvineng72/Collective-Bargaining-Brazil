@@ -1,0 +1,414 @@
+<STARTofTITLE>
+Mediador - Extrato Convenção Coletiva
+<ENDofTITLE>
+
+<STARTofVALIDITY>
+semvalorlegal
+<ENDofVALIDITY>
+
+<STARTofHEADERS>
+NÚMERO DA SOLICITAÇÃO|MR043073/2015
+<ENDofHEADERS>
+
+<STARTofCOUNTERPART1>
+SIND TRA ROD EM E TRAN DE PAS INTR INTM TUR E F DO E PA|83.268.904/0001-20|Presidente|LUIZ CARLOS ROSA
+<ENDofCOUNTERPART1>
+<STARTofCOUNTERPART2>
+FEDERACAO DAS EMPRESAS DE TRANSPORTES ROD DA REGIAO NOR|34.562.553/0001-50|Procurador|ALMIRO TEIXEIRA DOS SANTOS
+<ENDofCOUNTERPART2>
+
+<STARTofSTARTDATE>
+01/05/2015
+<ENDofSTARTDATE>
+<STARTofEXPRIRATIONDATE>
+30/04/2016
+<ENDofEXPIRATIONDATE>
+
+<STARTofRENEGOTIATION>
+01/05
+<ENDofRENEGOTIATION>
+
+<STARTofCATEGORY>
+Trabalhadores Rodoviários em Empresas, Cooperativas e Associações de Transportes Rodoviários de Passageiros Interestadual, Intermunicipal, Turismo, Fretamento e Transporte Seletivo do Estado do Pa
+<ENDofCATEGORY>
+<STARTofGEOGRAPHY>
+Abaetetuba/PA|Abel Figueiredo/PA|Acará/PA|Afuá/PA|Água Azul do Norte/PA|Alenquer/PA|Almeirim/PA|Altamira/PA|Anajás/PA|Ananindeua/PA|Anapu/PA|Augusto Corrêa/PA|Aurora do Pará/PA|Aveiro/PA|Bagre/PA|Baião/PA|Bannach/PA|Barcarena/PA|Belém/PA|Belterra/PA|Benevides/PA|Bom Jesus do Tocantins/PA|Bonito/PA|Brasil Novo/PA|Brejo Grande do Araguaia/PA|Breu Branco/PA|Breves/PA|Bujaru/PA|Cachoeira do Arari/PA|Cachoeira do Piriá/PA|Cametá/PA|Capitão Poço/PA|Chaves/PA|Colares/PA|Concórdia do Pará/PA|Cumaru do Norte/PA|Curralinho/PA|Curuá/PA|Faro/PA|Floresta do Araguaia/PA|Garrafão do Norte/PA|Goianésia do Pará/PA|Gurupá/PA|Igarapé miri/PA|Inhangapi/PA|Ipixuna do Pará/PA|Irituia/PA|Itaituba/PA|Jacareacanga/PA|Juruti/PA|Limoeiro do Ajuru/PA|Mãe do Rio/PA|Magalhães Barata/PA|Maracanã/PA|Marapanim/PA|Marituba/PA|Medicilândia/PA|Melgaço/PA|Mocajuba/PA|Moju/PA|Mojuí dos Campos/PA|Monte Alegre/PA|Muaná/PA|Nova Esperança do Piriá/PA|Nova Ipixuna/PA|Nova Timboteua/PA|Novo Progresso/PA|Novo Repartimento/PA|Óbidos/PA|Oeiras do Pará/PA|Oriximiná/PA|Ourém/PA|Ourilândia do Norte/PA|Pacajá/PA|Palestina do Pará/PA|Pau D'arco/PA|Peixe boi/PA|Piçarra/PA|Placas/PA|Ponta de Pedras/PA|Portel/PA|Porto de Moz/PA|Prainha/PA|Primavera/PA|Quatipuru/PA|Rondon do Pará/PA|Rurópolis/PA|Salinópolis/PA|Salvaterra/PA|Santa Bárbara do Pará/PA|Santa Cruz do Arari/PA|Santa Isabel do Pará/PA|Santa Luzia do Pará/PA|Santa Maria das Barreiras/PA|Santarém Novo/PA|Santarém/PA|Santo Antônio do Tauá/PA|São Caetano de Odivelas/PA|São Domingos do Araguaia/PA|São Domingos do Capim/PA|São Félix do Xingu/PA|São Francisco do Pará/PA|São Geraldo do Araguaia/PA|São João da Ponta/PA|São João de Pirabas/PA|São Sebastião da Boa Vista/PA|Sapucaia/PA|Senador José Porfírio/PA|Soure/PA|Tailândia/PA|Terra Alta/PA|Terra Santa/PA|Tomé açu/PA|Tracuateua/PA|Trairão/PA|Uruará/PA|Vigia/PA|Viseu/PA|Vitória do Xingu/PA
+<ENDofGEOGRAPHY>
+
+<STARTofCLAUSES>
+Piso Salarial|REAJUSTE SALARIAL
+Pagamento de Salário – Formas e Prazos|ADIANTAMENTO SALARIAL
+Pagamento de Salário – Formas e Prazos|SALÁRIO DO SUBSTITUTO
+13º Salário|ADIANTAMENTO POR CONTA DO 13º SALÁRIO
+Adicional de Hora-Extra|PRORROGAÇÃO E COMPENSAÇÃO DE HORÁRIO DE TRABALHO
+Adicional Noturno|ADICIONAL NOTURNO
+Outros Adicionais|ADICIONAL DE TRANSFERÊNCIA
+Outros Adicionais|DIÁRIAS
+Outros Adicionais|INDENIZAÇÃO ADICIONAL
+Outros Adicionais|CONTRIBUIÇÃO PARA FESTA DE CONFRATERNIZAÇÃO
+Auxílio Alimentação|ALIMENTAÇÃO / ALOJAMENTO
+Auxílio Transporte|LIBERAÇÃO DE ÔNIBUS / CORTEJO FUNERAL
+Auxílio Morte/Funeral|AUXÍLIO FUNERAL
+Seguro de Vida|SEGURO DE VIDA
+Normas para Admissão/Contratação|RESCISÃO CONTRATUAL POR MORTE DO EMPREGADO
+Normas para Admissão/Contratação|MULTA POR ATRASO NA HOMOLOGAÇÃO DA RESCISÃO CONTRATUAL – ART.477. CLT
+Normas para Admissão/Contratação|ANOTAÇÃO DA CTPS
+Normas para Admissão/Contratação|CONTRATAÇÃO DE MÃO DE OBRA
+Desligamento/Demissão|RESCISÃO CONTRATUAL – DOCUMENTOS A SEREM APRESENTADOS
+Aviso Prévio|AVISO PRÉVIO
+Estabilidade Geral|BENEFICIÁRIO DE AUXÍLIO DOENÇA
+Estabilidade Geral|CURSOS PREPARATÓRIOS
+Estabilidade Geral|ASCENSÃO NA EMPRESA
+Estabilidade Geral|FORNECIMENTO DE CONTRA CHEQUES E / OU RECIBOS DE SALÁRIOS
+Estabilidade Geral|PRESTAÇÃO DE CONTAS
+Estabilidade Geral|QUADRO DE AVISOS
+Estabilidade Geral|CESSÃO DE ÔNIBUS PARA LAZER
+Estabilidade Geral|CONVÊNIO ÓTICAS E FARMÁCIAS
+Estabilidade Geral|PASSE LIVRE
+Outras normas de pessoal|ASSINATURA DE VALES
+Prorrogação/Redução de Jornada|INTERVALO / REFEIÇÃO
+Descanso Semanal|FOLGA SEMANAL
+Uniforme|FORNECIMENTO DE UNIFORMES E EPI
+Aceitação de Atestados Médicos|ATESTADOS MÉDICOS E ODONTOLÓGICOS
+Outras Normas de Prevenção de Acidentes e Doenças Profissionais|TAREFAS ESTRANHAS / PROIBIÇÃO
+Acesso do Sindicato ao Local de Trabalho|LIVRE ACESSO NA EMPRESA / DIRETOR SINDICAL
+Contribuições Sindicais|MENSALIDADES SOCIAIS
+Contribuições Sindicais|RECOLHIMENTO BANCÁRIO
+Contribuições Sindicais|REMESSA DO COMPROVANTE DA CONTRIBUIÇÃO SINDICAL
+Contribuições Sindicais|CONTRIBUIÇÃO ASSISTENCIAL
+Descumprimento do Instrumento Coletivo|DESCUMPRIMENTO DA CONVENÇÃO
+Descumprimento do Instrumento Coletivo|FLEXIBILIZAÇÃO DO DIREITO
+<ENDofCLAUSES>
+
+<STARTofAPPENDICES>
+TABELA SALARIAL
+<ENDofAPPENDICES>
+
+<STARTofAPPTEXT>
+
+TABELA DE PISOS SALARIAIS DOS TRABALHADORES RODOVIARIOS EM EMPRESAS COOPERATIVAS E ASSOCIAÇÕES DE TRANSPORTES DE PASSAGEIROS INTERMUNICIPAL, INTERESTADUAL, TURISMO E FRETAMENTO E TRANSPORTE SELETIVO DO ESTADO DO PARA - SINTRITUR, RESULTANTE DA APLICAÇÃO DO INDICE DE 9 % (NOVE POR CENTO),  A PARTIR DE 1º DE MAIO 2015.
+
+
+
+                 FUNÇÕES                            
+        PISO MAIO/2015                                             
+
+
+ABASTECEDOR OU BOMBEIRO                                                                                    
+R$                     870,00
+
+
+AGENTE DE ENCOMENDA
+R$                     870,00
+
+
+AJUDANTE DE BORRACHEIRO
+R$                     870,00
+
+
+AJUDANTE DE ELETRICISTA
+R$                     870,00
+
+
+AJUDANTE DE LANTERNEIRO
+R$                     870,00
+
+
+AJUDANTE DE MECÂNICO
+R$                     870,00
+
+
+AJUDANTE DE PINTOR
+R$                     870,00
+
+
+ALMOXARIFE
+R$                     986,12
+
+
+AUXILIAR DE ESCRITÓRIO E ESCRITURÁRIO - A
+R$                     870,00
+
+
+AUXILIAR DE ESCRITÓRIO E ESCRITURÁRIO - B
+R$                     961,26
+
+
+BILHETEIRO
+R$                     918,31
+
+
+BORRACHEIRO A
+R$                     870,00
+
+
+BORRACHEIRO B
+R$                     999,43
+
+
+CHEFE DE ESCRITÓRIO, PESSOAL E GERENTE E ESCRITÓRIO
+R$                  1.897,12
+
+
+COBRADOR INTERMUNICIPAL E URBANO
+R$                     918,31
+
+
+ELETRICISTA A
+R$                     918,31
+
+
+ELETRICISTA B
+R$                  1.137,94
+
+
+ELETRICISTA C
+R$                  1.657,24
+
+
+ESTUFADOR A
+R$                     870,00
+
+
+ESTUFADOR B
+R$                  1.025,85
+
+
+FISCAL ENCARREGADO DE FIM DE LINHA OU DESPACHANTE
+R$                  1.275,72
+
+
+FISCAL INTERMUNICIPAL E URBANO
+R$                  1.059,81
+
+
+LANTERNEIRO A
+R$                     918,31
+
+
+LANTERNEIRO B
+R$                  1.146,40
+
+
+LANTERNEIRO C
+R$                  1.675,39
+
+
+LAVADEIRA
+R$                     870,00
+
+
+LAVADOR VEICULAR
+R$                     870,00
+
+
+LUBRIFICADOR
+R$                     884,31
+
+
+MECÂNICO A
+R$                     918,31
+
+
+MECÂNICO B
+R$                  1.274,10
+
+
+MECÂNICO C
+R$                  1.885,01
+
+
+MECÂNICO DE REVISÃO
+R$                  1.048,36
+
+
+MOLEIRO
+R$                  1.017,88
+
+
+MOTORISTA DE ONIBUS INTERRESTADUAL, INTERMUNICIPAL E FRETAMENTO
+R$                  1.680,11
+
+
+PINTOR A
+R$                     918,31
+
+
+PINTOR B
+R$                  1.032,31
+
+
+PINTOR C
+R$                  1.517,42
+
+
+RECAUCHUTADOR A
+R$                     999,78
+
+
+RECAUCHUTADOR B
+R$                  1.472,09
+
+
+SERVENTE
+R$                     870,00
+
+
+SOLDADOR A
+R$                  1.141,60
+
+
+SOLDADOR B
+R$                  1.682,25
+
+
+VIGIA
+R$                     870,00
+
+
+ZELADOR
+R$                     870,00
+
+
+TECNICO EM REFRIGERAÇÃO  A
+R$                  1.201,98
+
+
+TECNICO EM REFRIGERAÇÃO  B
+R$                  1.885,01
+
+
+
+
+<ENDofAPPTEXT>
+
+<STARTofTEXT>
+Os salários dos integrantes da categoria profissional serão reajustados em 9% (nove  por cento), a partir de 1º de maio do corrente ano.
+PARÁGRAFO PRIMEIRO – TABELA DE PISOS SALARIAIS
+A tabela de pisos salariais será R$ 870,00 reais para o menor salário, praticada pelas empresas será reajustada nos termos do caput desta cláusula, conforme discriminado adiante.
+PARÁGRAFO SEGUNDO – AUXÍLIO ALIMENTAÇÃO
+A empresa fornecerá mensalmente, em decorrência da adesão ao Programa de Alimentação do Trabalhador (PAT) na forma da Lei e desta convenção, aos seus empregados, “auxílio alimentação” equivalente a R$ 320,00 ( trezentos e vinte reais).
+PARÁGRAFO TERCEIRO - A contribuição dos empregados para fins de “auxílio alimentação”, será de 2,5% (dois vírgula cinco por cento), incidente sobre o valor mensal e total descontada na folha de pagamento respectiva.
+PARÁGRAFO QUARTO –  CUSTEIO ASSISTENCIAL 
+A título de custeio assistencial, as empresas repassarão mensalmente ao Sindicato Profissional, 2 % (dois por cento) incidente sobre os valores dos salários bruto de cada empregado,  cujo repasse se dará até o 5º dia útil do mês subsequente, sem ônus para o trabalhador, ressalvados os Acordos Coletivos quando preverem diferente.
+ PARÁGRAFO QUINTO – A diferença salarial do mês de maio e junho e o auxilio alimentação, decorrente do reajuste ora concedido, serão realizados o pagamentos em duas parcelas nos meses de julho e agosto de 2015.
+|
+Durante a vigência desta convenção as empresas pagarão, entre os dias 15 e 20 de cada mês, aos empregados da categoria profissional, um adiantamento quinzenal de 50% (cinqüenta por cento) da remuneração mensal de cada um.
+|
+O salário do empregado substituto será igual ao do substituído, excluídas as vantagens pessoais, desde que assuma todas as atribuições do cargo.
+|
+As empresas obrigam-se a adiantar, até o penúltimo dia útil que anteceda ao dia do Círio de Nazaré, 30% (trinta por cento) do valor correspondente ao 13º salário do ano em curso, calculado sobre o salário do dito mês.
+PARÁGRAFO ÚNICO – Face ao disposto nesta cláusula, para o cumprimento do disposto no art. 2º, caput, da Lei 4.749/65, as empresas deduzirão, a quando do pagamento da primeira parcela da gratificação em apreço, o que foi pago por força desta norma convencional.
+|
+Ficam os empregadores autorizados a prorrogar e a compensar os horários de trabalho dos empregados, quinzenalmente, independentemente de qualquer ato escrito, mas com observância dos tempos de prorrogação e compensação previstos na lei. As horas trabalhadas que excederem a 44 (quarenta e quatro) horas semanais serão pagas com acréscimo de 60% (sessenta por cento) sobre o valor da hora normal, calculada de acordo com o salário-base mensal.
+PARÁGRAFO PRIMEIRO – Nos termos do art. 235-C da Lei nº 13.103/2015, na jornada diária dos motoristas e cobradores de linhas intermunicipais, admite-se a sua prorrogação por até 4 (quatro) horas extraordinárias. 
+|
+O trabalho realizado no período de 22h00min (vinte e duas) horas de um dia às 05h00min (cinco) horas do dia seguinte será remunerado com o acréscimo de 30% (trinta  por cento) sobre a hora normal.
+|
+Em caso de transferência do empregado, nos limites impostos pelo art. 469, da CLT, ficará o empregador obrigado ao pagamento nunca inferior a 25% (vinte e cinco por cento) do salário do mesmo.
+|
+Nas viagens para fora da sede da prestação dos serviços, os motoristas pertencentes à Categoria Profissional que trabalharem nas empresas de turismo e fretamento farão jus a diárias no valor de 1/30 (hum inteiro e trinta avos) do salário básico mensal, sem prejuízos dos salários, quando a viagem alcançar mais de 08 (oito) horas, ou quando ocorrer pernoite, sendo uma diária por dia de viagem.
+PARÁGRAFO PRIMEIRO – A vantagem aqui prevista é restrita às empresas que operam exclusivamente em turismo e fretamento, não alcançando as demais que operam também em transporte de passageiros interestadual e intermunicipal, embora também atuem no transporte de turismo e fretamento, já que estas se subordinam à regra da Cláusula 10 (dez).
+PARÁGRAFO SEGUNDO – As empresas que operam exclusivamente no transporte de turismo e fretamento poderão fornecer, em substituição à obrigação contida no caput desta cláusula, alimentação e alojamento aos motoristas dos seus ônibus, não integrando tal concessão a remuneração para nenhum efeito. Entretanto, se a empresa não dispuser de restaurante e alojamento próprios e / ou convencionados, poderá fornecer aos seus motoristas, quando estiverem fora do seu domicílio funcional, vales-refeições / alojamento que serão apresentados perante os estabelecimentos indicados pelas empresas.
+|
+O empregado que for dispensado sem justa causa nos 45 (quarenta e cinco) dias anteriores à data-base da categoria profissional, fará jus a uma indenização adicional equivalente a 30 (trinta) dias de remuneração do mês da dispensa, nos termos do Enunciado 314, do Eg. TST, ou seja, prevalecerá esta cláusula mesmo quando o aviso prévio for indenizado e, pela projeção do seu tempo, findar nos 45 (quarenta e cinco) dias anteriores à data-base.
+|
+As empresas contribuirão com a festa de confraternização de final de ano, promovida pelo Sindicato dos Trabalhadores, no valor de R$ 8,00 (oito reais) por cada trabalhador devendo tal contribuição ser repassada a este até o mês de novembro do ano em curso.
+|
+As empresas fornecerão, gratuitamente, não integrando a remuneração para nenhum efeito, alimentação e alojamento aos trabalhadores, que fora do seu domicílio funcional, permanecerem aguardando escala no terminal da linha, caso possuam elas restaurante e alojamento próprios.
+PARÁGRAFO ÚNICO – Se a empresa não dispuser de restaurante e alojamento próprios, a mesma fornecerá, gratuitamente, não integrando a remuneração para nenhum efeito, aos empregados que estiverem trabalhando fora do seu domicílio funcional, refeição / alojamento que serão apresentados perante os estabelecimentos indicados pelas empresas.
+|
+No caso de falecimento do empregado, a empresa empregadora dele se responsabilizará pela liberação de 1 (um) ônibus para o acompanhamento do cortejo funeral, sem ônus para a família enlutada. Fica esclarecido que o cortejo funeral se circunscreve ao local de contratação do empregado falecido, sem envolver translado de outro Município ou de outro Estado.
+|
+No caso de falecimento do seu empregado, a empresa concederá um auxílio-funeral equivalente a 1 ½ (um e meio) salário básico mensal vigente na data do falecimento, a quem estiver habilitado com o documento expedido pela instituição de previdência, conforme o parágrafo único, do art. 2º, do Dec. 85.845, de 26 03 1981
+|
+As empresas manterão seguro de vida em grupo aos seus empregados, com cobertura em caso de morte decorrente de acidente do trabalho ou assalto, no exercício de suas funções, cujo valor será o equivalente a 12 (doze) salários-base do empregado no dia do seu falecimento.
+PARÁGRAFO PRIMEIRO – As empresas poderão, querendo, ao invés de contratar seguro, assumir pessoalmente o risco, mas se o pagamento ultrapassar 30 (trinta) dias deverá o valor ser corrigido pela inflação do período que mediar até à liquidação do sinistro.
+PARÁGRAFO SEGUNDO – No caso de aplicação desta cláusula não se aplica, por não serem cumulativas, a regra da CLÁUSULA AUXÍLIO FUNERAL.
+|
+As empresas darão preferência de contratação de filhos de dependentes assim declarados perante a previdência, desde que atende os requisitos.
+|
+Em caso de atraso no pagamento das verbas rescisórias, conforme previsto no art. 477, da CLT, importará na pena de pagamento em favor do empregado do valor correspondente a um salário-básico do mesmo, corrigido pelo índice adotado para os débitos trabalhistas. Caso o atraso se der por ato do empregado, compete à empresa obter a ressalva junto ao Sindicato Profissional, no mesmo prazo ou dentro dele utilizar-se da competente Ação de Consignação em Pagamento para não sofrer a punição legal.
+|
+As empresas se obrigam a anotar a CTPS dos empregados contratados no prazo de 48 horas, contados a partir da contratação.
+|
+Respeitadas as peculiaridades de cada uma, as empresas deverão contratar, preferencialmente, para os seus quadros funcionais, mão de obra local.
+|
+Para a homologação das rescisões contratuais sem justa causa ou por pedido de demissão, será necessária a apresentação, pelas empresas, na conformidade da Instrução Normativa n.º 15, de 14 de julho de 2010, do Ministério do Trabalho e Emprego Renda, dos seguintes documentos:
+a)      Termo de Rescisão Contratual em 05 vias;
+b)      CTPS com as anotações atualizadas;
+c)      Registro de Empregados na forma que for adotada pela empresa (livro ou ficha), ou cópia dos dados obrigatórios do registro de empregados, quando informatizados;
+d)      O comprovante do aviso prévio, se tiver sido datado, ou do pedido de demissão, quando for o caso;
+e)      Comprovante do recolhimento da contribuição social fixada pela Lei Complementar n.º 110, de 29 06 2001 – art. 1º;
+f)       Exame médico demissional;
+g)      Guia do Seguro Desemprego.
+h)      Apresentação do PPP – Perfil Profissiográfico Previdenciário.
+|
+Caso o empregado opte pelo cumprimento do aviso prévio com a redução de duas horas diárias na sua jornada laboral, conforme previsto no art. 488, parágrafo único, da CLT, poderá o mesmo manifestar, no ato da comunicação do aviso, sua opção para que a redução ocorra no início ou no fim da jornada diária.
+PARÁGRAFO PRIMEIRO – O início do aviso prévio deverá ocorrer sempre em dia útil, sem prejuízos do repouso remunerado.
+PARÁGRAFO SEGUNDO – AVISO PRÉVIO PROPORCIONAL
+A cada ano de serviço, o aviso prévio será acrescido de três dias até o limite da Lei. Não será acrescido dia de trabalho e sim remunerado. Conforme Lei 12.506 de 11 de Outubro de 2011.
+|
+O empregado que ficar afastado do serviço por motivo de doença em período superior a 45 (quarenta e cinco) dias, mediante atestado firmado pela Previdência Social, gozará de garantia de emprego, nos moldes do art. 165, da CLT, pelo prazo de 90 (noventa) dias, a contar da data do seu retorno ao trabalho. A vantagem em apreço só será concedida uma vez por ano.
+PARÁGRAFO PRIMEIRO - EMPREGADO ACIDENTADO
+Fica assegurado a todos os empregados uma estabilidade provisória de 12 meses, conforme disposto no art. 118, da Lei 8.213, de 24 07 91, a quando do retorno ao trabalho após benefício de auxílio-doença acidentário, só podendo ser demitido na forma prevista no art. 165 e parágrafo único da CLT.
+PARÁGRAFO SEGUNDO - EMPREGADO  EM VÉSPERA DE APOSENTADORIA
+Fica vedada a dispensa arbitrária dos trabalhadores às vésperas da aposentadoria, considerando-se como tal o período de 24 (vinte quatro) meses do momento em que possam requerer o benefício, desde que o empregado possua pelo menos 02 (dois) anos de serviço na empresa ou mesmo grupo econômico. Implementada a condição, cessa a garantia.
+|
+As empresas poderão dispensar seus empregados, de acordo com a conveniência exclusiva de cada uma delas, para participação dos mesmos em cursos preparatórios promovidos pelo Sindicato profissional, mediante comprovação oficial da existência de tais cursos.
+|
+Obedecidas as normas de cada empresa e suas peculiaridades, darão a mesma preferência aos empregados do seu quadro funcional que preencham os pressupostos funcionais e estejam para tanto habilitados, a preencherem vagas existentes em outras funções.
+|
+As empresas obrigam-se a fornecer aos seus empregados contracheques e / ou recibos discriminando os pagamentos e descontos efetuados.
+|
+A prestação de contas das rendas deverá ocorrer na garagem das empresas, na presença do trabalhador e de funcionário que represente o respectivo empregador.
+|
+As empresas autorizam o uso do seu quadro de avisos administrativos por parte do Sindicato Profissional para comunicação de interesse dos empregados, vedados os assuntos de conteúdos político-partidários ou ofensivo.
+|
+As empresas obrigam-se a ceder ao Sindicato Profissional, mediante responsabilidade deste por todos os danos que os veículos possam sofrer por sua culpa direta ou de seus representantes, para transporte destes com vista à realização de eventos socioculturais e de lazer, 1 (um) ônibus de sua propriedade, devendo a entidade sindical profissional informar às mesmas com a antecedência de pelo menos 72 (setenta e duas) horas antes da realização dos ditos eventos.
+PARÁGRAFO PRIMEIRO – O Sindicato Profissional poderá indicar, livremente, a empresa que deverá ceder o ônibus, considerando que o evento vá beneficiar os trabalhadores da mesma.
+PARÁGRAFO SEGUNDO – A vantagem aqui instituída será concedida alternadamente, mediante solicitação do Sindicato Profissional diretamente à empresa.
+PARÁGRAFO TERCEIRO – Fica estabelecido que a vantagem aqui prevista se refere a um único ônibus e não a um ônibus por cada empresa e que o percurso máximo será de 240 Km até o local do evento.
+PARÁGRAFO QUARTO – A vantagem aqui consignada não abrange os períodos de férias e nem os finais de semana prolongados, embora em tais períodos as empresas possam ceder o ônibus, mas desde que tenham condições para tal.
+|
+Os Sindicatos Profissionais poderão firmar convênios com óticas e farmácias de sua livre escolha, sem qualquer interferência ou anuência das empresas, obrigando-se estas apenas a realizar o desconto que os seus empregados expressamente e por escrito autorizarem no caso de utilização dos ditos convênios, de uma só vez, e na 1ª quinzena, não podendo ultrapassar o desconto o limite de 20% do salário-básico do empregado.
+PARÁGRAFO ÚNICO – As empresas deverão comunicar o Sindicato dos Trabalhadores a ocorrência de demissão ou benefício previdenciário.
+|
+As empresas concordam com o passe livre dos empregados do sistema, mediante comprovação por parte do beneficiário de tal condição, mas exclusivamente para o itinerário correspondente ao trecho de sua residência ao local de trabalho e vice-versa.
+PARÁGRAFO ÚNICO – A vantagem estipulada nesta cláusula não autoriza o uso de ônibus tipo especiais denominados EXECUTIVOS ou ESPECIAIS.
+|
+Os empregados somente assinarão vales se estes forem feitos em papel que contenha a identificação da empresa e, além disso, com cópia e discriminando a natureza dos mesmos.
+ 
+|
+PARÁGRAFO PRIMEIRO – Ficam os empregadores autorizados a prorrogar o intervalo para repouso e alimentação dos motoristas e cobradores, em tempo superior a 2 (duas) horas.
+PARÁGRAFO SEGUNDO – Considerando a natureza do transporte intermunicipal e interestadual, e ainda com amparo com no parágrafo 5º do artigo 71 da CLT, acrescido pala Lei 12.619/2012, será permitido, aos motoristas, o fracionamento do repouso para descanso e alimentação, sendo que os tempos de parada para lanche e café poderão ser de 10 (dez) a 20 (vinte) minutos, ou refeição de 30 (trinta) minutos para os passageiros e tripulação do veiculo, ocorridas ao longo do percurso da linha contam-se cumulativamente.
+PARÁGRAFO TERCEIRO – Devido a adequação legal quanto dever de controle de direção e descanso constante do inciso lll, do artigo 235 – B da CLT, acrescido pela Lei 12.619/2012, e visando a saúde, higiene e segurança da tripulação e dos passageiros, fica o motorista responsável pelo controle e gozo de seu tempo de direção e descanso, devendo respeitar o mínimo legal para repouso e alimentação, assim como o tempo de descanso em direção ininterrupta.
+PARÁGRAFO QUARTO – Os empregados que trabalham nas garagens e que estejam impossibilitados de gozar o intervalo do almoço em virtude da distância entre o local do trabalho e sua residência, poderão almoçar na própria empresa, caso esta forneça a refeição mediante seu próprio critério, mas obrigando-se os trabalhadores a compensar o valor da refeição mediante prorrogação de sua jornada de trabalho no tempo de até 1 (uma) hora.
+PARÁGRAFO QUINTO – Fica desde logo estabelecida como distância que impossibilite o gozo do intervalo para repouso e alimentação a residência além do limite do Municípios de Ananindeua , e a compensação aqui prevista fica a critério de cada empregador.
+|
+Caso o empregado, por necessidade imperiosa do serviço, seja convocado para trabalhar no dia de domingo ou de feriado em que deva gozar folga, sem a compensação na semana seguinte, perceberá o salário daquele dia em dobro, na forma prevista no art. 9º, da Lei 605, de 05 01 49.
+|
+As empresas fornecerão aos seus empregados, obrigatoriamente, uniformes e equipamento de proteção individual necessários ao desempenho da respectiva função. Os uniformes constarão, no seu todo, do seguinte: - para motoristas e cobradores: 2 (duas) camisas, 2 (duas) calças, 1 (um) par de sapatos e 1 (uma) gravata, quando a empresa exigir o uso desta; - para trabalhadores de manutenção: 4 (quatro) uniformes do tipo utilizado para essa atividade por cada empresa e 2 (dois) pares de botas, sendo que tais uniformes são concedidos metade no primeiro semestre e a outra metade no segundo. Esta divisão semestral é exclusiva para os trabalhadores de manutenção, não se aplicando a mesma para motoristas e cobradores.
+PARÁGRAFO ÚNICO – Os empregados se obrigam a devolver os uniformes a quando da rescisão do contrato e se assim exigirem as empresas, sob pena de indenizá-las pelo valor consignado na caução.
+|
+As empresas aceitarão atestados médicos e odontológicos firmados por profissionais credenciados pelo Sindicato Profissional, para licença até 4 (quatro) dias por mês, salvo as que possuam departamento médico e / ou odontológico.
+|
+É vedado às empresas a exigência de tarefas de lavagem, limpeza e lubrificação de veículos a motoristas e cobradores. Com relação aos demais trabalhadores fica proibida a exigência injustificada de trabalhos estranhos a sua função, salvo os que sejam inerentes a ela.
+|
+Obedecidas rigorosamente as regras do comando diretivo de cada empresa e não havendo interferência em trabalho urgente que esteja sendo efetuado por qualquer empregado, terá livre acesso às dependências das empresas qualquer diretor do Sindicato Profissional para exercer sua atividade sindical, desde que haja um aviso prévio de 24 horas para a visita.
+|
+O desconto das mensalidades sociais dos associados do Sindicato Profissional, no percentual de 3,5% (três virgula cinco por cento) sobre o salário-base dos mesmos, será feito diretamente em folha de pagamento, desde que devidamente autorizadas as empresas pelos trabalhadores, por escrito, e notificadas pela entidade sindical obreira, caso em que os contracheques ou envelopes de pagamento servem como recibo de pagamento das mensalidades, desobrigando o Sindicato Profissional do fornecimento do recibo de quitação das mensalidades, somente poderão cessar após devidamente comprovada a exclusão do quadro social do associado, mediante notificação da entidade sindical, ou após o desligamento do empregado por demissão, transferência ou aposentadoria, ficando terminantemente proibidos os pedidos de exclusão apresentados através do setor de pessoal das empresas.
+|
+Os descontos relativos às Mensalidades Sociais (cláusula 40ª), em favor do Sindicato Profissional, terá o seu montante recolhido à Conta n.º 23229-7 e o repasse do Custeio Assistencial (Clausula 3ª, parágrafo quarto) terá seu montante recolhido à Conta 23940-9, ambas da Agência 0936 do BANCO ITAÚ S.A., nesta cidade, até o 5º (quinto) dia útil do mês subseqüente ao desconto, sob pena de multa de 5% (cinco por cento) por cada mês de atraso, calculada sobre o montante a ser recolhido, além de juros de 1% (um por cento) ao mês, correção monetária à base do índice de inflação do mês do desconto e demais cominações convencionais. As empresas deverão comprovar tais recolhimentos no prazo de 5 (cinco) dias, através de relação nominal dos empregados e de valores descontados, bem como a guia de depósito bancário. Incumbe à entidade sindical profissional fornecimento às empresas das guias de recolhimento da aludida mensalidade sindical.
+|
+As empresas remeterão ao Sindicato Profissional, no prazo de 15 (quinze) dias contados da data do recolhimento da contribuição sindical dos empregados pertencentes à categoria profissional, relação nominal dos empregados contribuintes, indicando a função de cada um e o salário do mês a que corresponder o valor recolhido, bem como cópia da guia de recolhimento da referida contribuição.
+|
+As empresas pela presente Norma Coletiva de Trabalho descontará mensalmente de todos os seus trabalhadores pertencentes à Categoria Profissional Acordante, inclusive durante as férias, à título de contribuição assistencial, conforme fixado e aprovado em assembleia Geral realizada em 20, 23, 25, 27 e 29 de março de 2015, conforme edital de publicado e de acordo com o MEMO CIRCULAR SIT/SRT-TEM Nº 1/2005 DE 20.01.2008, a importância equivalente a 1% (um por cento) do salário base de cada trabalhador, não alcançando os trabalhadores associados.
+ PARÁGRAFO PRIMEIRO: O trabalhador que não concordar com a efetivação dos referidos descontos manifestará, por escrito a sua discordância no prazo de 10 (dez) dias, a contar da data da realização da Assembleia que aprovou a presente NORMA COLETIVA DE TRABALHO, implicando sua oposição na cessação dos descontos.
+PARÁGRAFO SEGUNDO: O sindicato profissional ficará responsável por qualquer implicância neste sentido isentando o sindicato patronal ou empresas: que fará o desconto em folha de pagamento.
+PARÁGRAFO TERCEIRO: As mensalidades sindicais onde o trabalhador autoriza o desconto que será 3,5 (três e meio por cento) sobre os salários.
+PARÁGRAFO  QUARTO: O desconto mencionado no caput da (cláusula 42ª) será depositado na conta Banco ITAÚ AG – 0936 C/C 06413-8 desta entidade, até o 5º dia útil de cada mês, sob pena de multa de 5% ( cinco por centro), juros e correção
+|
+Fica estabelecida a multa de 5% (cinco por cento) do salário-base do empregado, em caso de infração a qualquer das cláusulas da presente Convenção, a ser aplicada à parte infratora e a reverter em favor da parte prejudicada, seja a entidade sindical respectiva, o empregado ou a empresa, respeitado o limite, previsto no art. 622, parágrafo único, da CLT.
+|
+Os sindicatos convenentes declaram, que na  negociação coletiva ora formalizada, houveram concessões mútuas, razão pela qual os direitos e deveres, benefícios e restrições expressões nas diversas cláusulas, não devem ser vistos isoladamente, e sim como insertos na integralidade do pactuado, que decorreu do objetivo de manutenção e ampliação de vantagens aos empregados e, principalmente, da busca da possibilidade de manutenção e geração de empregos, bem como de se viabilizar a atividade econômica (artigo 7º, inciso XXVI, da Constituição Federal).

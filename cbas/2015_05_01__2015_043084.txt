@@ -1,0 +1,537 @@
+<STARTofTITLE>
+Mediador - Extrato Convenção Coletiva
+<ENDofTITLE>
+
+<STARTofVALIDITY>
+semvalorlegal
+<ENDofVALIDITY>
+
+<STARTofHEADERS>
+NÚMERO DA SOLICITAÇÃO|MR043084/2015
+<ENDofHEADERS>
+
+<STARTofCOUNTERPART1>
+SINDICATO INTERMUNICIPAL DO COMERCIO VAREJISTA DE COMBUSTIVEIS E LUBRIFICANTES DO ESTADO DO RGSUL-SULPETRO|92.946.334/0001-70|Presidente|ADAO OLIVEIRA DA SILVA|Procurador|ANTONIO JOB BARRETO
+<ENDofCOUNTERPART1>
+<STARTofCOUNTERPART2>
+FEDERACAO NACIONAL EMPREG POSTOS SERV COMB DERIV PETR|69.122.257/0001-12|Procurador|ANGELO CARLOS MARTINS E SILVA
+<ENDofCOUNTERPART2>
+
+<STARTofSTARTDATE>
+01/05/2015
+<ENDofSTARTDATE>
+<STARTofEXPRIRATIONDATE>
+30/04/2016
+<ENDofEXPIRATIONDATE>
+
+<STARTofRENEGOTIATION>
+01/05
+<ENDofRENEGOTIATION>
+
+<STARTofCATEGORY>
+Empregados em postos de serviços de combustíveis e derivados de petróleo
+<ENDofCATEGORY>
+<STARTofGEOGRAPHY>
+Aceguá/RS|Água Santa/RS|Agudo/RS|Ajuricaba/RS|Alecrim/RS|Alegrete/RS|Alegria/RS|Almirante Tamandaré do Sul/RS|Alpestre/RS|Alto Alegre/RS|Alto Feliz/RS|Alvorada/RS|Amaral Ferrador/RS|Ametista do Sul/RS|Anta Gorda/RS|Arambaré/RS|Araricá/RS|Aratiba/RS|Arroio do Meio/RS|Arroio do Padre/RS|Arroio do Sal/RS|Arroio do Tigre/RS|Arroio dos Ratos/RS|Arroio Grande/RS|Arvorezinha/RS|Augusto Pestana/RS|Áurea/RS|Bagé/RS|Balneário Pinhal/RS|Barão de Cotegipe/RS|Barão do Triunfo/RS|Barão/RS|Barra do Guarita/RS|Barra do Quaraí/RS|Barra do Ribeiro/RS|Barra do Rio Azul/RS|Barra Funda/RS|Barracão/RS|Barros Cassal/RS|Benjamin Constant do Sul/RS|Boa Vista das Missões/RS|Boa Vista do Buricá/RS|Boa Vista do Cadeado/RS|Boa Vista do Incra/RS|Boa Vista do Sul/RS|Bom Princípio/RS|Bom Progresso/RS|Bom Retiro do Sul/RS|Boqueirão do Leão/RS|Bossoroca/RS|Bozano/RS|Braga/RS|Brochier/RS|Butiá/RS|Caçapava do Sul/RS|Cacequi/RS|Cachoeira do Sul/RS|Cachoeirinha/RS|Cacique Doble/RS|Caibaté/RS|Caiçara/RS|Camaquã/RS|Camargo/RS|Campina das Missões/RS|Campinas do Sul/RS|Campo Bom/RS|Campo Novo/RS|Campos Borges/RS|Candelária/RS|Cândido Godói/RS|Candiota/RS|Canguçu/RS|Canoas/RS|Canudos do Vale/RS|Capão da Canoa/RS|Capão do Cipó/RS|Capão do Leão/RS|Capela de Santana/RS|Capitão/RS|Capivari do Sul/RS|Caraá/RS|Carazinho/RS|Carlos Gomes/RS|Casca/RS|Catuípe/RS|Centenário/RS|Cerrito/RS|Cerro Branco/RS|Cerro Grande do Sul/RS|Cerro Grande/RS|Cerro Largo/RS|Chapada/RS|Charqueadas/RS|Charrua/RS|Chiapetta/RS|Chuí/RS|Chuvisca/RS|Cidreira/RS|Ciríaco/RS|Colinas/RS|Colorado/RS|Condor/RS|Constantina/RS|Coqueiro Baixo/RS|Coqueiros do Sul/RS|Coronel Barros/RS|Coronel Bicaco/RS|Cotiporã/RS|Coxilha/RS|Crissiumal/RS|Cristal do Sul/RS|Cristal/RS|Cruz Alta/RS|Cruzaltense/RS|Cruzeiro do Sul/RS|David Canabarro/RS|Derrubadas/RS|Dezesseis de Novembro/RS|Dilermando de Aguiar/RS|Dois Irmãos das Missões/RS|Dois Irmãos/RS|Dois Lajeados/RS|Dom Feliciano/RS|Dom Pedrito/RS|Dom Pedro de Alcântara/RS|Dona Francisca/RS|Doutor Maurício Cardoso/RS|Doutor Ricardo/RS|Eldorado do Sul/RS|Encantado/RS|Encruzilhada do Sul/RS|Engenho Velho/RS|Entre Rios do Sul/RS|Entre ijuís/RS|Erebango/RS|Erechim/RS|Ernestina/RS|Erval Grande/RS|Erval Seco/RS|Esperança do Sul/RS|Espumoso/RS|Estação/RS|Estância Velha/RS|Esteio/RS|Estrela Velha/RS|Estrela/RS|Eugênio de Castro/RS|Faxinal do Soturno/RS|Faxinalzinho/RS|Fazenda Vilanova/RS|Feliz/RS|Floriano Peixoto/RS|Fontoura Xavier/RS|Formigueiro/RS|Forquetinha/RS|Fortaleza dos Valos/RS|Frederico Westphalen/RS|Garruchos/RS|Gaurama/RS|General Câmara/RS|Gentil/RS|Getúlio Vargas/RS|Giruá/RS|Glorinha/RS|Gramado dos Loureiros/RS|Gramado Xavier/RS|Gravataí/RS|Guaíba/RS|Guaporé/RS|Guarani das Missões/RS|Harmonia/RS|Herval/RS|Herveiras/RS|Horizontina/RS|Hulha Negra/RS|Humaitá/RS|Ibarama/RS|Ibiaçá/RS|Ibirapuitã/RS|Ibirubá/RS|Igrejinha/RS|Ijuí/RS|Ilópolis/RS|Imbé/RS|Imigrante/RS|Independência/RS|Inhacorá/RS|Ipiranga do Sul/RS|Iraí/RS|Itaara/RS|Itacurubi/RS|Itapuca/RS|Itaqui/RS|Itati/RS|Itatiba do Sul/RS|Ivorá/RS|Ivoti/RS|Jaboticaba/RS|Jacuizinho/RS|Jacutinga/RS|Jaguarão/RS|Jaguari/RS|Jari/RS|Jóia/RS|Júlio de Castilhos/RS|Lagoa Bonita do Sul/RS|Lagoa dos Três Cantos/RS|Lagoão/RS|Lajeado do Bugre/RS|Lajeado/RS|Lavras do Sul/RS|Liberato Salzano/RS|Lindolfo Collor/RS|Maçambará/RS|Machadinho/RS|Mampituba/RS|Manoel Viana/RS|Maquiné/RS|Maratá/RS|Marau/RS|Marcelino Ramos/RS|Mariana Pimentel/RS|Mariano Moro/RS|Marques de Souza/RS|Mata/RS|Mato Castelhano/RS|Mato Leitão/RS|Mato Queimado/RS|Maximiliano de Almeida/RS|Minas do Leão/RS|Miraguaí/RS|Montauri/RS|Montenegro/RS|Mormaço/RS|Morrinhos do Sul/RS|Morro Redondo/RS|Morro Reuter/RS|Mostardas/RS|Muçum/RS|Muliterno/RS|Não me toque/RS|Nicolau Vergueiro/RS|Nonoai/RS|Nova Alvorada/RS|Nova Boa Vista/RS|Nova Bréscia/RS|Nova Candelária/RS|Nova Esperança do Sul/RS|Nova Hartz/RS|Nova Palma/RS|Nova Ramada/RS|Nova Santa Rita/RS|Novo Barreiro/RS|Novo Cabrais/RS|Novo Hamburgo/RS|Novo Machado/RS|Novo Tiradentes/RS|Novo Xingu/RS|Osório/RS|Paim Filho/RS|Palmares do Sul/RS|Palmeira das Missões/RS|Palmitinho/RS|Panambi/RS|Pantano Grande/RS|Paraíso do Sul/RS|Pareci Novo/RS|Parobé/RS|Passa Sete/RS|Passo do Sobrado/RS|Passo Fundo/RS|Paulo Bento/RS|Paverama/RS|Pedras Altas/RS|Pedro Osório/RS|Pejuçara/RS|Pelotas/RS|Pinhal da Serra/RS|Pinhal Grande/RS|Pinhal/RS|Pinheirinho do Vale/RS|Pinheiro Machado/RS|Pirapó/RS|Piratini/RS|Planalto/RS|Poço das Antas/RS|Pontão/RS|Ponte Preta/RS|Portão/RS|Porto Alegre/RS|Porto Lucena/RS|Porto Mauá/RS|Porto Vera Cruz/RS|Porto Xavier/RS|Pouso Novo/RS|Presidente Lucena/RS|Progresso/RS|Putinga/RS|Quaraí/RS|Quatro Irmãos/RS|Quevedos/RS|Quinze de Novembro/RS|Redentora/RS|Relvado/RS|Restinga Seca/RS|Rio dos Índios/RS|Rio Grande/RS|Rio Pardo/RS|Riozinho/RS|Roca Sales/RS|Rodeio Bonito/RS|Rolador/RS|Rolante/RS|Ronda Alta/RS|Rondinha/RS|Roque Gonzales/RS|Rosário do Sul/RS|Sagrada Família/RS|Saldanha Marinho/RS|Salto do Jacuí/RS|Salvador das Missões/RS|Salvador do Sul/RS|Sananduva/RS|Santa Bárbara do Sul/RS|Santa Cecília do Sul/RS|Santa Clara do Sul/RS|Santa Cruz do Sul/RS|Santa Margarida do Sul/RS|Santa Maria do Herval/RS|Santa Maria/RS|Santa Rosa/RS|Santa Vitória do Palmar/RS|Santana da Boa Vista/RS|Santana do Livramento/RS|Santiago/RS|Santo Ângelo/RS|Santo Antônio da Patrulha/RS|Santo Antônio das Missões/RS|Santo Antônio do Palma/RS|Santo Antônio do Planalto/RS|Santo Augusto/RS|Santo Cristo/RS|Santo Expedito do Sul/RS|São Borja/RS|São Domingos do Sul/RS|São Francisco de Assis/RS|São Gabriel/RS|São Jerônimo/RS|São João da Urtiga/RS|São João do Polêsine/RS|São José das Missões/RS|São José do Herval/RS|São José do Hortêncio/RS|São José do Inhacorá/RS|São José do Norte/RS|São José do Ouro/RS|São José do Sul/RS|São Leopoldo/RS|São Lourenço do Sul/RS|São Luiz Gonzaga/RS|São Martinho da Serra/RS|São Martinho/RS|São Miguel das Missões/RS|São Nicolau/RS|São Paulo das Missões/RS|São Pedro da Serra/RS|São Pedro das Missões/RS|São Pedro do Butiá/RS|São Pedro do Sul/RS|São Sebastião do Caí/RS|São Sepé/RS|São Valentim do Sul/RS|São Valentim/RS|São Valério do Sul/RS|São Vendelino/RS|São Vicente do Sul/RS|Sapiranga/RS|Sapucaia do Sul/RS|Sarandi/RS|Seberi/RS|Sede Nova/RS|Segredo/RS|Selbach/RS|Senador Salgado Filho/RS|Sentinela do Sul/RS|Serafina Corrêa/RS|Sério/RS|Sertão Santana/RS|Sertão/RS|Sete de Setembro/RS|Severiano de Almeida/RS|Silveira Martins/RS|Sinimbu/RS|Sobradinho/RS|Soledade/RS|Tabaí/RS|Tapejara/RS|Tapera/RS|Tapes/RS|Taquara/RS|Taquari/RS|Taquaruçu do Sul/RS|Tavares/RS|Tenente Portela/RS|Terra de Areia/RS|Teutônia/RS|Tio Hugo/RS|Tiradentes do Sul/RS|Toropi/RS|Torres/RS|Tramandaí/RS|Travesseiro/RS|Três Arroios/RS|Três Cachoeiras/RS|Três Coroas/RS|Três de Maio/RS|Três Forquilhas/RS|Três Palmeiras/RS|Triunfo/RS|Tucunduva/RS|Tunas/RS|Tupanci do Sul/RS|Tupanciretã/RS|Tupandi/RS|Tuparendi/RS|Turuçu/RS|Ubiretama/RS|União da Serra/RS|Unistalda/RS|Uruguaiana/RS|Vale do Sol/RS|Vale Verde/RS|Vanini/RS|Venâncio Aires/RS|Vera Cruz/RS|Veranópolis/RS|Vespasiano Correa/RS|Viadutos/RS|Viamão/RS|Vicente Dutra/RS|Victor Graeff/RS|Vila Lângaro/RS|Vila Maria/RS|Vila Nova do Sul/RS|Vista Alegre/RS|Vista Gaúcha/RS|Vitória das Missões/RS|Westfalia/RS|Xangri lá/RS
+<ENDofGEOGRAPHY>
+
+<STARTofCLAUSES>
+Piso Salarial|PISO SALARIAL
+Reajustes/Correções Salariais|REAJUSTE SALARIAL
+Descontos Salariais|DESCONTOS SALARIAIS
+Outras normas referentes a salários, reajustes, pagamentos e critérios para cálculo|DIFERENÇAS SALARIAIS
+13º Salário|ADIANTAMENTO DO 13º SALÁRIO
+Adicional de Tempo de Serviço|QUINQÜÊNIO
+Adicional de Periculosidade|ADICIONAL DE PERICULOSIDADE
+Outros Adicionais|ADICIONAL DE FÉRIAS POR TEMPO DE SERVIÇO
+Auxílio Alimentação|CESTA BÁSICA
+Auxílio Educação|SALÁRIO EDUCAÇÃO
+Auxílio Saúde|PLANO DE SAÚDE
+Auxílio Morte/Funeral|AUXÍLIO FUNERAL
+Seguro de Vida|SEGURO DE VIDA
+Outros Auxílios|CONVÊNIO FARMÁCIA
+Desligamento/Demissão|COMPROVANTE DE RECOLHIMENTO DA CONTRIBUIÇÃO PATRONAL
+Aviso Prévio|AVISO PRÉVIO   DISPENSA
+Outras normas referentes a admissão, demissão e modalidades de contratação|INDENIZAÇÃO ESPECIAL
+Outras normas referentes a admissão, demissão e modalidades de contratação|PRAZO PARA PAGAMENTO DAS VERBAS RESCISÓRIAS
+Outras normas referentes a admissão, demissão e modalidades de contratação|PARCELAS INCONTROVERSAS NA RESCISÃO
+Estabilidade Aposentadoria|ESTABILIDADE APOSENTANDO
+Outras normas referentes a condições para o exercício do trabalho|BICOS AUTOMÁTICOS
+Outras normas referentes a condições para o exercício do trabalho|VEDAÇÃO DO "SELF SERVICE"
+Prorrogação/Redução de Jornada|FECHAMENTO DO CAIXA
+Prorrogação/Redução de Jornada|HORAS EXTRAS
+Compensação de Jornada|COMPENSAÇÃO DE JORNADA
+Intervalos para Descanso|INTERVALOS
+Faltas|ESTUDANTES   ABONO DE FALTAS
+Faltas|AUSÊNCIAS JUSTIFICADAS
+Outras disposições sobre jornada|REPOUSO REMUNERADO   DOMINGOS
+Outras disposições sobre férias e licenças|INÍCIO DAS FÉRIAS
+Uniforme|UNIFORMES E EPIS
+Exames Médicos|EXAMES MÉDICOS SEMESTRAIS
+Aceitação de Atestados Médicos|ATESTADOS MÉDICOS E ODONTOLÓGICOS
+Outras Normas de Prevenção de Acidentes e Doenças Profissionais|FORNECIMENTO OBRIGATÓRIO DO PPP
+Outras Normas de Prevenção de Acidentes e Doenças Profissionais|COMUNICAÇÃO DE ACIDENTES DE TRABALHO
+Acesso do Sindicato ao Local de Trabalho|QUADRO DE AVISOS
+Representante Sindical|DELEGADOS SINDICAIS
+Liberação de Empregados para Atividades Sindicais|LIBERAÇÃO DIRIGENTE SINDICAL
+Acesso a Informações da Empresa|RELAÇÃO DOS DIRIGENTES SINDICAIS
+Acesso a Informações da Empresa|RELAÇÃO DE EMPREGADOS
+Contribuições Sindicais|DESCONTO ASSISTENCIAL OBREIRO
+Contribuições Sindicais|DESCONTO ASSISTENCIAL PATRONAL
+Outras disposições sobre representação e organização|COMITÊ DE SUPERVISÃO DA CONVENÇÃO
+Outras disposições sobre representação e organização|ENCONTROS QUADRIMESTRAIS
+Outras Disposições|DISPOSIÇÕES SOBRE ABRANGÊNCIA
+Outras Disposições|ANOTAÇÃO NA CTPS
+Outras Disposições|RECIBOS SALARIAIS
+Outras Disposições|CHEQUES
+Outras Disposições|DOS CARTÕES DE CRÉDITO E DÉBITO
+Outras Disposições|MULTA
+Outras Disposições|DO FORO COMPETENTE
+Outras Disposições|NEGOCIAÇÃO EM OUTUBRO/14
+<ENDofCLAUSES>
+
+<STARTofAPPENDICES>
+ATA DA ASSEMBLEIA PARA ACORDO COLETIVO DE FERIADO
+<ENDofAPPENDICES>
+
+<STARTofAPPTEXT>
+
+ATA DA ASEMBLEIA PARA COMPENSAÇÃO DE FERIADOS PONTES
+ 
+
+ 
+
+
+
+No dia: 21 de Maio de 2015, às 09:00horas, nas dependências da empresa RMBPACK Máquinas e Embalagens Ltda, na Rua Genebra, 181 Atuba Cidade de Colombo – PR foi realizada a presente Assembléia com a presença de 39 (Trinta e Nove) dos funcionários empregados da empresa RMBPACK Máquinas e Embalagens Ltda especialmente convocada para análise e deliberação através de votação secreta sobre a proposta apresentada pela Empresa visando o Acordo Coletivo de Trabalho. Iniciando os trabalhos, Sr Demahir de Abreu, leu em alta voz o Edital de Convocação desta Assembleia, explicou os motivos de sua realização e a proposta da empresa que consistia nos seguintes itens:Entre as partes, de um lado, a empresa RMBPACK Máquinas e Embalagens Ltda, CNPJ 07.680.669/0001-10 situada Rua Genebra, 181 Atuba Cidade de Colombo – PR , aqui devidamente representada pelo seu Diretor Presidente, Sr Romildo Kiche, C.P.F. 307.611.909-53, e de outro, seus funcionário, que firma o presente, para a elaboração do seguinte:Que celebram, de um lado a empresa RMBPACK MAQUINAS E EMBALAGENS LTDA , inscrita no CNPJ sob Nº 07.680.669/000110, estabelecida na Rua Genebra , nº 181 CEP 83413-340 Atuba, Colombo, por seu representante legal adiante assinado, e de outro lado, os seus empregados assistidos pelo SINDICATO DOS TRABALHADORES NAS INDÚSTRIAS QUÍMICAS E FARMACÊUTICAS DO ESTADO DO PARANÁ, inscrito no CNPJ sob nº 77.173.458/0001-77 com sede a Rua Nunes Machado, 316, Centro, Curitiba-PR, visando a concessão de folgas prolongadas mediante compensação das jornadas de trabalhos intercaladas entre feriados, cujo acordo atende aos preceitos do Artigo 59 da CLT, a Convenção Coletiva de Trabalho em vigor e a vontade de ambas as partes, sendo regido pelas seguintes cláusulas:PRIMEIRA - ABRANGÊNCIAEste acordo abrange os empregados que trabalham nos setores da Área Fabril, sem distinçãode sexoouidadequetrabalhamnosseguinteshoráriosfeirastotalizando44h00horassemanais1º.TurnoDas06h00às14h16horas,comintervalode01h00pararefeiçõesdassegundasfeirasaossábados,totalizando44h00semanais2º.TurnoDas13h44às22h00horascomintervalode01h00pararefeiçõesdassegundasfeirasaossábadostotalizando44h00semanais3º.TurnoDas22h00às06h00horascomintervalode01h00pararefeições,dassegundasfeirasaossábadostotalizando44h00semanais.SEGUNDAVIGÊNCIAvigência deste acordo será de dois meses, para o período de 21/05/2015 a 22/07/2015, sendo facultada sua modificação ou rescisão por qualquer das partes, mediante acordo solicitado de uma parte a outra compelomenos30diasdeantecedência.TERCEIRADIASDEDISPENSADOTRABALHOOsempregadosserãodispensadosdecompareceraotrabalhosemprejuízodesuasremunerações,nosdias:05/06/2015(SextaFeira)06/06/2015(Sabado).QUARTADACOMPENSAÇÃOAsausênciasdotrabalhomencionadasnacláusulaanteriorserãocompensadastrabalhandosesetehorasnodia04/06/2015(TERÇAFEIRA).QUINTADASFALTASDURANTEACOMPENSAÇÃOOsempregadosquetiveremfaltas não justificadas durante a compensação ou que por qualquer outro motivo deixar de cumprir o presente Acordo,teráreduçãodoseusalárionaquelemêsnamesmaproporçãodashorasnãocompensadas.SEXTADASADMISSÕESAPÓSESTA CELEBRAÇÃOOs empregados admitidos após a celebração do presente Acordo poderão a este aderir,sehouver tempo hábil de compensar, mediante declaração individual, perante a empresa.SETIMA DAS DEMISSÕES No caso de desligamento do empregado por iniciativa da empresa, havendo crédito de horas em favor do empregado, estas lhe serão pagas horas como horas extras, acrescidas de 100% (cem por cento) sobre o valor da hora normal.Se o empregado estiver com saldo devedor de horas, estas não lhe serão cobradas, uma vez que foi impedido de compensá-las.OITAVA-QUORUMPara validade do presente acordo será necessário a adesão de maioria simples de 50% (cinquenta por cento) mais um funcionário, sendo obrigados a cumprir este acordo a minoria que não tenha a ele aderido.E por estarem de pleno acordo, assinam o presente em duas vias, para os efeitos legais e jurídicos.A votação transcorreu normalmente e terminada a votação, conferido a lista de presença com a quantidade de votos no qual foi 39 (Trinta e nove) com dizeres APROVO, 00 (zero) com dizeres NÃO APROVO, 00(zero) em BRANCO, sendo APROVADA A PROPOSTA DA EMPRESA. Cumprida a Ordem do dia e como nada mais houvesse a tratar, o eu agradeci a presença de todos e declarei encerrada a Assembleia às 11:00horas da qual, eu, ......................................................... lavrei a presente, que será assinada por mim e encaminhado para o Sindicato da categoria com uma cópia da Lista de presença e o Acordo assinado pela empresa.
+
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+ 
+
+<ENDofAPPTEXT>
+
+<STARTofTEXT>
+Ficam instituídos para os empregados abrangidos pela presente convenção, pisos salariais na forma abaixo consignada:
+ 
+I) Empregados dos municípios de: Porto Alegre, Alvorada, Ararica, Bagé, Bom Princípio, Cachoeirinha, Campo Bom, Canoas, Capão da Canoa, Capela de Santana, Charqueadas, Dois Irmãos, Eldorado do Sul, Estância Velha, Esteio, Glorinha, Gravataí, Guaíba, Imbé, Ijuí, Ivoti, Lindolfo Collor, Montenegro, Morro Reuter, Nova Hartz, Nova Santa Rita, Novo Hamburgo, Osório, Parobé, Passo Fundo, Portão, Presidente Lucena, Rio Grande, Santa Maria do Herval, Santo Antônio da Patrulha, São Jerônimo, São José do Hortêncio, São Leopoldo, São Sebastião do Caí, Sapiranga, Sapucaia do Sul, Taquara, Torres, Tramandaí, Triunfo, Uruguaiana, Viamão e Xangri-lá.
+                                               
+            A - A partir de 1º de maio de 2015:
+      
+                 a) Empregados em geral: R$ 1.032,00 (um mil e trinta e dois reais) ; e
+ 
+               b) Empregados Zeladores, Guardas e Vigias: R$ 929,00 (novecentos e vinte nove  reais).
+              
+               c) Aprendizes (valor proporcional a R$ 836,00 (oitocentos e trinta e seis reais), que corresponde a 220 horas).
+ 
+ 
+ 
+           A - A partir de 1º de setembro de 2015:
+     a) Empregados em geral: R$ 1.050,00 (um mil e cinquenta reais) ; e
+
+     b) Empregados Zeladores, Guardas e Vigias: R$ 945,00 (novecentos e quarenta e cinco reais).
+ 
+     c) Aprendizes(valor proporcional a R$ 851,00 (oitocentos e cinquenta e um reais), que corresponde a 220 horas).
+ 
+ 
+
+II) Empregados dos demais municípios.
+ 
+            B - A partir de 1º de maio de 2015:
+ 
+                 a) Empregados em geral: R$ 1.029,00 (um mil e vinte e nove reais) ; e
+ 
+                b)  Empregados Zeladores, Guardas e Vigias: R$ 926,00 (novecentos e vinte seis reais).
+ 
+                c) Aprendizes (valor proporcional a R$ 833,00 (oitocentos e trinta e três reais), que corresponde a 220 horas).
+     
+            B - A partir de 1º de setembro de 2015:
+                 a) Empregados em geral: R$ 1.047,00 (um mil e quarenta e sete reais); e
+                 b) Empregados Zeladores, Guardas e Vigias: R$ 942,00 (novecentos e quarenta e dois reais).
+                 c) Aprendizes (valor proporcional a R$ 848,00 (oitocentos e quarenta e oito reais), que corresponde a 220 horas).
+ 
+          Parágrafo Primeiro - Aos empregados ocntratados em regime de experiência, será garantido salário nunca inferior a 90% (noventa por cento) dos valores previstos no "caput" desta cláusula.
+ 
+        Parágrafo Segundo - Entende-se por piso salarial, exclusivamente, o salário nominal do empregado, devendo ser acrescido ao mesmo, quando devido, os adicionais de periculosidade, insalubridade e/ou noturno. 
+ 
+        Parágrafo Terceiro - Fica estabelecido que se o valor fixado para o salário mínimo nacional for superior aos fixados no caput desta cláusula, é assegurado ao empregado o direito de receber, no mínimo, o valor fixado para o salário mínimo nacional.
+        Parágrafo Quarto -Ajustam as partes convenentes que empreenderão negociação coletiva em janeiro de 2016 buscando fixar novos valores para os pisos salariais com valores inferiores ao do salário mínimo nacional.
+|
+Os salários dos empregados representados pela entidade profissional convenente serão majorados, em 1º de maio de 2015, no percentual de 8,34% (oito inteiros e trinta e quatro centésimos por cento), a incidir sobre os salários percebidos em 1º de maio de 2014 e resultantes da aplicação da convenção coletiva ora revista, compensados automaticamente os aumentos espontâneos e antecipações concedidas durante a sua vigência.
+ 
+            Parágrafo Primeiro - O reajuste salarial previsto no "caput" desta cláusula será aplicado até a parcela resultante da aplicação do referido percentual ao valor de R$ 4.128,00 (Quatro mil cento e vinte oito reais)  dos salários, e no que execer este valor aplica-se a livre negociação  com seus empregados, garantindo-se, assim, uma parcela fixa de reajuste de R$ 344,27 (trezentos e quarenta e quatro reais e vinte sete centavos) para os empregados que percebam salário (não computando o valor dos adicionais de periculosidade, insalubridade, tempo de serviço e horas extras) igual ou maior que a parcela referida. 
+
+Não poderão ser objeto de compensação salarial, as majorações salariais decorrentes de término de aprendizagem; promoção por merecimento e antiguidade; transferência de cargo, função, estabelecimento ou de localidade; bem assim de equiparação salarial determinada por sentença transitada em julgado.
+ 
+ 
+             Parágrafo Segundo - A taxa de reajustamento do salário do empregado que haja ingressado na empresa após a data-base será proporcional ao tempo de serviço e terá como limite o salário reajustado do empregado exercente da mesma função, admitido até 12 (doze) meses antes da data-base, com adição ao salário de admissão conforme tabela abaixo:
+  
+ 
+
+
+
+
+
+Admissão
+
+
+Reajuste %
+
+
+Admissão
+
+
+Reajuste %
+
+
+
+
+MAIO/14
+
+
+8,34
+
+
+JUNHO/14
+
+
+7,69
+
+
+
+
+JULHO/14
+
+
+7,41
+
+
+AGOSTO/14
+
+
+7,27
+
+
+
+
+SETEMBRO/14
+
+
+7,08
+
+
+OUTUBRO/14
+
+
+6,56
+
+
+
+
+NOVEMBRO/14
+
+
+6,16
+
+
+DEZEMBRO/14
+
+
+5,60
+
+
+
+
+JANEIRO/15
+
+
+4,95
+
+
+FEVEREIRO/15
+
+
+3,42
+
+
+
+
+MARÇO/15
+
+
+2237
+
+
+ABRIL/15
+
+
+0,71
+
+
+
+
+
+ 
+          
+ 
+ 
+ 
+|
+Serão considerados válidos para os efeitos do art. 462 da CLT, os descontos salariais, desde que prévia e expressamente autorizados pelo empregado, efetuados pelo empregador a título de mensalidades sindicais; mensalidades de associações ou clubes; cesta básica; convênio farmácia; convênios com médicos, dentistas, laboratórios e estabelecimentos comerciais e seguro de vida em grupo.
+            
+            Parágrafo Único - Fica ressalvado o direito do empregado de cancelar, a qualquer tempo e por escrito, a autorização para que se proceda aos descontos salariais acima especificados, respeitadas as obrigações já anteriormente assumidas pelo empregado.
+|
+As diferenças salariais decorrentes da presente Convenção Coletiva de Trabalho deverão  ser  satisfeitas no máximo com os salários do mês de julho de 2015.
+|
+Os empregadores pagarão aos seus empregados, quando da concessão das férias, um adiantamento de 50% (cinqüenta por cento) do décimo-terceiro salário, salvo na hipótese de férias coletivas.
+|
+Os empregadores pagarão um adicional de 5% (cinco por cento) por qüinqüênio completo de serviços prestados, ininterruptamente, à mesma empregadora, que incidirá sobre o salário final que perceber o empregado.
+|
+Os empregadores ficam obrigadas a pagar, quando devido,  o adicional de periculosidade, de 30% (trinta por cento) sobre a remuneração mensal dos empregados na forma da lei.
+|
+Sem prejuízo do adicional no art. 7º, inciso XVII, da Constituição Federal, os empregadores pagarão, anualmente, a todos empregados que tenham, pelo menos, 5 (cinco) anos completos de serviços prestados, ininterruptamente, ao mesmo empregador, quando do gozo de suas férias, uma gratificação - sem natureza salarial, incidente, tão somente, sobre o valor dos dias das férias a serem gozadas, não incidindo tal percentual sobre o "terço constitucional", nos seguintes termos:
+ 
+                        a) de 05 a 10 anos: 10%;
+b) de 10 a 15 anos: 15%; e
+                        c) com mais de 15 anos: 20%.
+|
+Será devida, pelos empregadores a todos os seus empregados, independentemente de sua função, uma cesta básica mensal equivalente ao padrão básico alimentar, contendo, no mínimo, os seguintes produtos:
+ 
+                        3 Kg de açúcar;
+                        10 Kg de arroz tipo agulhinha tipo 1;
+                        3 Kg de feijão preto tipo 1;
+                        1 kg de sal;
+                        1,5 kg de massa com ovos;
+                        1 Kg de café;
+                        2 Kg de farinha de trigo especial;
+                        1 Kg de farinha de milho;
+                        340g de polpa de tomate;
+                        200g de ervilhas;
+                        2.700ml (3 latas) de óleo de cozinha;
+                        400g de bolachas "Maria";
+                        400g de bolachas salgadas;
+                        400g de leite em pó;
+                        400g de achocolatado;
+                        180g de salsichas;
+                        130g de sardinhas;
+                        500g de farinha de mandioca.
+ 
+Parágrafo Primeiro - O valor desta cesta básica será devido pela metade, caso o empregado trabalhar 110 horas normais por mês ou for de meia jornada a sua carga normal.
+ 
+Parágrafo Segundo - Apenas em locais distantes e/ou de difícil abastecimento será permitido convertê-la em pecúnia, sendo indispensável, contudo, a discriminação em recibo de sua destinação específica.
+ 
+Parágrafo  Terceiro  - As partes reconhecem, para todos os fins de direito, que o fornecimento desta cesta básica, por quaisquer das formas aqui referidas, não terá natureza salarial, não podendo ser invocado a qualquer tempo, salvo caso de inadimplência, como salário "in natura".
+ 
+Parágrafo Quarto - Os empregados poderão participar com até, no máximo, 10% (dez por cento) do valor da cesta básica efetivamente fornecida.
+ 
+Parágrafo Quinto - Os empregados que estejam no gozo de férias também terão direito a percepção da cesta básica.
+ 
+Parágrafo Sexto  - O empregado, no mês de sua admissão, terá direito ao recebimento integral da cesta básica, caso trabalhe mais de 15 (quinze) dias no mês.
+ 
+Parágrafo Sétimo  - O empregado demitido sem justa causa e que tiver indenizado o período de aviso prévio, terá direito ao recebimento integral da cesta básica do mês em que recebeu o aviso, que será entregue junto com a cesta básica dos demais empregados.
+
+Parágrafo Oitavo - O empregado perderá o direito a percepção da cesta básica caso no mês anterior ao da concessão do benefício tenha faltado ao trabalho injustificadamente.  
+ 
+            Parágrafo Nono - Além dos casos previstos em lei e na presente convenção coletiva de trabalho como faltas justificadas e que ensejam o abono, também serão entendidas como justificadas, unicamene para os efeitos da presente cláusula, as faltas decorrentes de: a) consulta médica devidamente comprovada; b) acompanhamento de filho menor, filho portador de deficiência, ou de pai e mãe maiores de 70 (setenta) anos, ou inválidos ao médico mediante apresentação de atestado; c) internação hospitalar de filho menor, filho portador de deficiência, ou de pai ou mãe maiores de 70 (setenta) anos ou inválidos (dia da internação); e d) ausência de transporte público em decorrência de grave da categoria rodoviária.
+ 
+|
+As partes acordantes emitirão circular conjunta informando os procedimentos necessários para o aproveitamento direto, e na forma da Lei, do salário educação por parte dos trabalhadores.
+|
+Os empregadores deverão instituir plano de saúde ambulatorial em grupo, em benefício dos integrantes da categoria profissional, ficando estabelecido que o desconto mensal do salário correspondente a participação dos empregados no custeio do plano não poderá ser superior a 5% (cinco por cento) do piso normativo estabelecido na presente convenção coletiva, e não ultrapassará o valor total de custeio do mesmo.
+            
+            Parágrafo Primeiro - O empregado que não deseje integrar o plano de saúde instituído pelo seu empregador por participar de outro, deverá fazê-lo por escrito, comprovando essa condição.
+
+            Parágrafo Seguno - As empresas interessadas em oferecer aos seus empregados plano mais abrangente do que o estabelececido no caput desta cláusula, inclusive com atendimento hospitalar, poderão empreender negociação direta com o sindicato dos empregados, hipótese de que a participação dos empregados poderá ser superior a estabelecida no caput desta cláusula. 
+
+
+|
+É de responsabilidade do empregador a contratação de empresa para a realização dos serviços funerários em caso de falecimento do seu empregado, no valor mínimo de R$ 1.979,00 (um mil novecentos e setenta e nove reais), sem qualquer ônus para o trabalhador.
+ 
+Parágrafo Único - Caso o empregador não contrate a empresa para a realização de serviços funerários, poderão os familiares do empregado falecido contratá-la, sendo os valores despendidos totalmente ressarcidos mediante a efetiva comprovação de despesas relacionadas ao evento em questão, até o limite de R$ 1.979,00 (um mil novecentos e setenta e nove reais).
+|
+Os empregadores instituirão em favor de seus empregados seguro de vida e invalidez permanente sem ônus para os trabalhadores.
+ 
+Parágrafo Único - Os empregadores ficam obrigados a dar conhecimento aos seus empregados do número da apólice do seguro, seja no recibo de pagamento mensal de salários ou no quadro geral de avisos.
+|
+Os empregadores manterão sistema de convênio com farmácias ou drogarias, para a compra, por parte de seus empregados, de medicamentos, até um valor mensal equivalente a 20% (vinte por cento) do piso salarial.
+ 
+Parágrafo Primeiro - O valor dos medicamentos adquiridos pelos trabalhadores será descontado em folha, desde que previamente autorizado por escrito, devendo o respectivo valor ser discriminado, especificamente, no recibo de pagamento.
+ 
+Parágrafo Segundo - Desde que atendidas as exigências da presente cláusula e debitado o valor exato da compra, ficam inteiramente atendidos os requisitos do artigo 462 da CLT para fins de legalidade destes descontos nos salários dos obreiros.
+|
+A entidade profissional e o órgão do Ministério do Trabalho, exigirão, por ocasião da assistência às homologações contratuais, que a empresa que estiver rompendo o vínculo de emprego apresente guias comprovando que está quites com o pagamento da contribuição assistencial patronal.
+|
+O empregado que haja pedido demissão ficará dispensado do cumprimento do aviso prévio desde  que o seu empregador possua, na mesma função, ao menos, outros 3 (três) empregados em efetivo exercício de sua atividade.
+|
+Em caso de despedida imotivada de empregado com mais de 45 (quarenta e cinco) anos completos de idade e entre 60 (sessenta) e 120 (cento e vinte)  meses de trabalho ininterruptos para a mesma empresa, será concedido  aviso prévio de 60 (sessenta) dias, sendo 30 (trinta) trabalhados e 30 (trinta) indenizados, benefício que não é cumulativo com o aviso prévio proporcional ao tempo de serviço previsto em lei.|
+As empresas ficam impedidas de demitir o empregado, salvo nos casos de justa causa, em domingos e/ou feriados.
+ 
+            Parágrafo Primeiro - As empresas efetuarão o pagamento dos valores relativos à rescisão contratual de trabalho nos seguintes prazos:          
+a) Até o 1º (primeiro) dia útil imediato ao término do contrato de trabalho por prazo determinado ou do aviso prévio trabalha­do;
+b) Até o 10º (décimo) dia, contado da data da notificação, quando, em rescisão de contrato à prazo indetermi­nado, não houver aviso prévio; houver aviso prévio, porém o mesmo for indenizado; ou houver aviso prévio, porém ocorrer a dispensa de seu cumprimento.
+ 
+Parágrafo Segundo - A inobservância dos prazos acima sujeitará a empresa infratora ao pagamento de multa prevista na Consolidação das Leis do Trabalho, limitado ao valor de seu salário, salvo quando, comprovada­mente, o empregado der causa à mora. Não caberá esta multa:
+                        a) Se o empregado não comparecer no local, dia e hora designada para o pagamento, ou, comparecendo, negar-se a receber as importâncias que lhe forem oferecidas, circunstância que deverá ser atestada pela entidade profissional caso seja o agente homologador;
+                        b) Mesmo que em reclamação judicial a empresa seja condenada a pagar diferenças ou importâncias maiores do que as oferecidas;
+c) Se a empresa promover, dentro do prazo para pagamento das verbas rescisórias, ação de consigna­ção em pagamento e depósito;
+d) no caso de recusa de assistência na homologa­ção da rescisão pela entidade sindical representante do empregado ou perante o Ministério do Trabalho. 
+ 
+Parágrafo Terceiro - A multa prevista na cláusula "multa" da presente convenção não se aplica no caso de descumprimento da obrigação prevista na presente cláusula.
+|
+Em caso de rescisão de contrato de trabalho, motivada pelo empregador ou empregado, e havendo controvérsia sobre parte da importância dos salários, decorrente de lei ou da presente convenção, o primeiro é obrigado a pagar a este, à data de seu comparecimento à Vara do Trabalho, a parte incontroversa dos salários ou vantagem convencional com esta mesma natureza, sob pena de ser, quanto a esta parte, condenada a pagá-lo em dobro.
+|
+O empregado que estiver a doze meses da data de aposentadoria, por idade ou por tempo de serviço (com tempo de serviço já comprovado perante seu empregador), desde que tenha cinco ou mais anos de trabalho efetivo e ininterrupto na mesma empresa (com direito à contagem desse tempo de serviço faltante para implementar o direito de aposentadoria para este fim), terá garantida a estabilidade provisória no emprego.
+ 
+Parágrafo Primeiro: As partes reconhecem que a estabilidade retro não prevalecerá diante de demissão causada pela ocorrência de falta grave, nos termos da legislação em vigor. 
+ 
+Parágrafo Segundo - Caso a falta grave alegada não prevaleça em discussão judicial, serão devidos os salários até o final da referida estabilidade e não do trânsito em julgado da decisão que estiver sub judice, não cabendo no presente caso, igualmente, reintegração que ultrapasse o período de estabilidade.|
+Fica definitivamente acordada a obrigatoriedade do uso de "bicos automáticos" em todas as bombas abastecedoras.
+|
+Fica vedada a utilização, pelas empresas abrangidas pela presente Convenção Coletiva de Trabalho, do sistema de auto serviço (self service) para o abastecimento de combustíveis.
+ 
+Parágrafo Primeiro - O descumprimento do previsto no caput implica no pagamento de uma multa mensal, por bomba de abastecimento operada nesse sistema, no valor equivalente ao maior piso salarial previsto na cláusula 3ª desta Convenção Coletiva de Trabalho.
+ 
+Parágrafo Segundo - A multa reverterá em 50% (cinqüenta centésimos) para o sindicato obreiro e em 50% (cinqüenta centésimos) para o sindicato patronal.
+|
+Caso a conferência de estoque e o fechamento do caixa ocorrer após o final da jornada, o período a ele correspondente deverá ser remunerado como horário extraordinário e pago nos percentuais previstos na cláusula "hora extra" desta convenção.
+|
+Fica acordado coletivamente a possibilidade de prorrogação da jornada normal dos empregados, sempre que necessitar o empregador, cujas horas extras são remuneradas com 50% (cinquenta por cento) de adicional em se tratando das duas primeiras e as demais com 100% (cem por cento) de adicional.
+|
+A duração normal da jornada diária de trabalho poderá, para fins de adoção do regime de compensação horária de que trata o art. 59 da CLT, ser acrescida de horas suplementares em número não excedente de 02 (duas) horas, respeitada a seguinte sistemática:
+ 
+a) o regime de compensação horária poderá ser estabelecido por períodos máximos de 60 (sessenta) dias;
+ 
+b) fica limitado em 30 (trinta) o número máximo de horas suplementares que poderão ser realizadas por mês para efeitos da compensação horária prevista no "caput" da presente cláusula;
+ 
+c) as horas suplementares prestadas aos domingos e feriados não poderão ser objeto de compensação horária, exceto na própria semana em que forem realizadas, desde que não ultrapassado o limite máximo de 44 (quarenta e quatro) horas;
+ 
+d) as empresas que utilizam regime de compensação horária deverão adotar controle de ponto da carga horária do empregado;
+ 
+Parágrafo Primeiro - As horas acrescidas e não compensadas dentro do período estabelecido deverão ser pagas com o adicional previsto na presente convenção coletiva de trabalho.
+ 
+Parágrafo Segundo - As horas de trabalho reduzidas na jornada para posterior compensação não poderão ser objeto de descontos salariais, caso não venham a ser compensadas com o respectivo aumento da jornada dentro do período nem poderão ser objeto de compensação nos meses subseqüentes.
+ 
+Parágrafo Terceiro - Havendo rescisão do contrato e se houver crédito a favor do empregado, as respectivas horas serão computadas e remuneradas com o adicional de horas extras previsto na presente convenção coletiva de trabalho.
+ 
+Parágrafo Quarto - Se houver débitos de horas do empregado para com o empregador, na hipótese de rompimento de contrato por iniciativa do empregador, as horas não trabalhadas serão abonadas, sem qualquer desconto nas verbas a que o trabalhador tiver direito na rescisão de contrato de trabalho.
+ 
+Parágrafo Quinto - A faculdade estabelecida nesta cláusula se aplica a todas as atividades, inclusive aquelas consideradas insalubres, independentemente da autorização a que se refere o art. 60 da Consolidação das Leis do Trabalho.
+|
+Fica acordado, nos termos facultados pela exceção ressalvada no "caput" do artigo 71 da Consolidação das Leis do Trabalho, que o intervalo entre turnos de trabalho poderá ser superior a duas horas, ou inferior a uma hora, mediante acordo coletivo que conte com a anuência da maioria dos empregados de cada empresa, assistidos pela entidade profissional.
+|
+Mediante prévio aviso, será abonada a falta do empregado estudante, no dia de prova escolar obrigatória, ou exame vestibular para ingresso em instituição de ensino superior. A falta assim abonada será considerada como dia de trabalho efetivo, para todos os efeitos legais.
+ 
+Parágrafo Único - A comprovação da prova escolar deverá ser efetuada por meio de declaração escrita do estabelecimento de ensino. Com relação ao exame vestibular, se fará mediante a apresentação da respectiva inscrição e do calendário dos referidos exames, publicado pela imprensa ou fornecido pela própria instituição.
+|
+Não serão, para quaisquer fins, consideradas faltas ou ausências injustificadas:
+I - Meia jornada, para o recebimento do PIS, desde que a empresa não utilize sistema de depósito em conta corrente;     
+                        II - Três dias úteis no caso de casamento do empregado; e
+III – Dois dias consecutivos em caso de falecimento de cônjuge, ascendente, descendente, de irmão ou de pessoa que, declarada em sua Carteira de Trabalho e Previdência Social, viva sob sua dependência econômica.
+|
+Estando as empresas autorizadas a trabalharem com a utilização de empregados em domingos e feriados por força de norma específica, ajustam as partes que a cada três semanas o repouso semanal remunerado deverá coincidir com o domingo, ou seja, após dois domingos trabalhados o outro será  necessariamente de repouso, hipótese em que a concessão de repouso semanal remunerado poderá ocorrrer antes ou após o sétimo dia consecutivo de trabalho, não importando no seu pagamento em dobro.
+Parágrafo Primeiro - Os empregados que trabalham normalmente aos domingos, folgando em outro dia da mesma semana, na hipótese do domingo coincidir com feriado e o trabalho for exigido, terão as horas remuneradas com o adicional de 100% (cem por cento) correspondendo à indenização pelo trabalho em dia de repouso.
+Parágrafo Segundo - A indenização não será devida caso o empregador determine outro dia de folga na mesma semana, hipótese em que o empregado não trabalhará em dois dias (o do descanso semanal remunerado e o da compensação do feriado trabalhado).|
+O gozo das férias dos empregados não poderá ter início nos dias úteis que antecedam os domingos e os feriados.
+|
+Sempre que for exigido pelo empregador o uso de uniformes ou equipamentos de proteção, deverão ser fornecidos sem ônus para o empregado. 
+|
+Fica reconhecida, nos termos da NR7, da Portaria 3214/78 do Mtb, a obrigatoriedade da realização, por conta do empregador, dos exames médicos admissionais, periódicos e demissionais previstos na referida norma, que compreenderão a avaliação clínica do empregado.
+ 
+Parágrafo Primeiro - Os empregadores ficam obrigados a entregar ao empregado o Atestado de Saúde Ocupacional.
+ 
+Parágrafo Segundo -  Ficam desobrigadas de indicar médico coordenador do PCMSO as empresas com até 20 (vinte) empregados.
+ 
+Parágrafo Terceiro - As empresas somente estarão obrigadas a realizar o exame médico demissional até a data da homologação da rescisão contratual, caso o último exame ocupacional do empregado tenha sido realizado a mais de 180 (cento e oitenta) dias.
+|
+Os empregadores reconhecerão como válidos os atestados médicos e odontológicos fornecidos por profissionais que prestem serviços a entidade profissional convenente.
+|
+Os empregadores fornecerão a seus empregados expostos habitual e permanentemente à agentes nocivos relacionados nos decretos regulamentadores da Previdência Social e na NR-15 da Portaria nº 3.212/78 do Ministério do Trabalho e Emprego, quando da rescisão contratual, o Perfil Profissiográfico Previdenciário (PPP).
+|
+Fica reconhecida a obrigatoriedade, nos termos do Decreto 611/92, que regulamenta a lei 8.213/91, a emissão de CAT (Comunicação de Acidente de Trabalho), com cópia para o acidentado e/ou seus dependentes.
+ 
+Parágrafo Único: A pedido do empregado ou de seus dependentes a cópia da CAT, a que se refere o artigo 162 do diploma legal supra referido,  deverá ser entregue a entidade profissional a que pertença o acidentado.
+|
+Será facultado as entidades convenentes a divulgação de avisos e informações às respectivas categorias, em quadro mural a ser afixado nas empresas, sendo vedado o conteúdo político-partidário ou ofensivo
+|
+Os empregadores reconhecem como representantes sindicais da categoria, em determinadas regiões, simétricas àquelas onde a entidade patronal possua suas próprias delegacias, a figura do delegado sindical. Nestas condições, o delegado sindical obreiro deverá ser escolhido em processo eleitoral prévio e publicamente convocado pela imprensa em jornais de circulação na região, sendo condições e pré-requisitos:
+                        a) que o empregado tenha dois anos de trabalho na categoria profissional;
+            b) que o empregador a que o candidato esteja vinculado possua, pelo menos, 10 (dez) empregados; e
+c) inexistindo na região condições fáticas para o cumprimento dos requisitos acima, caberá ao sindicato profissional e ao econômico, estabelecer os critérios que permitam a eleição e o reconhecimento do delegado.
+ 
+Parágrafo Primeiro - O mandato do eleito findará um ano após a assinatura da presente convenção.
+ 
+Parágrafo Segundo - Os empregadores se comprometem, desde que requisitados com pelo menos 48 (quarenta e oito) horas de antecedência, a liberar do trabalho o referido delegado sindical, até o limite de dois dias em um mês, na proporção de seis meses no ano. Nestes limites, o empregador não poderá recusar a dispensa, devendo as horas de trabalho não cumpridas serem compensadas pelo empregado-delegado dentro do mesmo mês.
+|
+Sempre que requerido pela federação obreira, se compromete o empregador a liberar um de seus dirigentes eleitos, sem prejuízo de sua remuneração mensal, limitada esta até a importância de três pisos normativos mensais, se e quando respeitadas as seguintes condições:
+a) apenas um dirigente sindical eleito, por empresa ou grupo econômico a que pertença, desde que a empresa da qual faça parte possua mais de 100 (cem) empregados;
+b) respeitado pela Federação obreira o limite de liberação requerida de até 5 (cinco) dirigentes eleitos, para toda a categoria patronal; e
+                        c) o período dessa liberação não ultrapasse o da vigência desta Convenção.
+ 
+Parágrafo Único - Fora destas condições, o empregador se compromete a liberar o dirigente eleito, se também requerido, só que sem ônus de pagamento salarial, ou de obrigação de qualquer natureza daí decorrente.
+|
+A federação profissional enviará ao sindicato patronal, até 30 (trinta) dias após a assinatura da presente convenção, relação de todos os seus dirigentes sindicais (titulares e suplentes) e respectivos cargos, com destaque para os que trabalham no Rio Grande do Sul, comprometendo-se em encaminhar nova relação a cada eleição realizada.
+|
+Obrigam-se os empregadores a fornecer a Federação obreira, quando por ela solicitado, no sentido deste manter o controle da categoria sindical representada e o número de seus empregados, uma via da relação de empregados admitidos e demitidos, idêntica àquela a ser enviada a Superintendência Regional do Ministério do Trabalho, até o dia 20 do mês subseqüente.
+|
+Todos os empregadores descontarão, de todos os seus empregados abrangidos por esta Convenção, na forma da Ordem de Serviço nº 1, de 24 de março de 2009, do Ministério do Trabalho e Emprego, nos meses de julho/15 e outubro/15 importâncias correspondentes, em cada oportunidade, a 3% (três por cento) da remuneração mensal de cada empregado, e no mês de dezembro/15 a importância correspondente a 4% (quatro por cento) da remuneração mensal de cada empregado, conforme autorizado por sua Assembléia Geral. Os recolhimentos deverão ser feitos até trinta dias após a realização do desconto, através de guia própria para este fim, disponibilizada pela federação. Por mora ou inadimplência do empregador, incidirá cláusula penal de 20% (vinte por cento) além de juros de mora e correção monetária, na forma prevista em lei para a correção de débitos trabalhistas.
+|
+As empresas representadas pelo sindicato patronal convenente, tenham ou não empregado, recolherão aos cofres da entidade, por cada estabelecimento, individualmente, inclusive filiais, até 25 de julho de 2015, conforme deliberação da Assembléia Geral da categoria, a título de contribuição assistencial, a importância de R$ 500,00 (quinhentos  reais), sob pena de multa de 50% (cinqüenta por cento), juros de 1% (um por cento) ao mês e correção monetária.
+|
+Fica estabelecido um Comitê de Supervisão da Convenção formada paritariamente por representantes da federação obreira e sindicato patronal.
+ 
+Parágrafo Primeiro - O Comitê terá como princípios a boa-fé, o consenso entre seus integrantes e a auto-composição entre as partes, visando, com sua ação, buscar sempre garantir os fins sociais a que se dirigem a Convenção e a Lei.
+ 
+Parágrafo Segundo - Caberá ao Comitê garantir a eficácia da presente convenção, buscando solucionar as divergências individuais ou coletivas surgidas entre empregados e empregadores.
+ 
+Parágrafo Terceiro - Caberá, também ao Comitê orientar e aconselhar empregados e empregadores acerca do cumprimento das normas previdenciárias, trabalhistas e sociais, buscando solucionar as divergências individuais ou coletivas surgidas entre empregados e empregadores.
+ 
+Parágrafo Quarto - Suas deliberações, quando unânimes e de caráter coletivo, deverão ser publicadas em circular conjunta dos sindicatos obreiro e patronal, visando sua observância pelas respectivas categorias.
+ 
+Parágrafo Quinto -  Caberá ao Comitê de Supervisão da Convenção, coordenar o debate em torno da viabilidade da adoção do sistema de participação dos empregados nos lucros ou resultados das empresas.
+ Parágrafo Sexto - As partes até 60 dias após a instalação do Comitê, deverão editar as normas que regulamentam o seu funcionamento
+|
+Fica mantida a necessária realização de encontros quadrimestrais, a contar da data-base, para se discutir o cumprimento da presente convenção pelas partes, bem como para rediscutir as cláusulas de natureza econômica.
+ 
+Parágrafo Único - Havendo alterações nas políticas oficiais referente a salários, tributos ou à econômica o encontro poderá ocorrer a qualquer época a pedido de uma das partes.
+|
+Os empregados de empresas que mantenham, concomitantemente, a atividade de venda de combustíveis e a de estacionamento, garagem e/ou lavagem serão beneficiados pelo presente acordo.
+|
+A Carteira do Trabalho e Previdência Social (CTPS) de todo o empregado deverá, obrigatoriamente, ser anotada até 48 (quarenta e oito horas) após a celebração do Contrato de Trabalho.
+ 
+Parágrafo Único - É, igualmente, obrigatória a anotação do contrato de experiência bem como sua prorrogação, se houver, sob pena de tê-lo como por tempo indeterminado.
+|
+Os empregadores ficam obrigados a pagar seus empregados mediante recibos de salários, com discriminação específica de todas as parcelas relativas ao pacto laboral.
+|
+Nas empresas que autorizem o recebimento de cheques os empregados deverão anotar no seu verso, a placa do veículo, o número da carteira de identidade do emitente e, se houver, o seu telefone, bem como conferir que estejam assinados e preenchidos corretamente todos os espaços próprios, cujo valor deverá corresponder ao valor da venda e/ou serviço prestado. 
+ 
+Parágrafo Primeiro - Em caso de devolução do cheque, sem que tenham sido observadas as formalidades previstas no caput, os empregados poderão ser responsabilizados. 
+ 
+Parágrafo Segundo - Quando a eventual devolução de cheques sem pagamento ou compensação ocorrer por insuficiência de fundos ou encerramento de conta, a responsabilidade será exclusiva do empregador, não podendo, em nenhuma hipótese, proceder descontos na remuneração de seus empregados e nem transferir a estes a tentativa de cobrança.
+ 
+Parágrafo Terceiro - Na hipótese do parágrafo primeiro, havendo desconto nos salários, este deverá ser discriminado expressamente no recibo de pagamento, sob pena de sua ilegalidade. 
+ 
+Parágrafo Quarto - As partes reconhecem que, cumpridas as formalidades e discriminado no recibo de pagamento, este desconto enquadrar-se-á na hipótese do artigo 462 da CLT.
+|
+Nas empresas que autorizem o pagamento por meio de cartões de crédito, o empregado que receber o pagamento deverá rubricar o comprovante da dívida contraída pelo cliente.
+|
+Atendendo o disposto no artigo 613, VIII da CLT, fica estipulada, salvo disposição expressa em contrário, uma multa equivalente a 20% (vinte por cento) do piso salarial, até o limite do principal, pelo descumprimento de cada cláusula prevista nesta convenção que reverterão em 50% (cinqüenta por cento) para o prejudicado e 50% (cinqüenta por cento) para o sindicato que lhe representar.
+ 
+Parágrafo Primeiro - A aplicação da presente multa fica condicionada ao não cumprimento do dispositivo no prazo fixada pelo Comitê de Supervisão da Convenção previsto na cláusula "Comitê de Supervisão da Convenção" deste instrumento.
+ 
+Parágrafo Segundo - A multa poderá ser reduzida em virtude da situação sócio-econômica do responsável pelo descumprimento.
+|
+Sem prejuízo do disposto na cláusula "Comitê de Supervisão da Convenção", é competente a Justiça do Trabalho para dirimir as divergências decorrentes da aplicação desta convenção.
+|
+Fica estabelecido entre as partes convenentes que irão negociar até outubro de 2015 alguns itens da pauta patronal e dos empregados.

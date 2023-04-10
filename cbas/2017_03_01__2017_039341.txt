@@ -1,0 +1,401 @@
+<STARTofTITLE>
+Mediador - Extrato Convenção Coletiva
+<ENDofTITLE>
+
+<STARTofVALIDITY>
+carimbo
+<ENDofVALIDITY>
+
+<STARTofHEADERS>
+NÚMERO DE REGISTRO NO MTE|SP001162/2018
+DATA DE REGISTRO NO MTE|30/01/2018
+NÚMERO DA SOLICITAÇÃO|MR039341/2017
+NÚMERO DO PROCESSO|46219.010420/2017-04
+DATA DO PROTOCOLO|10/07/2017
+<ENDofHEADERS>
+
+<STARTofCOUNTERPART1>
+SIN EMPREG AG AUT COM EMP ASS P IF PQ EMP SERV CONT ESP|60.976.404/0001-47|Presidente|JOAO BAPTISTA DE GOUVEIA
+<ENDofCOUNTERPART1>
+<STARTofCOUNTERPART2>
+SINDICATO NACIONAL DAS EMPRESAS DE ARRENDAMENTO MERCANTIL (LEASING)|49.877.558/0001-49|Presidente|OSMAR RONCOLATO PINHO
+<ENDofCOUNTERPART2>
+
+<STARTofSTARTDATE>
+01/03/2017
+<ENDofSTARTDATE>
+<STARTofEXPRIRATIONDATE>
+28/02/2018
+<ENDofEXPIRATIONDATE>
+
+<STARTofRENEGOTIATION>
+01/03
+<ENDofRENEGOTIATION>
+
+<STARTofCATEGORY>
+empregados dos Agentes Autônomos do Comércio do plano da CNTC – empregados das empresas de arrendamento mercantil
+<ENDofCATEGORY>
+<STARTofGEOGRAPHY>
+Barueri/SP|Caieiras/SP|Cajamar/SP|Carapicuíba/SP|Cotia/SP|Embu Das Artes/SP|Embu Guaçu/SP|Francisco Morato/SP|Franco Da Rocha/SP|Itapecerica Da Serra/SP|Itapevi/SP|Jandira/SP|Juquitiba/SP|Osasco/SP|Pirapora Do Bom Jesus/SP|Santana De Parnaíba/SP|São Lourenço Da Serra/SP|São Paulo/SP|Taboão Da Serra/SP|Vargem Grande Paulista/SP
+<ENDofGEOGRAPHY>
+
+<STARTofCLAUSES>
+Piso Salarial|PISO SALARIAL
+Piso Salarial|REAJUSTE SALARIAL
+Pagamento de Salário – Formas e Prazos|COMPROVANTES DE PAGAMENTO (HOLLERITH)
+Outras normas referentes a salários, reajustes, pagamentos e critérios para cálculo|SALÁRIO DO SUCESSOR
+Outras normas referentes a salários, reajustes, pagamentos e critérios para cálculo|DIFERENÇAS SALARIAIS, DE GRATIFICAÇÕES E DE BENEFÍCIOS
+Outras normas referentes a salários, reajustes, pagamentos e critérios para cálculo|SUBSTITUIÇÃO TEMPORÁRIA
+13º Salário|ADIANTAMENTO DO 13º SALÁRIO
+Adicional de Hora-Extra|GRATIFICAÇÃO DE CAIXA
+Adicional de Hora-Extra|ADICIONAL DE HORA EXTRA
+Adicional Noturno|ADICIONAL NOTURNO
+Outros Adicionais|INDENIZAÇÃO ADICIONAL
+Participação nos Lucros e/ou Resultados|PARTICIPAÇÃO DOS EMPREGADOS NOS LUCROS OU RESULTADOS   EXERCÍCIO DE 2016
+Participação nos Lucros e/ou Resultados|ADICIONAL DE PARTICIPAÇÃO NOS LUCROS OU RESULTADOS
+Auxílio Alimentação|AUXÍLIO REFEIÇÃO
+Auxílio Alimentação|AUXÍLIO CESTA ALIMENTAÇÃO
+Auxílio Transporte|VALE TRANSPORTE
+Auxílio Educação|AUXÍLIO EDUCAÇÃO
+Auxílio Saúde|ASSISTÊNCIA MÉDICA E HOSPITALAR
+Auxílio Doença/Invalidez|COMPLEMETAÇÃO DO AUXÍLIO DOENÇA PREVIDENCIÁRIO/ AUXÍLIO DOENÇA ACIDENTÁRIO
+Auxílio Morte/Funeral|AUXÍLIO FUNERAL
+Auxílio Creche|AUXÍLIO CRECHE/BABÁ
+Outros Auxílios|FILHOS EXCEPCIONAIS OU DEFICIENTES FÍSICOS
+Outros Auxílios|GRATIFICAÇÃO POR APOSENTADORIA
+Aviso Prévio|AVISO DE DISPENSA
+Aviso Prévio|AVISO PRÉVIO ESPECIAL
+Outras normas referentes a admissão, demissão e modalidades de contratação|PRAZO PARA HOMOLOGAÇÃO DE RESCISÃO CONTRATUAL
+Estabilidade Mãe|ESTABILIDADE PROVISÓRIA DA GESTANTE
+Estabilidade Pai|ESTABILIDADE PAI
+Estabilidade Serviço Militar|ESTABILIDADE ALISTADO NO SERVIÇO MILITAR
+Estabilidade Aposentadoria|ESTABILIDADE PRÉ APOSENTADORIA
+Outras normas referentes a condições para o exercício do trabalho|REQUALIFICAÇÃO PROFISSIONAL
+Outras normas de pessoal|CARTA DE CONFIRMAÇÃO DE ÚLTIMO CARGO E TEMPO DE TRABALHO
+Outras normas de pessoal|ATESTADO DE AFASTAMENTO E SALÁRIOS E RELAÇÕES DE SALÁRIOS DE CONTRIBUIÇÃO
+Outras normas de pessoal|RECONHECIMENTO DOS DIREITOS DOS EMPREGADOS EM UNIÃO HOMOAFETIVA
+Outras estabilidades|ESTABILIDADE PROVISÓRIA AO AFASTADO   DOENÇA
+Faltas|AUSÊNCIAS LEGAIS
+Outras disposições sobre jornada|DIGITADORES
+Outras disposições sobre jornada|EMPREGADO ESTUDANTE
+Duração e Concessão de Férias|INÍCIO DE FÉRIAS
+Outras disposições sobre férias e licenças|EXTENSÃO DO DIREITO A FÉRIAS PROPORCIONAIS
+Uniforme|UNIFORMES
+Aceitação de Atestados Médicos|ATESTADOS MÉDICOS E ODONTOLÓGICOS DO SINDICATO
+Sindicalização (campanhas e contratação de sindicalizados)|SINDICALIZAÇÃO
+Liberação de Empregados para Atividades Sindicais|DIRIGENTES SINDICAIS   PARTICIPAÇÃO EM CURSOS
+Outras disposições sobre relação entre sindicato e empresa|QUADRO DE AVISOS
+Descumprimento do Instrumento Coletivo|CLÁUSULA PENAL
+Outras Disposições|SISTEMA ALTERNATIVO ELETRONICO DE CONTROLE DE JORNADA DE TRABALHO
+<ENDofCLAUSES>
+
+<STARTofAPPENDICES>
+ATA
+<ENDofAPPENDICES>
+
+<STARTofAPPTEXT>
+
+Anexo (PDF)
+
+<ENDofAPPTEXT>
+
+<STARTofTEXT>
+Durante a vigência desta Convenção, para a jornada de 08 (oito) horas, nenhum empregado poderá ser admitido com salário inferior aos seguintes valores:
+a)       R$ 1.420,42 (mil quatrocentos e vinte reais e quarenta e dois centavos) para os que exerçam o cargo de contínuo, portaria, servente ou outro equivalente.
+ 
+b)       R$ 2.045,86 (dois mil e quarenta e cinco reais e oitenta e seis centavos) para os demais cargos.
+Parágrafo Primeiro: Na contratação de estagiário sem vínculo empregatício, como admitido em Lei, será observado o salário de ingresso estabelecido nesta Cláusula, na proporção das horas de sua jornada de trabalho.
+ 
+Parágrafo Segundo: Quando o salário resultante da aplicação do reajuste previsto na Cláusula “Reajuste Salarial” for de valor inferior ao salário de ingresso aqui estabelecido, prevalecerá, como novo salário, a partir de 01/03/2017, o valor mínimo previsto nesta Cláusula.
+|
+A partir de 1º (primeiro) de março de 2017, os empregadores concederão aos seus empregados, reajuste salarial de 4,69 % (quatro inteiros e sessenta e nove por cento) sobre o salário vigente em fevereiro de 2017, compensando-se todos os reajustes, aumentos, antecipações ou abonos, compulsórios ou espontâneos concedidos no período de 01/03/2016 a 28/02/2017, este percentual corresponde ao período de 01/03/2016 a 28/02/2017.
+Parágrafo Primeiro: Não serão compensados os aumentos decorrentes de promoção, transferência, equiparação salarial e término de aprendizagem.
+Parágrafo Segundo: Não serão consideradas as verbas que tiverem regras próprias nesta CONVENÇÃO COLETIVA DE TRABALHO, para efeito de aplicação dos reajustes previstos nesta cláusula.
+Parágrafo Terceiro: Na hipótese de empregado admitido após 01/03/2016, ou em se tratando de empresa constituída e em funcionamento depois desta data, o reajustamento será proporcional ao número de meses trabalhados, considerado como mês a fração igual ou superior a 15 (quinze) dias, com preservação da hierarquia salarial e respeitados os paradigmas quando existentes.
+|
+O empregador deverá fornecer ao empregado comprovantes de pagamento de salários com a discriminação das quantias pagas e descontos efetuados, contendo a identificação da empresa e do empregado.
+Parágrafo Único: No referido comprovante deverá constar, também, a importância relativa ao FGTS, atinente ao mês do pagamento.
+|
+Admitido empregado para função de outro, dispensado sem justa causa, será garantido àquele salário igual ao do empregado de menor salário na função, sem considerar as vantagens de caráter pessoal.
+|
+As diferenças salariais de gratificações e de benefícios, referentes aos meses de março, abril, maio e junho de 2017 serão pagas até, no máximo, a data de pagamento do salário mês de julho/2017.
+|
+Enquanto perdurar substituição que não tenha caráter meramente eventual, o empregado substituto fará jus ao salário contratual do substituído.
+|
+As empresas pagarão até o dia 31 de junho de 2017, aos empregados admitidos até 31 de dezembro de 2016, a metade da gratificação natalina (13º Salário - primeira parcela) relativa ao ano de 2017, salvo se o empregado já tiver recebido por ocasião do gozo de férias.
+Parágrafo Único: O adiantamento da gratificação de natal previsto no parágrafo 2º, do art. 2º, da Lei nº 4.749, de 12/08/65, e no art. 4º do Decreto nº 57.155, de 03/11/65, aplica-se, também, ao empregado que requerer o gozo de férias para o mês de janeiro de 2018.
+|
+Fica assegurado aos empregados que efetivamente exerçam e aos que venham exercer, na vigência da presente CONVENÇÃO, as funções de Caixa e Tesoureiro, o direito à percepção de R$ 482,97 (quatrocentos e oitenta e dois reais e noventa e sete centavos), mensais, a título de Gratificação de Caixa, respeitando-se o direito dos que já percebem essa mesma vantagem em valor mais elevado.
+ 
+|
+As duas primeiras horas extras diárias serão pagas com adicional de 50% (cinquenta por cento) sobre o valor da hora ordinária. As horas extras excedentes da segunda diária sofrerão majoração de 100% (cem por cento), sobre a mesma base.
+Parágrafo Primeiro: Quando prestadas durante toda a semana anterior, as Empresas pagarão, também, o valor correspondente ao repouso semanal remunerado, inclusive feriados.
+Parágrafo Segundo: O cálculo do valor da hora extra será feito tomando-se por base o somatório de todas as verbas salariais fixas.
+|
+O trabalho noturno, assim entendido o prestado no período compreendido das 22:00 às 6:00 horas, receberá adicional de 35% (trinta e cinco por cento) sobre o valor da hora diurna, sem prejuízo da redução da hora noturna estabelecida em lei, ressalvadas as situações mais vantajosas.
+|
+O Empregado dispensado sem justa causa, com data de comunicação da dispensa entre o dia 01/03/2017 e o dia 31/05/2017 não computado, para este fim, o prazo do aviso prévio indenizado, fará jus a uma indenização adicional, nos valores abaixo discriminados, respeitadas, as condições mais favoráveis. Para os efeitos desta cláusula, o empregado com data de comunicação de dispensa anterior a 01/03/2017, mesmo que o período de aviso prévio coincida ou ultrapasse esta data, não faz jus à indenização adicional. A indenização adicional prevista nesta cláusula tem caráter excepcional e transitório.
+ 
+
+
+
+
+VÍNCULO EMPREGATÍCIO COM A EMPRESA
+
+
+INDENIZAÇÃO ADICIONAL
+
+
+
+
+Até 5 (cinco) anos
+
+
+1 (um) valor do aviso prévio
+
+
+
+
+de 5 (cinco) até 10 (dez) anos
+
+
+1,5 (um e meio) valor do aviso prévio
+
+
+
+
+de 10 (dez) até 20 (vinte) anos
+
+
+2 (dois) valores do aviso prévio
+
+
+
+
+Acima de 20 (vinte) anos
+
+
+3 (três) valores do aviso prévio
+
+
+
+
+|
+As empresas que não possuírem programas próprios da PLR e, desde que seus balanços de 31/12/2016 apresentem lucros ou resultados e que tenham disponibilidade financeira, efetuarão até 30/06/2017 pagamento único de 90% (noventa por cento) sobre o salário-base resultante da Convenção Coletiva de Trabalho de 2017, acrescido do valor fixo de R$1.481,52 (mil quatrocentos e oitenta e um reais e cinquenta e dois centavos) aos empregados admitidos até 31/12/2015 e em efetivo exercício em 31 de dezembro de 2016, limitado ao valor máximo de R$10.998,00 (dez mil, novecentos e noventa e oito reais).
+Parágrafo Primeiro: O percentual, o valor fixo e o limite máximo convencionados no “caput” desta Cláusula, a título de PLR, observarão, em face do exercício de 2016, como teto, o percentual de 15% (quinze por cento) e, como mínimo, o percentual de 5% (cinco por cento) do lucro líquido da Empresa. Quando o total de PLR calculado pela regra básica do “caput” desta Cláusula for inferior a 5% (cinco por cento) do lucro líquido da Empresa, no exercício de 2016, o valor individual deverá ser majorado até alcançar 2,2 (dois vírgula dois) salários do empregado e limitado ao valor de R$23.627,90 (vinte e três mil seiscentos e vinte e sete reais e noventa centavos), ou até que o total da PLR atinja 5% (cinco por cento) do lucro líquido, o que ocorrer primeiro.
+Parágrafo Segundo: As Empresas que apresentaram prejuízo demonstrado no seu balanço de 31/12/2016 estão isentas do pagamento da PLR.
+Parágrafo Terceiro: As empresas que mesmo tendo lucros ou resultados no seu balanço de 31/12/2016 e não tiverem disponibilidade financeira para atender ao disposto “no caput” deverão comprovar documentalmente com os elementos que deram origem ao resultado final de seu balanço, junto ao sindicato dos empregados, até 30/06/2017.
+Parágrafo Quarto: Na falta da justificativa e dos comprovantes, na data de 30/06/2017, citados no parágrafo anterior, a empresa pagará a PLR, na forma prevista no “caput” desta cláusula.
+Parágrafo Quinto: Para os empregados admitidos até 31/12/2015, que se afastarem a partir de 01/01/2016, por doença, acidente do trabalho e ou auxílio maternidade, as Empresas efetuarão o pagamento integral da PLR de que trata esta Cláusula.
+Parágrafo Sexto: Para os empregados admitidos a partir de 01/01/2016, em efetivo exercício em 31 de dezembro de 2016, ou afastados por doença, acidente do trabalho e auxílio maternidade, as
+Empresas pagarão 1/12 (um doze avos) do valor estabelecido, por mês trabalhado ou fração igual ou superior a 15 dias. Aos afastados por doença, acidente do trabalho ou auxílio-maternidade, fica vedada a dedução do período de afastamento para cômputo da proporcionalidade.
+Parágrafo Sétimo: Para os empregados demitidos sem justa causa, entre 01/02/2016 e a data da assinatura da presente Convenção, as Empresas pagarão 1/12 (um doze avos) do valor estabelecido, por mês trabalhado em 2016 ou fração igual ou superior a 15 (quinze) dias.
+Parágrafo Oitavo: As Empresas que já possuírem programas próprios de PLR, que irão, ou poderão implantá-los até 30/06/2017, têm por cumprida a Lei nº. 10.101, de 19/12/2000 (DOU 20/12/2000) vigente sobre a matéria não estando, por conseguinte, obrigados às concessões previstas na presente Convenção.
+Parágrafo Nono: As Empresas que concederem entre julho/2016 e março/2017 a PLR de 2016 poderão compensar os valores pagos em decorrência deste instrumento ou, dar como cumprida a presente cláusula, desde que tenham sido pagos nos percentuais estabelecidos na presente Convenção.
+Parágrafo Décimo: A participação nos lucros ou resultados prevista nesta Convenção Coletiva de Trabalho refere-se ao exercício de 2016, tem caráter excepcional e transitório, atende ao disposto na Lei nº 10.101, de 19/12/2000 (DOU 20/12/2000), e não constitui base de incidência de nenhum encargo trabalhista ou previdenciário, por ser desvinculada da remuneração, não se lhe aplicando o principio da habitualidade, porém tributável para efeito de imposto de renda, conforme legislação em vigor.
+|
+As empresas pagarão independente dos valores estabelecidos na Cláusula de Participação dos Empregados nos Lucros e Resultados - Exercício de 2016 desta Convenção Coletiva de Trabalho, o Adicional de Participação nos Lucros ou Resultados que corresponde a 10% (dez por cento) da variação em valor absoluto do crescimento do lucro líquido do exercício de 2016, em relação ao lucro líquido do exercício de 2015, dividido entre os seus empregados em parcelas iguais, com limite individual de R$2.536,52 (dois mil, quinhentos e trinta e seis reais e cinquenta e dois centavos), observando-se as seguintes condições:
+a)       Esta parcela adicional não será compensável com valores devidos em razão de planos próprios.
+b)       A parcela adicional paga não será computada para cálculo do mínimo de 5% (cinco por cento) e do teto de 15% (quinze por cento) de distribuição da PLR. A parcela adicional não está sujeita, também, aos tetos estabelecidos, em valor, no “caput” e no parágrafo primeiro da cláusula quarta.
+c)        A empresa pagará, até o dia 30/06/2017, a parcela adicional de que trata a presente cláusula.
+d)       O empregado admitido até 31/12/2015 e que se afastou a partir de 01/01/2016, por doença, acidente do trabalho ou licença-maternidade, faz jus ao pagamento integral do valor decorrente de aplicação da presente cláusula.
+e)       Ao empregado admitido a partir de 01/01/2016, em efetivo exercício em 31/12/2016, mesmo que afastado por doença, acidente do trabalho ou licença-maternidade, será efetuado o pagamento de 1/12 (um doze avos) do valor estabelecido, por mês trabalhado ou fração igual ou superior a 15 (quinze) dias. Ao afastado por doença, acidente do trabalho ou auxílio-maternidade fica vedada a dedução do período de afastamento para cômputo da proporcionalidade.
+f)        Ao empregado que tenha sido ou venha a ser dispensado sem justa causa, entre 01/02/2016 e 31/12/2016, será devido o pagamento, até 30/06/2017, de 1/12 (um doze avos) do valor estabelecido no “caput”, por mês trabalhado, ou fração igual ou superior a 15 (quinze) dias.
+g)       A empresa que apresentar prejuízo no exercício de 2016 (balanço de 31/12/2016) estará isento do pagamento do Adicional de Participação nos Lucros ou Resultados.
+Parágrafo Único: O Adicional de Participação nos Lucros ou Resultados previsto nesta Cláusula refere-se ao exercício de 2016, atende ao disposto na Lei nº. 10.101, de 19/12/2000, não constitui base de incidência de nenhum encargo trabalhista ou previdenciário por ser desvinculada da remuneração, não se lhe aplicando o princípio da habitualidade, porém tributável para efeito de imposto de renda, conforme legislação em vigor.
+|
+As empresas concederão aos seus empregados auxílio alimentação no valor de R$29,90 (vinte e nove reais e noventa centavos), sem descontos, por dia de trabalho, sob a forma de tíquetes refeição ou tíquetes alimentação, facultando, excepcionalmente seu pagamento em dinheiro, ressalvadas as situações mais favoráveis relacionadas às disposições da cláusula e seus parágrafos, inclusive quanto à época de pagamento.
+Parágrafo Primeiro: O auxílio refeição será concedido antecipada e mensalmente, até o último dia útil do mês anterior ao benefício à razão de 22 (vinte e dois) dias fixos por mês, inclusive nos períodos de gozo de férias e até o 15º (décimo quinto) dia nos afastamentos por doença ou acidente de trabalho. Nos casos de admissão e de retorno ao trabalho do empregado no curso do mês, o auxílio será devido proporcionalmente aos dias trabalhados. Em qualquer situação não caberá restituição dos tíquetes já recebidos.
+Parágrafo Segundo: As empresas que concedem auxílio semelhante aos seus empregados, mediante o fornecimento de refeição, poderão optar pela concessão aqui assegurada, por intermédio do sistema de refeições-convênio credenciado para tal fim, pelo Ministério do Trabalho e Emprego.
+Parágrafo Terceiro: Os empregados que, comprovadamente se utilizarem de forma gratuita ou subsidiada dos restaurantes da empresa, não farão jus à concessão do auxílio alimentação.
+Parágrafo Quarto: O empregado poderá optar, por escrito e com antecedência mínima de 30 (trinta) dias, por tíquete alimentação, sendo possível mudar de opção após o transcurso de 180 (cento e oitenta) dias.
+Parágrafo Quinto: O auxílio, sob qualquer das formas previstas nesta cláusula, não terá natureza remuneratória, nos termos da Lei nº 6.321 de 14 de abril de 1976, de seus decretos regulamentadores e da Portaria GM/MTE nº 03, de 01.03.2002 (DOU 05.03.2002) com as alterações dadas pela Portaria GM/MTE nº 08, de 16.04.2002.
+|
+As empresas concederão aos seus empregados, cumulativamente com o benefício da cláusula Auxílio Refeição, o Auxílio Cesta alimentação, no valor mensal de R$ 498,75 (quatrocentos e noventa e oito reais e setenta e cinco centavos), sob a forma de 4 (quatro) tíquetes, no valor de R$124,68 (cento e vinte a quatro reais e sessenta e oito centavos) cada um, junto com a entrega da ajuda alimentação prevista na cláusula Auxílio Refeição, observadas as mesmas condições estabelecidas no seu caput e § 1º e 5º.
+Parágrafo Primeiro: As empresas concederão até o dia 30 do mês de novembro de 2017, aos empregados que, na data da sua concessão estiverem no efetivo exercício de suas atividades, a Décima Terceira Cesta Alimentação, no valor de R$ 498,75 (quatrocentos e noventa e oito reais e setenta e cinco centavos), através de crédito em cartão eletrônico ou sob forma de 4 (quatro) tíquetes, no valor de R$124,68 (cento e vinte a quatro reais e sessenta e oito centavos) ressalvadas condições mais vantajosas.
+Parágrafo Segundo: Os auxílios de que trata esta Cláusula previsto no caput e no parágrafo primeiro estendem-se, também, às empregadas que se encontram em gozo de licença maternidade.
+Parágrafo Terceiro: O empregado afastado a partir de 01/03/2017, por acidente do trabalho ou doença, fará jus à Cesta Alimentação, e à Décima Terceira Cesta Alimentação, por prazo de 180 (cento e oitenta dias), contados do primeiro dia de afastamento do trabalho.
+Parágrafo Quarto: Ao empregado que, em 01/03/2017 já se encontrava afastado e recebendo o benefício, ficam mantidas as condições previstas na Convenção Coletiva de Trabalho 2017/2018.
+Parágrafo Quinto: Este auxílio não será devido pela empresa que já concede outro similar, com valor no mínimo equivalente, respeitados critérios mais vantajosos, quando preexistentes, ou previstos nesta CONVENÇÃO.
+Parágrafo Sexto: Os benefícios previstos no caput e parágrafo primeiro desta cláusula são desvinculados do salário e não tem natureza remuneratória.
+|
+As Empresas concederão o vale-transporte, ou seu valor correspondente, por meio do pagamento antecipado em dinheiro, até o quinto dia útil de cada mês, em conformidade com o inciso XXVI, do artigo 7º, da Constituição Federal e com a Portaria do Ministério nº 865, de 14 de setembro de 1995 (DOU, Seção I, de 15/09/95), e, também, em cumprimento às disposições da Lei nº 7.418, de 16 de dezembro de 1985, com a redação dada pela Lei nº 7.619, de 30 de setembro de 1987, regulamentada pelo Decreto nº 95.247, de 16 de novembro de 1987 e, ainda, em conformidade com a decisão do C. TST no Processo TST -AA-366.360/97-4 (AC.SDC), publicada no DJ 07/08/98, seção 1, pág. 314. Cabe ao empregado comunicar, por escrito, à Empresa, as alterações nas condições declaradas inicialmente.
+Parágrafo Único: Tendo em vista o que dispõe o parágrafo único do artigo 5º da Lei 7.418, de 16 de dezembro de 1985, o valor da participação das empresas nos gastos de deslocamento do trabalhador será equivalente à parcela que exceder a 4% (quatro por cento) do salário básico do empregado.
+|
+As empresas pagarão o salário-educação diretamente aos seus empregados, de qualquer idade, para indenizar, nos limites do art. 10, do Decreto nº 87.043, de 22/03/82, com redação dada pelo decreto nº 88.374, de 07/06/83, pelo Decreto nº 91.781, de 15/10/85 e, ainda, nos termos das Leis nº 9.424/96, de 24.12.96 (DOU. de 26/12/96) e nº 9.766/98, de 18/12/98 (DOU de 19/12/98) e alterações posteriores, as despesas com sua educação de 1º grau e as despesas havidas com seus filhos em estabelecimentos pagos, com idade entre 7 e 14 anos, mediante a comprovação exigida pelas respectivas normas reguladoras.
+Parágrafo Primeiro: A partir do dia 19 de Setembro de 1996, data da edição da Medida Provisória nº 1.518 - 1 (DOU de 18/10/96, seção 1, pág. 21260/61) e reedições, convertida nas Leis 9424/96, de 24/12/96 (DOU DE 26/12/96) e nº 9.766/98, de 18/12/98 (DOU de 19/12/98), que alteraram a legislação que rege o Salário Educação, os alunos regularmente atendidos, como beneficiários das modalidades de ensino fundamental, quer regular, quer supletivo, na forma da legislação em vigor, tem, a partir de 1º de janeiro de 1997, o benefício assegurado, vedados novos ingressos, conforme vier a ser estabelecido pelo Poder Executivo.
+Parágrafo Segundo: O salário-educação não tem caráter remuneratório na relação de emprego e não se vincula, para qualquer efeito, ao salário ou à remuneração percebida pelos empregados na Empresa (§ 4º do art. 1º do Decreto-lei nº 1.422, de 23/10/75).
+Parágrafo Terceiro: A Empresa que já concede o benefício quer diretamente, quer através de entidade de Previdência Privada, da qual seja patrocinador, fica desobrigado de sua concessão, respeitando-se os critérios mais vantajosos.
+|
+O empregado dispensado sem justa causa, a partir de 1º/03/2017, poderá usufruir os convênios de assistência médica e hospitalar contratados pela empresa, pelo período abaixo especificados, contados do último dia de trabalho efetivo e determinados conforme tempo de casa, mantidas as condições do convênio, respeitadas as situações mais favoráveis.
+Parágrafo Primeiro: A presente cláusula se aplica somente às empresas que possuam convênio de assistência médica e hospitalar.
+
+
+
+
+Vínculo empregatício com a empresa
+
+
+Período de utilização do convênio
+
+
+
+
+Até 5 (cinco) anos
+
+
+60 (sessenta) dias
+
+
+
+
+mais de 5 (cinco) anos até 10 (dez) anos
+
+
+90 (noventa) dias
+
+
+
+
+mais de 10 (dez) anos até 20 (vinte) anos
+
+
+180 (cento e oitenta) dias
+
+
+
+
+mais de 20 (vinte) anos
+
+
+270 (duzentos e setenta) dias
+
+
+
+
+Parágrafo Segundo: Os empregados dispensados, sem justa causa, até 28/02/2017, estão abrangidos pelas condições previstas na Convenção Coletiva de Trabalho 2017/2018.
+|
+Em caso de concessão de auxílio-doença previdenciário ou de auxílio-doença acidentário pela Previdência Social, fica assegurada ao empregado complementação salarial em valor equivalente à diferença entre a importância recebida do INSS e o somatório das verbas fixas por ele percebidas mensalmente, atualizadas.
+Parágrafo Primeiro: A concessão do benefício previsto nesta cláusula observa as seguintes condições:
+a)       Será devida pelo período máximo de 24 (vinte e quatro) meses, para cada licença concedida a partir de 01/03/2017.
+b)       Os empregados que, em 01/03/2017, já estavam afastados e percebendo a complementação, farão jus ao benefício até completar 24 (vinte e quatro) meses.
+c)        A cada período de 6 (seis) meses de licença é facultado à empresa submeter o empregado à junta médica, devendo, para isto, notificar o empregado, por escrito, através de carta registrada ou telegrama e, simultaneamente, dar ciência do fato, por escrito, ao sindicato profissional, solicitando-lhe, ainda, a indicação do médico para compor a junta.
+d)       Desde que decorridos 12 (doze) meses da concessão da complementação e constatado pela junta médica que o empregado está em condições de exercer normalmente suas funções, a complementação deixará de ser paga pela empresa, mesmo que não tenha recebido alta médica do INSS.
+e)       Recusando o empregado a se submeter à junta médica, a complementação deixará de ser paga pela empresa, mesmo que não tenha recebido alta do INSS.
+Parágrafo Segundo: A junta médica será composta por 2 (dois) médicos, sendo um de livre escolha da empresa e outro, por este escolhido, dentre o mínimo de 2 (dois) médicos indicados pelo sindicato profissional. Decorridos 20 (vinte) dias da solicitação por escrito da formação da junta médica, a não indicação de médico para compor a junta, por uma das partes, resultará no reconhecimento, para todos os efeitos, do laudo do médico indicado pela outra parte.
+Parágrafo Terceiro: Além de pagar o profissional por ele indicado, a empresa arcará com as despesas do médico por ele escolhido dentre os indicados pelo sindicato profissional, até o limite da tabela da Associação Médica Brasileira – AMB.
+Parágrafo Quarto: Na ocorrência de pareceres divergentes entre os médicos da junta, será indicado, de comum acordo entre a empresa e o sindicato, um terceiro médico, para o desempate, cujas despesas de contratação serão de responsabilidade da empresa, até o limite da tabela da Associação Médica Brasileira – AMB.
+Parágrafo Quinto: Quando o empregado não fizer jus à concessão do auxílio-doença, por não ter ainda completado o período da carência exigido pela Previdência Social, receberá a complementação salarial das condições dos parágrafos 1º e 2º, desde que constatada a doença por médico indicado pela empresa.
+Parágrafo Sexto: A complementação prevista nesta cláusula será devida também quanto ao 13º salário.
+Parágrafo Sétimo: A empresa que já concede o benefício supra, quer diretamente, quer através da entidade de Previdência privada da qual seja patrocinador, fica desobrigado de sua concessão respeitando-se os critérios mais vantajosos.
+Parágrafo Oitavo: A empresa fará o adiantamento do auxílio-doença previdenciário ou auxílio doença acidentário ao empregado, enquanto este não receber da previdência Social o valor a ele devido, procedendo ao acerto quando do respectivo pagamento pelo órgão previdenciário, que deverá ser comunicado, imediatamente, pelo empregado. Na ocorrência da rescisão do contrato de trabalho, por iniciativa do empregado ou por iniciativa da empresa, respeitado os períodos de estabilidades provisórias, e, havendo débito decorrentes do adiantamento referido, a empresa efetuará a correspondente compensação nas verbas rescisórias.
+Parágrafo Nono: Não sendo conhecido o valor básico do auxílio-doença a ser concedido pela Previdência Social, a complementação salarial deverá ser paga em valores estimados. Se ocorrerem diferenças, a mais ou a menos, deverão ser compensadas no pagamento imediatamente posterior.
+Parágrafo Décimo: O pagamento previsto nesta cláusula deverá ocorrer junto com o dos demais empregados.
+|
+As empresas pagarão aos seus empregados, auxílio funeral no valor de 1 (um) piso salarial estabelecido na Cláusula “Piso Salarial”, “caput”, letra “b”, correspondente ao mês de pagamento, pelo falecimento do cônjuge e filhos menores de dezoito anos ou àquele que comprovar dependência econômica do empregado, se este for solteiro, pelo falecimento do empregado.
+Parágrafo Primeiro: O pagamento será efetuado mediante apresentação da devida certidão, no prazo máximo de 30 (trinta) dias após o óbito.
+Parágrafo Segundo: A empresa que já concede o benefício quer diretamente, quer através de entidade de previdência privada da qual seja patrocinadora, fica desobrigada de sua concessão, respeitando-se os critérios mais vantajosos ao empregado.
+|
+As empresas reembolsarão aos seus empregados, até o valor de R$ 408,64 (quatrocentos e oito reais e sessenta e quatro centavos), para cada filho, até a idade de 83 (oitenta e três) meses, as despesas realizadas e comprovadas, mensalmente, com o internamento deste em creches ou instituições análogas de sua livre escolha. Reembolsarão, também, nas mesmas condições e valor, as despesas efetuadas com pagamento da empregada doméstica/babá, mediante a entrega de cópia do recibo desta, desde que tenha seu contrato de trabalho registrado em Carteira de Trabalho e Previdência Social e seja inscrita no INSS.
+Parágrafo Primeiro: Quando ambos os cônjuges forem empregados da mesma empresa o pagamento não será cumulativo, obrigando-se os empregados a designarem, por escrito, a empresa, o cônjuge que deverá receber o benefício.
+Parágrafo Segundo: O "auxílio-creche" não será cumulativo com o "auxílio-babá", devendo o beneficiário fazer opção escrita por um ou outro, para cada filho.
+Parágrafo Terceiro: A concessão da vantagem contida nesta Cláusula está em conformidade com os incisos XXV e XXVI do art. 7 º da Constituição Federal e com a Portaria do Ministério do Trabalho n º 865, de 14 de setembro de 1995 (DOU, Seção I, de 15/09/95) e atende, também, ao disposto nos Parágrafos Primeiro e Segundo do art. 389 da CLT, da Portaria n º 1, baixada pelo Diretor Geral do Departamento Nacional de Segurança e Higiene do Trabalho, em 15/01/69 (DOU de 24/01/69), bem como da Portaria n º 3.296, do Ministério do Trabalho (DOU de 05/09/86), com as alterações introduzidas pela Portaria MTB nº 670, de 20/08/97 (DOU de 21/08/97). Os reembolsos aqui previstos atendem, também, os requisitos exigidos pelo Regulamento da Previdência Social (Decreto nº 3.048, de 06/05/99, na redação dada pelo Decreto 3.265, de 29/11/99), em seu artigo 214, parágrafo 9º, incisos XXIII e XXIV.
+|
+Idênticos reembolsos e procedimentos previstos na Cláusula Auxílio-Creche/Auxílio Babá se estendem aos empregados que tenham "filhos excepcionais" ou "deficientes físicos que exijam cuidados permanentes", sem limite de idade, desde que tal condição seja comprovada por atestado fornecido pelo INSS ou instituição por ele autorizada, ou, ainda, por médico pertencente a Convênio mantido pela empresa.
+|
+Os empregados que contarem de 9 (nove) a 14 (catorze) anos de vinculação com a empresa, será concedido, por ocasião de sua aposentadoria, uma gratificação de valor igual a seu último salário. Na mesma hipótese, o empregado que contar acima de 15(quinze) anos de vinculação, fará jus a gratificação igual a uma vez e meia o valor do último salário.
+Parágrafo Único: A gratificação será concedida desde que haja rescisão do Contrato de Trabalho.
+|
+A dispensa será, sempre, comunicada por escrito ao empregado, qualquer que seja o motivo da demissão, sob pena de gerar presunção de despedida imotivada.
+|
+Ao empregado demitido que contar, no mínimo, 5 (cinco) anos de tempo de serviço na empresa e, ainda, tiver mais de 45 (quarenta e cinco) anos de idade, o aviso prévio será de 45(quarenta e cinco) dias. Contando a mesma idade e mais de 10 (dez) anos de empresa, o aviso será de 60 (sessenta) dias.
+Parágrafo Único: O acréscimo à duração legal do aviso prévio, previsto no caput, será concedido sempre de forma indenizada.
+|
+Quando exigida pela lei, a Empresa se apresentará perante o órgão competente, para homologação da rescisão contratual dos empregados e pagamento das parcelas decorrentes, até o primeiro dia útil imediato ao término do contrato; ou dentro de dez dias contados da data da notificação da demissão, quando da ausência do aviso prévio, de sua indenização ou da dispensa do seu cumprimento. Fica ressalvada a hipótese de abandono de emprego.
+Parágrafo Primeiro: Se excedido o prazo, a Empresa, até a sua apresentação para homologação, pagará ao ex-empregado importância igual à que este receberia se vigorasse o contrato de trabalho.
+Parágrafo Segundo: Não comparecendo o empregado, a Empresa dará do fato conhecimento ao Sindicato Profissional, mediante comprovação do envio ao empregado, com a antecedência mínima de 3 (três) dias, de carta ou telegrama de notificação do ato, o que desobrigará do disposto no parágrafo anterior.
+Parágrafo Terceiro: Comparecendo o empregador, mas não o empregado, para homologação, o órgão homologador dará comprovação da presença da Empresa nesse ato, isentando-a do pagamento da multa prevista em Lei.
+Parágrafo Quarto: As disposições desta Cláusula não prevalecerão em face de norma legal mais vantajosa sobre a matéria.
+|
+A empregada gestante gozará de estabilidade provisória no emprego desde a comunicação por escrito da gravidez até 60 (sessenta) dias após o término da licença-maternidade, salvo por motivo de justa causa para demissão.
+Parágrafo Único: Na ocorrência do aborto, devidamente comprovado por atestado médico, gozará a empregada de estabilidade provisória pelo prazo, de 60 (sessenta) dias, contados da data do evento, salvo por motivo de justa causa para demissão.
+|
+O empregado pai gozará de estabilidade provisória no emprego pelo prazo de 60 (sessenta) dias contados da data de nascimento do filho, salvo por motivo de justa causa para demissão, devidamente comprovado através da entrega da respectiva certidão de nascimento no prazo máximo de 15 (quinze) dias contados do evento.
+|
+Ao alistado para o serviço militar, salvo por motivo de justa causa para demissão, fica assegurada estabilidade no emprego desde o alistamento até 30 (trinta) dias depois de sua desincorporação ou dispensa.
+|
+a)       por 12 (doze) meses imediatamente anteriores à complementação de tempo mínimo para aposentadoria pela Previdência Social, os que tiveram o mínimo de 5 (cinco) anos de vinculação empregatícia com a Empresa.
+b)       por 18 (dezoito) meses imediatamente anteriores à complementação do tempo para aposentadoria pela Previdência Social, os que tiverem o mínimo de 20 (vinte) anos de vínculo ininterrupto com o mesmo empregador.
+Parágrafo Único: Quanto aos empregados na proximidade de aposentadoria, de que trata esta cláusula, deve-se observar que:
+         I.            os compreendidos nas alíneas "a" e "b", a estabilidade provisória será adquirida a partir do recebimento, pela Empresa, de comunicação do empregado, por escrito, devidamente protocolada, sem efeito retroativo, de reunir ele as condições previstas.
+       II.            aos abrangidos pelas alíneas "a" e "b", a estabilidade não se aplica aos casos de demissão por força maior comprovada, dispensa por justa causa ou pedido de demissão, e se extinguirá se não for requerida a aposentadoria imediatamente após completado o tempo mínimo necessário à aquisição do direito a ela.
+Entende-se por complemento de tempo mínimo para aposentadoria o preenchimento das condições mínimas exigidas pela Previdência Social.
+|
+No período de vigência desta Convenção Coletiva de Trabalho, a empresa arcará com despesas realizadas pelos seus empregados dispensados sem justa causa, a partir de 01/03/2017, até o limite de R$ 1.378,79 (mil trezentos e setenta e oito reais e setenta e nove centavos), com Cursos de Qualificação e/ou Requalificação Profissional, ministrados por empresa, entidade de ensino ou entidade sindical profissional, respeitados critérios mais vantajosos. Esta cláusula tem caráter excepcional e transitória.
+Parágrafo Primeiro: O ex-empregado terá o prazo de 90 (noventa) dias, contados da data da dispensa, para requerer a empresa a vantagem estabelecida.
+Parágrafo Segundo: A empresa efetuará o pagamento, diretamente à empresa ou entidade, após receber, dos empregados as seguintes informações: identificação da entidade promotora do curso, natureza, duração, valor e forma de pagamento do curso.
+Parágrafo Terceiro: A empresa poderá optar por fazer o reembolso ao ex-empregado.
+|
+As empresas, nas rescisões dos Contratos de Trabalho dos Empregados e quando solicitadas, se obrigam a entregar ao demissionário carta de confirmação de cargo e tempo de trabalho.
+|
+Os Atestados de Afastamento e Salários (AAS) e as Relações de Salários de Contribuição (RSC) deverão ser preenchidos pelas empresas dentro dos seguintes prazos máximos:
+a)       Para fins de auxílio-doença: 8 (oito) dias úteis. 
+b)       Para fins de aposentadoria: 20 (vinte) dias corridos.
+|
+Fica assegurada aos empregados em união homoafetiva, a garantia de todos os direitos previsto na presente CONVENÇÃO COLETIVA DE TRABALHO, de forma a facilitar o resguardo dos interesses de seus companheiros (as) e dependentes habilitados perante o Instituto Nacional da Previdência Social.
+Parágrafo Único: O reconhecimento da relação homoafetiva estável dar-se-á com o atendimento a iguais requisitos observados pela Previdência Social, consoante disciplinam o artigo 52 parágrafo 4º da Instrução Normativa INSS/DC nº. 20/07 de 11/10/2007, e a Instrução Normativa INSS/DC nº 24 de 07/06/2000 (DO 08/06/2000), e alterações posteriores.
+|
+Ao empregado afastado do trabalho por motivo de doença, fica assegurada estabilidade provisória de 60 (sessenta) dias, contados da alta médica.
+Parágrafo Primeiro: O previsto no "caput" somente se aplicará quando o afastamento se der por período de, no mínimo, 6 (seis) meses contínuos.
+Parágrafo Segundo: Não se aplica a estabilidade, no caso de rescisão contratual por motivo de justa causa.
+|
+Por força da presente Convenção, as ausências legais a que aludem os incisos I a III do art. 473 da CLT, respeitados os critérios mais vantajosos, assim ficam ampliadas:
+a)       Para 4 (quatro) dias úteis consecutivos em caso de falecimento de cônjuge, ascendente, descendente, irmão ou pessoa que, comprovadamente, viva sob sua dependência econômica.
+b)       Para 5 (cinco) dias úteis consecutivos, em virtude de casamento.
+c)        Para 5 (cinco) dias consecutivos garantidos, no mínimo, 3(três) dias úteis, no decorrer da primeira semana de vida da criança, em caso de nascimento de filho.
+d)       1 (um) dia por ano para internamento hospitalar de esposa, filho(s) ou pais.
+e)       2 (dois) dias por ano, para levar ao médico filho(s) ou dependente(s) menor(es) de 14(catorze) anos, mediante comprovação 48 (quarenta e oito) horas após.
+Parágrafo Primeiro: Para efeito desta cláusula, o sábado não será considerado dia útil.
+Parágrafo Segundo: Entende-se por ascendentes: pai, mãe, avós, bisavós, e por descendentes: filhos e netos, na conformidade da Lei Civil.
+|
+Nos serviços permanentes de digitação, a cada período de 50 (cinquenta) minutos de trabalho consecutivo, caberá um período de 10 (dez) minutos para descanso, não deduzido da jornada de trabalho, nos termos da NR 17 da Portaria do MTPS nº 3.751, de 23/11/90.
+|
+Serão abonadas as 2 (duas) últimas horas da jornada diária de trabalho do empregado estudante, nos dias de exames escolares, mediante comunicação à empresa com antecedência de 48 (quarenta e oito) horas e posterior comprovação através de atestado escolar. A falta assim abonada será considerada como dia de trabalho efetivo, para todos os efeitos legais.
+Parágrafo Único: O benefício previsto no "caput" se limitará a duas saídas antecipadas por bimestre escolar.
+|
+As férias terão início sempre em dia útil e serão concedidas, respeitando-se os preceitos contidos nos artigos 129 e seguintes da CLT, com a redação dada pelo Dec. Lei nº 1.535, de 13 de abril de 1977.
+|
+O empregado com menos de 1 (um) ano de serviço na empresa, que rescindir espontaneamente seu contrato de trabalho, fará jus a férias proporcionais a razão de 1/12 (um doze avos) para cada mês completo de serviço efetivo. Parágrafo Único: É considerado mês completo de serviço o período igual ou superior a 15 (quinze) dias de trabalho efetivo.
+|
+Quando exigido o uso de uniforme pela empresa, será por ela fornecido gratuitamente ao empregado.
+|
+Os atestados médicos e odontológicos passados pelos respectivos departamentos do Sindicato dos Empregados, desde que mantenham convênio com o INSS, serão reconhecidos e aceitos pelas empresas para justificativa de faltas ao trabalho por motivo de doença.
+|
+Facilitar-se-á às Entidades Profissionais convenientes a realização de campanha de sindicalização a cada 12 (doze) meses, em dia, local e horário previamente acordados com a Direção da Empresa.
+|
+Os dirigentes sindicais eleitos poderão ausentar-se do serviço, para participação em curso ou encontros sindicais, até 3 (três) dias por ano, observada a limitação de 2 (duas) ausências simultâneas por estabelecimento, desde que pré-avisada a empresa, por escrito, pelo respectivo sindicato profissional, com a antecedência mínima de 7 (sete) dias úteis. A ausência nestas condições será considerada como falta abonada e dia de trabalho efetivo para todos os efeitos legais.
+|
+As empresas ficam obrigadas a colocar no quadro de avisos, em lugar bem visível aos empregados, cópia da presente Convenção.
+|
+Se violada qualquer cláusula desta CONVENÇÃO, no que se refere às obrigações de fazer, ficará a empresa obrigada ao pagamento de multa equivalente a R$ 35,63 (trinta e cinco reais e sessenta e três centavos) por infração, revertendo o valor em favor do empregado prejudicado.
+Parágrafo Único: A multa será devida quando da execução de decisão judicial que tenha reconhecido a infração.
+|
+Pelo presente instrumento coletivo de trabalho, com base no disposto no § 2º, do artigo 74, da Consolidação das Leis do Trabalho e no art. 2º da Portaria nº 373, de 25/02/2011 do Ministério do Trabalho e Emprego, as empresas de leasing filiadas ao Sindicato Patronal poderão manter, no âmbito da base territorial definida na cláusula segunda deste, Sistema Alternativo Eletrônico de Controle de Jornada de Trabalho, aqui denominado simplesmente “Sistema de Ponto Eletrônico”, para controle da jornada de trabalho de seus empregados.
+49.1. O Sistema de Ponto Eletrônico não poderá admitir:
+a)       restrições à marcação do ponto.
+b)       marcação automática do ponto.
+c)        exigência de autorização prévia para marcação de sobrejornada; e
+d)       alteração ou eliminação dos dados registrados pelo empregado.
+49.2. O Sistema de Ponto Eletrônico adotado deverá reunir, também, as seguintes condições:
+a)       encontrar-se disponível no local de trabalho para o registro dos horários de trabalho e consulta.
+b)       permitir a identificação de empregador e empregado.
+c)        possibilitar ao empregado, a qualquer tempo, através da central de dados, a consulta eletrônica e impressa do registro fiel das marcações realizadas.
+d)       possibilitar à fiscalização, quando solicitado, através da central de dados, a extração eletrônica e impressa do registro fiel das marcações realizadas.
+49.3. A adoção do Sistema de Ponto Eletrônico, previsto no presente instrumento normativo, subordina-se à prévia certificação de conformidade do sistema às exigências previstas neste instrumento, a ser obtida junto à empresa certificadora com a expertise necessária à aferição do sistema.
+Parágrafo primeiro: A empresa certificadora não poderá integrar o mesmo grupo econômico da empresa de arrendamento mercantil adotante do sistema alternativo eletrônico.
+Parágrafo segundo: A certificação de conformidade do Sistema de Ponto Eletrônico deverá ser encaminhada ao Sindicato profissional, que dará ciência da recepção do referido documento para efeito de fixação de data de início de operação do referido sistema.
+49.4. Fica assegurado ao Sindicato Profissional, através dos seus representantes ou técnicos, o acesso às informações do Sistema de Ponto Eletrônico mantido pelas Empresas filiadas ao Sindicato Patronal sempre que haja dúvida ou denúncia que o uso do mesmo esteja em desacordo com a legislação ou com as normas aqui acordadas.
+49.5. Qualquer alteração a ser realizada no Sistema de Ponto Eletrônico deverá ser comunicada ao Sindicato Profissional, informando as alterações técnicas a serem feitas e indicando razões que as justificam.
+Parágrafo Primeiro: Ocorrendo alteração, deverá a empresa obter nova certificação de conformidade, na forma do disposto na cláusula sétima.
+Parágrafo Segundo: Comprovada a realização de qualquer alteração sem que tenham sido observadas as exigências a que se referem o caput desta cláusula e seu parágrafo primeiro, considerar-se-á denunciado o presente instrumento coletivo de trabalho cessando os seus efeitos para o cumprimento do permissivo da Portaria nº 373/11.
+49.6.  As partes signatárias reconhecem que o Sistema Alternativo Eletrônico de Controle de Jornada das empresas de leasing filiadas ao Sindicato Patronal, uma vez obedecido o disposto no presente instrumento normativo, atende as exigências do artigo 74, § 2º, da Consolidação das Leis do Trabalho e o disposto no art. 2ºda Portaria nº 373, de 25/02/2011, do Ministério do Trabalho e Emprego, dispensando-se a instalação do Registrador Eletrônico de Ponto – REP

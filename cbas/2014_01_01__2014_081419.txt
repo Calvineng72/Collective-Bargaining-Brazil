@@ -1,0 +1,105 @@
+<STARTofTITLE>
+Mediador - Extrato Acordo Coletivo
+<ENDofTITLE>
+
+<STARTofVALIDITY>
+semvalorlegal
+<ENDofVALIDITY>
+
+<STARTofHEADERS>
+NÚMERO DA SOLICITAÇÃO|MR081419/2014
+<ENDofHEADERS>
+
+<STARTofCOUNTERPART1>
+SINDICATO DOS TRAB EM TRANSPORTE RODOVIARIOS NO EST RO|05.900.220/0001-95|Presidente|ANTONIO CARLOS DA SILVA
+<ENDofCOUNTERPART1>
+<STARTofCOUNTERPART2>
+TRM-TRANSPORTES RODOVIARIO MAMORE LTDA - EPP|03.695.933/0001-39|Empresário|LEONARDO AMANCIO MARRA
+<ENDofCOUNTERPART2>
+
+<STARTofSTARTDATE>
+01/01/2014
+<ENDofSTARTDATE>
+<STARTofEXPRIRATIONDATE>
+01/01/2015
+<ENDofEXPIRATIONDATE>
+
+<STARTofRENEGOTIATION>
+01/01
+<ENDofRENEGOTIATION>
+
+<STARTofCATEGORY>
+dos Trabalhadores de locadoras e fretamento
+<ENDofCATEGORY>
+<STARTofGEOGRAPHY>
+Porto Velho/RO
+<ENDofGEOGRAPHY>
+
+<STARTofCLAUSES>
+Piso Salarial|SALÁRIO MÍNIMO PROFISSIONAL
+<ENDofCLAUSES>
+
+<STARTofAPPENDICES>
+
+<ENDofAPPENDICES>
+
+<STARTofAPPTEXT>
+
+<ENDofAPPTEXT>
+
+<STARTofTEXT>
+As partes de forma expressam e para o período de vigência deste Acordo Coletivo de Trabalho, se ajustam no sentido de praticarem um salário mínimo profissional para todas as categorias abaixo:
+
+
+
+
+Motorista Municipal
+
+
+R$ 1.050,00
+
+
+
+
+Motorista Intermunicipal
+
+
+R$ 1.160,00
+
+
+
+
+Funileiro
+
+
+R$ 1.624,00
+
+
+
+
+Mecânico
+
+
+R$ 1.624,00
+
+
+
+
+Eletricista
+
+
+R$ 1.138,00
+
+
+
+
+Lavador
+
+
+R$ 812,00
+
+
+
+
+§ 1°- Fica assegurado que o trabalhador que ganhar acima desse piso terá o reajuste no percentual de 16% (Dezesseis por cento).
+§ 2°- O Bônus de Assiduidade, para todos os trabalhadores no valor R$ 150,00 (cento e cinquenta reais), será para quem não faltar ao serviço injustificadamente, e para quem não causar avaria no veículo por dolo ou culpa.

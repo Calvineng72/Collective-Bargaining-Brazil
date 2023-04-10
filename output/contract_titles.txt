@@ -1,0 +1,49 @@
+contract_id|titles
+2016_082054|Mediador - Extrato Acordo Coletivo
+2012_002993|Mediador - Extrato Acordo Coletivo
+2014_081501|Mediador - Extrato Acordo Coletivo
+2017_084835|Mediador - Extrato Acordo Coletivo
+2017_084809|Mediador - Extrato Acordo Coletivo
+2013_055346|Mediador - Extrato Termo Aditivo de Acordo Coletivo
+2009_016497|Mediador - Extrato Acordo Coletivo
+2015_060659|Mediador - Extrato Acordo Coletivo
+2012_042451|Mediador - Extrato Acordo Coletivo
+2012_002943|Mediador - Extrato Acordo Coletivo
+2016_082084|Mediador - Extrato Acordo Coletivo
+2014_009174|Mediador - Extrato Acordo Coletivo
+2009_016731|Mediador - Extrato Acordo Coletivo
+2015_043073|Mediador - Extrato Convenção Coletiva
+2012_003082|Mediador - Extrato Acordo Coletivo
+2015_084042|Mediador - Extrato Acordo Coletivo
+2017_084934|Mediador - Extrato Acordo Coletivo
+2013_073146|Mediador - Extrato Termo Aditivo de Acordo Coletivo
+2017_039221|Mediador - Extrato Acordo Coletivo
+2017_039341|Mediador - Extrato Convenção Coletiva
+2015_069545|Mediador - Extrato Acordo Coletivo
+2013_069396|Mediador - Extrato Acordo Coletivo
+2009_016579|Mediador - Extrato Acordo Coletivo
+2014_038109|Mediador - Extrato Acordo Coletivo
+2013_073403|Mediador - Extrato Acordo Coletivo
+2010_074416|Mediador - Extrato Acordo Coletivo
+2015_065035|Mediador - Extrato Acordo Coletivo
+2017_039364|Mediador - Extrato Convenção Coletiva
+2012_032527|Mediador - Extrato Acordo Coletivo
+2009_034089|Mediador - Extrato Acordo Coletivo
+2013_068336|Mediador - Extrato Acordo Coletivo
+2014_081419|Mediador - Extrato Acordo Coletivo
+2013_073410|Mediador - Extrato Acordo Coletivo
+2009_016389|Mediador - Extrato Acordo Coletivo
+2010_074884|Mediador - Extrato Acordo Coletivo
+2014_038173|Mediador - Extrato Acordo Coletivo
+2012_042462|Mediador - Extrato Convenção Coletiva
+2012_042489|Mediador - Extrato Convenção Coletiva
+2016_082062|Mediador - Extrato Convenção Coletiva
+2010_075192|Mediador - Extrato Acordo Coletivo
+2015_043120|Mediador - Extrato Acordo Coletivo
+2014_081490|Mediador - Extrato Termo Aditivo de Acordo Coletivo
+2015_075846|Mediador - Extrato Acordo Coletivo
+2012_032551|Mediador - Extrato Acordo Coletivo
+2010_074659|Mediador - Extrato Acordo Coletivo
+2015_043084|Mediador - Extrato Convenção Coletiva
+2015_083965|Mediador - Extrato Acordo Coletivo
+2015_031484|Mediador - Extrato Acordo Coletivo

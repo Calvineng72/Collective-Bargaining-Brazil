@@ -1,0 +1,145 @@
+<STARTofTITLE>
+Mediador - Extrato Acordo Coletivo
+<ENDofTITLE>
+
+<STARTofVALIDITY>
+semvalorlegal
+<ENDofVALIDITY>
+
+<STARTofHEADERS>
+NÚMERO DA SOLICITAÇÃO|MR060659/2015
+DATA E HORÁRIO DA TRANSMISSÃO|16/09/2015ÀS14:37
+NÚMERO DO PROCESSO|46418.001562/2015-64
+DATA DO PROTOCOLO|29/09/2015
+<ENDofHEADERS>
+
+<STARTofCOUNTERPART1>
+SINDICATO DOS PROFESSORES E AUXILIARES DA ADMINISTRACAO DE ENSINO DE BRAGANCA PAULISTA|61.699.666/0001-74|Presidente|MOACIR PEREIRA
+<ENDofCOUNTERPART1>
+<STARTofCOUNTERPART2>
+CASA DE NOSSA SENHORA DA PAZ ACAO SOCIAL FRANCISCANA|33.495.870/0001-38|Diretor|RAIMUNDO JUSTINIANO DE OLIVEIRA CASTRO
+<ENDofCOUNTERPART2>
+
+<STARTofSTARTDATE>
+16/06/2015
+<ENDofSTARTDATE>
+<STARTofEXPRIRATIONDATE>
+15/06/2016
+<ENDofEXPIRATIONDATE>
+
+<STARTofRENEGOTIATION>
+01/03
+<ENDofRENEGOTIATION>
+
+<STARTofCATEGORY>
+Empregados da Categoria Auxiliares de Administração Escolar da Empregadora
+<ENDofCATEGORY>
+<STARTofGEOGRAPHY>
+Bragança Paulista/SP
+<ENDofGEOGRAPHY>
+
+<STARTofCLAUSES>
+Compensação de Jornada|DO BANCO DE HORAS.
+Compensação de Jornada|DA COMPOSIÇÃO DAS HORAS POSITIVAS DO BANCO DE HORAS.
+Compensação de Jornada|DA COMPOSIÇÃO DAS HORAS NEGATIVAS
+Compensação de Jornada|DA COMPENSAÇÃO OU PAGAMENTO DO SALDO POSITIVO DE BANCO DE HORAS
+Compensação de Jornada|DA COMPENSAÇÃO OU DESCONTO DO SALDO NEGATIVO DE HORAS DE HORAS
+Compensação de Jornada|DO DESLIGAMENTO DOS EMPRESGADOS
+Compensação de Jornada|DAS DISPOSIÇÕES FINAIS
+Controle da Jornada|DA JUSTIFICATIVA OU ABONO DE FALTAS, ATRASOS E SAÍDAS ANTECIPADAS
+<ENDofCLAUSES>
+
+<STARTofAPPENDICES>
+ATA DE ASSEMBLÉIA
+<ENDofAPPENDICES>
+
+<STARTofAPPTEXT>
+
+Anexo (PDF)
+
+<ENDofAPPTEXT>
+
+<STARTofTEXT>
+Parágrafo Primeiro. Com base na Lei 9.601, de 21 de janeiro de 1998, que deu nova redação ao § 2° do art. 59 da Consolidação das Leis do Trabalho e a ele (art. 59) acrescentou o § 3°, a partir de 16 de junho de 2015, fica instituído o Sistema de Banco de Horas para a EMPREGADORA, conforme segue:
+
+o banco será constituído das horas trabalhadas pelos EMPREGADOS além (positivas) ou aquém (negativas) da jornada normal diária;
+o saldo resultante entre as horas positivas e negativas poderá ser compensado, pago como horas extras ou descontado em folha de pagamento, conforme os termos do presente acordo;
+o presente acordo não se estende para fins de ferir o intervalo diário para refeição e descanso, tempo que os EMPREGADOS se obrigam a respeitar, registrando o ponto; e
+a alteração da jornada de trabalho dos EMPREGADOS para mais ou para menos, não implicará prejuízo do ora acordado.
+
+ 
+Parágrafo Segundo. O presente Acordo Coletivo de Trabalho abrange os EMPREGADOS da Categoria Auxiliares de Administração Escolar da EMPREGADORA.
+ 
+Parágrafo Terceiro. A vigência do presente acordo terá início em 16 de junho de 2015, para os EMPREGADOS admitidos até esta data, ou a partir da data de admissão, para os EMPREGADOS admitidos após 16 de junho de 2015; e término em 15 de junho de 2016, para os EMPREGADOS que permanecerem na empresa até esta data, ou na data de rescisão, para EMPREGADOS com contrato de trabalho encerrado até 15 de junho 2016.
+|
+Parágrafo Primeiro. Acordam as partes que, para composição das horas positivas, deverão ser observadas as seguintes condições:
+
+autorização prévia por parte da empregadora;
+o limite máximo de 2h (duas horas) diárias, não podendo ser excedidas 6h (seis horas) corridas na mesma jornada de trabalho nem o máximo de 10h (dez horas) por dia;
+o intervalo entre uma jornada e outra (interjornada) deverá ser de no mínimo 11h (onze horas) consecutivas;
+o intervalo mínimo de 1h (uma hora) para refeição e descanso; 
+as condições descritas nos incisos I e II deste parágrafo poderão ser desconsideradas em casos excepcionais, a exemplo de crescimento na demanda no atendimento em período de matrícula inicial e subsequente, negociação de débitos, elaboração de plano de estudos ou em outras situações acordadas entre as partes;
+não serão consideradas extraordinárias as horas laboradas até o limite do inciso II deste parágrafo, quando destinadas à compensação de horas negativas;
+na eventualidade da necessidade, por parte da EMPREGADORA, de labor em dia da semana reservado para o descanso semanal remunerado, não necessariamente em domingos, a mesma fica obrigada a conceder aos EMPREGADOS o referido descanso, dentro da mesma semana, sendo certo que esta folga, quando o labor não atingir o número de horas da jornada diária, será de um dia, e quando ultrapassar o número de horas da jornada diária, as horas excedentes serão creditadas no Banco de Horas para compensação futura; e
+excepcionados os casos onde o labor dos EMPREGADOS ocorrer para compensar saldo de horas negativas, na eventualidade da necessidade por parte da EMPREGADORA de labor em dia de feriado, a mesma fica obrigada a conceder o referido descanso ao empregado dentro do período de 30 (trinta) dias, sob pena de incorrer na remuneração de forma extraordinária, nos termos do ordenamento legal ou convencional.
+
+ 
+Parágrafo Segundo. As horas extras serão creditadas no Banco de Horas sem acréscimos de adicionais.
+ 
+Parágrafo Terceiro. As horas extras que forem eventualmente pagas em folha de pagamento deverão sofrer acréscimo de 50% (cinquenta por cento) sobre o valor da hora normal na data do pagamento.
+ 
+|
+Parágrafo Primeiro. As horas negativas do banco serão compostas pelas horas de ausências, atrasos, saídas antecipadas e folga nas emendas de feriados previamente acordadas entre a EMPREGADORA e os EMPREGADOS.
+ 
+Parágrafo Segundo. As horas de ausência, atrasos ou saídas antecipadas sem justificativa ou autorização prévia da EMPREGADORA serão descontadas em folha de pagamento e não serão consideradas para Banco de Horas.
+|
+Parágrafo Primeiro. A compensação do saldo positivo de horas poderá ocorrer sempre que houver interesse e acordo entre a EMPREGADORA e os EMPREGADOS, devendo a solicitação ocorrer com antecedência mínima de 48h (quarenta e oito horas).
+ 
+Parágrafo Segundo. A compensação das horas laboradas em caráter excepcional, descritas no inciso V, Parágrafo Primeiro, Cláusula Segunda deste acordo, deverá ocorrer no máximo no mês imediatamente seguinte ao mês da ocorrência.
+ 
+Parágrafo Terceiro. No final do período do presente acordo, os EMPREGADOS que possuírem saldo positivo deverão receber estas horas, com acréscimo de 50% (cinquenta por cento) sobre o valor da hora normal, na data do pagamento, que deverá ocorrer no máximo no mês imediatamente seguinte ao do término do acordo.
+|
+Parágrafo Primeiro. A compensação do saldo negativo de horas do banco poderá ocorrer sempre que houver interesse e acordo entre a EMPREGADORA e os EMPREGADOS, devendo a solicitação ocorrer com antecedência mínima de 48h (quarenta e oito horas).
+ 
+Parágrafo Segundo. O labor para a compensação de horas negativas não poderá ocorrer nas Férias, Feriados, Descanso Semanal Remunerado, intervalo de refeição ou emendas de feriados.
+ 
+Parágrafo Terceiro. As partes acordam a possibilidade de a EMPREGADORA convocar os EMPREGADOS, com o fim de compensação de horas negativas, para o labor em sábados, não feriados, em atividades compatíveis com a qualificação profissional, a exemplo de labor em eventos, tais como processos seletivos (vestibulares), desde que a convocação ocorra com prazo mínimo de 30 dias.
+ 
+Parágrafo Quarto. Com exceção de situações onde os EMPREGADOS apresentem a comprovação de compromissos previamente agendados, ou em casos fortuitos ou de força maior, a negativa na compensação de horas, na forma do previsto no parágrafo terceiro, importará na automática autorização do desconto, já no mês imediatamente seguinte.
+ 
+Parágrafo Quinto. Ocorrerá o desconto de horas em folha de pagamento nas seguintes situações:
+
+quando comprovado pela EMPREGADORA que os EMPREGADOS, mesmo notificados para o labor compensatório de saldo negativo de banco, sem motivo justo, deixarem de comparecer;
+quando as horas de ausência, atrasos ou saídas antecipadas não tiverem justificativa, conforme descrito no Parágrafo Segundo da Cláusula Terceira;
+se, no final do período do presente acordo, os EMPREGADOS possuírem saldo negativo acima de 1h (uma hora), sendo que o desconto dessas horas ocorrerá no máximo no mês imediatamente seguinte ao do término do acordo.
+
+ 
+Parágrafo Sexto. As faltas injustificadas, descontadas em folha, serão consideradas para efeito de redução do período de férias, na forma do artigo 130 da CLT.
+|
+Parágrafo Primeiro. Na ocorrência de rescisão por iniciativa da EMPREGADORA ou dos EMPREGADOS, e havendo saldo de banco positivo, a EMPREGADORA deverá pagá-lo nas verbas rescisórias com acréscimo de 50% sobre o valor da hora normal na data do pagamento.
+ 
+Parágrafo Segundo. Na ocorrência de rescisão contratual por iniciativa dos EMPREGADOS, e havendo saldo de banco negativo, a EMPREGADORA estará autorizada a descontá-lo das verbas rescisórias com base no valor da hora normal na data da rescisão.
+ 
+Parágrafo Terceiro. Na ocorrência de rescisão contratual por iniciativa da EMPREGADORA e havendo saldo de banco negativo, cuja compensação não ocorreu por culpa dos EMPREGADOS, a mesma estará autorizada a descontá-lo das verbas rescisórias, com base no valor da hora normal na data da rescisão, até o limite de 1 (uma) remuneração.
+|
+Parágrafo Primeiro. A EMPREGADORA deverá encaminhar mensalmente o espelho de ponto, com saldo do Banco de Horas, para conferência e assinatura do encarregado e dos EMPREGADOS e planejamento das compensações do saldo de horas positivas ou negativas do banco.
+ 
+Parágrafo Segundo. AEMPREGADORAse obriga a informar o saldo do Banco de Horas, quando solicitado pelos EMPREGADOS.
+ 
+Parágrafo Terceiro. Qualquer divergência na aplicação deste acordo deverá ser resolvida por meio de convenção do foro para soluções de conflitos coletivos, em conformidade com a Convenção Coletiva.
+ 
+Parágrafo Quarto. A renovação, alteração ou rescisão deste acordo, antes de expirado seu prazo de validade, dependerá de manifestação por escrito de uma das partes.
+ 
+|
+Parágrafo Primeiro. Para justificar ou abonar faltas, atrasos e saídas antecipadas faz-se necessária a apresentação, por parte dos EMPREGADOS, de atestado médico ou odontológico, devidamente preenchido, informando a quantidade de horas de ausência ou a quantidade de dias de inaptidão laboral, contendo data, carimbo e assinatura do médico ou dentista e não podendo, em hipótese alguma, conter rasuras.
+ 
+Parágrafo Segundo. Serão considerados apenas para justificativa, e não para abono de faltas, atrasos e saídas antecipadas, os atestados emitidos por nutricionistas, psicólogos, fisioterapeutas, esteticistas e fonoaudiólogos; ou atestados médicos e odontológicos para acompanhamento de filho, pai, mãe e irmão.
+ 
+Parágrafo Terceiro. Serão considerados para justificativa e abono de faltas, atrasos e saídas antecipadas:
+
+                     I.        atestados médicos e odontológicos, de consultas e tratamentos, apresentados no prazo máximo de 48 horas a contar do início do afastamento;
+                   II.        atestados emitidos por fisioterapeutas para fins de comprovação de seção de fisioterapia em casos decorrentes de reabilitação de empregado previamente afastado pela Previdência Social e, após o retorno, para manutenção do tratamento; e
+                 III.        atestados de acompanhante para filhos de até 14 (quatorze) anos, cuja ausência é abonada no limite de 1 (um) dia por mês para cada filho.
+
+ 
+Parágrafo Quarto. O tempo especificado em atestados de consulta médica previamente agendada será adicionado de 1h (uma hora), destinada ao trajeto, para os casos em que os EMPREGADOS retornem ao trabalho após a consulta, sendo o tempo excedente considerado justificado e armazenado no Banco de Horas para fins de compensação futura.

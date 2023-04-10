@@ -1,0 +1,56 @@
+<STARTofTITLE>
+Mediador - Extrato Termo Aditivo de Acordo Coletivo
+<ENDofTITLE>
+
+<STARTofVALIDITY>
+semvalorlegal
+<ENDofVALIDITY>
+
+<STARTofHEADERS>
+NÚMERO DA SOLICITAÇÃO|MR055346/2013
+                                                            NÚMERO DO PROCESSO  DO ACORDO COLETIVO PRINCIPAL|                                                        46239.000527/2011-11
+                                                            DATA DE REGISTRO  DO ACORDO COLETIVO PRINCIPAL|                                                        28/03/2011
+<ENDofHEADERS>
+
+<STARTofCOUNTERPART1>
+SIACDOBRASIL LTDA|03.225.317/0001-14|Diretor|JOSE EDUARDO DE LIMA BORRELLI
+<ENDofCOUNTERPART1>
+<STARTofCOUNTERPART2>
+SIND TRAB IND MET M MA EL SID FUND RP V AC PC ANDRADAS,MACHADO, GUAXUPE E GUARANESIA|17.855.768/0001-40|Procurador|ADEMIR ANGELINO
+<ENDofCOUNTERPART2>
+
+<STARTofSTARTDATE>
+15/11/2013
+<ENDofSTARTDATE>
+<STARTofEXPRIRATIONDATE>
+15/11/2013
+<ENDofEXPIRATIONDATE>
+
+<STARTofRENEGOTIATION>
+01/10
+<ENDofRENEGOTIATION>
+
+<STARTofCATEGORY>
+Trabalhadores da SIACdoBrasil Ltda
+<ENDofCATEGORY>
+<STARTofGEOGRAPHY>
+Guaranésia/MG
+<ENDofGEOGRAPHY>
+
+<STARTofCLAUSES>
+Prorrogação/Redução de Jornada|TRABALHO EXTRAORDINÁRIO DIA 15 DE NOVEMBRO DE 2013
+Prorrogação/Redução de Jornada|VIGÊNCIA DA CLÁUSULA: 15/11/2013 a 15/11/2013
+<ENDofCLAUSES>
+
+<STARTofAPPENDICES>
+
+<ENDofAPPENDICES>
+
+<STARTofAPPTEXT>
+
+<ENDofAPPTEXT>
+
+<STARTofTEXT>
+de acordo com o artigo 61 da CLT e por necessidade imperiosa da realização do Inventário Fabril Extraordinário, imprescindível para a segurança contábil e financeira da empresa e somente realizável sem a concomitante atividade de produção, as partes acordam sua realização no dia 15 de Novembro de 2013, feriado nacional. Fica ajustado que a participação dos funcionários em hipótese alguma será impositiva e que a remuneração como hora extraordinária será realizada nos termos do acordo coletivo vigente.
+|
+de acordo com o artigo 61 da CLT e por necessidade imperiosa da realização do Inventário Fabril Extraordinário, imprescindível para a segurança contábil e financeira da empresa e somente realizável sem a concomitante atividade de produção, as partes acordam sua realização no dia 15 de Novembro de 2013, feriado nacional. Fica ajustado que a participação dos funcionários em hipótese alguma será impositiva e que a remuneração como hora extraordinária será realizada nos termos do acordo coletivo vigente.

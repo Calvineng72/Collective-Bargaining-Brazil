@@ -1,0 +1,173 @@
+<STARTofTITLE>
+Mediador - Extrato Acordo Coletivo
+<ENDofTITLE>
+
+<STARTofVALIDITY>
+semvalorlegal
+<ENDofVALIDITY>
+
+<STARTofHEADERS>
+NÚMERO DA SOLICITAÇÃO|MR016389/2009
+DATA E HORÁRIO DA TRANSMISSÃO|07/05/2009ÀS16:19
+<ENDofHEADERS>
+
+<STARTofCOUNTERPART1>
+SIND TRAB IND LATIC PROD DER ACUCAR TOR MOAG SOLUVEL CAFE SAO PAULO (CAPITAL) GRANDE SAO PAULO MOGI DAS CRUZES E SAO ROQUE|62.806.575/0001-53|Presidente|GERALDO GONCALVES PIRES
+<ENDofCOUNTERPART1>
+<STARTofCOUNTERPART2>
+GVINAH INDUSTRIA E COMERCIO DE ALIMENTOS E PANIFICACAO LTDA|01.585.358/0001-96|Presidente|FELIPE JOSE RACA
+<ENDofCOUNTERPART2>
+
+<STARTofSTARTDATE>
+1/01/2009
+<ENDofSTARTDATE>
+<STARTofEXPRIRATIONDATE>
+31/12/2009
+<ENDofEXPIRATIONDATE>
+
+<STARTofRENEGOTIATION>
+1/09
+<ENDofRENEGOTIATION>
+
+<STARTofCATEGORY>
+Trabalhadores nas Indústrias de Laticínios e Produtos Derivados
+<ENDofCATEGORY>
+<STARTofGEOGRAPHY>
+Osasco/SP
+<ENDofGEOGRAPHY>
+
+<STARTofCLAUSES>
+Compensação de Jornada|BANCO DE HORAS
+<ENDofCLAUSES>
+
+<STARTofAPPENDICES>
+
+<ENDofAPPENDICES>
+
+<STARTofAPPTEXT>
+
+<ENDofAPPTEXT>
+
+<STARTofTEXT>
+
+SINDICATO DOS TRABALHADORES NAS INDÚSTRIAS DE LATICÍNIOS E PRODUTOS DERIVADOS, DO AÇÚCAR E DE TORREFAÇÃO, MOAGEM E SOLÚVEL DE CAFÉ DOS MUNICÍPIOS DE SÃO PAULO (Capital), GRANDE SÃO PAULO, MOGÍ DAS CRUZES E SÃO ROQUE.
+Sede Própria - Avenida Celso Garcia. n. º. 1.588 - Belém – Telefax:- 2618-1422 - CEP. 03014-000 – SP.
+ 
+ 
+ACORDO COLETIVO DE TRABALHO
+ 
+De um lado, SINDICATO DOS TRABALHADORES NAS INDÚSTRIAS DE LATICINIOS E PRODUTOS DERIVADOS, DO AÇÚCAR E DE TORREFAÇÃO, MOAGEM E SOLÚVEL DE CAFÉ DOS MUNICIPIOS DE SÃO PAULO (CAPITAL), GRANDE SÃO PAULO, MOGÍ DAS CRUZES E SÃO ROQUE, com sede nesta capital a Av. Celso Garcia, 1588, neste ato representado por seu Presidente, Senhor Geraldo Gonçalves Pires, RG. Nº 14.710.399-X e CPF. Nº 034.739.248-22, doravante designado simplesmente PRIMEIRO ACORDANTE, e de outro lado, GVINAH IND. E COM. DE ALIMENTOS E PANIFICAÇÃO LTDA., estabelecida nesta capital a Rua Mamoré, 355 –  Bom Retiro – São Paulo, inscrita no CGC/MF sob o nº 01.585.358/0001-96, neste ato representada por Diretor Presidente Senhor Felipe José Raça, RG. Nº 16.455.848 e CPF. Nº 106.781.988-61, doravante designada simplesmente SEGUNDA ACORDANTE, tem entre si, justo e acertado o presente Acordo Coletivo, consoante autorização dos empregados, em assembléia extraordinária realizada em 06 de janeiro de 2009 ás 08h00 horas, nos termos do artigo 7º, inciso XII, da Constituição Federal e Lei nº 9601/98 nas seguintes bases:   
+ 
+CLÁUSULA PRIMEIRA
+ 
+A SEGUNDA ACORDANTE, ajusta com o PRIMEIRO ACORDANTE, a todos os seus  empregados (administrativo e produção), a implantação do "Banco de Horas", para controle, remuneração e compensação de horas, sendo que das horas extras prestadas pelos empregados será registrada em "Banco de Horas" para compensação em redução de jornada, ou em folgas; 
+ 
+Parágrafo Primeiro:
+ 
+a)     No banco constará, mês, dia e quantidade de hora executadas, a título de crédito ou débito do empregado;
+b)     O crédito no Banco de Horas fica limitado a 02(duas) horas diárias trabalhadas, além da jornada diária normal, incluso as compensações já existentes, e não podendo exceder a 10 horas diárias;
+ 
+Parágrafo Segundo:
+ 
+As horas creditadas no banco poderão ser compensadas em redução de jornada ou em folgas, que a Segunda Acordante deverá cumprir no prazo de 180 (cento e oitenta) dias a partir da assinatura do presente, para compensação prevista na cláusula 4ª, sob pena de pagá-las com acréscimos da convenção coletiva, no mês  imediatamente posterior;
+ 
+ 
+ 
+Parágrafo Terceiro
+ 
+Caso o empregado trabalhe além das duas (02) horas previstas no parágrafo primeiro letra "b", estas serão remuneradas no mês da ocorrência com os acréscimos previstos em lei ou na convenção coletiva;
+ 
+ 
+CLÁUSULA SEGUNDA
+ 
+As horas extras registradas no "Banco de Horas", em redução de jornada ou folgas, far-se-á compensação na proporção de uma hora e quinze minutos (01H15 MIN)  de descanso, para uma (01) hora trabalhada. Ficam excluídos do presente Banco de Horas, os trabalhos executados aos domingos e feriados que serão remuneradas como extras, com os acréscimos legais.
+ 
+ 
+CLÁUSULA TERCEIRA
+ 
+As horas extras compensadas com redução de jornada ou folgas, não terão reflexos no repouso semanal  remunerado, férias, 13º salários e FGTS.
+ 
+ 
+CLÁUSULA QUARTA
+ 
+As horas extras deverão ser compensadas no prazo de 180 (cento e oitenta) dias, em redução de jornadas ou em folgas, cujas compensações poderão recair no inicio ou término das férias ou no inicio ou termino dos feriados prolongados ou ainda imediatamente as horas extras executadas, sem prejuízo das mesmas, dentro do prazo acima, sob pena de ser convertidas em pagamentos de hora extra, com acréscimo da convenção coletiva:
+ 
+Parágrafo Único
+ 
+Decorrido 180 (cento e oitenta) dias, ficando no "Banco de Horas" débito de horas do empregado, haverá quitação automática pelo não cumprimento correto do presente acordo, pela SEGUNDA ACORDANTE;
+ 
+ 
+CLÁUSULA QUINTA
+ 
+A empresa elaborará demonstrativa mensal do Banco de Horas de cada empregado contendo:
+a)     os respectivos saldos de horas a crédito;
+b)     saldo de horas a débito;
+c)      e o saldo existente para o próximo mês;
+ 
+Parágrafo Único
+ 
+Dará ciência aos empregados, com antecedência de 5 dias, das compensações se em folga semanal, feriado prolongado ou inicio ou término das férias, e o período respectivo;
+ 
+ 
+CLÁUSULA SEXTA
+ 
+A jornada de trabalho semanal dos empregados atualmente cumprida não será alterada pelo presente acordo;
+ 
+Parágrafo Primeiro:
+As ausências justificadas (aquelas não compreendias na CLT e/ou convenção coletiva) serão debitadas no Banco de Horas na mesma proporção prevista na cláusula segunda;
+ 
+Parágrafo Segundo:
+ 
+As horas não trabalhadas relativas à faltas injustificadas ficam a critério da empregadora debitar ou não no Banco de Horas, ou descontá-las dos salários dos empregados independentemente de eventual punição por ato de indisciplina;
+ 
+ 
+CLÁUSULA SÉTIMA
+ 
+Em caso de interrupção, suspensão ou rescisão do contrato de trabalho, em quaisquer de suas formas, fica acertado que as horas extras trabalhadas e que não foram compensadas pelos respectivos empregados, serão imediatamente compensadas após o retorno e, se este ultrapassar o prazo estabelecido para a compensação deverá ser indenizadas no período previsto para a compensação e, em caso de rescisão, indenizadas por ocasião do pagamento das verbas rescisórias, com os acréscimos ajustados na convenção coletiva de trabalho;
+ 
+ 
+CLÁUSULA OITAVA
+ 
+Os empregados que forem eventualmente admitidos após o início deste acordo, também serão abrangidos por ele, independentemente de aditamento;
+ 
+ 
+CLÁUSULA NONA 
+ 
+A vigência do presente acordo será de um (01) ano, iniciando-se em 01/01/2009 á 31/12/2009.
+ 
+ 
+CLÁUSULA DÉCIMA
+ 
+As partes contratantes estão na obrigação de observar e cumprir o estatuído no presente acordo. A violação de qualquer de suas cláusulas, sujeitará a parte empregadora na Multa de um (01) salário (menor existente na empresa), por infração e por empregado, vigente ao tempo da violação, que será revertida em favor do Sindicato dos Trabalhadores e a infração dos empregados ficarão subordinadas a legislação vigente;
+ 
+ 
+ 
+ 
+CLÁUSULA DÉCIMA PRIMEIRA
+ 
+ 
+O processo de prorrogação, revisão, denuncia ou revogação total ou parcial deste acordo, ficará subordinada ao disposto no artigo 615, da CLT;
+ 
+ 
+CLAUSULA DÉCIMA SEGUNDA
+ 
+Em caso de divergência entre as partes a mesma será resolvida através de reunião entre o Sindicato, comissão de empregados e a empresa e, em caso de impasse pela Justiça do Trabalho.
+ 
+Assim, por estarem justos e acertados e para que produza os seus efeitos jurídicos e legais, assinam as partes convenentes, o presente acordo coletivo de compensação de horas, em 02 (duas) vias de idêntico teor, comprometendo-se consoante o disposto no artigo 614 da CLT, a promover o depósito de uma via mesmo, para fins de registro e arquivo na Delegacia Regional do Trabalho.
+ 
+ 
+São Paulo, 06 de janeiro de 2009.
+ 
+ 
+ 
+ 
+Sindicato dos Trabalhadores nas Inds. de Laticínios.
+Geraldo Gonçalves Pires - Presidente
+CPF. Nº 034.739.248-22
+ 
+ 
+ 
+ 
+Gvinah Ind. e Com. de Alimentos e Panificação Ltda.
+                            Felipe José Raca – Diretor Presidente
+                                      CPF. Nº 106.781.988-61

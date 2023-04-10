@@ -1,0 +1,73 @@
+<STARTofTITLE>
+Mediador - Extrato Acordo Coletivo
+<ENDofTITLE>
+
+<STARTofVALIDITY>
+carimbo
+<ENDofVALIDITY>
+
+<STARTofHEADERS>
+NÚMERO DE REGISTRO NO MTE|MG005296/2017
+DATA DE REGISTRO NO MTE|22/12/2017
+NÚMERO DA SOLICITAÇÃO|MR084934/2017
+NÚMERO DO PROCESSO|46211.006162/2017-23
+DATA DO PROTOCOLO|21/12/2017
+<ENDofHEADERS>
+
+<STARTofCOUNTERPART1>
+FEDERACAO DOS EMPREGADOS NO COMERCIO E CONGENERES DO ESTADO DE MINAS GERAIS|17.219.585/0001-38|Presidente|LEVI FERNANDES PINTO
+<ENDofCOUNTERPART1>
+<STARTofCOUNTERPART2>
+M.S LOREDO REPRESENTACOES LTDA - ME|05.019.699/0001-55|Sócio|MURILO SILVEIRA LOREDO
+<ENDofCOUNTERPART2>
+
+<STARTofSTARTDATE>
+01/12/2017
+<ENDofSTARTDATE>
+<STARTofEXPRIRATIONDATE>
+30/11/2018
+<ENDofEXPIRATIONDATE>
+
+<STARTofRENEGOTIATION>
+01/01
+<ENDofRENEGOTIATION>
+
+<STARTofCATEGORY>
+agentes autônomos do comércio
+<ENDofCATEGORY>
+<STARTofGEOGRAPHY>
+Belo Horizonte/MG
+<ENDofGEOGRAPHY>
+
+<STARTofCLAUSES>
+Auxílio Transporte|VALE TRANSPORTE/COMBUSTÍVEL
+Outras Disposições|CONVENÇÕES COLETIVAS DE TRABALHO
+Outras Disposições|EFEITOS
+<ENDofCLAUSES>
+
+<STARTofAPPENDICES>
+ATA DE ASSEMBLÉIA - APROVAÇÃO DE ROL
+<ENDofAPPENDICES>
+
+<STARTofAPPTEXT>
+
+Anexo (PDF)
+
+<ENDofAPPTEXT>
+
+<STARTofTEXT>
+A empresa acordante concederá vales-transportes (cartão vale transporte) aos funcionários que utilizarem transporte coletivo, que dele necessite e assim o declare, descontando a razão de 6% (seis por cento) do salário mensal do empregado.
+PARÁGRAFO PRIMEIRO
+A empresa acordante garantirá aos empregados que utilizam automóveis para o seu deslocamento casa/trabalho e trabalho/casa, pagamento no valor correspondente ao que efetivamente o trabalhador pagaria se utilizasse ônibus nesse mesmo deslocamento, concedida através de vale combustível (cartão ticket/Card combustível), sendo que o mesmo não será considerado como salário “in natura”.
+PARÁGRAFO SEGUNDO
+Fica ajustado que se o funcionário já utiliza ônibus de diferentes prestadoras, como por exemplo ótimo + transfácil, o valor do vale-combustível será pelo menos a soma do benefício cadastrado nos dois cartões.
+PARÁGRAFO TERCEIRO  
+Pela concessão do vale combustível a empresa efetuará um desconto na remuneração do trabalhador correspondente a 6% (seis por cento) por cento sobre o salário mensal do empregado.
+PARÁGRAFO QUARTO
+O vale-combustível não integrará à remuneração dos empregados para qualquer fim.
+|
+A empresa se obriga, ainda, a cumprir todas as cláusulas das Convenções Coletivas de Trabalho celebradas entre a Federação dos Empregados no Comércio e Congêneres do Estado de Minas Gerais e a Federação do Comércio de Bens, Serviços e Turismo do Estado de Minas Gerais, na data base da categoria profissional (1.º de janeiro), não alteradas pelo presente acordo.
+PARÁGRAFO ÚNICO
+Na hipótese de não renovação do presente acordo coletivo, após o término da sua vigência, a empresa se obriga a cumprir, em todas as suas disposições, as Convenções Coletivas de Trabalho celebradas entre a Federação dos Empregados no Comércio e Congêneres do Estado de Minas Gerais e a Federação do Comércio de Bens, Serviços e Turismo do Estado de Minas Gerais.
+|
+E, para que produza os seus jurídicos efeitos, o presente Acordo Coletivo de Trabalho foi lavrado em 2 (duas) vias de igual teor e forma, sendo levada a depósito e registro junto à Superintendência Regional do Trabalho e Emprego em Minas Gerais.

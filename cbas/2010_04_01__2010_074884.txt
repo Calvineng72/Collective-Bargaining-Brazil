@@ -1,0 +1,149 @@
+<STARTofTITLE>
+Mediador - Extrato Acordo Coletivo
+<ENDofTITLE>
+
+<STARTofVALIDITY>
+carimbo
+<ENDofVALIDITY>
+
+<STARTofHEADERS>
+NÚMERO DE REGISTRO NO MTE|SP001941/2011
+DATA DE REGISTRO NO MTE|25/02/2011
+NÚMERO DA SOLICITAÇÃO|MR074884/2010
+NÚMERO DO PROCESSO|46473.001287/2011-91
+DATA DO PROTOCOLO|16/02/2011
+<ENDofHEADERS>
+
+<STARTofCOUNTERPART1>
+SIND TRAB INDS CERV VINHOS AGUAS MIN E BEB GERAL GDE SP|62.799.978/0001-12|Secretário Geral|RUI BATISTA ALVES|Presidente|JOSE ENOQUE DA COSTA SOUZA
+<ENDofCOUNTERPART1>
+<STARTofCOUNTERPART2>
+CERVEJARIAS KAISER BRASIL S.A.|19.900.000/0024-62|Diretor|EDMUNDO AMADEUS ALBERS|Gerente|ARTUR LUIZ ANTUNES PEREIRA
+<ENDofCOUNTERPART2>
+
+<STARTofSTARTDATE>
+1/04/2010
+<ENDofSTARTDATE>
+<STARTofEXPRIRATIONDATE>
+31/03/2011
+<ENDofEXPIRATIONDATE>
+
+<STARTofRENEGOTIATION>
+04/10
+<ENDofRENEGOTIATION>
+
+<STARTofCATEGORY>
+trabalhadores nas empresas de bebidas
+<ENDofCATEGORY>
+<STARTofGEOGRAPHY>
+Barueri/SP|Caieiras/SP|Diadema/SP|Itapecerica da Serra/SP|Mauá/SP|Osasco/SP|Ribeirão Pires/SP|Santo André/SP|São Bernardo do Campo/SP|São Caetano do Sul/SP|São Paulo/SP|Taboão da Serra/SP
+<ENDofGEOGRAPHY>
+
+<STARTofCLAUSES>
+Piso Salarial|PISO SALARIAL
+Reajustes/Correções Salariais|REAJUSTE SALARIAL
+Reajustes/Correções Salariais|SALARIO SUBSTITUICAO OU PROMOCAO
+Pagamento de Salário – Formas e Prazos|ADIANTAMENTO E PAGAMENTO DE SALARIOS
+Outras normas referentes a salários, reajustes, pagamentos e critérios para cálculo|RECEBIMENTO DOS SALARIOS
+13º Salário|ADIANTAMENTO DO 1 PARCELA DO 13 SALARIO
+Outras Gratificações|BENEFICIOS
+Auxílio Alimentação|VALE ALIMENTACAO
+Auxílio Creche|CRECHE
+Outros Auxílios|COMPRA DE MATERIAL ESCOLAR
+Aposentadoria|TRABALHADORES EM VIAS DE APOSENTADORIA
+Desligamento/Demissão|RECISAO POR APOSENTADORIA
+Aviso Prévio|AVISO PREVIO INDENIZADO
+Faltas|ABONO DE FALTAS AO EMPREGADO ESTUDANTE
+Faltas|AUSENCIAS JUSTIFICADAS
+Duração e Concessão de Férias|FERIAS
+Condições de Ambiente de Trabalho|MEDIDAS DE PROTECAO
+Equipamentos de Proteção Individual|FORNECIMENTO DE EPIS E UNIFORMES
+Acompanhamento de Acidentado e/ou Portador de Doença Profissional|COMUNICACAO DE ACIDENTE DO TRABALHO
+Contribuições Sindicais|CONSTRIBUICAO ASSISTENCIAL
+Outras disposições sobre relação entre sindicato e empresa|QUADRO DE AVISOS
+Outras disposições sobre relação entre sindicato e empresa|MULTA
+Outras disposições sobre relação entre sindicato e empresa|JUIZO COMPETENTE
+<ENDofCLAUSES>
+
+<STARTofAPPENDICES>
+
+<ENDofAPPENDICES>
+
+<STARTofAPPTEXT>
+
+<ENDofAPPTEXT>
+
+<STARTofTEXT>
+O piso salarial vigente a partir de 01 de abril de 2010 será de R$ 952,20 (novecentos e cinqüenta e dois reais e vinte centavos) mensais.
+|
+A empresa reajustará os salários vigentes em março 2010, até o limite de R$ 3.100,00 (três mil e cem reais) pelo percentual de 5,8% (cinco inteiros e oito por cento), a partir de 01/04/2010, ficando quitadas, para todos os efeitos, as majorações salariais no período de 01/04/2009 a 31/03/2010. 
+PARÁGRAFO PRIMEIRO – Os salários acima de R$ 3.100,00 (três mil e cem reais) serão reajustadas em R$ 179,80 (cento e setenta e nove reais e oitenta centavos), ficando quitadas, para todos os efeitos, as majorações salariais no período de 01.04.2009 a 31.03.2010;
+PARÁGRAFO SEGUNDO - As condições relativas a reajuste salarial definidas neste acordo, não contempla os cargos executivos de gerentes e diretores.
+|
+Garantia ao empregado admitido no lugar de outro, ou do empregado promovido, de igual salário ao do empregado de menor salário na mesma função, sem considerar vantagens pessoais.PARÁGRAFO ÚNICO - Para os afastamento por Auxílio doença, Acidente de trabalho, Licença maternidade ou Licenças remuneradas ou não, superiores a 30 dias, será garantido ao empregado substituto o menor salário da mesma função por um período máximo de 06 meses
+|
+Será concedida a todos os empregados, até o 15º(décimo quinto) dia de cada mês, antecipação salarial correspondente a 40%(quarenta por cento) do salário nominal do mês.
+PARÁGRAFO PRIMEIRO - O restante dos salários com as incidências legais, será pago no último dia do mês; 
+PARÁGRAFO SEGUNDO - Quando os dias 15 e o último dia do mês coincidirem com sábado, domingo e feriado, o pagamento será efetuado no 1º(primeiro) dia útil imediatamente anterior.PARÁGRAFO TERCEIRO – O benefício previsto nesta cláusula exclui os empregados que exercem os cargos de Coordenação, Chefia, Gerência e Diretoria
+|
+Sempre que os salários forem pagos através de bancos, será assegurado ao empregado, intervalo remunerado durante sua jornada para lhe permitir o recebimento, o qual não poderá coincidir com o intervalo para refeição e descanso.
+PARÁGRAFO ÚNICO - O empregado terá também tempo livre remunerado suficiente para o recebimento do PIS, benefícios previdenciários e levantamento do FGTS, pré-avisando a empresa com antecedência mínima de 24(vinte e quatro) horas.
+|
+A empresa pagará a 1ª parcela do 13º salário até o dia 20 de novembro de 2010, ou por ocasião das férias quando solicitado pelo empregado.
+|
+As partes recomendam que sejam tomadas providencias para que seja concedida aos empregados com contrato de trabalho na vigência do presente acordo, assistência médica, assistência odontológica (extensiva aos dependentes considerados conforme critérios de elegibilidade atualmente vigente na empresa), vale refeição, seguro de vida em grupo e vale transporte, cabendo à empresa a sistemática e o modelo de administração dos benefícios mencionados.
+PARÁGRAFO ÚNICO - Nenhum dos benefícios acima mencionados tem cunho salarial para qualquer fim ou efeito.|
+A empresa concederá a todos os seus empregados, e sem qualquer ônus a estes, a quantia de R$ 95,00 (noventa reais) mensais através de vale alimentação, junto com o pagamento do adiantamento quinzenal. 
+PARÁGRAFO PRIMEIRO - Excetuam-se da concessão deste benefício, os empregados diretores, gerentes, coordenadores e ocupantes de cargos equivalentes.
+PARÁGRAFO SEGUNDO - Caberá exclusivamente à empresa a escolha do fornecedor e a forma de aquisição dos vales alimentação, ficando claro, desde já, que a concessão não possui natureza salarial para qualquer fim ou efeito.
+ |
+As partes concordam que a obrigação contida nos parágrafos 1º e 2º do artigo 389 da CLT, de acordo com a Portaria do MTb 3296, de 04/08/96, e Parecer MTb 196/86 aprovado em 16/07/87, poderá ser substituída, a critério da empresa, pela concessão de auxílio pecuniário, às suas empregadas no valor mensal correspondente a 15%(quinze por cento) do piso salarial, conforme cláusula 3 deste acordo, observadas as seguintes condições:
+PARÁGRAFO PRIMEIRO - O auxílio a que se refere a presente cláusula, será concedido aos filhos até completarem 7(sete) anos de idade, de empregadas que estejam em serviço ativo na empresa, mediante comprovação de matrícula anual em estabelecimento devidamente registrado como pessoa jurídica junto ao CGC/CNPJ, ou em caso de autônomo com profissão devidamente regularizada e registrada de acordo com a legislação vigente. O reembolso será efetuado mediante apresentação de recibo, limitado a 15% (quinze por cento) do piso salarial;
+PARÁGRAFO SEGUNDO - O referido pagamento, à título pecuniário, não terá configuração salarial, ou seja, não terá reflexo para efeito de férias, 13º salário, aviso prévio, nem incidência para fins de INSS, FGTS ou IRRF;
+PARÁGRAFO TERCEIRO - O objeto desta cláusula deixará de existir caso a empresa instale creche própria ou firme convênio com creche em efetivo funcionamento, cabendo à empresa a divulgação interna.
+|
+Será concedida, uma única vez, em forma de crédito em folha de pagamento ou vale compra, o valor de R$ 116,51 (cento e dezesseis reais e cinquenta e um centavos), para auxílio na aquisição de material escolar, mediante comprovação, para os empregados estudantes existentes no quadro de pessoal na data da assinatura deste acordo, que permanecerem trabalhando até 15 de março de 2011 e aos dependentes assim considerados de acordo com a legislação vigente e que venham a ser ratificados a critério da empresa, desde que estejam cursando 1º e 2º graus, superior e pós-graduação em estabelecimento de ensino regular, com idade inferior a 24(vinte e quatro) anos. Excetua-se da concessão deste benefício, os empregados diretores, gerentes, coordenadores e ocupantes de cargos equivalentes.
+PARÁGRAFO PRIMEIRO - Os empregados que apresentarem a comprovação de matrícula até o dia 15 de fevereiro de 2011, receberão o benefício juntamente com os salários de fevereiro. Os empregados que apresentarem a comprovação de matrícula até o dia 15 de março de 2011, receberão o benefício juntamente com os salários de março. Os empregados e seus dependentes que estudam em entidades onde o ano letivo inicia-se no segundo semestre, a comprovação da matrícula deverá ser entregue até o dia 15 de agosto de 2011, recebendo esse benefício juntamente com os salários de agosto;
+PARÁGRAFO SEGUNDO - O benefício decorrente dessa cláusula estará encerrado após 15 de março e 15 de agosto, razão pela qual não será aceita qualquer comprovação que porventura venha a ser apresentada após as referidas datas;
+PARÁGRAFO TERCEIRO – A concessão prevista nesta cláusula, não tem cunho salarial, para nenhum fim ou efeito. 
+|
+Aos empregados que comprovarem estar a um máximo de 24(vinte e quatro) meses da aquisição do direito à aposentadoria, seja ela por idade, a especial e ainda, a por tempo de serviço na empresa, nos seus prazos mínimos, ficará assegurado emprego ou indenização por aposentadoria, correspondente ao período que faltar para a aposentadoria, sem prejuízo de outros eventuais direitos porventura existentes.  Referida verba não terá cunho salarial, não integrando a remuneração para nenhum fim ou efeito.
+PARÁGRAFO PRIMEIRO - Caso o empregado dependa de documentação hábil para comprovação de tempo de serviço, terá 90(noventa) dias de prazo, a partir do término do aviso prévio legal, em qualquer modalidade da aposentadoria, para apresentá-lo à empresa. Este prazo poderá ser prorrogado mediante requerimento do empregado, justificando a dificuldade de obtenção dos documentos comprobatórios junto ao INSS, por sucessivos períodos de 90 dias, até o limite máximo de 360 dias;
+PARÁGRAFO SEGUNDO - O prazo aqui definido será solicitado por escrito pelo empregado, no prazo de 15 dias, após o recebimento da notificação de dispensa, não sendo devido o pagamento dos dias excedentes ao prazo do aviso prévio legal e acordado;
+PARÁGRAFO TERCEIRO - Entende-se como documento hábil para aprovação do tempo de serviço o documento fornecido pela previdência social que defere a contagem de tempo de serviço, anteriormente solicitada, pelo empregado. Não será aceito pela empresa em hipótese alguma o simples protocolo de requerimento da contagem de tempo de serviço;
+PARAGRAFO QUARTO - Caso o empregado deixe de exercer o direito a aposentadoria, de que trata essa cláusula, no momento de seu surgimento, não ocorrerá para ele nova garantia de emprego.|
+Ao empregado desligado do trabalho por aposentadoria, e que tenha prestado serviços por, no mínimo, 05 (cinco) anos, será concedida uma indenização por rescisão decorrente de aposentadoria, correspondente a 02(dois) pisos salariais, sem prejuízo de outros eventuais direitos existentes desde que o empregado se desligue definitivamente da empresa. Referida verba, não terá cunho salarial, não integrando a remuneração para nenhum fim ou efeito.
+|
+Aos empregados que contarem com mais de 45 (quarenta e cinco) anos de idade, quando dispensados sem justa causa, fica assegurado um aviso prévio de 45 (quarenta e cinco) dias, incluído nesse prazo o aviso prévio legal.PARÁGRAFO ÚNICO - No curso do aviso prévio dado pela empresa, sempre que o empregado comprovar a obtenção de um novo emprego, a empresa poderá dispensar do cumprimento do restante do prazo, desobrigando-se, contudo, do pagamento do período não trabalhado
+|
+A empresa considerará abonada a ausência do empregado estudante, em dia de prova escolar, quando a mesma se realizar no turno de trabalho do mesmo, desde que seja comunicada com antecedência mínima de 48(quarenta e oito) horas, com comprovação posterior.
+|
+O empregado poderá deixar de comparecer ao serviço, sem prejuízo dos salários desde que devidamente comprovado, nas condições abaixo discriminadas:
+PARÁGRAFO PRIMEIRO - até 03(três) dias consecutivos, em caso de falecimento do cônjuge, pais, irmãos, filhos e companheiro, este último desde que devidamente cadastrado no INSS;
+PARÁGRAFO SEGUNDO - 01(hum) dia em caso de internação hospitalar de cônjuge ou filho;
+PARÁGRAFO TERCEIRO - 05(cinco) dias em caso de nascimento de filho;
+PARÁGRAFO QUARTO - 05(cinco) dias em caso de casamento;
+PARÁGRAFO QUINTO - Até 01(hum) dia por semestre para doação de sangue;
+|
+As férias iniciar-se-ão sempre no primeiro dia útil da semana, salvo expressa manifestação em contrário do empregado.
+PARÁGRAFO PRIMEIRO - Os dias úteis compensados antecipadamente não serão computados no período de gozo das férias individuais ou coletivas;
+PARÁGRAFO SEGUNDO - A empresa adiantará 50% (cinqüenta por cento) do valor do décimo terceiro salário, na oportunidade das férias nos meses de fevereiro à dezembro, se solicitado pelo empregado.
+|
+A empresa adotará, nos termos da lei, as medidas de proteção individuais e coletivas, com o intuito de preservar os seus empregados no que se refere a segurança, higiene e medicina do trabalho;
+PARÁGRAFO PRIMEIRO - A empresa realizará exames médicos periódicos (anuais) em todos os seus empregados expostos a condições insalubres de trabalho, nos termos da legislação em vigor, cientificando-os do respectivo resultado e entregando-lhes os atestados correspondentes;
+PARÁGRAFO SEGUNDO - Os empregados receberão instruções e treinamentos iniciais e periódicos sobre os diferentes riscos de acidentes, bem como, medidas de proteção relativas às operações e atividades especificas que realizarem;
+PARÁGRAFO TERCEIRO - A cada ingresso de um novo empregado, a empresa o treinará quanto a forma de utilização do EPI necessário, e de uso obrigatório ao desempenho de suas funções, bem como, dará as informações relativas, aos processos de produção, riscos de manuseio de substâncias e dos programas de prevenções desenvolvidos.
+|
+A empresa fornecerá gratuitamente, aos empregados, os equipamentos e meios de proteção individual e coletivo, quando necessários a execução de serviços nos termos da legislação vigente. PARÁGRAFO ÚNICO - A empresa fornecerá também de forma gratuita, uniformes, fardamentos, macacões, aventais, gorros e demais peças de vestimentas aos empregados que prestem serviços nos setores que necessitem de tais equipamentos
+|
+Na ocorrência de acidente do trabalho, a comunicação deverá ser imediatamente preenchida por pessoal da empresa, instruído para esse fim e responsável por assiná-la.PARÁGRAFO ÚNICO - A empresa enviará ao sindicato profissional, quinzenalmente, e mediante protocolo as cópias das comunicações de acidente do trabalho, devidamente preenchidas naquele período
+|
+A empresa descontará de todos os empregados existentes em seu quadro de pessoal no dia 30 de junho de 2010 e que permanecem trabalhando, a título de Contribuição Assistencial, o percentual de 3,0% (três inteiros por cento) sobre o salário nominal, limitado a R$ 123,55 (cento e dez reais e cinquenta e um centavos). A referida contribuição deverá ser recolhida a entidade sindical, em guia própria, até o dia 15/07/2010;
+PARÁGRAFO PRIMEIRO – Reconhece-se expressamente o direito dos empregados de não concordar com o desconto da contribuição assistencial. Para que tal direito seja exercido, deverão encaminhar carta de oposição a área de Recursos Humanos da EMPRESA e ao SINDICATO, manifestando a oposição até, no máximo, 10 (dez) dias após a assinatura do acordo;
+PARÁGRAFO SEGUNDO - A carta de oposição dirigida ao SINDICATO deverá ser individual, e entregue pessoalmente na sede deste, no horário normal de funcionamento ou, na hipótese de entrega por terceiro, contar com firma reconhecida.
+|
+A empresa permitirá a colocação, em seus quadros de avisos de comunicação do sindicato profissional, desde que assinadas pela diretoria da entidade, após previamente aprovada pela empresa.
+|
+Fica estipulada a multa de 01(um) piso salarial por infração e por empregado em caso de inobservância de quaisquer das cláusulas do presente acordo, revertendo-se o valor em favor da parte prejudicada.
+|
+Será competente a Justiça do Trabalho, representada pelo Tribunal Regional do Trabalho da 2ª Região, para dirimir quaisquer divergências surgidas na aplicação deste Acordo Coletivo de Trabalho, de conformidade com o disposto no artigo 625 da CLT.

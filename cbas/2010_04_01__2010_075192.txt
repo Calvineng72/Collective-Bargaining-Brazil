@@ -1,0 +1,176 @@
+<STARTofTITLE>
+Mediador - Extrato Acordo Coletivo
+<ENDofTITLE>
+
+<STARTofVALIDITY>
+carimbo
+<ENDofVALIDITY>
+
+<STARTofHEADERS>
+NÚMERO DE REGISTRO NO MTE|PB000023/2011
+DATA DE REGISTRO NO MTE|21/01/2011
+NÚMERO DA SOLICITAÇÃO|MR075192/2010
+NÚMERO DO PROCESSO|46224.000178/2011-98
+DATA DO PROTOCOLO|18/01/2011
+<ENDofHEADERS>
+
+<STARTofCOUNTERPART1>
+SINDICATO DOS JORNALISTAS PROFISSIONAIS DO ESTADO DA PARAIBA                                                                                          |09.260.241/0001-44|Presidente|LAND SEIXAS DE CARVALHO
+<ENDofCOUNTERPART1>
+<STARTofCOUNTERPART2>
+RADIO E TELEVISAO O NORTE LIMITADA|08.846.487/0001-30|Administrador|JOSE JORGE ARAUJO
+RADIO FM O NORTE LTDA|10.749.430/0001-64|Administrador|JOSE JORGE ARAUJO
+S A DIARIO DA BORBOREMA|08.811.663/0001-06|Administrador|JOSE JORGE ARAUJO
+TELEVISAO BORBOREMA S/A|08.843.922/0001-72|Administrador|JOSE JORGE ARAUJO
+RADIO BORBOREMA S A|08.811.648/0001-50|Administrador|JOSE JORGE ARAUJO
+SA O NORTE|09.101.411/0001-48|Administrador|JOSE JORGE ARAUJO
+<ENDofCOUNTERPART2>
+
+<STARTofSTARTDATE>
+1/04/2010
+<ENDofSTARTDATE>
+<STARTofEXPRIRATIONDATE>
+31/03/2011
+<ENDofEXPIRATIONDATE>
+
+<STARTofRENEGOTIATION>
+1/04
+<ENDofRENEGOTIATION>
+
+<STARTofCATEGORY>
+Jornalistas profissionais
+<ENDofCATEGORY>
+<STARTofGEOGRAPHY>
+PB
+<ENDofGEOGRAPHY>
+
+<STARTofCLAUSES>
+Piso Salarial|PISO SALARIAL
+Reajustes/Correções Salariais|REAJUSTE SALARIAL
+Reajustes/Correções Salariais|COMPENSAÇÃO DE AUMENTO
+Pagamento de Salário – Formas e Prazos|MULTA POR ATRASO DE PAGAMENTO
+Pagamento de Salário – Formas e Prazos|COMPROVANTE DE PAGAMENTO
+Pagamento de Salário – Formas e Prazos|PAGAMENTO EM CHEQUE
+Pagamento de Salário – Formas e Prazos|13° SALÁRIO
+Salário produção ou tarefa|MATÉRIA PAGA
+Adicional de Hora-Extra|HORAS EXTRAS
+Adicional Noturno|TRABALHO NOTURNO
+Adicional de Insalubridade|ADICIONAL DE INSALUBRIDADE
+Outros Adicionais|ADICIONAL POR DEDICAÇÃO EXCLUSIVA
+Auxílio Morte/Funeral|AUXÍLIO FUNERAL
+Aposentadoria|GARANTIA DE EMPREGO A JORNALISTA EM VIAS DE APOSENTADORIA
+Desligamento/Demissão|CARTA AVISO DE DISPENSA
+Aviso Prévio|AVISO PRÉVIO
+Outras normas referentes a admissão, demissão e modalidades de contratação|COMPROVAÇÃO DO EXERCÍCIO PROFISSIONAL
+Ferramentas e Equipamentos de Trabalho|VIAGENS
+Ferramentas e Equipamentos de Trabalho|MATERIAL DE TRABALHO
+Ferramentas e Equipamentos de Trabalho|UNIFORMES
+Ferramentas e Equipamentos de Trabalho|TRANSPORTE
+Outras normas referentes a condições para o exercício do trabalho|CRÉDITO
+Outras normas referentes a condições para o exercício do trabalho|DIREITOS AUTORAIS
+Outras normas referentes a condições para o exercício do trabalho|DEFESA DO EMPREGADO
+Faltas|ABONO DE FALTA DO EMPREGADO ESTUDANTE
+Duração e Concessão de Férias|FÉRIAS
+Exames Médicos|LICENÇA PARA EXAMES PRÉ NATAL
+Acesso do Sindicato ao Local de Trabalho|DIREITO DE DIVULGAÇÃO
+Liberação de Empregados para Atividades Sindicais|DISPENSA PARA EVENTOS
+Garantias a Diretores Sindicais|LIBERAÇÃO DE DIRIGENTES
+Acesso a Informações da Empresa|RELAÇÃO DE EMPREGADOS
+Contribuições Sindicais|CONTRIBUIÇÃO ASSISTENCIAL
+Contribuições Sindicais|MENSALIDADE SINDICAL
+Outras disposições sobre relação entre sindicato e empresa|EXEMPLARES GRATUITOS
+Descumprimento do Instrumento Coletivo|MULTA
+<ENDofCLAUSES>
+
+<STARTofAPPENDICES>
+
+<ENDofAPPENDICES>
+
+<STARTofAPPTEXT>
+
+<ENDofAPPTEXT>
+
+<STARTofTEXT>
+Em 1º de abril de 2010, o piso salarial da categoria será R$ 1.112,48 (mil cento e doze reais e quarenta e oito centavos) em todas as empresas do grupo Diários Associados da Paraíba.
+|
+O salário do empregado jornalista será reajustado em 7% (sete por cento), aplicado sobre o salário vigente em 31 de março de 2010.
+Parágrafo Único – O retroativo referente aos meses de abril a dezembro de 2010 será pago em quatro parcelas nos meses de janeiro, fevereiro, março e abril de 2011.
+|
+Aumentos individuais decorrentes de promoção, transferência ou equiparação salarial não poderão ser compensados pelo reajuste fixado no presente acordo.
+|
+O não-pagamento de salário, férias e décimo terceiro nos prazos legais estabelecidos em lei implicará em multa em favor do empregado-jornalista no valor correspondente ao salário mínimo vigente à época da infração.
+|
+As empresas empregadoras deverão fornecer recibo ou contracheque de pagamento a cada empregado-jornalista, discriminando os proventos pagos, descontos efetuados, valor do FGTS, número de horas-extras e número de dias trabalhados.
+|
+As empresas empregadoras que paguem em cheque deverão permitir que, no dia do pagamento, o empregado-jornalista se ausente para descontá-lo.
+|
+Por ocasião das férias, o empregado-jornalista poderá receber adiantamento de 50% (cinquenta por cento) do décimo terceiro salário, desde que requeira à empresa empregadora com 30 dias de antecedência.
+|
+O empregado-jornalista não poderá ser obrigado a fazer matéria paga com fins publicitários. Caso concorde em fazê-la, ser-lhe-á garantido um pagamento pela empresa empregadora, de valor a ser negociado entre as partes.
+|
+As horas-extras realizadas deverão ser pagas de acordo com o que estabelece a CLT.
+|
+Empregados-jornalistas que trabalhem em horário noturno, entre 22h00 de um dia e 05h00 do dia seguinte, farão jus a um adicional de 20% (vinte por cento) sobre o valor da hora normal diurna.
+|
+Repórteres que acumulem a função de laboratorista farão jus a um adicional de insalubridade, fixado de acordo com o laudo pericial elaborado por setor competente do Ministério do Trabalho, incidente sobre o piso salarial da categoria.
+|
+As empresas empregadoras que adotem escalas de trabalho móvel e exijam dedicação exclusiva deverão pagar ao empregado-jornalista que se enquadrar nessa condição um adicional por dedicação exclusiva equivalente a 100% (cem por cento) do salário normal. Caso o contrato de trabalho não contemple a dedicação exclusiva, o adicional não poderá ser exigido, ainda que inclua a realização de plantão de final de semana ou presença em evento extraordinário.
+|
+As empresas empregadoras pagarão ao cônjuge ou herdeiro direto, a título de ajuda, um auxílio funeral de valor igual a um salário e meio do empregado-jornalista falecido na vigência do contrato de trabalho.
+|
+As empresas empregadoras não poderão efetuar a dispensa de empregado-jornalista que tenha mais que cinco anos consecutivos de serviço prestado à mesma empresa, no período de 18 meses que antecedem à data de aquisição do direito à aposentadoria por tempo de serviço. Na hipótese em que essas condições não se cumpram, o contrato de trabalho poderá ser rescindido, a pedido do empregado-jornalista, por justa causa ou acordo.
+Parágrafo Primeiro – Completado o tempo de serviço e adquirido o direito à aposentadoria, cessam os efeitos desta cláusula.
+Parágrafo Segundo – Em caso de dispensa, o empregado-jornalista deverá notificar a empresa empregadora sobre o seu enquadramento na presente cláusula, sob pena de decair seu direito.
+|
+As empresas empregadoras deverão identificar ao empregado-jornalista demitido por justa causa a alínea do artigo 482 da CLT em que se enquadra a punição geradora do seu desligamento.
+|
+As empresas empregadoras deverão pagar aviso prévio de, no mínimo, 30 dias, acrescendo dois dias para cada ano trabalhado, desde que na mesma empresa.
+|
+As empresas empregadoras obrigam-se a registrar na CTPS as promoções do empregado-jornalista, sua remuneração, gratificação e outras vantagens pessoais.
+|
+As empresas empregadoras deverão fornecer os meios necessários para o deslocamento, hospedagem e alimentação do empregado jornalista convocado a trabalhar fora de sua cidade- base.
+|
+As empresas empregadoras deverão fornecer o material fotográfico, de vídeo e cinematográfico que os empregados-jornalistas necessitem para exercer sua função.
+ 
+Parágrafo Único – Na hipótese de a empresa utilizar equipamentos de propriedade do empregado-jornalista, deverá ajustar previamente o valor a ser pago.
+|
+Em caso de exigência de uso de uniforme ou fardamento durante o expediente, a empresa empregadora deverá fornecer gratuitamente dois conjuntos por ano para cada empregado-jornalista.
+ 
+Parágrafo Único – Em caso de extravio de fardamento, uniforme ou equipamento de proteção individual por culpa do empregado-jornalista, ele deverá arcar com a despesa de aquisição de um novo conjunto ou equipamento, ficando ainda certo que os itens citados deverão ser devolvidos  ao término do contrato de trabalho.
+|
+As empresas empregadoras deverão fornecer transporte ao empregado jornalista que trabalhar no período entre 23h00 de um dia e 05h00 do dia seguinte, de sua residência para o local de trabalho e vice-versa.
+|
+As empresas empregadoras deverão creditar fotos, imagens e ilustrações, mediante indicação do nome dos autores. As empresas editoras de jornais deverão estender a adoção desse procedimento a todo material jornalístico que publicarem, ocupando espaço igual ou superior a ¼ (um quarto) de página.
+|
+Em caso de utilização de fotos, imagens, ilustrações e textos para fins de publicidade que tenham sido produzidos originalmente para fins jornalísticos, as empresas empregadoras deverão indenizar seus autores, mediante um valor negociado pelas partes.
+|
+As empresas empregadoras deverão arcar com a defesa judicial do empregado-jornalista que for processado na esfera criminal, desde que sua atuação tenha se pautado nos princípios éticos que regulamentam a profissão.
+|
+As empresas empregadoras deverão abonar a falta de empregados-jornalistas que estudem em estabelecimento oficial ou reconhecido de ensino, quando submetidos a prova no horário do expediente, desde que comunicadas com 72 horas de antecedência e comprovado o comparecimento em igual prazo.
+|
+O dia de início das férias não poderá ser domingo, feriado ou de repouso semanal remunerado.
+Parágrafo Primeiro – Havendo reajuste salarial no período de férias, a diferença a que o empregado-jornalista faz jus deverá ser paga na folha do mês seguinte ao das férias.
+Parágrafo Segundo – Assegura-se ao empregado-jornalista nubente o direito de gozar férias coincidentemente com a data do seu casamento, desde que a pretensão seja comunicada com 60 dias de antecedência.
+|
+A empregada-jornalista gestante poderá se ausentar do serviço para fazer exame pré-natal, mediante comprovação médica.
+|
+O Sindicato dos Jornalistas poderá afixar comunicados de interesse da classe em quadros de aviso das empresas empregadoras, vedados os de conteúdo político-partidário ou ofensivo a terceiros.
+Parágrafo Primeiro – Mediante comunicação prévia, os diretores do Sindicato dos Jornalistas poderão ter acesso às dependências das empresas empregadoras para informar aos empregados-jornalistas sobre as atividades sindicais.
+Parágrafo Segundo – As empresas empregadoras publicarão gratuitamente editais e avisos sobre atividades do Sindicato dos Jornalistas, mediante solicitação com 24h de antecedência.
+|
+Um e apenas um empregado-jornalista de cada empresa signatária deste acordo poderá ser indicado para participar de encontro, congresso ou conferência de interesse da categoria profissional, desde que tenha duração de até 3 (três) dias, seja solicitado com 5 (cinco) dias úteis de antecedência, mediante envio de cópia da decisão da assembléia e comprovação da participação em igual prazo.
+|
+As empresas empregadoras acordam em liberar do serviço e manter em folha de pagamento os empregados-jornalistas que ocupem os cargos de Presidente, Tesoureiro ou Secretário do Sindicato dos Jornalistas Profissionais da Paraíba, enquanto estiverem no exercício efetivo desses cargos.
+Parágrafo Único – Empregados-jornalistas que ocupem demais cargos da diretoria do Sindicato poderão se ausentar um dia por mês, sem prejuízo dos seus vencimentos e vantagens, para participar de assembleias e reuniões sindicais, desde que informem a empresa empregadora com 48 horas de antecedência.
+|
+As empresas empregadoras deverão enviar ao Sindicato dos Jornalistas Profissionais do Estado da Paraíba a relação dos empregados-jornalistas, no prazo de cinco dias da solicitação, podendo esta ser feita até quatro vezes na vigência do presente acordo.
+|
+Na folha de janeiro de 2011, as empresas empregadoras deverão descontar do empregado-jornalista a quantia correspondente a 2% (dois por cento) do salário-base de todos os jornalistas, sindicalizados ou não, a título de contribuição assistencial, conforme aprovado em Assembleia Geral da categoria. Os valores apurados deverão ser recolhidos em favor do Sindicato dos Jornalistas Profissionais do Estado da Paraíba.
+|
+As empresas empregadoras deverão descontar dos empregados-jornalistas sindicalizados a mensalidade estabelecida pelo Sindicato dos Jornalistas, recolhendo-a até o dia 10 do mês subsequente, depositando-a na conta bancária nº 5.002.267-5, na agência 1181 - Varadouro, do Banco Real/Santander (código 356), mediante relação nominal, de acordo com o art. 545 da CLT. Na hipótese de atraso no repasse, as empresas empregadoras deverão pagar ao Sindicato uma multa de 10% (dez por cento) desse valor, se o atraso for de até 15 (quinze) dias; de 20% (vinte por cento), se o atraso for superior a 15 (quinze) dias e inferior a 20 (vinte) dias; e de 30% (trinta por cento), se for superior a 20 (vinte) dias.
+Parágrafo Único – Além da relação de associados descontados da mensalidade sindical em folha de pagamento, as empresas empregadoras deverão apresentar a relação dos profissionais não-descontados por motivo de falecimento, demissão, desligamento do sindicato, aposentadoria ou licença não-remunerada.
+|
+As empresas editoras de jornais fornecerão ao Sindicato dos Jornalistas uma assinatura anual dos jornais e revistas que editam.
+ 
+|
+A parte que infringir as obrigações do presente acordo ficará obrigada a pagar multa no valor correspondente a 10% (dez por cento) do maior piso salarial da categoria, em favor do prejudicado, aplicada uma única vez por cada cláusula descumprida.

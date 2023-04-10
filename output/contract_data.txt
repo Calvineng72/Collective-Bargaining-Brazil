@@ -1,0 +1,49 @@
+contract_id|title|validity|clause_count|Wages|Health|Union|Safety / Injury / Disability|Work Adaptation / Training|Work Time|Incentives|Food / Education / Housing|Contract Agreement|Retirement|Work Environment / Harassment|Family|Dismissals / Transfers|Fees|Staffing / Hiring / Outsourcing|Other|Equality / Fairness
+2016_082054|Mediador - Extrato Acordo Coletivo|carimbo|69|11|2|6|8|4|9|0|1|4|2|1|6|4|0|5|4|2
+2012_002993|Mediador - Extrato Acordo Coletivo|semvalorlegal|50|6|2|7|5|1|6|2|2|0|1|2|4|2|0|1|9|0
+2014_081501|Mediador - Extrato Acordo Coletivo|semvalorlegal|4|0|0|0|0|0|0|0|0|2|0|0|0|0|0|0|2|0
+2017_084835|Mediador - Extrato Acordo Coletivo|carimbo|10|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|10|0
+2017_084809|Mediador - Extrato Acordo Coletivo|carimbo|2|0|0|0|0|0|1|1|0|0|0|0|0|0|0|0|0|0
+2013_055346|Mediador - Extrato Termo Aditivo de Acordo Coletivo|semvalorlegal|2|0|0|0|0|0|2|0|0|0|0|0|0|0|0|0|0|0
+2009_016497|Mediador - Extrato Acordo Coletivo|carimbo|9|1|0|0|0|0|6|0|0|0|0|0|0|1|0|1|0|0
+2015_060659|Mediador - Extrato Acordo Coletivo|semvalorlegal|8|7|0|0|0|0|1|0|0|0|0|0|0|0|0|0|0|0
+2012_042451|Mediador - Extrato Acordo Coletivo|carimbo|8|2|0|2|0|1|1|0|0|0|0|1|0|0|0|1|0|0
+2012_002943|Mediador - Extrato Acordo Coletivo|semvalorlegal|24|4|1|5|2|0|4|1|1|0|1|1|1|2|0|1|0|0
+2016_082084|Mediador - Extrato Acordo Coletivo|carimbo|77|9|5|10|8|0|16|0|4|1|1|2|3|8|0|6|2|2
+2014_009174|Mediador - Extrato Acordo Coletivo|carimbo|9|2|0|3|0|0|1|1|0|1|0|0|0|0|0|0|1|0
+2009_016731|Mediador - Extrato Acordo Coletivo|carimbo|6|0|0|1|2|0|1|0|0|0|0|0|0|0|0|0|0|2
+2015_043073|Mediador - Extrato Convenção Coletiva|semvalorlegal|42|8|1|5|1|0|4|0|2|2|0|1|2|2|0|5|9|0
+2012_003082|Mediador - Extrato Acordo Coletivo|semvalorlegal|24|4|1|5|2|0|4|1|1|0|1|1|1|1|0|2|0|0
+2015_084042|Mediador - Extrato Acordo Coletivo|semvalorlegal|4|2|0|0|0|0|2|0|0|0|0|0|0|0|0|0|0|0
+2017_084934|Mediador - Extrato Acordo Coletivo|carimbo|3|0|0|0|0|0|0|0|1|0|0|0|0|0|0|0|2|0
+2013_073146|Mediador - Extrato Termo Aditivo de Acordo Coletivo|semvalorlegal|2|1|0|0|0|0|0|0|0|0|0|0|0|0|0|0|1|0
+2017_039221|Mediador - Extrato Acordo Coletivo|carimbo|8|0|0|0|0|0|8|0|0|0|0|0|0|0|0|0|0|0
+2017_039341|Mediador - Extrato Convenção Coletiva|carimbo|47|8|2|3|2|1|8|0|4|1|1|1|4|2|0|4|4|2
+2015_069545|Mediador - Extrato Acordo Coletivo|semvalorlegal|1|1|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0
+2013_069396|Mediador - Extrato Acordo Coletivo|carimbo|8|2|0|0|0|0|2|0|0|2|0|0|0|0|1|0|1|0
+2009_016579|Mediador - Extrato Acordo Coletivo|carimbo|2|0|0|0|1|0|0|0|0|0|0|0|0|0|0|0|1|0
+2014_038109|Mediador - Extrato Acordo Coletivo|carimbo|6|1|0|0|1|0|0|0|2|2|0|0|0|0|0|0|0|0
+2013_073403|Mediador - Extrato Acordo Coletivo|semvalorlegal|5|0|0|0|0|0|0|5|0|0|0|0|0|0|0|0|0|0
+2010_074416|Mediador - Extrato Acordo Coletivo|semvalorlegal|4|1|0|0|0|0|1|0|0|2|0|0|0|0|0|0|0|0
+2015_065035|Mediador - Extrato Acordo Coletivo|carimbo|5|3|0|0|0|0|0|0|0|1|0|0|0|0|0|0|1|0
+2017_039364|Mediador - Extrato Convenção Coletiva|carimbo|34|10|1|6|0|0|6|1|1|2|0|1|0|3|1|2|0|0
+2012_032527|Mediador - Extrato Acordo Coletivo|carimbo|30|4|2|5|0|1|9|0|2|1|0|1|2|0|0|2|1|0
+2009_034089|Mediador - Extrato Acordo Coletivo|carimbo|6|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|1|5
+2013_068336|Mediador - Extrato Acordo Coletivo|carimbo|8|2|0|0|0|0|2|0|0|2|0|0|0|0|1|0|1|0
+2014_081419|Mediador - Extrato Acordo Coletivo|semvalorlegal|1|1|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0
+2013_073410|Mediador - Extrato Acordo Coletivo|semvalorlegal|69|11|4|8|4|2|9|1|4|5|2|4|4|3|0|5|3|0
+2009_016389|Mediador - Extrato Acordo Coletivo|semvalorlegal|1|1|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0
+2010_074884|Mediador - Extrato Acordo Coletivo|carimbo|23|6|0|4|2|0|3|1|1|0|1|1|1|2|0|0|1|0
+2014_038173|Mediador - Extrato Acordo Coletivo|carimbo|31|3|2|5|3|0|5|1|3|0|0|0|1|1|0|1|6|0
+2012_042462|Mediador - Extrato Convenção Coletiva|carimbo|56|6|2|12|2|0|8|0|2|2|1|2|0|3|0|1|14|1
+2012_042489|Mediador - Extrato Convenção Coletiva|carimbo|53|2|0|0|0|0|0|0|0|0|0|0|0|0|0|0|51|0
+2016_082062|Mediador - Extrato Convenção Coletiva|semvalorlegal|57|14|1|4|2|1|11|3|0|4|1|0|4|5|0|3|3|1
+2010_075192|Mediador - Extrato Acordo Coletivo|carimbo|35|8|2|7|7|0|4|1|0|1|1|0|1|2|0|1|0|0
+2015_043120|Mediador - Extrato Acordo Coletivo|carimbo|114|13|4|16|12|4|22|1|3|3|1|3|5|11|0|10|4|2
+2014_081490|Mediador - Extrato Termo Aditivo de Acordo Coletivo|semvalorlegal|1|0|0|0|0|0|1|0|0|0|0|0|0|0|0|0|0|0
+2015_075846|Mediador - Extrato Acordo Coletivo|carimbo|2|1|0|0|0|0|1|0|0|0|0|0|0|0|0|0|0|0
+2012_032551|Mediador - Extrato Acordo Coletivo|semvalorlegal|37|6|1|5|4|1|3|1|1|2|2|1|2|2|0|3|2|1
+2010_074659|Mediador - Extrato Acordo Coletivo|carimbo|4|1|0|0|0|0|1|0|0|2|0|0|0|0|0|0|0|0
+2015_043084|Mediador - Extrato Convenção Coletiva|semvalorlegal|52|7|3|9|5|0|7|1|2|0|1|1|2|2|0|3|9|0
+2015_083965|Mediador - Extrato Acordo Coletivo|semvalorlegal|4|2|0|0|0|0|2|0|0|0|0|0|0|0|0|0|0|0
+2015_031484|Mediador - Extrato Acordo Coletivo|semvalorlegal|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0

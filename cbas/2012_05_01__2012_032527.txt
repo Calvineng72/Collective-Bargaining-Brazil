@@ -1,0 +1,180 @@
+<STARTofTITLE>
+Mediador - Extrato Acordo Coletivo
+<ENDofTITLE>
+
+<STARTofVALIDITY>
+carimbo
+<ENDofVALIDITY>
+
+<STARTofHEADERS>
+NÚMERO DE REGISTRO NO MTE|SC001379/2012
+DATA DE REGISTRO NO MTE|26/06/2012
+NÚMERO DA SOLICITAÇÃO|MR032527/2012
+NÚMERO DO PROCESSO|46220.003015/2012-88
+DATA DO PROTOCOLO|25/06/2012
+<ENDofHEADERS>
+
+<STARTofCOUNTERPART1>
+SIND EMPR AUTARQUIAS FED DE REG E FISC PROFISSIONAL SC|80.673.494/0001-04|Presidente|TEREZINHA EMILIA TURNES
+<ENDofCOUNTERPART1>
+<STARTofCOUNTERPART2>
+CONSELHO REGIONAL DE MEDICINA VETERINARIA DO ESTADO DE SANTA CATARINA|82.513.045/0001-24|Presidente|MOACIR TONET
+<ENDofCOUNTERPART2>
+
+<STARTofSTARTDATE>
+1/05/2012
+<ENDofSTARTDATE>
+<STARTofEXPRIRATIONDATE>
+30/04/2013
+<ENDofEXPIRATIONDATE>
+
+<STARTofRENEGOTIATION>
+1/05
+<ENDofRENEGOTIATION>
+
+<STARTofCATEGORY>
+Empregados de Autarquias Federais de Regulamentação e Fiscalização
+<ENDofCATEGORY>
+<STARTofGEOGRAPHY>
+SC
+<ENDofGEOGRAPHY>
+
+<STARTofCLAUSES>
+Reajustes/Correções Salariais|REAJUSTE/REPOSIÇÃO SALARIAL
+Reajustes/Correções Salariais|AUMENTO REAL
+Outras normas referentes a salários, reajustes, pagamentos e critérios para cálculo|FÉRIAS PROPORCIONAIS
+13º Salário|13º SALÁRIO/ANTECIPAÇÃO
+Adicional de Hora-Extra|REMUNERAÇÃO DA HORA EXTRAORDINÁRIA
+Auxílio Alimentação|VALE REFEIÇÃO
+Auxílio Transporte|VALE TRANSPORTE
+Auxílio Saúde|ASSISTÊNCIA MÉDICA, HOSPITALAR E LABORATORIAL
+Auxílio Saúde|ASSISTÊNCIA ODONTOLÓGICA
+Auxílio Creche|AUXÍLIO CRECHE
+Qualificação/Formação Profissional|RECICLAGEM E APRIMORAMENTO PROFISSIONAL
+Estabilidade Geral|ESTABILIDADE PROVISÓRIA DE EMPREGO
+Outras normas de pessoal|INCENTIVO APOSENTADORIA
+Outras normas de pessoal|REUNIÕES ADMINISTRATIVAS
+Faltas|ABONO DE FALTA AO TRABALHADOR
+Faltas|ABONO DE FALTA DO ESTUDANTE
+Outras disposições sobre jornada|FERIADOS
+Licença Maternidade|LICENÇA MATERNIDADE
+Outras disposições sobre férias e licenças|LICENÇA PATERNIDADE
+Outras disposições sobre férias e licenças|LICENÇA GALA
+Outras disposições sobre férias e licenças|LICENÇA ASSIDUIDADE
+Outras disposições sobre férias e licenças|LICENÇA SEM VENCIMENTO POR INTERESSE DO EMPREGADO
+Outras disposições sobre férias e licenças|LICENÇA NOJO
+Uniforme|UNIFORME
+Sindicalização (campanhas e contratação de sindicalizados)|DIRIGENTES SINDICAIS
+Contribuições Sindicais|DO DESCONTO DE MENSALIDADES
+Outras disposições sobre relação entre sindicato e empresa|QUADRO DE AVISOS
+Outras disposições sobre relação entre sindicato e empresa|HOMOLOGAÇÃO DAS RESCISÕES CONTRATUAIS
+Mecanismos de Solução de Conflitos|CASOS OMISSOS
+Descumprimento do Instrumento Coletivo|PENALIDADE
+<ENDofCLAUSES>
+
+<STARTofAPPENDICES>
+
+<ENDofAPPENDICES>
+
+<STARTofAPPTEXT>
+
+<ENDofAPPTEXT>
+
+<STARTofTEXT>
+A partir de 1º de Maio de 2012, os salários dos funcionários do CRMV-SC serão reajustados pelo maior índice apurado entre o INPC e IPCA, acumulado medido pelo IBGE do período de 01 de Maio de 2011 até 30 de Abril de 2012, compensando-se as antecipações já concedidas no período em questão, a título de adiantamentos.|
+O CRMV-SC concederá a todos os seus empregados um aumento real de 4,5%, incidente sobre o salário resultante da correção prevista na Cláusula de Reajuste/Reposição Salarial.|
+O empregado com menos de 01 (um) ano de serviço que rescindir espontaneamente seu contrato de trabalho farão jus a férias proporcionais de 1/12 (um doze avos) para cada mês completo de efetivo trabalho, ou fração igual ou superior a 15 (quinze) dias.
+|
+Por ocasião do gozo das férias, o CRMV-SC pagará 50% (cinqüenta por cento) da remuneração do empregado como adiantamento por conta de 13º salário. Aqueles que não gozarem até 30 de Junho (antes 31 de julho) do ano em curso, receberão até aquela data, o adiantamento aqui previsto.|
+A jornada extraordinária trabalhada até o limite de 2 (duas) horas diárias terão um acréscimo de 50% (cinquenta por cento) sobre a hora normal; para as horas subsequentes, o acréscimo será de 100% (cem por cento) quando trabalhada de segunda a sexta-feira. O trabalho em Sábados, Domingos e Feriados será remunerado com adicional de 100% (cem por cento), sem prejuízo do pagamento do repouso a que o empregado faz jus.|
+O CRMV-SC fornecerá a seus empregados, com caráter indenizatório, Vale-Refeição no valor de R$ 22,00 (vinte e dois reais), por dia trabalhado.|
+O CRMV-SC concederá aos seus funcionários um vale transporte, que satisfaça as despesas com transportes coletivos, mensalmente, com ônus para os mesmos, no percentual máximo 3% (três por cento) de seus salários, tudo em conformidade com a Lei 7.418 de 16 de dezembro de 1985.|
+O CRMV-SC fornecerá aos funcionários e seus dependentes, um convênio Saúde, de assistência médica hospitalar e laboratorial, e pagará 75% (setenta e cinco por cento) das mensalidades dos seus planos,  sendo que os 25% (vinte e cinco por cento) restantes serão cobertos pelos próprios funcionários, mediante desconto em folha.|
+O CRMV-SC fornecerá aos funcionários e seus dependentes, um convênio de assistência odontológica, e pagará 75% (setenta e cinco por cento) das mensalidades dos seus planos, sendo que os 25% (vinte e cinco por cento) restantes serão cobertos pelos próprios funcionários, mediante desconto em folha. |
+O CRMV-SC pagará aos seus empregados que tiverem filhos de 0(zero) até 5 (cinco) anos de idade, inclusive, um auxílio creche no valor da mensalidade cobrada pela instituição até o limite de 1/2 salário mínimo mensal, para cada filho do empregado.
+§1º Este auxílio somente incidirá se o filho do empregado estiver matriculado em instituição privada.
+§2º No requerimento do auxílio que trata esta cláusula, o empregado deverá instruir o pedido com o comprovante de matrícula na instituição referida do §1º; comprovante do valor da mensalidade e comprovante de a criança contar com a idade descrita no caput. O CRMV-SC poderá determinar a apresentação de outros documentos para melhor instruir o pedido.
+§3º O empregado deverá comprovar mensalmente a despesa realizada. A falta de comprovação cancela automaticamente o auxílio creche.
+§4º Caso pai e mãe trabalhem no CRMV-SC, somente a mãe terá direito ao referido benefício.|
+O CRMV-SC poderá oferecer aos seus funcionários no decorrer do ano, possibilidades de realização de reciclagem e aprimoramento profissional, com cursos, palestras, seminários, etc., em áreas afins com seus serviços no CRMV-SC e com aprovação prévia da Diretoria, custeando os referidos eventos.|
+
+Gozarão de estabilidade provisória no emprego, salvo por motivo de justa causa para demissão:
+a) Acidentado: por 12 meses após a cessação do auxilio doença acidentário, consoante artigo 118 da lei 8.213/199;
+b) Pré-aposentados: por 36 (trinta e seis) meses imediatamente, anteriores a complementação de tempo para aposentadoria pela Previdência Social ou outra instituição com a mesma finalidade, desde que tenham ao menos 05 (cinco) anos de vinculação empregatícia com o CRMV-SC;
+c) Gestante/Aborto: a mulher, por 6 (seis) meses após o parto, ou por 90 (noventa) dias em caso de aborto legal devidamente comprovado por Atestado Médico; ou ainda, por 90 (noventa) dias por adoção legal de criança de até 6 anos de idade, devidamente comprovada;
+d) No Processo Eleitoral: no período compreendido entre os 3 (três) meses que antecedem as eleições de qualquer dos cargos diretivos dos Conselhos até os 3 (três) meses sucessivos à posse nestes mesmos cargos.|
+Aos empregados que se desligarem do CRMV-SC para usufruir o benefício da aposentadoria, será concedido um abono correspondente a 12 (doze) remunerações mensais, e a manutenção do Convênio Médico mantido pela empregadora, ficando garantido o direito a outras práticas mais favoráveis.|
+O CRMV-SC garantirá a participação de pelo menos um funcionário nas reuniões da Diretoria que tratem de assuntos administrativos com direito a voz.|
+Poderá ser abonada a falta do trabalhador, mediante comprovação por declaração médica, por até dez dias, dentro do período de vigência deste acordo, por motivo de doença do seu cônjuge ou companheiro, parentes consanguíneos de primeiro grau, bem como de pessoa dependente devidamente registrada no cadastro funcional do empregado.
+ 
+Parágrafo único: O abono somente será deferido se a assistência direta do empregado for indispensável e não puder ser prestada simultaneamente com o exercício laboral, mediante análise do pedido por parte do empregador.|
+Mediante aviso prévio de 72 (setenta e duas) horas dado por escrito, será abonada, sem desconto, a ausência do empregado nos dias de provas escolares obrigatórias por lei e vestibulares, quando comprovada tal finalidade, desde que o horário das referidas provas choque com o seu horário de trabalho junto ao CRMV/SC.|
+O CRMV-SC criará agenda anual dos feriados, especificando previamente o funcionamento do órgão nos dias que antecedem e precedem os referidos feriados.
+Parágrafo Único – Fica definido o direito a todos os funcionários do CRMV-SC, a folga no dia do Servidor Público, em 28 de outubro. 
+|
+Será concedida a todas as empregadas do CRMV-SC, por ocasião de gestação, o direito a licença maternidade, pelo período de 120 (cento e vinte) dias.
+|
+Será concedida a todos os empregados do CRMV-SC, por ocasião do nascimento de seu filho(a) ou a adoção legal de criança menor de 6 anos, o período de licença remunerada de 07 (sete)dias.|
+Será concedida a todos os empregados e empregada do CRMV-SC, por ocasião do casamento, o período de licença remunerada de 5 dias úteis, com o objetivo de dar andamento aos trâmites legais, bem como para o gozo de lua de mel.
+|
+Fica assegurada aos empregados do CRMV-SC, licença de 05 (cinco) dias atendida a condição de não ter, durante o período aquisitivo, faltas injustificadas.
+ 
+§1º O período aquisitivo inicia-se em 01 de janeiro e termina em 31 de dezembro de cada ano; 
+ 
+§2º Todos os funcionários iniciarão novo período aquisitivo em 01 de janeiro de 2013.
+ 
+§3º Para os empregados com mais de 01 (um) ano de serviço para o CRMV-SC, mantém-se a contagem temporal em curso e a aquisição do direito em seu respectivo anuênio. Após a aquisição do direito á licença será aplicada na data de 31 de dezembro de 2012 a seguinte proporcionalidade:
+ 
+
+
+
+
+
+Mês de admissão
+
+Dias de licença
+
+
+Janeiro, fevereiro e março
+
+5
+
+
+Abril e maio
+
+4
+
+
+Junho e julho
+
+3
+
+
+Agosto e setembro
+
+2
+
+
+Outubro, novembro e dezembro
+
+1
+§4º A relação acima se aplica também aos empregados que em 31 de dezembro de cada ano não tenham completado 01(um) ano de serviço para o CRMV-SC.
+§5º A licença assiduidade não poderá ser convertida em pecúnia;
+§6º A licença poderá ser concedida de forma integral ou fracionada, mediante solicitação do empregado e deliberação da Diretoria do CRMV-SC.|
+Poderá ser concedida, a critério da Diretoria Executiva do CRMV-SC, licença sem vencimento e benefícios ao empregado do CRMV-SC, mediante requerimento para atender interesses pessoais, por um período de até 01 (um) ano, podendo ser prorrogado, a requerimento do interessado, por mais 01 (um) ano, submetendo-se novamente por decisão da Diretoria Executiva do CRMV-SC, desde que não prejudique o bom serviço da Autarquia.|
+
+Será concedida a todos os empregados e empregadas do CRMV-SC por ocasião do falecimento de parentes, licença conforme a seguir:
+-Falecimento de cônjuge ou os parentes consanguineos ou afins, em primeiro grau ou por adoção: 5 dias úteis.
+-Falecimento de parentes consanguíneos ou afins, em segundo grau: 3 dias úteis.|
+Quando exigido para prestação de serviços ou pela própria natureza do trabalho o CRMV-SC fornecerá uniforme, gratuitamente, aos seus funcionários, em quantidade e frequência que assegurem a manutenção da sua qualidade.|
+Para realização de atividades discricionárias ao sindicato, fica liberado em tempo parcial sem prejuízo da remuneração, durante a vigência do mandato para o qual foram eleitos, os dirigentes sindicais designados pelo Sindicato em número de até 03 (três) dirigentes, limitado o número de 01 (um) empregado por Entidade.
+|
+O CRMV-SC descontará em folha de pagamento, a crédito do Sindicato, os valores relativos a mensalidade fixada aos associados mediante carta de autorização do empregado. O repasse das mensalidades deverá ocorrer no prazo máximo de 05 (cinco) dias após o desconto, encaminhando também a relação nominal dos empregados associados que sofreram os descontos das mensalidades ao Sindicato.
+|
+O CRMV-SC colocará a disposição do Sindicato quadro de avisos para afixação de comunicados de interesse da categoria profissional, incumbindo-se este da sua afixação dentro de 24 (vinte e quatro) horas posteriores ao recebimento.
+|
+Fica o CRMV-SC obrigado a homologar as rescisões de contrato de trabalho dos empregados desligados do emprego, diretamente no Sindicato da Categoria profissional a partir de 01 (um) ano de trabalho, sendo certo, ainda, que as homologações dirão respeito, unicamente aos valores ali consignados, não abrangendo as parcelas não discriminadas.
+|
+Os assuntos não previstos em lei e no acordo coletivo de trabalho deverão ser acordados entre o CRMV-SC e o SEAUF/SC.
+|
+Pelo descumprimento de qualquer das cláusulas constantes do presente instrumento, fica estabelecida uma multa equivalente a 5% (cinco por cento) do menor salário pago no CRMV-SC em favor da parte prejudicada, por cláusula e por empregado.

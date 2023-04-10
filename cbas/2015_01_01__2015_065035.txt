@@ -1,0 +1,84 @@
+<STARTofTITLE>
+Mediador - Extrato Acordo Coletivo
+<ENDofTITLE>
+
+<STARTofVALIDITY>
+carimbo
+<ENDofVALIDITY>
+
+<STARTofHEADERS>
+NÚMERO DE REGISTRO NO MTE|SP012353/2015
+DATA DE REGISTRO NO MTE|29/10/2015
+NÚMERO DA SOLICITAÇÃO|MR065035/2015
+NÚMERO DO PROCESSO|46269.004826/2015-92
+DATA DO PROTOCOLO|26/10/2015
+<ENDofHEADERS>
+
+<STARTofCOUNTERPART1>
+SINDICATO DOS TRAB INDS METAL MEC E MAT ELET DE SALTO|48.988.398/0001-42|Presidente|ALEXANDRO GARCIA RIBEIRO
+<ENDofCOUNTERPART1>
+<STARTofCOUNTERPART2>
+NIHON GIKEN DO BRASIL IMPREGNACAO INDUSTRIAL LTDA.|12.640.770/0001-88|Sócio|KOHACHI SATO
+<ENDofCOUNTERPART2>
+
+<STARTofSTARTDATE>
+01/01/2015
+<ENDofSTARTDATE>
+<STARTofEXPRIRATIONDATE>
+31/12/2015
+<ENDofEXPIRATIONDATE>
+
+<STARTofRENEGOTIATION>
+01/09
+<ENDofRENEGOTIATION>
+
+<STARTofCATEGORY>
+Trabalhadores nas Indústrias Metalúrgicas, Mecânicas e de Material Elétrico
+<ENDofCATEGORY>
+<STARTofGEOGRAPHY>
+Salto/SP
+<ENDofGEOGRAPHY>
+
+<STARTofCLAUSES>
+Compensação de Jornada|FINALIDADE
+Compensação de Jornada|DOS HORARIOS
+Compensação de Jornada|DOS DIAS A SEREM COMPENSADOS
+Renovação/Rescisão do Instrumento Coletivo|DO FORO
+Outras Disposições|DOS ADMITIDOS
+<ENDofCLAUSES>
+
+<STARTofAPPENDICES>
+ATA ASSEMBLEIA
+LISTA PRESENÇA
+<ENDofAPPENDICES>
+
+<STARTofAPPTEXT>
+
+Anexo (PDF)
+|
+Anexo (PDF)
+
+<ENDofAPPTEXT>
+
+<STARTofTEXT>
+Considerando-se o interesse dos empregados da Empresa, em desfrutar períodos mais prolongados de descanso semanal, dentro dos princípios legais conforme artigo 59 da CLT, o presente Acordo visa disciplinar o critério de compensação das horas de trabalho
+// <![CDATA[
+
+// ]]>
+.
+|
+A jornada de trabalho dos empregados será cumprida, respeitando os seguintes horários, totalizando 44 horas semanais:
+Das 07h00 às 17h00 de segunda a quinta-feira, com 01h00 (uma hora)  para refeição e descanso.
+Das 07h00 as 16h00 na sexta-feira com 01h00 (uma hora) para refeição e descanso.
+Sábados e domingos livres.
+|
+De acordo com o calendário oficial para o ano de 2015, os feriados que ocorrerem de segunda à quinta-feira, sendo: 01 de janeiro, 03 e 21 de abril, 01 de maio, 04 de junho, 09 de julho, 07 e 08 de setembro, 12 de outubro, 02 e 20 de novembro e 25 de dezembro, a hora que deveria ser trabalhada nesse dia, para compensação do sábado, será incluída no sistema de compensação, totalizando 16h00 Essas horas serão distribuídas por igual e trabalhadas no restante da semana do respectivo feriado.
+|
+Estipulam as partes o Foro Trabalhista de Salto/SP., para dirimir quaisquer dúvidas acerca do presente Acordo Coletivo de Trabalho, renunciando a qualquer outro, por mais privilegiado que seja. 
+|
+Os contratos de trabalhos dos empregados que forem admitidos após a assinatura deste Acordo reger-se-ão pelos horários estabelecidos neste instrumento, pelo que deverão assim ser cientificados pela empresa quando do ato da admissão.
+// <![CDATA[
+D(["mb","\u003c/span\u003e\u003c/font\u003e\u003c/b\u003e\u003c/h3\u003e\n\n\u003cp\u003e\u003cfont size\u003d\"3\" face\u003d\"Arial\"\u003e\u003cspan style\u003d\"font-size:12.0pt;font-family:Arial\"\u003e&nbsp;\u003c/span\u003e\u003c/font\u003e\u003c/p\u003e\n\n\u003cp\u003e\u003cfont size\u003d\"3\" face\u003d\"Arial\"\u003e\u003cspan style\u003d\"font-size:12.0pt;font-family:Arial\"\u003e&nbsp;\u003c/span\u003e\u003c/font\u003e\u003c/p\u003e\n\n\u003ch4 style\u003d\"line-height:normal\"\u003e\u003cb\u003e\u003cfont size\u003d\"3\" face\u003d\"Arial\"\u003e\u003cspan style\u003d\"font-size:12.0pt;font-family:Arial;background:silver\"\u003eCLÁUSULA QUINTA - Do Foro\u003c/span\u003e\u003c/font\u003e\u003c/b\u003e\u003cfont size\u003d\"3\" face\u003d\"Arial\"\u003e\u003cspan style\u003d\"font-size:12.0pt;font-family:Arial\"\u003e\u003c/span\u003e\u003c/font\u003e\u003c/h4\u003e\n\n\u003cp\u003e\u003cfont size\u003d\"1\" face\u003d\"Arial\"\u003e\u003cspan style\u003d\"font-size:8.0pt;font-family:Arial\"\u003e&nbsp;\u003c/span\u003e\u003c/font\u003e\u003c/p\u003e\n\n\u003cp\u003e\u003cfont size\u003d\"3\" face\u003d\"Arial\"\u003e\u003cspan style\u003d\"font-size:12.0pt;font-family:Arial\"\u003eEstipulam as partes o Foro Trabalhista de Salto/SP\u003cspan\u003e.,\u003c/span\u003e para dirimir quaisquer dúvidas acerca do presente Acordo\nColetivo de Trabalho, renunciando a qualquer outro, por mais privilegiado que\nseja. \u003c/span\u003e\u003c/font\u003e\u003c/p\u003e\n\n\u003cp\u003e\u003cfont size\u003d\"3\" face\u003d\"Arial\"\u003e\u003cspan style\u003d\"font-size:12.0pt;font-family:Arial\"\u003e&nbsp;\u003c/span\u003e\u003c/font\u003e\u003c/p\u003e\n\n\u003cp\u003e\u003cfont size\u003d\"3\" face\u003d\"Arial\"\u003e\u003cspan style\u003d\"font-size:12.0pt;font-family:Arial\"\u003e&nbsp;\u003c/span\u003e\u003c/font\u003e\u003c/p\u003e\n\n\u003cp class\u003d\"MsoNormal\" align\u003d\"center\" style\u003d\"text-align:center\"\u003e\u003cb\u003e\u003cfont size\u003d\"3\" face\u003d\"Arial\"\u003e\u003cspan style\u003d\"font-size:12.0pt;font-family:Arial;background:silver;font-weight:bold\"\u003eCLÁUSULA SEXTA - Vigência\u003c/span\u003e\u003c/font\u003e\u003c/b\u003e\u003cb\u003e\u003cfont size\u003d\"3\" face\u003d\"Arial\"\u003e\u003cspan style\u003d\"font-size:12.0pt;font-family:Arial;font-weight:bold\"\u003e\u003c/span\u003e\u003c/font\u003e\u003c/b\u003e\u003c/p\u003e\n\n\u003cp\u003e\u003cfont size\u003d\"1\" face\u003d\"Arial\"\u003e\u003cspan style\u003d\"font-size:8.0pt;font-family:Arial\"\u003e&nbsp;\u003c/span\u003e\u003c/font\u003e\u003c/p\u003e\n\n\u003cp\u003e\u003cfont size\u003d\"3\" face\u003d\"Arial\"\u003e\u003cspan style\u003d\"font-size:12.0pt;font-family:Arial\"\u003eO prazo de vigência deste Acordo será de 14\u003cspan\u003e&nbsp; \u003c/span\u003ede janeiro a 31 de dezembro de 2008.\u003c/span\u003e\u003c/font\u003e\u003c/p\u003e\n\n\u003cp\u003e\u003cfont size\u003d\"3\" face\u003d\"Arial\"\u003e\u003cspan style\u003d\"font-size:12.0pt;font-family:Arial\"\u003e&nbsp;\u003c/span\u003e\u003c/font\u003e\u003c/p\u003e\n\n\u003cp\u003e\u003cfont size\u003d\"3\" face\u003d\"Arial\"\u003e\u003cspan style\u003d\"font-size:12.0pt;font-family:Arial\"\u003e&nbsp;\u003c/span\u003e\u003c/font\u003e\u003c/p\u003e\n\n\u003cp class\u003d\"MsoNormal\" style\u003d\"text-align:justify\"\u003e\u003cfont size\u003d\"3\" face\u003d\"Arial\"\u003e\u003cspan style\u003d\"font-size:12.0pt;font-family:Arial\"\u003e",1]
+);
+// ]]>
+  

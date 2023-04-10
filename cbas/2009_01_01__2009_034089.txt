@@ -1,0 +1,85 @@
+<STARTofTITLE>
+Mediador - Extrato Acordo Coletivo
+<ENDofTITLE>
+
+<STARTofVALIDITY>
+carimbo
+<ENDofVALIDITY>
+
+<STARTofHEADERS>
+NÚMERO DE REGISTRO NO MTE|SC001139/2009
+DATA DE REGISTRO NO MTE|29/07/2009
+NÚMERO DA SOLICITAÇÃO|MR034089/2009
+NÚMERO DO PROCESSO|46220.003167/2009-85
+DATA DO PROTOCOLO|28/07/2009
+<ENDofHEADERS>
+
+<STARTofCOUNTERPART1>
+SIND.INTERM. TRAB. IND. METAL., MECANICAS MAT ELETRICO SC|83.930.644/0001-06|Tesoureiro|VALDIR EDUARDO PROVESI
+<ENDofCOUNTERPART1>
+<STARTofCOUNTERPART2>
+INTELBRAS SA IND DE TELECE ELETRONICA BRASILEIRA|82.901.000/0001-27|Diretor|RAFAEL BOEING
+<ENDofCOUNTERPART2>
+
+<STARTofSTARTDATE>
+1/01/2009
+<ENDofSTARTDATE>
+<STARTofEXPRIRATIONDATE>
+31/12/2009
+<ENDofEXPIRATIONDATE>
+
+<STARTofRENEGOTIATION>
+1/01
+<ENDofRENEGOTIATION>
+
+<STARTofCATEGORY>
+Trabalhadores Indústria Informática
+<ENDofCATEGORY>
+<STARTofGEOGRAPHY>
+São José/SC
+<ENDofGEOGRAPHY>
+
+<STARTofCLAUSES>
+Participação nos Lucros e/ou Resultados|ABRANGÊNCIA DO ACORDO
+Participação nos Lucros e/ou Resultados|FORMA DE APURAÇÃO
+Participação nos Lucros e/ou Resultados|VALOR DA PARTICIPAÇÃO
+Participação nos Lucros e/ou Resultados|PAGAMENTO DA DISTRIBUIÇÃO
+Participação nos Lucros e/ou Resultados|ACOMPANHAMENTO DOS RESULTADOS
+Outras Disposições|REVISÃO DO INSTRUMENTO
+<ENDofCLAUSES>
+
+<STARTofAPPENDICES>
+
+<ENDofAPPENDICES>
+
+<STARTofAPPTEXT>
+
+<ENDofAPPTEXT>
+
+<STARTofTEXT>
+As normas coletivas do presente instrumento abrangem todos os empregados do Grupo INTELBRAS (Matriz e Filiais), excetuando-se estagiários e menores aprendizes, observando o seguinte:
+ 
+a)     Só terão direito a participação estabelecida neste instrumento os empregados que tiverem cumprido uma carência de 90 dias após a data de admissão, mesmo que admitidos no semestre anterior;
+ 
+b)     Os empregados que solicitarem demissão e os demitidos sem justa causa durante o período de apuração estabelecido pelo presente instrumento, receberão valor proporcional ao período trabalhado, que será liquidado na data de pagamento prevista ao término do semestre. Os demitidos com justa causa não terão direito a participação proporcional;
+ 
+c)      Os empregados que estiverem afastados do trabalho por qualquer motivo durante o semestre, receberão a participação estabelecida neste instrumento conforme a seguinte regra:
+·        Até 3 dias de afastamento: recebimento integral;
+·        Acima de 3 dias: desconto proporcional de 1/180 (um cento e oitenta avos) para cada dia de afastamento;
+·        Os valores descontados serão rateados proporcionalmente para todos os colaboradores.
+|
+Será apurada sobre o Lucro Líquido após o Imposto de Renda efetivamente pago.
+|
+
+O valor da Participação nos Lucros a ser distribuído aos empregados será calculado de acordo com as regras que serão definidas oportunamente em Termo Aditivo ao presente Acordo Coletivo, servindo o presente instrumento para fins de antecipação da Participação nos Lucros, a ser paga em 31 de julho de 2009.
+
+A antecipação da Participação nos Lucros será equivalente a 24% (vinte e quatro por cento) do salário base dos Colaboradores referente ao mês de Junho/09, acrescido de médias de comissão e periculosidade.|
+a)     O pagamento da participação anual, descontado o adiantamento referente ao 1º semestre, ocorrerá após o término do exercício, em folha de pagamento especial e separada, devendo a data ser comunicada até 20 de janeiro de 2010.
+ 
+b)     O pagamento será efetuado, devendo ocorrer no intervalo entre 31 de janeiro e 31 de março de 2010.
+ 
+c)      O pagamento ocorrerá no dia 31 de janeiro de 2010, se o valor total não comprometer até 30% (trinta por cento) do saldo existente em caixa. Se for maior de 30%, ficará adiado para 28 de fevereiro ou para 31 de março de 2010. 
+|
+Serão efetuadas reuniões mensais de avaliação entre a Diretoria e a COMISSÃO DOS EMPREGADOS, visando debater e acompanhar a evolução dos resultados alcançados em comparação como o Orçamento.
+|
+O presente instrumento poderá ser revisto a qualquer tempo, desde que de comum acordo entre as partes.

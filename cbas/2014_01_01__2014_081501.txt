@@ -1,0 +1,64 @@
+<STARTofTITLE>
+Mediador - Extrato Acordo Coletivo
+<ENDofTITLE>
+
+<STARTofVALIDITY>
+semvalorlegal
+<ENDofVALIDITY>
+
+<STARTofHEADERS>
+NÚMERO DA SOLICITAÇÃO|MR081501/2014
+DATA E HORÁRIO DA TRANSMISSÃO|05/12/2014ÀS15:49
+<ENDofHEADERS>
+
+<STARTofCOUNTERPART1>
+SINDICATO DE EMP NO COM HOT REST BARES LANCHONETES PIZZARIAS CHUR BOITES COZINHAS IND EMP FORNEC DE REFEICOES - ECT|00.721.175/0001-98|Presidente|ELESBAO FERREIRA OLIVEIRA
+<ENDofCOUNTERPART1>
+<STARTofCOUNTERPART2>
+C.B. BRASILIA COMERCIO DE ALIMENTOS LTDA                                                                                                              |11.903.789/0001-07|Empresário|JOAO ALBERTO RIBEIRO PINHEIRO
+<ENDofCOUNTERPART2>
+
+<STARTofSTARTDATE>
+01/01/2014
+<ENDofSTARTDATE>
+<STARTofEXPRIRATIONDATE>
+31/12/2015
+<ENDofEXPIRATIONDATE>
+
+<STARTofRENEGOTIATION>
+01/05
+<ENDofRENEGOTIATION>
+
+<STARTofCATEGORY>
+Empregados no cCmércio hHteleiro e Similares
+<ENDofCATEGORY>
+<STARTofGEOGRAPHY>
+DF
+<ENDofGEOGRAPHY>
+
+<STARTofCLAUSES>
+Descumprimento do Instrumento Coletivo|CLÁUSULA PENAL
+Renovação/Rescisão do Instrumento Coletivo|REGISTRO E ARQUIVAMENTO NA SRTE/DF
+Outras Disposições|SERVIÇOS EXTRAS
+Outras Disposições|FOLGAS SEMANAIS E FOLGAS AO DOMINGO
+<ENDofCLAUSES>
+
+<STARTofAPPENDICES>
+
+<ENDofAPPENDICES>
+
+<STARTofAPPTEXT>
+
+<ENDofAPPTEXT>
+
+<STARTofTEXT>
+Em caso de descumprimento do presente acordo, a empresa pagará multa de um piso da categoria, que será revertido em favor do empregado prejudicado.    
+|
+O presente acordo deverá ter uma via depositada no órgão regional do  Ministério do Trabalho, tendo validade pelo prazo de dois anos, a contar de 01/01/2014, podendo ser revogado ou prorrogado por outro acordo, conforme a conveniência das partes acordantes.
+E por estarem justas e acordadas as partes  firmam o presente acordo em 03 (três) vias de igual forma e teor para que produza os efeitos legais.
+|
+Fica acordado que a partir de 01/01/2014 os empregados poderão trabalhar no dia de domingo que estiver de folga, mediante o pagamento de SERVIÇOS EXTRAS no valor mínimo de R$ 70,00 (setenta reais) pela jornada máxima de sete horas.
+ 
+|
+A empresa concederá uma folga semanal a  todos os seus empregados, nos dias da semana compreendida de segunda-feira a sábado.  A folga no domingo prevista na Cláusula sexta da CCT 2014/2016 poderá ser concedida mediante solicitação do empregado, com uma semana de antecedência, de comum acordo com a empresa.
+Parágrafo Único - As horas extras trabalhadas nos dias de domingos de folga alem da jornada prevista acima serão pagas em dobro.

@@ -1,0 +1,71 @@
+<STARTofTITLE>
+Mediador - Extrato Acordo Coletivo
+<ENDofTITLE>
+
+<STARTofVALIDITY>
+carimbo
+<ENDofVALIDITY>
+
+<STARTofHEADERS>
+NÚMERO DE REGISTRO NO MTE|MT000368/2014
+DATA DE REGISTRO NO MTE|18/07/2014
+NÚMERO DA SOLICITAÇÃO|MR038109/2014
+NÚMERO DO PROCESSO|46306.001061/2014-64
+DATA DO PROTOCOLO|07/07/2014
+<ENDofHEADERS>
+
+<STARTofCOUNTERPART1>
+SINDICATO DOS TRABALHADORES EM EMPRESAS DO TRANSPORTE TERRESTRE DE RONDONPOLIS E REGIO - STTRR                                                        |24.774.242/0001-09|Membro de Diretoria Colegiada|LUIZ GONCALVES DA COSTA
+<ENDofCOUNTERPART1>
+<STARTofCOUNTERPART2>
+PONTUAL LOGISTICA E TRANSPORTE LTDA - ME|07.680.065/0001-74|Diretor|VANDERMARIO SOUZA RODRIGUES
+<ENDofCOUNTERPART2>
+
+<STARTofSTARTDATE>
+01/01/2014
+<ENDofSTARTDATE>
+<STARTofEXPRIRATIONDATE>
+31/12/2015
+<ENDofEXPIRATIONDATE>
+
+<STARTofRENEGOTIATION>
+01/05
+<ENDofRENEGOTIATION>
+
+<STARTofCATEGORY>
+Os trabalhadores Rodoviários Empregados da empresa que exerce a função de motoristas
+<ENDofCATEGORY>
+<STARTofGEOGRAPHY>
+Alto Araguaia/MT|Alto Garças/MT|Alto Taquari/MT|Guiratinga/MT|Itiquira/MT|Pedra Preta/MT|Poxoréo/MT|Rondonópolis/MT|São José do Povo/MT|Tesouro/MT
+<ENDofGEOGRAPHY>
+
+<STARTofCLAUSES>
+Pagamento de Salário – Formas e Prazos|DAS COMISSÕES SOBRE OS FRETES
+Ajuda de Custo|DAS DIÁRIAS PARA VIAGEM
+Auxílio Alimentação|DA CESTA BÁSICA
+Outras normas referentes a condições para o exercício do trabalho|DO CONSERTO DO VEÍCULO
+Aplicação do Instrumento Coletivo|DAS CONDIÇÕES MAIS BENÉFICAS E DA VALIDADE DESTE ACORDO
+Renovação/Rescisão do Instrumento Coletivo|DA REVISÃO DESTE ACORDO COLETIVO DE TRABALHO
+<ENDofCLAUSES>
+
+<STARTofAPPENDICES>
+
+<ENDofAPPENDICES>
+
+<STARTofAPPTEXT>
+
+<ENDofAPPTEXT>
+
+<STARTofTEXT>
+A empresa pagará comissões aos motoristas, cujo valor será apurado com base no percentual de 6,5% sobre o valor bruto dos fretes e será acrescida do reflexo nos descansos semanais remunerados e feriados nos termos da lei 605/49.
+|
+As diárias para viagens serão pagas no valor equivalente a 3,5% do valor bruto do frete e estão vinculadas às regras contidas no Artigo 457 da CLT.
+Parágrafo único: A forma de pagamento das diárias, aqui ajustadas, substitui a diárias previstas na CCT do SINDMAT - Sindicato das Empresas do Transporte de Cargas do Estado de Mato Grosso.
+|
+O auxilio alimentação/cesta básica convencionado na CCT do SINDMAT deverá ser entregue pela empresa no seu valor integral diferenciado, por este acordo coletivo, no montante de R$ 150,00, a partir do mês de maio de 2014, para todos motoristas. Este valor será mantido no ano de 2014, salvo se o valor em CCT seja definido em valor superior ao ajustado neste acordo coletivo.
+|
+A empresa fará a anotação, por ordem de chegada, dos veículos que estejam sendo encaminhados para a oficina e quando o veículo estiver parado na oficina, o motorista fica liberado para acompanhar ou não os reparos que estiverem sendo feito pelos mecânicos, salvo se a empresa o designar para fazer outra tarefa inerente à sua função de motorista.
+|
+As partes reconhecem que no que diz respeito às comissões e diárias para viagens, o presente acordo coletivo é mais benéfico que os termos firmados na CCT e o mesmo é firmado em obediência à Cláusula Nona da CCT do SINDMAT - Sindicato das Empresas de Transporte de Cargas do Estado de Mato Grosso e tem eficácia legal com base nas disposições contidas no Inciso XVI da CF.
+|
+O presente acordo coletivo de trabalho poderá ser revisto, a pedido das partes, no caso de surgimento de legislação nova que implique nas suas condições.

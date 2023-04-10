@@ -1,0 +1,85 @@
+<STARTofTITLE>
+Mediador - Extrato Acordo Coletivo
+<ENDofTITLE>
+
+<STARTofVALIDITY>
+carimbo
+<ENDofVALIDITY>
+
+<STARTofHEADERS>
+NÚMERO DE REGISTRO NO MTE|CE001628/2013
+DATA DE REGISTRO NO MTE|11/11/2013
+NÚMERO DA SOLICITAÇÃO|MR069396/2013
+NÚMERO DO PROCESSO|46284.001190/2013-77
+DATA DO PROTOCOLO|07/11/2013
+<ENDofHEADERS>
+
+<STARTofCOUNTERPART1>
+SINDICATO DOS EMPREGADOS NO COMERCIO E SERVICOS DE SOBRAL E MESOREGIAO NOROESTE DO ESTADO DO CEARA                                                    |06.602.171/0001-77|Membro de Diretoria Colegiada|JOSE HERALDO FREITAS DE SOUSA
+<ENDofCOUNTERPART1>
+<STARTofCOUNTERPART2>
+MAGAZINE LUIZA S/A|47.960.950/0847-16|Gerente|LUCIANO DA SILVA PEREIRA
+<ENDofCOUNTERPART2>
+
+<STARTofSTARTDATE>
+15/11/2013
+<ENDofSTARTDATE>
+<STARTofEXPRIRATIONDATE>
+15/11/2013
+<ENDofEXPIRATIONDATE>
+
+<STARTofRENEGOTIATION>
+01/09
+<ENDofRENEGOTIATION>
+
+<STARTofCATEGORY>
+3empregados no comercio e serviços
+<ENDofCATEGORY>
+<STARTofGEOGRAPHY>
+Acaraú/CE|Alcântaras/CE|Bela Cruz/CE|Camocim/CE|Cariré/CE|Carnaubal/CE|Chaval/CE|Coreaú/CE|Forquilha/CE|Frecheirinha/CE|Granja/CE|Groaíras/CE|Guaraciaba do Norte/CE|Ibiapina/CE|Ipu/CE|Ipueiras/CE|Marco/CE|Martinópole/CE|Massapê/CE|Meruoca/CE|Moraújo/CE|Morrinhos/CE|Mucambo/CE|Pacujá/CE|Reriutaba/CE|Santa Quitéria/CE|Santana do Acaraú/CE|São Benedito/CE|Senador Sá/CE|Sobral/CE|Tianguá/CE|Ubajara/CE|Uruoca/CE|Varjota/CE|Viçosa do Ceará/CE
+<ENDofGEOGRAPHY>
+
+<STARTofCLAUSES>
+Outros Adicionais|PAGAMENTO DOS TRABALHADORES NÃO COMISSIONISTAS
+Comissões|PAGAMENTO DOS TRABALHADORES COMISSIONISTAS
+Duração e Horário|FUNCIONAMENTO E HORARIO
+Compensação de Jornada|FOLGA SEMANAL
+Sobreaviso|NÃO OBRIGATORIEDADE DO TRABALHO
+Aplicação do Instrumento Coletivo|COMPROVAÇÃO DO DOCUMENTO
+Descumprimento do Instrumento Coletivo|PENALIDADE DO DESCUMPRIMENTO
+Outras Disposições|RELAÇÃO DOS TRABALHADORES
+<ENDofCLAUSES>
+
+<STARTofAPPENDICES>
+
+<ENDofAPPENDICES>
+
+<STARTofAPPTEXT>
+
+<ENDofAPPTEXT>
+
+<STARTofTEXT>
+PAGAMENTO DOS TRABALHADORES NÃO COMISSIONISTAS: Pelo trabalho, acima citado, a empresa, pagará aos empregados que trabalharem nesse dia o valor de R$ 55,00 (Cinquenta e cinco reais), no final do expediente.
+|
+PAGAMENTO DOS TRABALHADORES COMISSIONISTAS: Fica garantido ao vendedor comissionistas que trabalhar no dia acima citado o pagamento, de R$ 55,00 (Cinquenta e cinco reais), que será pago no final do expediente e garantindo um Repouso Semanal Remunerado, a mais pelo dia trabalhado.
+ 
+|
+FUNCIONAMENTO E HORARIO: Faculdade de funcionamento da empresa estabelecida e acima citada, no dia  15  de Novembro  de 2013, no horário de 08h00min as 14h00min.
+ 
+PARÁGRAFO ÚNICO: Com fundamento no decreto federal, n. º 99467 de 20/08/90 fica acordado que a empresa acima citada, poderá funcionar na data e horários acima citados.
+|
+FOLGA SEMANAL: O trabalho aos domingos dentro do limite acima estabelecido, será remunerado com a quantia de R$ 55,00 (Cinquenta e cinco reais), além da concessão de folga em outro dia na mesma semana, respeitados os acordos individuais ou coletivos que consagrem pagamento superior a este patamar, excetuados os empregados que estejam submetidos à escala normal de trabalho.
+ 
+|
+NÃO OBRIGATORIEDADE DO TRABALHO: Fica facultado ao empregado trabalhar no referido dia, não podendo o mesmo sofrer qualquer punição pela recua em trabalhar nesse dia.
+|
+COMPROVAÇÃO DO DOCUMENTO: O Cumprimento das condições constantes no presente instrumento deverá ser feito de forma que possa ser comprovada perante a fiscalização do Ministério do Trabalho e do Sindicato Laboral.
+|
+PENALIDADE DO DESCUMPRIMENTO: Pôr infração a qualquer cláusula deste acordo coletivo ficará a Empresa sujeita a multa equivalente a 5 (cinco) SALARIOS MINIMOS, pelo descumprimento desse acordo em favor do Sindicato dos Empregados no Comercio de Sobral, que será revestido aos EMPREGADOS, em forma de benefícios.
+ 
+PARÁGRAFO PRIMEIRO: A empresa concedera aos diretores do Sindicato acima citado 15min. (quinze minutos) de reunião com seus funcionários para esclarecimentos do acordo.
+ 
+PARAGRAFO SEGUNDO: Cada empresa pagara ao Sindicato Laboral uma taxa de R$ 12,00(doze reais) por acordo.
+ 
+|
+RELAÇÃO DOS TRABALHADORES: A empresa se obriga a comunicar ao Sindicato Laboral, pôr escrita, a relação dos trabalhadores que irão trabalhar nos dias acima citado onde a mesma não poderá funcionar com o mesmo quadro de funcionários.

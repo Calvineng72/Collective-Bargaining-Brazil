@@ -1,0 +1,179 @@
+<STARTofTITLE>
+Mediador - Extrato Acordo Coletivo
+<ENDofTITLE>
+
+<STARTofVALIDITY>
+semvalorlegal
+<ENDofVALIDITY>
+
+<STARTofHEADERS>
+NÚMERO DA SOLICITAÇÃO|MR069545/2015
+DATA E HORÁRIO DA TRANSMISSÃO|21/10/2015ÀS12:16
+NÚMERO DO PROCESSO|46219.020301/2015-90
+DATA DO PROTOCOLO|18/11/2015
+<ENDofHEADERS>
+
+<STARTofCOUNTERPART1>
+DIAGONAL EMPREENDIMENTOS E GESTAO DE NEGOCIOS LTDA|01.115.194/0001-33|Administrador|BERNARDO JOSE DE ALBUQUERQUE BARACHO
+DIAGONAL EMPREENDIMENTOS E GESTAO DE NEGOCIOS LTDA|01.115.194/0013-77|Administrador|BERNARDO JOSE DE ALBUQUERQUE BARACHO
+<ENDofCOUNTERPART1>
+<STARTofCOUNTERPART2>
+SIND EMPREG ENTID CULT R AS SOC O F PROF EST SAO PAULO|61.002.267/0001-02|Presidente|LUIZ CARLOS GOMES PEDREIRA
+<ENDofCOUNTERPART2>
+
+<STARTofSTARTDATE>
+16/06/2015
+<ENDofSTARTDATE>
+<STARTofEXPRIRATIONDATE>
+15/06/2016
+<ENDofEXPIRATIONDATE>
+
+<STARTofRENEGOTIATION>
+01/06
+<ENDofRENEGOTIATION>
+
+<STARTofCATEGORY>
+Abrangerá, todos os colaboradores da empresa Diagonal Empreendimentos e Gestão de Negócios Ltda de São Paulo/SP e Recife/PE
+<ENDofCATEGORY>
+<STARTofGEOGRAPHY>
+São Paulo/SP
+<ENDofGEOGRAPHY>
+
+<STARTofCLAUSES>
+Compensação de Jornada|ACORDO COLETIVO DE ACÚMULO E COMPENSAÇÃO  DE HORAS DE TRABALHO BANCO DE HOR
+<ENDofCLAUSES>
+
+<STARTofAPPENDICES>
+ACORDO DE BANCO HORAS
+<ENDofAPPENDICES>
+
+<STARTofAPPTEXT>
+
+Anexo (PDF)
+
+<ENDofAPPTEXT>
+
+<STARTofTEXT>
+ 
+Pelo presente instrumento, de Acordo Coletivo de Acúmulo de Compensação de Horas de Trabalho (Banco de Horas), firmam entre as partes, de um lado a Empresa "Diagonal Empreendimento e Gestão de Negócios Ltda.", inscrita no CNPJ sob nº 01.115.194/0001-33, estabelecida a Rua Líbero Badaró, 293, Centro, São Paulo/SP, e de outro lado os empregados, conforme relação anexa assistidos pelo Sindicato dos Empregados em Entidades Culturais, Recreativas, de Assistência Social, de Orientação e Formação Profissional, nos termos da LEI nº 9.601/98, parágrafo 2º do Artigo 59 da CLT, aceitam e celebram o presente Acordo Coletivo de Acúmulo de Compensação de Horas de Trabalho (Banco de Horas) observando as normas e disposições contidas na LEGISLAÇÃO, ficando estabelecidas as seguintes condições:
+ 
+  DOS DIAS DA SEMANA E QUANTIDADE MÁXIMA DE HORAS A SEREM ACUMULADAS POR DIA:
+ 
+ A jornada diária de trabalho, incluindo as horas extras, não poderá ultrapassar 10 horas. O limite máximo de horas deverá realizar-se conforme quadro abaixo descrito.
+ 
+
+
+
+
+
+Dias da semana
+
+
+Máximo de horas/dia
+
+
+
+
+Segunda à quinta-feira
+
+
+01h15min
+
+
+
+
+Sexta-feira             
+
+
+01h
+
+
+
+
+Sábados 
+
+
+10h
+
+
+
+
+Domingo e Feriado                
+
+
+10h
+
+
+
+
+
+ 
+ 
+DA QUANTIDADE E HORAS A COMPENSAR PARA CADA UMA HORA ACUMULADA TRABALHADA DE ACORDO COM O DIA DA SEMANA:
+ 
+Com relação a cada hora trabalhada acumulada, dentro do BANCO DE HORAS, será equivalente a quantidade descrita a seguir na hora da compensação:
+ 
+
+De segunda-feira à sabado para cada 01:00 hora acumulada será equivalente a 01:30 hora a ser compensada.
+Aos Domingos e Feriados para cada 01:00 hora acumulada será equivalente a 02:00 horas a serem compensadas.
+
+ 
+DO PRAZO PARA A COMPENSAÇÃO DAS HORAS ACUMULADAS:
+ O prazo para COMPENSAÇÃO DAS HORAS ACUMULADAS será de 06 (seis) meses, a contar da primeira hora incluída no mesmo, sendo definida a data de COMPENSAÇÃO pela empresa, desde que comunicada com 48 (quarenta e oito) horas de antecedência sobre o dia da compensação.
+ 
+ DO ACOMPANHAMENTO DAS HORAS ACUMULADAS:
+Será disponibilizada mensalmente pela empresa a informação digital via PORTAL RM a todos os funcionários envolvidos no presente acordo, EXTRATO INFORMATIVO, da quantidade de horas efetuadas no mês, inclusive as horas acumuladas.
+ 
+ DA FALTA DE COMPENSAÇÃO DENTRO DO PRAZO ESTIPULADO E EM CASOS DE RESCISÃO CONTRATUAL:
+A não compensação das horas acumuladas, dentro do prazo estipulado na Clausula 3 (três), ou em casos de Rescisão Contratual,  serão pagas ao funcionário. O fechamento dos créditos e débitos de horas de cada empregado será sempre efetuado e liquidado ao término de vigência do presente acordo.
+Horas negativas em Banco de Horas não poderão ser descontadas em rescisão.
+ 
+PARÁGRAFO PRIMEIRO
+Na hipótese do empregado contar com crédito em horas de trabalho, a empresa liquidará o saldo existente em moeda corrente, o valor  pago não fará reflexo para  DSR, Aviso Prévio, Férias e 13º Salário.
+ 
+ 
+PARÁGRAFO SEGUNDO
+Caso o empregado conte com débitos em horas, a empresa ficará impossibilitada de descontá-lo. Estas horas deverão ser incluídas no Banco de Horas, em caso de renovação, a serem liquidadas no próximo período.
+ 
+PARÁGRAFO TERCEIRO
+O prazo para pagamento dos créditos mencionados no parágrafo primeiro, da presente cláusula, será OBRIGATORIAMENTE junto com o pagamento do salário do mês subseqüente ao fechamento da vigência deste Acordo Coletivo, conforme abaixo
+ 
+Pagamento no dia 29/01/2016 – referente ao fechamento de 16/01/2015 a 15/01/2016
+Pagamento no dia 29/07/2016 – referente ao fechamento de 16/01/2016 a 15/07/2016
+ 
+ 
+PARÁGRAFO QUARTA
+Faltas abusivas, e entenda esta como, faltas não justificadas e frequentes não serão debitadas em banco de horas, podendo ser descontada em folha de pagamento.
+ 
+ DA ADMISSÃO: 
+Os empregados que vierem a ser admitidos após a celebração deste ACORDO estarão automaticamente enquadrados nas clausulas contidas neste.
+ 
+ 
+ 
+ 
+DO CUMPRIMENTO: 
+Obrigam-se as partes contratantes, observar e cumprir as condições instituídas no presente acordo.
+ 
+DA DURAÇÃO:
+O presente ACORDO terá a duração de 01 (ano) ano, com vigência a partir da data da assinatura deste contrato e ratificado pela assembleia dos trabalhadores, convocada para este fim.
+ 
+ 
+DA RELAÇÃO DOS EMPREGADOS:
+Fará parte integrante deste ACORDO como Anexo, a relação de empregados com a devida concordância quanto ao Acordo de Banco de Horas.
+ 
+DAS DIVERGÊNCIAS:
+As divergências que possam eventualmente surgir, entre as partes contratantes, pôr motivo de aplicação das Clausulas do presente ACORDO, serão dirimidas pela Justiça do Trabalho.
+ 
+E as partes pôr estarem justas e convencionadas, firmam o presente ACORDO em 03 (três) vias de igual teor pôr intermédio dos seus representantes legais.
+ 
+ São Paulo, 16 de junho de 2015.
+ 
+ 
+ 
+ ____________________________________
+Diagonal Emp. e Gestão de Negócios  Ltda.
+ 
+ 
+ 
+ 
+  _________________________________________________________  Sindicato dos Empregados em Entidades Culturais, Recreativas,

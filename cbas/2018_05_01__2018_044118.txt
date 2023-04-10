@@ -1,0 +1,305 @@
+<STARTofTITLE>
+Mediador - Extrato Acordo Coletivo
+<ENDofTITLE>
+
+<STARTofVALIDITY>
+carimbo
+<ENDofVALIDITY>
+
+<STARTofHEADERS>
+NÚMERO DE REGISTRO NO MTE|SP009081/2018
+DATA DE REGISTRO NO MTE|18/09/2018
+NÚMERO DA SOLICITAÇÃO|MR044118/2018
+NÚMERO DO PROCESSO|47068.000496/2018-38
+DATA DO PROTOCOLO|05/09/2018
+<ENDofHEADERS>
+
+<STARTofCOUNTERPART1>
+SIND.T.NAS IND.C.E MOB.DES.ANDRE MAUA R.PIRES R.G.SERRA|57.518.276/0001-83|Diretor|MAURO LOPES COELHO
+<ENDofCOUNTERPART1>
+<STARTofCOUNTERPART2>
+NIPLAN ENGENHARIA S.A.|64.667.728/0001-54|Diretor|EDSON LUIZ FLORENCIO
+<ENDofCOUNTERPART2>
+
+<STARTofSTARTDATE>
+01/05/2018
+<ENDofSTARTDATE>
+<STARTofEXPRIRATIONDATE>
+30/04/2019
+<ENDofEXPIRATIONDATE>
+
+<STARTofRENEGOTIATION>
+01/05
+<ENDofRENEGOTIATION>
+
+<STARTofCATEGORY>
+dos trabalhadores dos setores Profissionais representadas pelo Sindicato
+<ENDofCATEGORY>
+<STARTofGEOGRAPHY>
+Mauá/SP
+<ENDofGEOGRAPHY>
+
+<STARTofCLAUSES>
+Piso Salarial|PISO SALARIAL
+Reajustes/Correções Salariais|REAJUSTE SALARIAL
+13º Salário|DÉCIMO TERCEIRO SALÁRIO
+Outras Gratificações|FORNECIMENTO DE CESTA NATALINA
+Adicional de Hora-Extra|JORNADA EXTRAORDINÁRIA
+Adicional de Periculosidade|ADICIONAL DE PERICULOSIDADE
+Participação nos Lucros e/ou Resultados|PARTICIPAÇÃO DE LUCROS E RESULTADOS (PLR)
+Auxílio Alimentação|VALE ALIMENTAÇÃO
+Auxílio Alimentação|ALIMENTAÇÃO
+Auxílio Saúde|CONVÊNIO MÉDICO E ODONTOLÓGICO
+Auxílio Saúde|CONVÊNIO FARMÁCIA
+Auxílio Morte/Funeral|AUXÍLIO FUNERAL
+Outros Auxílios|VÉSPERA DA APOSENTADORIA
+Normas para Admissão/Contratação|CONTRATO DE EXPERIÊNCIA
+Desligamento/Demissão|HOMOLOGAÇÃO
+Aviso Prévio|AVISO PRÉVIO
+Mão-de-Obra Temporária/Terceirização|CONTRATAÇÃO DE MÃO DE OBRA LOCAL
+Outras normas referentes a admissão, demissão e modalidades de contratação|TRABALHADOR ESTRANGEIRO
+Duração e Horário|TOLERÂNCIA DE ATRASOS NO INÍCIO DA JORNADA
+Jornadas Especiais (mulheres, menores, estudantes)|COTAS PARA MULHERES
+Licença Remunerada|DESCANSO REMUNERADO
+Licença Remunerada|TRABALHADOR RESIDENTE EM OUTRO ESTADO
+CIPA – composição, eleição, atribuições, garantias aos cipeiros|CIPEIROS
+Aceitação de Atestados Médicos|ATESTADO MÉDICO / ODONTOLÓGICO/ESCOLARES/DEMAIS DECLARAÇÕES
+Acompanhamento de Acidentado e/ou Portador de Doença Profissional|ACIDENTE DE TRABALHO
+Acompanhamento de Acidentado e/ou Portador de Doença Profissional|ASSISTÊNCIA AOS ACIDENTADOS
+Acesso do Sindicato ao Local de Trabalho|ACESSO DE REPRESENTANTE SINDICAL NOS LOCAIS DE TRABALHO
+Acesso do Sindicato ao Local de Trabalho|QUADROS DE AVISOS DO SINDICATO
+Representante Sindical|INSPEÇÕES OFICIAIS
+Contribuições Sindicais|CONTRIBUIÇÃO ASSISTENCIAL E NEGOCIAL DOS TRABALHADORES PARA O SINDICATO
+Contribuições Sindicais|ATUAÇÃO SINDICAL
+Contribuições Sindicais|RELAÇÃO DE CONTRIBUINTES (CONTRIBUIÇÃO SINDICAL)
+Outras disposições sobre relação entre sindicato e empresa|LOCAL PARA INSTALAÇÃO DO SINDICATO NOS CANTEIROS DE OBRAS
+Outras disposições sobre relação entre sindicato e empresa|GARANTIA DA CONVENÇÃO COLETIVA
+Mecanismos de Solução de Conflitos|AÇÃO DE CUMPRIMENTO
+Aplicação do Instrumento Coletivo|CONDIÇÕES MAIS FAVORÁVEIS
+Descumprimento do Instrumento Coletivo|MULTA
+<ENDofCLAUSES>
+
+<STARTofAPPENDICES>
+ATA DA ASSEMBLÉIA GERAL EXTRAORDINÁRIA
+ATA DA ASSEMBLÉIA GERAL
+<ENDofAPPENDICES>
+
+<STARTofAPPTEXT>
+
+ATA DA ASSEMBLÉIA GERAL EXTRAORDINÁRIA
+ 
+ 
+REALIZADA AOS VINTE E TRES DIAS DO MÊS DE FEVEREIRO DE DOIS MIL E DEZOITO, COM OS TRABALHADORES PERTENCENTES AOS SETORES DAS INDÚSTRIAS DA CONSTRUÇÃO CIVIL EM GERAL, MONTAGEM INDUSTRIAL, LADRILHOS HIDRÁULICOS, PINTURA, DECORAÇÕES, ESTUQUES E ORNATOS, INSTALAÇÕES ELÉTRICAS, GÁS, HIDRÁULICAS E SANITÁRIAS, CONSTRUÇÃO DE ESTRADAS, PAVIMENTAÇÃO, OBRAS DE TERRAPLENAGEM EM GERAL, PERTENCENTES AO 3° GRUPO DA CLT.
+ 
+Aos vinte e três dias do mês de fevereiro de dois mil e dezoito, à Rua General Glicério, 808/812, Centro, na cidade de Santo André, Estado de São Paulo, e no mesmo horário em nossa Sub Sede Rua: Capitão José Gallo, 380 – Centro – Ribeirão Pires – SP, realizou-se a Assembléia Geral Extraordinária com os trabalhadores pertencentes aos setores das Indústrias da Construção Civil em Geral, Montagem Industrial, Ladrilhos Hidráulicos, Pintura, Decorações, Estuques e Ornatos, Instalações Elétricas, Gás, Hidráulicas e Sanitárias, Construção de Estradas, Pavimentação, Obras de Terraplenagem em Geral, pertencentes ao 3° grupo da CLT, conforme convocação de edital publicado no “JORNAL AGORA SÃO PAULO” do dia dezenove do mês de fevereiro do ano de dois mil e dezoito, segunda-feira, à página “B4”, para tratar do reajustamento salarial, renovação, alteração e acréscimo às cláusulas normativas para os trabalhadores da categoria conforme mencionado no referido edital. Às 17:00 horas (dezessete horas), no endereço supra, presentes os trabalhadores sócios e não sócios, dos setores interessados, cujo número poderá se verificar pelas assinaturas apostas no livro de presença, o Presidente deu por instalada a assembléia extraordinária em segunda convocação, uma vez que na primeira não houve quorum exigido, esclarecendo que em razão dessa circunstância quaisquer que sejam as deliberações dos presentes, serão consideradas válidas para toda a categoria e para todos os efeitos, tendo em vista o que dispõe a legislação correspondente. Iniciados os trabalhos e dando cumprimento à primeira ordem do dia, foi lida e aprovada a ata da assembléia anterior. Na seqüência comunicou aos presentes que o último acordo de reajuste salarial e das cláusulas sociais da categoria em foco, terminará no dia 30/04/2018 e que o sindicato, participará das negociações com os sindicatos patronais envolvidos, para um novo acordo de reajustamento salarial e novas condições de trabalho. Razão pela qual foi convocada a presente assembléia, pois sem a devida autorização dos trabalhadores interessados no assunto, a diretoria do sindicato não poderia pleitear ou defender as reivindicações a serem aprovadas pelos presentes, ato contínuo, dando cumprimento à segunda ordem do dia, leitura, discussão e aprovação do rol de reivindicações dos setores DAS INDÚSTRIAS DA CONSTRUÇÃO CIVIL EM GERAL, MONTAGEM INDUSTRIAL, LADRILHOS HIDRÁULICOS, PINTURA, DECORAÇÕES, ESTUQUES E ORNATOS, INSTALAÇÕES ELÉTRICAS, GÁS, HIDRÁULICAS E SANITÁRIAS, CONSTRUÇÃO DE ESTRADAS, PAVIMENTAÇÃO, OBRAS DE TERRAPLENAGEM EM GERAL, PERTENCENTES AO 3° GRUPO DA CLT, para renovação das normas coletivas de trabalho, com vigência a partir de 1º de Maio de 2018, esclareceu o presidente que a diretoria do sindicato elaborou uma pauta de reivindicação para ser apreciada e discutida nas assembléias dos trabalhadores, a qual poderá ser mantida, alterada, acrescida ou até rejeitada se for o caso. A pauta ora apresentada servirá para todos os trabalhadores acima mencionados. Como não houve dúvidas, quanto à explanação, o presidente solicitou ao Secretário Geral e Administrativo do Sindicato que procedesse a leitura da pauta unificada de reivindicações: Após a leitura da pauta a mesma foi colocada em discussão, vários trabalhadores fizeram o uso da palavra mostrando-se favoráveis a todas as cláusulas apresentadas à apreciação da Assembléia. O terceiro item da ordem do dia: Concessão de Poderes à Diretoria do Sindicato para que dê início ao processo de negociação e posteriormente, se for necessário, instaure Dissídio Coletivo (Econômico/Greve); foi colocada aos presentes sendo que ocorrerão várias ponderações, porém todas favoráveis. O quarto item, Discussão e aprovação do desconto a título de Contribuição Assistencial para o custeio do Sindicato, descontada de todos os trabalhadores da categoria, associados ou não, beneficiados pelas Cláusulas Normativas a serem firmadas, foi objeto de longa explanação e de manifestação dos presentes, associados ou não, houve também um consenso da fixação do desconto assistencial sobre o salário mensal de todos os trabalhadores do setor, associados ou não, no percentual de 1,2% (um vírgula dois por cento) ao mês, a ser descontado em folha de pagamento pelas empresas, mensalmente e recolhido aos cofres do Sindicato após 5 (cinco) dias, em guias próprias fornecidas pelo órgão de classe. O entendimento em questão, consenso dos presentes, passou a ser proposta de votação a se realizar. O quinto item da ordem do dia: Decidir pela manutenção ou não da assembléia em caráter permanente até final do processo de negociação, mediante convocação quando se fizer necessário, após discussão houve a manifestação favorável dos presentes. Encerradas as explanações e discussões tanto no que tange a toda a pauta reivindicatória e aos demais itens do edital, o presidente solicitou ao plenário a indicação de duas pessoas para servirem de escrutinadores tendo em vista que toda matéria terá votação secreta. Foram indicados os companheiros CARLOS ALBERTO MENEGATTI e CLEITON RICARDO DA SILVA SÁBIO, instalada a urna, e colocada à matéria discutida em aprovação pelo sistema de escrutino secreto, a pauta de reivindicação bem como os demais itens constantes do edital com as redações acima apresentadas receberam aprovação unânime, já que na apuração dos votos constatou-se que a mesma recebeu as cédulas com os caracteres “APROVO” para todos os itens do edital inclusive no que tange a proposta de desconto ASSISTENCIAL. Após a contagem dos votos, o presidente proclamou o resultado e declarou que se o Sindicato não conseguir juntamente com os demais Sindicatos, sob a coordenação da FETICOM, celebrar Convenção Coletiva de Trabalho, recorrerá à Justiça do Trabalho, podendo ser Decretada greve geral, se assim decidir a categoria a fim de se alcançar o necessário aumento salarial e demais cláusulas correlatas a vigorar a partir de 1º de Maio de 2018 Nada mais havendo a ser tratado, o presidente deu por encerrado os trabalhos da Assembléia, determinando a mim, Geovã Evangelista Brito, que servi como secretário, que lavrasse, a presente ata, que depois de lida e achada conforme, será assinada por mim, o presidente e os escrutinadores.
+ 
+ 
+ 
+Santo André, 23 de fevereiro de 2018.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                     ______________________                   ________________________
+                           Luiz Carlos Biazi                                 Geovã Evangelista Brito
+                    CPF/MF nº 880.144.608-04                        CPF/MF nº 124.628.338-70
+                              Presidente                                    Secretário Geral e Administrativo
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                     _______________________                    _______________________
+                  Cleiton Ricardo da Silva Sabio                  Carlos Alberto Menegatti
+                     CPF/MF nº 265.735.368-19                       CPF/MF nº 991.896.908-34
+                          Escrutinador                                                   Escrutinador
+ 
+|
+Anexo (PDF)
+
+<ENDofAPPTEXT>
+
+<STARTofTEXT>
+A partir de 01 de maio de 2018 passam a vigorar os seguintes pisos salariais:
+ 
+
+Piso salarial dos trabalhadores Não Qualificados = R$ 1.463,87 (Hum mil, quatrocentos e sessenta e três reais e oitenta e sete centavos) por mês; equivalente a R$ 6,65/hora;
+ Piso salarial dos trabalhadores meio-oficial = R$ 1.683,44 (Hum mil, seiscentos e oitenta e três e quarenta e quatro centavos) por mês; equivalente a R$ 7,65/hora;
+Piso salarial dos trabalhadores Qualificados = R$ 1.780,79 (Hum mil, setecentos e oitenta reais e setenta e nove centavos) por mês; equivalente a R$ 8,09/hora;
+·   Pisos salarial dos trabalhadores qualificados de Montagem e Manutenção Industrial = R$ 2.133,93 (Dois mil, cento e trinta e três reais e noventa e três centavos) por mês, equivalente a R$ 9,69/hora.
+
+ 
+|
+A partir de 01 de maio de 2018 os salários dos empregados, serão reajustados conforme INPC do IBGE – período correspondente aos doze meses anteriores sobre os salários de 30 de abril de 2018, acrescido do aumento real, totalizando o percentual de 2,5% (dois vírgula cinco por cento) 
+ 
+|
+Salvo condições mais favoráveis pactuadas com o empregado, as empresas ficam obrigadas a pagarem a 1ª parcela do 13º salário a todos os seus empregados impreterivelmente até dia 30 de novembro de cada ano, devendo ainda honrar com a 2ª parcela até o dia 20 de dezembro.
+ 
+|
+As empresas poderão no mês de dezembro de cada ano, fornecer a todos os trabalhadores uma cesta natalina.
+|
+As horas extras realizadas serão pagas com os seguintes adicionais:
+ 
+a)    adicional de 70% (setenta por cento) para as horas suplementares trabalhadas de segunda-feira a sábado;
+b)    adicional de 100% (cem por cento) aos domingos e feriados.
+|
+Fica assegurado a todos os empregados adicional de 30% (trinta por cento) a título de periculosidade e seus reflexos.
+|
+A contar da assinatura do presente Acordo Coletivo, as partes, obrigatoriamente, irão abrir negociação com o fim de implementar as metas e fixar os resultados, a fim de constituir a P.L.R para os trabalhadores abrangidos no prazo máximo de 60 (sessenta) dias.
+ 
+|
+A empresa pagará a partir do dia 1 de maio de 2018 para todos os trabalhadores a título de vale alimentação até o 5º dia útil do mês, sendo:
+ 
+ 
+O valor de R$ 500,00 (quinhentos reais)
+ 
+ 
+Parágrafo primeiro: Garantido para todos os trabalhadores de férias e auxílio à maternidade, sem distinção de cargos, salários, procedência de tempo de serviço ou independentemente do fato de se encontrarem alojados ou não, receberão o mesmo benefício sem condicionamento.
+Parágrafo segundo: No caso de afastamento de auxílio doença, o vale alimentação será fornecido até o limite de 60 dias da data de afastamento.
+|
+As empresas fornecerão alimentação a seus empregados subsidiadas que consistirá, conforme sua opção, ressalvadas condições mais favoráveis, em:
+ 
+a) Almoço completo no local de trabalho; a.1) Tratando-se de EMPREGADO ALOJADO EM OBRA terá direito também a jantar completo.
+ 
+b) Vale refeição, no valor oficial de R$ 25,00 (vinte e cinco reais) cada, sendo tantos tíquetes de refeição quantos forem os dias de trabalho efetivo no mês, independentemente da cesta básica.
+ 
+b.1) Para o EMPREGADO ALOJADO EM OBRA, será garantido 3 (três) refeições, sendo café da manhã e 1 (um) Tíquete Refeição para almoço e outro para o jantar, tantos quantos forem os dias do mês.
+ 
+E,
+ 
+CAFÉ DA MANHÃ E LANCHE DA TARDE, para seus empregados constantes de:
+a) As empresas se obrigam a fornecer aos seus empregados no início da jornada, um copo de leite com café ou chocolate (tipo pingado) e 02 (dois) pães (tipo francês) com manteiga, queijo e presunto e uma fruta.
+ 
+b) A título de lanche da tarde – um copo de suco natural ou isotônico, 02 (dois) pães tipo francês com queijo e presunto.
+b.1) O lanche da tarde deverá ser fornecido até o término da jornada normal de trabalho, a critério da empresa.
+b.2) Caso o empregado realize horas extras, será fornecido ao final do expediente lanche nos termos desta cláusula.
+ 
+PARÁGRAFO PRIMEIRO – As empresas subsidiarão o fornecimento da REFEIÇÃO/ALIMENTAÇÃO nas hipóteses acima gratuitamente.
+ 
+PARÁGRAFO SEGUNDO – Em se tratando do CAFÉ DA MANHÃ E LANCHE DA TARDE, a parte subsidiada pela empresa será gratuita.
+ 
+PARÁGRAFO TERCEIRO – Conforme orientação do Tribunal Regional do Trabalho o fornecimento em qualquer das modalidades anteriores não terá natureza salarial, nem se integrará na remuneração do empregado, nos termos da Lei nº 6.321/76, de 14 de abril de 1976 e de seu Regulamento nº 78.676, de 8 de novembro de 1976.
+ 
+Este intervalo será computado como tempo de serviço.
+1º. O fornecimento em qualquer das modalidades anteriores não terá natureza salarial, nem se integrará na remuneração do empregado, nos termos da lei nº 6.321/76, de 14 de abril de 1976 e de seu regulamento nº 78.676, de 08 de novembro de 1976.
+2º. Os empregados afastados, com seus contratos suspensos ou interrompidos, em razão: de enfermidade e acidentes de trabalho, receberão regularmente a cesta básica enquanto perdurar o afastamento; e os empregados em férias individuais ou coletivas, como também as empregadas com licença a maternidade.
+ 
+|
+As empresas fornecerão planos de convênio médico e odontológico, com cobertura regional, para todos os seus trabalhadores gratuitos, e para os dependentes, arcará com 50% (cinqüenta por cento).
+ 
+|
+As empresas e suas subcontratadas, por este instrumento, abrangidos, deverão, à partir da vigência deste, fornecer a todos seus trabalhadores um convênio com farmácia ou rede de drogarias, para compra de medicamento e perfumaria, a serem descontados em folha de pagamento, limitando a 15% (quinze por cento) do salário base mensal.
+|
+A empresa fornecerá assistência funeral aos seus empregados.
+|
+A empresa não poderá dispensar seus empregados que depender de até 2 (dois) anos de trabalho para aquisição do tempo necessário à aposentadoria.
+|
+A partir de 1° (primeiro) de maio de 2018 o contrato de experiência será de 30 (trinta) dias, podendo ser prorrogável por mais 30 (trinta) dias.
+ 
+PARÁGRAFO PRIMEIRO – Nos casos de readmissão de empregado para a mesma função anteriormente exercida, não será celebrado contrato de experiência.
+ 
+PARÁGRAFO SEGUNDO - O início do contrato de trabalho se dará após integração e liberação do ASO desde que aptos e aprovados.
+ 
+PARÁGRAFO TERCEIRO - Em casos do trabalhador já possuir integração, fica ajustado que não será exigida pelas empresas, nova reintegração, considerando que o mesmo já possua a mesma vigente em sua admissão.
+ 
+|
+As empresas farão as homologações das rescisões dos contratos de trabalho dos empregados, no Sindicato representativo da categoria profissional, conforme estipulado no artigo 477 da CLT.
+ 
+Parágrafo Primeiro: Com relação aos prazos, as empresas farão as homologações dos contratos de trabalho dos empregados, no prazo de até 30 dias, como segue:
+ 
+a)    Na ocorrência de aviso prévio indenizado, a homologação deverá ser realizada até o 10º dia. Se por ventura o 10º dia coincidir com sábado, domingo ou feriado, deverá ser realizada no 1º dia útil imediatamente anterior ao vencimento.
+ 
+|
+A todos empregados o aviso prévio será indenizado.
+|
+As empresas se comprometem em ter em seu quadro de funcionários, trabalhadores dos municípios circunvizinhos, priorizando 70% de mão de obra local.
+Parágrafo único – Caso as empresas optem por contratações de fora da base territorial da categoria deverá disponibilizar alojamento para os trabalhadores, conforme a NR 18 e subitens.
+Parágrafo único – A empresa divulgara as vagas para o Sindicato que verificara no banco de dados os perfis e encaminhara para contratação
+ 
+|
+As empresas somente contratarão trabalhadores estrangeiros, quando eles estiverem nacionalizados.
+|
+Serão tolerados atrasos de até 10 (dez) minutos diários.
+|
+As empresas destinarão 5% (cinco por cento) de suas vagas para mulheres.
+|
+As empresas dispensarão do trabalho seus empregados nos dias 24 e 31 de dezembro e terça feira de carnaval, sem prejuízo do salário e do DSR (descanso semanal remunerado).
+|
+Quando a empresa efetuar a contratação de trabalhador residente em outra unidade da federação, propiciará ao trabalhador a cada 04 (quatro) meses trabalhados, uma semana de folga remunerada para visita familiar.
+ 
+Parágrafo Único – Será garantido, a este trabalhador, as passagens ou transporte sem qualquer ônus a sua remuneração, inclusive quando da admissão e na demissão.
+ 
+|
+Estabilidade no empregado para todos os membros das CIPAs, titulares e suplentes.
+ 
+|
+Serão reconhecidos os Atestados Médicos e/ou Odontológicos passados por facultativos do Sindicato dos Trabalhadores, desde que os mesmos consignem o dia, o horário de atendimento do empregado, bem como ainda, o carimbo do Sindicato e a assinatura do seu facultativo e atestados de estudantes somente em dia de prova.
+|
+Ocorrendo acidentes com ou sem afastamento e doenças do trabalho serão comunicado ao sindicato dos trabalhadores através de cópia da CAT (comunicado de acidente do trabalho) e cópia de boletim de ocorrência quando for fatal.
+|
+Ocorrendo acidente do trabalho, as empresas custearão as despesas do empregado com tratamento médico, laboratorial, inclusive fisioterapia, medicamentos, bem assim de locomoção e retorno à sua residência, para atendimento clínico e hospitalar.
+Ainda, obriga-se o empregador a transportar o empregado, com urgência, para local apropriado, em caso de acidente, mal súbito ou parto.
+ 
+Será devida ao empregado indenização correspondente a cada dia de atraso a uma diária/salário por dia de atraso, pela retenção da CTPS ou falta de anotação desta.
+ 
+|
+Será permitido o acesso dos dirigentes, nas empresas para verificar seu cumprimento, bem como das Normas relativas à Segurança, Medicina e Higiene de Trabalho, desde que avisado, através de ofício, facultando a empresa acompanhar os dirigentes. Em caso de denúncia que leva ser apurada imediatamente, será permitido o acesso do Dirigente do Sindicato desde comunicado a empresa.
+ 
+Parágrafo Único: Os resultados advindos das visitas dos dirigentes Sindicais previstas no caput desta cláusula será alvo de negociação específica entre as partes, estabelecendo-se, de comum acordo, um prazo justo para regularização da pendência, prevista de 10 dias, ressalvadas as situações especiais que, por características técnicas, justifiquem  prazo superior.
+ 
+|
+As empresas colocarão à disposição do sindicato, um quadro para afixação de comunicados e informações de interesse dos trabalhadores
+|
+Nas inspeções oficiais promovidas pelos órgãos dos Ministérios do Trabalho, Previdência Social; e outros de interesse dos trabalhadores, serão admitidos a participação de um representante do sindicato.
+|
+Considerando que a assembléia de 23 de fevereiro de 2018 foi aberta à categoria, inclusive aos não filiados, na forma do artigo 617, parágrafo segundo, da CLT;
+ 
+Considerando que a categoria como um todo, independentemente de filiação sindical, foi representada nas negociações coletivas de acordo com o estabelecido nos incisos III e VI do artigo oitavo da Constituição da República e abrangida, sem nenhuma distinção na presente convenção coletiva;
+ 
+Considerando que a representação da categoria, associados ou não e sua abrangência no instrumento normativo não afeta a liberdade sindical consagrada no inciso V do artigo oitavo da Constituição Federal;
+ 
+Considerando que a mesma assembléia que autorizou o Sindicato a manter negociações coletivas e celebrar esta convenção fixou, livre e democraticamente a contribuição de custeio abaixo especificada;
+ 
+Considerando o art. 611 da CLT que determina a aplicação da convenção coletiva de trabalho para todos os representados pela entidade sindical;
+ 
+ Considerando a importância de representação sindical pelas entidades de classe;
+ 
+ 1. Fica ajustado que as empresas auxiliarão o Sindicato na efetivação das arrecadações da contribuição Assistencial e Negocial para o SINDICATO DOS TRABALHADORES DE SANTO ANDRÉ, MAUÁ, RIBEIRÃO PIRES E RIO GRANDE DA SERRA, no importe de 1,2% ao mês de seus empregados associados ou não, inclusive sobre o 13º salário, em folha de pagamento, da seguinte forma:
+ 
+1.1. O desconto da contribuição terá como base 1.2 % sobre o salário já reajustado uma contribuição Assistencial e Negocial dos trabalhadores para o Sindicato;
+ 
+1.2. O recolhimento será efetuado até o dia 10 º (décimo) dia do mês subseqüente ao desconto, por meio de guias fornecidas pelo Sindicato, com teto de R$ 40,00 (quarenta reais);
+ 
+1.3. O Sindicato dos Trabalhadores dará publicidade da contribuição, inclusive valor, periodicidade para desconto e recolhimento aos empregados e às empresas, com prazo hábil para desconto.
+ 
+ 1.4. As empresas permitirão ao Sindicato dos Trabalhadores de Santo André, Mauá, Ribeirão Pires e Rio Grande da Serra o acesso aos locais de trabalho para em assembléia esclarecer aos empregados sobre a importância do Sindicato, especialmente nas negociações coletivas e seu custeio único e exclusivamente pelos trabalhadores. Sendo assim, indispensável autorização para o desconto da contribuição de custeio para mantê-lo.
+ 
+1.4.1. De tal modo, livre e democraticamente, a deliberação tomada será anuência coletiva de autorização prévia e expressa para o desconto da contribuição em folha de pagamento.
+ 
+1.5. As contribuições serão recolhidas no local da prestação de serviços.
+|
+As empresas oriundas de outras localidades quando prestarem serviços fora do município onde estão estabelecidas reconhecerá e recolherá as contribuições para o sindicato que detenha a representação da localidade da obra, independentemente do local de contratação dos trabalhadores.
+As empresas admitirão a instalação de postos do sindicato nos locais de trabalho, inclusive canteiros de obras para campanhas de sindicalização, distribuição de jornais e boletins nos locais de trabalho.
+ 
+|
+a) remessa ao Sindicato, pelas empresas, até final do mês de maio de cada ano, de relação nominal dos empregados que tenham sofrido o desconto da contribuição sindical, contendo, também, a data de admissão às respectivas funções, valor mensal da remuneração e o valor unitário de cada contribuição (Portaria nº 3.590 de 04/10/77);
+b) na ocorrência de recolhimentos suplementares, igual providência será adotada pelas empresas.
+|
+No período de eleição sindical, as empresas admitirão o livre acesso nos locais de trabalho, dos mesários e fiscais, liberando os empregados pelo tempo necessário para o exercício do direito do voto.
+|
+Ficam garantidas todas as cláusulas da Convenção Coletiva assinada com o Sindicato Patronal da categoria.
+|
+O Sindicato terá legitimação para promover ação de cumprimento de qualquer cláusula do instrumento normativo com o qual se puser fim ao conflito coletivo, atuando na qualidade de substituto processual de todos os representados nas negociações coletivas, associados ou não, independentemente da outorga de procuração e de identificação.
+|
+Quanto à aplicação do presente Acordo Coletivo de Trabalho, ficam ressalvadas as condições mais favoráveis aplicadas pelas empresas aos trabalhadores do setor
+|
+Fixação de multa no valor de 10% (dez por cento) do salário normativo por infração e por empregado, em caso de descumprimento de qualquer das cláusulas contidas nesta Convenção, desde que não cominada com qualquer multa específica, revertendo seu valor a favor da parte prejudicada. Em caso de obrigação continuada seja diária, mensal ou anual aplica-se a presente multa por cada dia, mês ou ano de inflação.
