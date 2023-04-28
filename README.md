@@ -1,5 +1,4 @@
 # Examining Predictors of Approval for Collective Bargaining Agreements: The Brazilian Case
-=============
 ### Author: Calvin Eng
 Link to Github Repository-
 https://github.com/Econ1680-MLTAEcon-Handlan/project-2-Calvineng72
