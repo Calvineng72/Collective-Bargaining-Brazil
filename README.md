@@ -1,7 +1,7 @@
 # Decoding Collective Bargaining in Brazil: A Study of Textual Predictors for Agreement Approval
 ### Author: Calvin Eng
-Link to Github Repository-
-https://github.com/Econ1680-MLTAEcon-Handlan/project-2-Calvineng72
+Link to Paper-
+https://drive.google.com/file/d/1vpAhWOA3z8B3cCIEi4IhvejupZmTWIsh/view?usp=sharing
 ## Project Details
 The following project seeks to analyze collective bargaining agreements to determine what makes a document gain approval. Using a corpus of CBAs derived from Brazil in the year 2009, the project uses text analysis techniques, such as TFIDF and lemmatization, alongside logistic regressions wihtout and without penalty terms to determine what correlates with the approval of collective bargaining agreements. The paper analyzes clause counts and word choice as independent variables, seeking to find evidence for correlations with validity. For the corpus used in the research, please contact me at calvin_eng@brown.edu, as there are too many documents to be added to Github.
 ## Research Question
