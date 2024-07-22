@@ -9,9 +9,9 @@ What textual variables that can be extracted from collective bargaining agreemen
 ## Data
 The data is derived from a collection of CBAs from Brazil from 2008-2017, focusing on the year 2009. The agreements contain information such as the employer, the union, the number of union representatives, whether the document is valid, whether it has been amended, the date negotiated, the date the agreement takes effect, and a variety of clauses on topics like minimum wage, overtime pay, hazard pay, night pay, seniority pay, childcare assistance, maternity assistance, hiring rules, female workforce, vocational training, equal opportunity, etc. Only documents containing more than two clauses and negotiated between firms and their employees are considered. The corpus used in the research amasses 38401 documents.
 ## Method
-For text analysis, the project uses lemmatization and TFIDF, while most analysis is done with logistic regressions with an L1 penalty term. 
+The project uses lemmatization and TFIDF for text analysis, while most regression analysis is done with logistic regressions with an L1 penalty term. 
 ## Results
-The paper finds no correlation between the number of clauses, word-choice, and the validity of documents. Nonentheless, further research into the structural composition, word choice, and syntax of collective bargaining documents should not be put aside.
+The paper finds no correlation between the number of clauses, word choice, and document validity. However, further research into the structural composition, word choice, and syntax of collective bargaining documents should not be overlooked.
 ## Replication Instructions
 In order to clone the repository to view the code, run the following in the terminal. 
     
